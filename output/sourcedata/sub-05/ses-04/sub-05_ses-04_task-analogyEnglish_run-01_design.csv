@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,55,pensioner,pension,,,Recipient:Instrument,CASE RELATIONS,example,
+1,55,visitor,pass,,,Recipient:Instrument,CASE RELATIONS,example,
+1,55,driver,license,,,Recipient:Instrument,CASE RELATIONS,example,
+1,55,customer,coupon,,,Recipient:Instrument,CASE RELATIONS,example,
+1,55,charity,donations,fundraiser,donations,Recipient:Instrument,CASE RELATIONS,probe,2.0
+2,39,robotics,robots,,,Knowledge,REFERENCE,example,
+2,39,economics,markets,,,Knowledge,REFERENCE,example,
+2,39,demography,populations,,,Knowledge,REFERENCE,example,
+2,39,orthopedics,bones,,,Knowledge,REFERENCE,example,
+2,39,anatomy,body,dissection,body,Knowledge,REFERENCE,probe,2.0
+3,-1,baseline,baseline,,,baseline,baseline,baseline,
+4,28,roast,char,,,Dimensional Similarity,SIMILAR,example,
+4,28,hill,mountain,,,Dimensional Similarity,SIMILAR,example,
+4,28,blanket,quilt,,,Dimensional Similarity,SIMILAR,example,
+4,28,chuckle,guffaw,,,Dimensional Similarity,SIMILAR,example,
+4,28,slice,cut,cut,knife,Dimensional Similarity,SIMILAR,probe,1.0
+5,39,archaeology,artifacts,,,Knowledge,REFERENCE,example,
+5,39,semantics,meaning,,,Knowledge,REFERENCE,example,
+5,39,neurology,brain,,,Knowledge,REFERENCE,example,
+5,39,ornithology,birds,,,Knowledge,REFERENCE,example,
+5,39,trigonometry,triangles,triangles,angles,Knowledge,REFERENCE,probe,1.0
+6,-1,baseline,baseline,,,baseline,baseline,baseline,
+7,55,detective,badge,,,Recipient:Instrument,CASE RELATIONS,example,
+7,55,orphan,adoption,,,Recipient:Instrument,CASE RELATIONS,example,
+7,55,physician,degree,,,Recipient:Instrument,CASE RELATIONS,example,
+7,55,professor,tenure,,,Recipient:Instrument,CASE RELATIONS,example,
+7,55,hunter,permit,season,permit,Recipient:Instrument,CASE RELATIONS,probe,2.0
+8,28,bright,brilliant,,,Dimensional Similarity,SIMILAR,example,
+8,28,nibble,bite,,,Dimensional Similarity,SIMILAR,example,
+8,28,grab,snatch,,,Dimensional Similarity,SIMILAR,example,
+8,28,canoe,kayak,,,Dimensional Similarity,SIMILAR,example,
+8,28,field,meadow,meadow,grassy,Dimensional Similarity,SIMILAR,probe,1.0
+9,39,musicology,music,,,Knowledge,REFERENCE,example,
+9,39,cosmology,universe,,,Knowledge,REFERENCE,example,
+9,39,forestry,forests,,,Knowledge,REFERENCE,example,
+9,39,physics,matter,,,Knowledge,REFERENCE,example,
+9,39,optometry,vision,appointment,vision,Knowledge,REFERENCE,probe,2.0
+10,16,dirtiness,bathe,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+10,16,loneliness,socialize,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+10,16,confusion,ask,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+10,16,spill,wipe,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+10,16,poverty,work,work,borrow,Cause:Compensatory Action,CAUSE-PURPOSE,probe,1.0
+11,-1,baseline,baseline,,,baseline,baseline,baseline,
+12,55,inmate,parole,,,Recipient:Instrument,CASE RELATIONS,example,
+12,55,bidder,auction,,,Recipient:Instrument,CASE RELATIONS,example,
+12,55,soldier,medal,,,Recipient:Instrument,CASE RELATIONS,example,
+12,55,donor,receipt,,,Recipient:Instrument,CASE RELATIONS,example,
+12,55,policyholder,claim,damage,claim,Recipient:Instrument,CASE RELATIONS,probe,2.0
+13,28,tree,sapling,,,Dimensional Similarity,SIMILAR,example,
+13,28,piano,organ,,,Dimensional Similarity,SIMILAR,example,
+13,28,wool,cotton,,,Dimensional Similarity,SIMILAR,example,
+13,28,silt,sediment,,,Dimensional Similarity,SIMILAR,example,
+13,28,coffee,tea,breakfast,tea,Dimensional Similarity,SIMILAR,probe,2.0
+14,16,shame,hide,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+14,16,discomfort,adjust,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+14,16,heat,sweat,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+14,16,dust,sneeze,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+14,16,stain,scrub,scrub,shirt,Cause:Compensatory Action,CAUSE-PURPOSE,probe,1.0
+15,39,dermatology,skin,,,Knowledge,REFERENCE,example,
+15,39,seismology,earthquakes,,,Knowledge,REFERENCE,example,
+15,39,civics,citizenship,,,Knowledge,REFERENCE,example,
+15,39,geology,earth,,,Knowledge,REFERENCE,example,
+15,39,hydrology,water,oceans,water,Knowledge,REFERENCE,probe,2.0
+16,28,pots,pans,,,Dimensional Similarity,SIMILAR,example,
+16,28,painting,drawing,,,Dimensional Similarity,SIMILAR,example,
+16,28,bee,wasp,,,Dimensional Similarity,SIMILAR,example,
+16,28,cup,mug,,,Dimensional Similarity,SIMILAR,example,
+16,28,forest,woods,trail,woods,Dimensional Similarity,SIMILAR,probe,2.0
+17,16,nausea,vomit,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+17,16,grief,weep,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+17,16,alarm,wake,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+17,16,tension,stretch,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+17,16,curiosity,investigate,mystery,investigate,Cause:Compensatory Action,CAUSE-PURPOSE,probe,2.0
+18,55,king,crown,,,Recipient:Instrument,CASE RELATIONS,example,
+18,55,employee,paycheck,,,Recipient:Instrument,CASE RELATIONS,example,
+18,55,player,contract,,,Recipient:Instrument,CASE RELATIONS,example,
+18,55,mayor,election,,,Recipient:Instrument,CASE RELATIONS,example,
+18,55,veteran,benefits,benefits,boot camp,Recipient:Instrument,CASE RELATIONS,probe,1.0
+19,28,walk,stroll,,,Dimensional Similarity,SIMILAR,example,
+19,28,fire,flame,,,Dimensional Similarity,SIMILAR,example,
+19,28,movie,film,,,Dimensional Similarity,SIMILAR,example,
+19,28,plane,jet,,,Dimensional Similarity,SIMILAR,example,
+19,28,horse,pony,hay,pony,Dimensional Similarity,SIMILAR,probe,2.0
+20,-1,baseline,baseline,,,baseline,baseline,baseline,
+21,16,disgust,grimace,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+21,16,embarrassment,blush,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+21,16,ignorance,study,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+21,16,excitement,cheer,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+21,16,regret,apologize,mistake,apologize,Cause:Compensatory Action,CAUSE-PURPOSE,probe,2.0
+22,55,attendee,badge,,,Recipient:Instrument,CASE RELATIONS,example,
+22,55,owner,deed,,,Recipient:Instrument,CASE RELATIONS,example,
+22,55,investor,dividend,,,Recipient:Instrument,CASE RELATIONS,example,
+22,55,student,scholarship,,,Recipient:Instrument,CASE RELATIONS,example,
+22,55,winner,trophy,trophy,stadium,Recipient:Instrument,CASE RELATIONS,probe,1.0
+23,39,oncology,cancer,,,Knowledge,REFERENCE,example,
+23,39,statistics,data,,,Knowledge,REFERENCE,example,
+23,39,logic,reasoning,,,Knowledge,REFERENCE,example,
+23,39,horticulture,gardens,,,Knowledge,REFERENCE,example,
+23,39,astronomy,stars,stars,observatory,Knowledge,REFERENCE,probe,1.0
+24,16,danger,flee,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+24,16,storm,shelter,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+24,16,failure,retry,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+24,16,stress,relax,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+24,16,nervousness,fidget,pace,fidget,Cause:Compensatory Action,CAUSE-PURPOSE,probe,2.0
+25,-1,baseline,baseline,,,baseline,baseline,baseline,

@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,6,도예가,화병,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+1,6,도박꾼,백만장자,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+1,6,우주비행사,우주,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+1,6,사진작가,사진,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+1,6,직장인,월급,월급,일정,Agent:Goal (Korean Localized),CAUSE-PURPOSE,probe,1.0
+2,1,빤히 쳐다보다,눈에 띄지 않게,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+2,1,비틀거리다,우아하게,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+2,1,어질러 놓다,정돈되게,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+2,1,명령하다,고분고분하게,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+2,1,협력하다,반항적으로,반항적으로,기꺼이,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,probe,1.0
+3,-1,baseline,baseline,,,baseline,baseline,baseline,
+4,24,금,유리,,,Defective (Korean Localized),CONTRAST,example,
+4,24,기포,페인트,,,Defective (Korean Localized),CONTRAST,example,
+4,24,부패,기초,,,Defective (Korean Localized),CONTRAST,example,
+4,24,마비,팔다리,,,Defective (Korean Localized),CONTRAST,example,
+4,24,무지외반증,발,양말,발,Defective (Korean Localized),CONTRAST,probe,2.0
+5,1,허둥대다,능숙하게,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+5,1,부정하다,긍정적으로,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+5,1,흐느끼다,기쁘게,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+5,1,무시하다,주의 깊게,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+5,1,비굴하게 굽실거리다,대담하게,대담하게,빌다,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,probe,1.0
+6,-1,baseline,baseline,,,baseline,baseline,baseline,
+7,24,부정맥,심장박동,,,Defective (Korean Localized),CONTRAST,example,
+7,24,심잡음,심장,,,Defective (Korean Localized),CONTRAST,example,
+7,24,오작동,소프트웨어,,,Defective (Korean Localized),CONTRAST,example,
+7,24,스크래치,시디,,,Defective (Korean Localized),CONTRAST,example,
+7,24,철자 오류,단어,문장,단어,Defective (Korean Localized),CONTRAST,probe,2.0
+8,61,임신,태아발달,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+8,61,늦가을,김장,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+8,61,태풍,대피,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+8,61,탐험,발견,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+8,61,일요일,늦잠,이불,늦잠,Time Action/Activity (Korean Localized),SPACE-TIME,probe,2.0
+9,6,목사,구원,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+9,6,쇼핑객,할인상품,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+9,6,외과의사,완치,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+9,6,광부,광석,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+9,6,음악가,명성,명성,스튜디오,Agent:Goal (Korean Localized),CAUSE-PURPOSE,probe,1.0
+10,-1,baseline,baseline,,,baseline,baseline,baseline,
+11,61,여름,방학,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+11,61,봄,꽃피기,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+11,61,퍼레이드,행진,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+11,61,은퇴,여행,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+11,61,장마,홍수,홍수,진흙,Time Action/Activity (Korean Localized),SPACE-TIME,probe,1.0
+12,24,누수,지붕,,,Defective (Korean Localized),CONTRAST,example,
+12,24,물자국,창문,,,Defective (Korean Localized),CONTRAST,example,
+12,24,번짐,그림,,,Defective (Korean Localized),CONTRAST,example,
+12,24,우울증,정신,,,Defective (Korean Localized),CONTRAST,example,
+12,24,불임,생식,생식,치료,Defective (Korean Localized),CONTRAST,probe,1.0
+13,6,기업가,이익,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+13,6,철학자,지혜,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+13,6,제빵사,빵,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+13,6,중재자,화해,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+13,6,시위자,변화,행진,변화,Agent:Goal (Korean Localized),CAUSE-PURPOSE,probe,2.0
+14,61,전시,배급,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+14,61,자정,야식,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+14,61,축제,불꽃놀이,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+14,61,결혼식,결혼,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+14,61,성인기,일하기,아파트,일하기,Time Action/Activity (Korean Localized),SPACE-TIME,probe,2.0
+15,1,춤추다,움직이지 않고,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+15,1,집중하다,산만하게,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+15,1,허우적거리다,우아하게,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+15,1,숨다,눈에 띄게,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+15,1,복종하다,반항적으로,반항적으로,즉시,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,probe,1.0
+16,6,쾌락주의자,쾌락,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+16,6,난민,망명,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+16,6,어부,어획물,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+16,6,탐정,진실,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+16,6,외교관,조약,대사관,조약,Agent:Goal (Korean Localized),CAUSE-PURPOSE,probe,2.0
+17,24,찍힘,범퍼,,,Defective (Korean Localized),CONTRAST,example,
+17,24,뜯어짐,솔기,,,Defective (Korean Localized),CONTRAST,example,
+17,24,혈전,동맥,,,Defective (Korean Localized),CONTRAST,example,
+17,24,얼룩,천,,,Defective (Korean Localized),CONTRAST,example,
+17,24,구김,종이,종이,모서리,Defective (Korean Localized),CONTRAST,probe,1.0
+18,61,오후,낮잠,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+18,61,부화기간,발육,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+18,61,유년기,놀이,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+18,61,선거,투표,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+18,61,가뭄,산불,산불,선인장,Time Action/Activity (Korean Localized),SPACE-TIME,probe,1.0
+19,-1,baseline,baseline,,,baseline,baseline,baseline,
+20,1,쾅 닫다,가볍게,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+20,1,탈출하다,수동적으로,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+20,1,잔치하다,조금만,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+20,1,외치다,소리 없이,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+20,1,게걸스럽게 먹다,얌전하게,빠르게,얌전하게,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,probe,2.0
+21,6,연구자,지식,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+21,6,프로그래머,소프트웨어,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+21,6,마라토너,결승선,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+21,6,농부,수확,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+21,6,간호사,회복,회복,붕대,Agent:Goal (Korean Localized),CAUSE-PURPOSE,probe,1.0
+22,-1,baseline,baseline,,,baseline,baseline,baseline,
+23,61,하프타임,휴식,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+23,61,재판,증언,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+23,61,주말,휴식,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+23,61,휴가,여행,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+23,61,리허설,연습,연습,무대,Time Action/Activity (Korean Localized),SPACE-TIME,probe,1.0
+24,24,찢어짐,페이지,,,Defective (Korean Localized),CONTRAST,example,
+24,24,실명,시력,,,Defective (Korean Localized),CONTRAST,example,
+24,24,버그,프로그램,,,Defective (Korean Localized),CONTRAST,example,
+24,24,사마귀,손,,,Defective (Korean Localized),CONTRAST,example,
+24,24,말더듬,말하기,말하기,긴장,Defective (Korean Localized),CONTRAST,probe,1.0
+25,1,축하하다,슬프게,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+25,1,덤벼들다,조심스럽게,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+25,1,빙빙 돌다,곧장,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+25,1,몰래 들어가다,공개적으로,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+25,1,느릿느릿 걷다,재빠르게,진흙,재빠르게,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,probe,2.0

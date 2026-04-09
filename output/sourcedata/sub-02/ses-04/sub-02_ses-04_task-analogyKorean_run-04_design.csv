@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,45,청결,더러움,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+1,45,악당,미덕,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+1,45,검열,표현,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+1,45,달,대기층,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+1,45,혼돈,질서,흩어지다,질서,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,probe,2.0
+2,52,출연진목록,공연,,,Plan (Korean Localized),REFERENCE,example,
+2,52,예산,지출,,,Plan (Korean Localized),REFERENCE,example,
+2,52,채점기준표,성적평가,,,Plan (Korean Localized),REFERENCE,example,
+2,52,스케치,그림,,,Plan (Korean Localized),REFERENCE,example,
+2,52,전략,공격,지도,공격,Plan (Korean Localized),REFERENCE,probe,2.0
+3,14,지렁이,뱀,,,Attribute Similarity (Korean Localized),SIMILAR,example,
+3,14,기타,바이올린,,,Attribute Similarity (Korean Localized),SIMILAR,example,
+3,14,풀,테이프,,,Attribute Similarity (Korean Localized),SIMILAR,example,
+3,14,러그,카펫,,,Attribute Similarity (Korean Localized),SIMILAR,example,
+3,14,꽃,나무,나무,꽃가루,Attribute Similarity (Korean Localized),SIMILAR,probe,1.0
+4,38,참나무,튼튼하다,,,ItemAttribute(noun:adjective) (Korean Localized),ATTRIBUTE,example,
+4,38,산,웅장하다,,,ItemAttribute(noun:adjective) (Korean Localized),ATTRIBUTE,example,
+4,38,광대,웃기다,,,ItemAttribute(noun:adjective) (Korean Localized),ATTRIBUTE,example,
+4,38,재벌,부유하다,,,ItemAttribute(noun:adjective) (Korean Localized),ATTRIBUTE,example,
+4,38,평원,평평하다,평평하다,초원,ItemAttribute(noun:adjective) (Korean Localized),ATTRIBUTE,probe,1.0
+5,-1,baseline,baseline,,,baseline,baseline,baseline,
+6,45,눈,따뜻함,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+6,45,고립,동행,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+6,45,툰드라,나무,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+6,45,기근,음식,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+6,45,무관심,열정,게으름,열정,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,probe,2.0
+7,38,고무,탄력있다,,,ItemAttribute(noun:adjective) (Korean Localized),ATTRIBUTE,example,
+7,38,사막,건조하다,,,ItemAttribute(noun:adjective) (Korean Localized),ATTRIBUTE,example,
+7,38,어린양,온순하다,,,ItemAttribute(noun:adjective) (Korean Localized),ATTRIBUTE,example,
+7,38,바위,무겁다,,,ItemAttribute(noun:adjective) (Korean Localized),ATTRIBUTE,example,
+7,38,눈,차갑다,차갑다,미끄럽다,ItemAttribute(noun:adjective) (Korean Localized),ATTRIBUTE,probe,1.0
+8,-1,baseline,baseline,,,baseline,baseline,baseline,
+9,45,묘지,삶,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+9,45,게으름,노력,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+9,45,잔인함,자비,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+9,45,검소함,사치,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+9,45,해로움,안전,안전,위험,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,probe,1.0
+10,38,스펀지,흡수력이좋다,,,ItemAttribute(noun:adjective) (Korean Localized),ATTRIBUTE,example,
+10,38,새끼고양이,장난스럽다,,,ItemAttribute(noun:adjective) (Korean Localized),ATTRIBUTE,example,
+10,38,강철,튼튼하다,,,ItemAttribute(noun:adjective) (Korean Localized),ATTRIBUTE,example,
+10,38,점토,말랑하다,,,ItemAttribute(noun:adjective) (Korean Localized),ATTRIBUTE,example,
+10,38,바다,깊다,파도,깊다,ItemAttribute(noun:adjective) (Korean Localized),ATTRIBUTE,probe,2.0
+11,52,시나리오,훈련,,,Plan (Korean Localized),REFERENCE,example,
+11,52,지도,여정,,,Plan (Korean Localized),REFERENCE,example,
+11,52,목업,디자인,,,Plan (Korean Localized),REFERENCE,example,
+11,52,일정,행사,,,Plan (Korean Localized),REFERENCE,example,
+11,52,처방전,약,복용량,약,Plan (Korean Localized),REFERENCE,probe,2.0
+12,14,깃털,잎,,,Attribute Similarity (Korean Localized),SIMILAR,example,
+12,14,앨리게이터,악어,,,Attribute Similarity (Korean Localized),SIMILAR,example,
+12,14,식탁,책상,,,Attribute Similarity (Korean Localized),SIMILAR,example,
+12,14,접시,쟁반,,,Attribute Similarity (Korean Localized),SIMILAR,example,
+12,14,소음,음악,음악,말,Attribute Similarity (Korean Localized),SIMILAR,probe,1.0
+13,38,뱀,미끈하다,,,ItemAttribute(noun:adjective) (Korean Localized),ATTRIBUTE,example,
+13,38,코끼리,거대하다,,,ItemAttribute(noun:adjective) (Korean Localized),ATTRIBUTE,example,
+13,38,솜,푹신하다,,,ItemAttribute(noun:adjective) (Korean Localized),ATTRIBUTE,example,
+13,38,비단,매끄럽다,,,ItemAttribute(noun:adjective) (Korean Localized),ATTRIBUTE,example,
+13,38,왕자,매력적이다,잘생기다,매력적이다,ItemAttribute(noun:adjective) (Korean Localized),ATTRIBUTE,probe,2.0
+14,-1,baseline,baseline,,,baseline,baseline,baseline,
+15,14,구멍,원,,,Attribute Similarity (Korean Localized),SIMILAR,example,
+15,14,사진,그림,,,Attribute Similarity (Korean Localized),SIMILAR,example,
+15,14,키보드,계산기,,,Attribute Similarity (Korean Localized),SIMILAR,example,
+15,14,지도,지구본,,,Attribute Similarity (Korean Localized),SIMILAR,example,
+15,14,소설,자서전,저자,자서전,Attribute Similarity (Korean Localized),SIMILAR,probe,2.0
+16,52,원고초안,연설,,,Plan (Korean Localized),REFERENCE,example,
+16,52,식단,건강,,,Plan (Korean Localized),REFERENCE,example,
+16,52,데모,앨범,,,Plan (Korean Localized),REFERENCE,example,
+16,52,총보,교향곡,,,Plan (Korean Localized),REFERENCE,example,
+16,52,장보기목록,식재료,가격,식재료,Plan (Korean Localized),REFERENCE,probe,2.0
+17,-1,baseline,baseline,,,baseline,baseline,baseline,
+18,38,치타,재빠르다,,,ItemAttribute(noun:adjective) (Korean Localized),ATTRIBUTE,example,
+18,38,초보자,미숙하다,,,ItemAttribute(noun:adjective) (Korean Localized),ATTRIBUTE,example,
+18,38,장미,향기롭다,,,ItemAttribute(noun:adjective) (Korean Localized),ATTRIBUTE,example,
+18,38,빛,밝다,,,ItemAttribute(noun:adjective) (Korean Localized),ATTRIBUTE,example,
+18,38,시멘트,견고하다,무겁다,견고하다,ItemAttribute(noun:adjective) (Korean Localized),ATTRIBUTE,probe,2.0
+19,14,집,텐트,,,Attribute Similarity (Korean Localized),SIMILAR,example,
+19,14,밧줄,사슬,,,Attribute Similarity (Korean Localized),SIMILAR,example,
+19,14,수건,냅킨,,,Attribute Similarity (Korean Localized),SIMILAR,example,
+19,14,돔,우산,,,Attribute Similarity (Korean Localized),SIMILAR,example,
+19,14,커튼,블라인드,창문,블라인드,Attribute Similarity (Korean Localized),SIMILAR,probe,2.0
+20,52,회로도,회로,,,Plan (Korean Localized),REFERENCE,example,
+20,52,설계도,집,,,Plan (Korean Localized),REFERENCE,example,
+20,52,재단패턴,드레스,,,Plan (Korean Localized),REFERENCE,example,
+20,52,평화조약,평화,,,Plan (Korean Localized),REFERENCE,example,
+20,52,정관,단체,단체,내규,Plan (Korean Localized),REFERENCE,probe,1.0
+21,-1,baseline,baseline,,,baseline,baseline,baseline,
+22,45,고난,평화,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+22,45,분노,침착함,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+22,45,황무지,초목,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+22,45,불행,쾌락,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+22,45,대머리,머리카락,모자,머리카락,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,probe,2.0
+23,52,실험프로토콜,실험,,,Plan (Korean Localized),REFERENCE,example,
+23,52,개요,보고서,,,Plan (Korean Localized),REFERENCE,example,
+23,52,레시피,요리,,,Plan (Korean Localized),REFERENCE,example,
+23,52,메뉴,저녁식사,,,Plan (Korean Localized),REFERENCE,example,
+23,52,헌법,정부,정부,국기,Plan (Korean Localized),REFERENCE,probe,1.0
+24,14,바늘,핀,,,Attribute Similarity (Korean Localized),SIMILAR,example,
+24,14,화살,총알,,,Attribute Similarity (Korean Localized),SIMILAR,example,
+24,14,벌,말벌,,,Attribute Similarity (Korean Localized),SIMILAR,example,
+24,14,개구리,두꺼비,,,Attribute Similarity (Korean Localized),SIMILAR,example,
+24,14,플루트,호루라기,빨대,호루라기,Attribute Similarity (Korean Localized),SIMILAR,probe,2.0
+25,45,동굴,햇빛,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+25,45,정전,전기,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+25,45,외로움,우정,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+25,45,고아,부모,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+25,45,침묵,소리,소리,도서관,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,probe,1.0

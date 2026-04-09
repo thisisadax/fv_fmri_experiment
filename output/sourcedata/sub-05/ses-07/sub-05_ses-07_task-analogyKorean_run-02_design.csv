@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,55,저항,주먹,,,Representation (Korean Localized),REFERENCE,example,
+1,55,건물,설계도,,,Representation (Korean Localized),REFERENCE,example,
+1,55,사랑,하트,,,Representation (Korean Localized),REFERENCE,example,
+1,55,지구,지구본,,,Representation (Korean Localized),REFERENCE,example,
+1,55,봄,꽃,소풍,꽃,Representation (Korean Localized),REFERENCE,probe,2.0
+2,17,걸쭉해지다,소스,,,Change (Korean Localized),SIMILAR,example,
+2,17,가지치기,나무,,,Change (Korean Localized),SIMILAR,example,
+2,17,부풀리다,풍선,,,Change (Korean Localized),SIMILAR,example,
+2,17,가열,온도,,,Change (Korean Localized),SIMILAR,example,
+2,17,사망,인구,인구,묘지,Change (Korean Localized),SIMILAR,probe,1.0
+3,58,노란불,주의,,,Sign:Significant (Korean Localized),REFERENCE,example,
+3,58,트로피,승리,,,Sign:Significant (Korean Localized),REFERENCE,example,
+3,58,손흔들기,인사,,,Sign:Significant (Korean Localized),REFERENCE,example,
+3,58,초인종,방문객,,,Sign:Significant (Korean Localized),REFERENCE,example,
+3,58,어깨으쓱,무관심,어깨,무관심,Sign:Significant (Korean Localized),REFERENCE,probe,2.0
+4,-1,baseline,baseline,,,baseline,baseline,baseline,
+5,17,증가,숫자,,,Change (Korean Localized),SIMILAR,example,
+5,17,가뭄,수량,,,Change (Korean Localized),SIMILAR,example,
+5,17,증폭하다,신호,,,Change (Korean Localized),SIMILAR,example,
+5,17,확대하다,이미지,,,Change (Korean Localized),SIMILAR,example,
+5,17,달게 하다,차,차,레몬,Change (Korean Localized),SIMILAR,probe,1.0
+6,34,주전자,끓이다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+6,34,포크,먹다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+6,34,서핑보드,서핑하다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+6,34,쟁기,밭 갈다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+6,34,도르래,끌어올리다,끌어올리다,지지하다,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,probe,1.0
+7,55,시나리오,영화,,,Representation (Korean Localized),REFERENCE,example,
+7,55,밤,달,,,Representation (Korean Localized),REFERENCE,example,
+7,55,데이터,그래프,,,Representation (Korean Localized),REFERENCE,example,
+7,55,인구,인구조사,,,Representation (Korean Localized),REFERENCE,example,
+7,55,관계,방정식,방정식,변수,Representation (Korean Localized),REFERENCE,probe,1.0
+8,-1,baseline,baseline,,,baseline,baseline,baseline,
+9,34,토스터,토스트 굽다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+9,34,열쇠,문 열다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+9,34,빗자루,쓸다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+9,34,지레,들어올리다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+9,34,주사기,주사하다,주사하다,진료소,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,probe,1.0
+10,55,바다,바다풍경화,,,Representation (Korean Localized),REFERENCE,example,
+10,55,실력,성적,,,Representation (Korean Localized),REFERENCE,example,
+10,55,음악,악보,,,Representation (Korean Localized),REFERENCE,example,
+10,55,평화,비둘기,,,Representation (Korean Localized),REFERENCE,example,
+10,55,물체,그림자,빛,그림자,Representation (Korean Localized),REFERENCE,probe,2.0
+11,58,교회첨탑,교회,,,Sign:Significant (Korean Localized),REFERENCE,example,
+11,58,구조요청,도움,,,Sign:Significant (Korean Localized),REFERENCE,example,
+11,58,약혼,결혼,,,Sign:Significant (Korean Localized),REFERENCE,example,
+11,58,초승달,이슬람,,,Sign:Significant (Korean Localized),REFERENCE,example,
+11,58,별점,우수함,빛남,우수함,Sign:Significant (Korean Localized),REFERENCE,probe,2.0
+12,34,칫솔,닦다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+12,34,호루라기,신호하다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+12,34,오븐,굽다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+12,34,드라이버,나사 돌리다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+12,34,삽,파다,파다,퍼내다,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,probe,1.0
+13,-1,baseline,baseline,,,baseline,baseline,baseline,
+14,55,도시,엽서,,,Representation (Korean Localized),REFERENCE,example,
+14,55,업적,트로피,,,Representation (Korean Localized),REFERENCE,example,
+14,55,사건,일지,,,Representation (Korean Localized),REFERENCE,example,
+14,55,왕,왕관,,,Representation (Korean Localized),REFERENCE,example,
+14,55,비전,시제품,시제품,브레인스토밍,Representation (Korean Localized),REFERENCE,probe,1.0
+15,34,펜치,집다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+15,34,면도기,면도하다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+15,34,나침반,길 찾다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+15,34,프린터,인쇄하다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+15,34,비누,씻다,거품내다,씻다,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,probe,2.0
+16,17,고문,고통,,,Change (Korean Localized),SIMILAR,example,
+16,17,갈다,칼날,,,Change (Korean Localized),SIMILAR,example,
+16,17,높이다,인식,,,Change (Korean Localized),SIMILAR,example,
+16,17,성장,매출,,,Change (Korean Localized),SIMILAR,example,
+16,17,강해지다,폭풍,폭풍,바다,Change (Korean Localized),SIMILAR,probe,1.0
+17,-1,baseline,baseline,,,baseline,baseline,baseline,
+18,58,절뚝거림,부상,,,Sign:Significant (Korean Localized),REFERENCE,example,
+18,58,일그러진표정,고통,,,Sign:Significant (Korean Localized),REFERENCE,example,
+18,58,십자가,기독교,,,Sign:Significant (Korean Localized),REFERENCE,example,
+18,58,캠페인리본,인식,,,Sign:Significant (Korean Localized),REFERENCE,example,
+18,58,천둥,폭풍,폭풍,번개,Sign:Significant (Korean Localized),REFERENCE,probe,1.0
+19,34,헬멧,보호하다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+19,34,담배,피우다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+19,34,크레용,색칠하다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+19,34,지우개,지우다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+19,34,뚫어뻥,막힘 뚫다,눌러 넣다,막힘 뚫다,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,probe,2.0
+20,55,시간,모래시계,,,Representation (Korean Localized),REFERENCE,example,
+20,55,아이디어,발명품,,,Representation (Korean Localized),REFERENCE,example,
+20,55,브랜드,로고,,,Representation (Korean Localized),REFERENCE,example,
+20,55,양,숫자,,,Representation (Korean Localized),REFERENCE,example,
+20,55,승인,도장,도장,사무실,Representation (Korean Localized),REFERENCE,probe,1.0
+21,17,바람이 빠지다,타이어,,,Change (Korean Localized),SIMILAR,example,
+21,17,격화,갈등,,,Change (Korean Localized),SIMILAR,example,
+21,17,급등,체온,,,Change (Korean Localized),SIMILAR,example,
+21,17,테러,두려움,,,Change (Korean Localized),SIMILAR,example,
+21,17,꽉쥐다,손아귀,손목,손아귀,Change (Korean Localized),SIMILAR,probe,2.0
+22,58,낙서,기물파손,,,Sign:Significant (Korean Localized),REFERENCE,example,
+22,58,기침,질병,,,Sign:Significant (Korean Localized),REFERENCE,example,
+22,58,비둘기,평화,,,Sign:Significant (Korean Localized),REFERENCE,example,
+22,58,의사봉,질서,,,Sign:Significant (Korean Localized),REFERENCE,example,
+22,58,미소,행복,행복,치아,Sign:Significant (Korean Localized),REFERENCE,probe,1.0
+23,-1,baseline,baseline,,,baseline,baseline,baseline,
+24,17,경감하다,부담,,,Change (Korean Localized),SIMILAR,example,
+24,17,삭감하다,예산,,,Change (Korean Localized),SIMILAR,example,
+24,17,무뎌지다,날끝,,,Change (Korean Localized),SIMILAR,example,
+24,17,늘이다,천,,,Change (Korean Localized),SIMILAR,example,
+24,17,과잉,재고,창고,재고,Change (Korean Localized),SIMILAR,probe,2.0
+25,58,발자국,존재,,,Sign:Significant (Korean Localized),REFERENCE,example,
+25,58,초록불,진행,,,Sign:Significant (Korean Localized),REFERENCE,example,
+25,58,눈물,슬픔,,,Sign:Significant (Korean Localized),REFERENCE,example,
+25,58,잔물결,교란,,,Sign:Significant (Korean Localized),REFERENCE,example,
+25,58,해골,죽음,죽음,무덤,Sign:Significant (Korean Localized),REFERENCE,probe,1.0

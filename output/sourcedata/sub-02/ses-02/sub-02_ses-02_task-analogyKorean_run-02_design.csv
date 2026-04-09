@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,62,장례식,조화,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+1,62,성인기,주택대출,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+1,62,중년,흰머리,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+1,62,학창시절,백팩,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+1,62,대학,전공서적,사물함,전공서적,Time Associated Item (Korean Localized),SPACE-TIME,probe,2.0
+2,-1,baseline,baseline,,,baseline,baseline,baseline,
+3,50,전염병,대재앙,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+3,50,군인,전쟁,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+3,50,베테랑,경험,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+3,50,폭풍,격랑,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+3,50,기근,굶주림,가뭄,굶주림,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,probe,2.0
+4,34,가스레인지,요리하다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+4,34,클램프,고정하다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+4,34,열쇠,문 열다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+4,34,자물쇠,잠그다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+4,34,헬멧,보호하다,보호하다,완충재,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,probe,1.0
+5,24,얼룩,렌즈,,,Defective (Korean Localized),CONTRAST,example,
+5,24,포트홀,도로,,,Defective (Korean Localized),CONTRAST,example,
+5,24,논리적 오류,논증,,,Defective (Korean Localized),CONTRAST,example,
+5,24,불순물,물,,,Defective (Korean Localized),CONTRAST,example,
+5,24,균열,인도,인도,타일,Defective (Korean Localized),CONTRAST,probe,1.0
+6,62,점심시간,도시락,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+6,62,부활절,달걀,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+6,62,육아,수면부족,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+6,62,어린시절,크레파스,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+6,62,생일,케이크,코사지,케이크,Time Associated Item (Korean Localized),SPACE-TIME,probe,2.0
+7,50,사막,건조함,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+7,50,챔피언,승리,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+7,50,발레리나,우아함,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+7,50,승자,승리,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+7,50,수행자,금욕,절제,금욕,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,probe,2.0
+8,24,옹이,나무,,,Defective (Korean Localized),CONTRAST,example,
+8,24,부패,정부,,,Defective (Korean Localized),CONTRAST,example,
+8,24,취약점,구조,,,Defective (Korean Localized),CONTRAST,example,
+8,24,찍힘,칼날,,,Defective (Korean Localized),CONTRAST,example,
+8,24,기포,페인트,페인트,마감,Defective (Korean Localized),CONTRAST,probe,1.0
+9,34,자,길이 재다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+9,34,로션,보습하다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+9,34,계산기,계산하다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+9,34,강판,갈다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+9,34,연필,쓰다,책상,쓰다,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,probe,2.0
+10,-1,baseline,baseline,,,baseline,baseline,baseline,
+11,62,수련회,모닥불,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+11,62,사춘기,치아교정기,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+11,62,은퇴,연금,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+11,62,출퇴근시간,교통체증,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+11,62,가을,낙엽,낙엽,꽃,Time Associated Item (Korean Localized),SPACE-TIME,probe,1.0
+12,24,말더듬,말하기,,,Defective (Korean Localized),CONTRAST,example,
+12,24,찢김,재킷,,,Defective (Korean Localized),CONTRAST,example,
+12,24,번짐,그림,,,Defective (Korean Localized),CONTRAST,example,
+12,24,기억상실,기억,,,Defective (Korean Localized),CONTRAST,example,
+12,24,막힘,배수구,머리카락,배수구,Defective (Korean Localized),CONTRAST,probe,2.0
+13,-1,baseline,baseline,,,baseline,baseline,baseline,
+14,34,지우개,지우다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+14,34,뒤집개,뒤집다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+14,34,프린터,인쇄하다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+14,34,지레,들어올리다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+14,34,렌치,조이다,조이다,차고,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,probe,1.0
+15,24,곰팡이,빵,,,Defective (Korean Localized),CONTRAST,example,
+15,24,심잡음,심장,,,Defective (Korean Localized),CONTRAST,example,
+15,24,혈전,동맥,,,Defective (Korean Localized),CONTRAST,example,
+15,24,사마귀,손,,,Defective (Korean Localized),CONTRAST,example,
+15,24,치아 사이 틈,치아,미소,치아,Defective (Korean Localized),CONTRAST,probe,2.0
+16,62,부처님오신날,연등,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+16,62,황혼,박쥐,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+16,62,영아기,쪽쪽이,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+16,62,돌잔치,돌잡이,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+16,62,임신,초음파,보행기,초음파,Time Associated Item (Korean Localized),SPACE-TIME,probe,2.0
+17,50,관리자,권한,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+17,50,영웅,용맹,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+17,50,처녀,순결,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+17,50,초안,개발과정,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+17,50,수감자,처벌,처벌,교도소장,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,probe,1.0
+18,-1,baseline,baseline,,,baseline,baseline,baseline,
+19,34,숟가락,저어 섞다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+19,34,사다리,오르다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+19,34,붓,칠하다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+19,34,접착제,붙이다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+19,34,가위,자르다,날,자르다,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,probe,2.0
+20,50,멍청이,어리석음,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+20,50,칩거자,고립,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+20,50,연인,열정,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+20,50,난파선,파괴,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+20,50,피난처,안전,안전,평화,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,probe,1.0
+21,-1,baseline,baseline,,,baseline,baseline,baseline,
+22,34,집게,집다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+22,34,오븐,굽다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+22,34,사포,다듬다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+22,34,다리미,다리다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+22,34,알람,깨우다,울림,깨우다,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,probe,2.0
+23,50,겁쟁이,두려움,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+23,50,불황,침체,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+23,50,안개,흐릿함,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+23,50,성자,성스러움,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+23,50,애도자,슬픔,기억,슬픔,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,probe,2.0
+24,24,울퉁불퉁함,매트리스,,,Defective (Korean Localized),CONTRAST,example,
+24,24,실명,시력,,,Defective (Korean Localized),CONTRAST,example,
+24,24,문장 연결 오류,문장,,,Defective (Korean Localized),CONTRAST,example,
+24,24,새는 발음,발음,,,Defective (Korean Localized),CONTRAST,example,
+24,24,흔들림,바퀴,진동,바퀴,Defective (Korean Localized),CONTRAST,probe,2.0
+25,62,신혼여행,해변,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+25,62,죽음,관,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+25,62,추석,송편,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+25,62,여름,수영복,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+25,62,독감철,티슈,티슈,쪼리,Time Associated Item (Korean Localized),SPACE-TIME,probe,1.0

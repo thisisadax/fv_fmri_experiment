@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,58,proposal,acceptance,,,Sequence,SPACE-TIME,example,
+1,58,foreword,novel,,,Sequence,SPACE-TIME,example,
+1,58,download,install,,,Sequence,SPACE-TIME,example,
+1,58,crime,investigation,,,Sequence,SPACE-TIME,example,
+1,58,wedding,honeymoon,bride,honeymoon,Sequence,SPACE-TIME,probe,2.0
+2,10,diver,fins,,,Agent:Instrument,CASE RELATIONS,example,
+2,10,artist,paintbrush,,,Agent:Instrument,CASE RELATIONS,example,
+2,10,weaver,loom,,,Agent:Instrument,CASE RELATIONS,example,
+2,10,lumberjack,axe,,,Agent:Instrument,CASE RELATIONS,example,
+2,10,warrior,spear,spear,helmet,Agent:Instrument,CASE RELATIONS,probe,1.0
+3,45,tyranny,freedom,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+3,45,starvation,nourishment,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+3,45,destitution,abundance,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+3,45,hermit,company,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+3,45,dungeon,comfort,comfort,guard,Object:Nonstate (noun:noun),NON-ATTRIBUTE,probe,1.0
+4,-1,baseline,baseline,,,baseline,baseline,baseline,
+5,49,untraceable,tracked,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+5,49,unanswerable,answered,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+5,49,inexorable,halted,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+5,49,nontransferable,transferred,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+5,49,irrecoverable,retrieved,replaced,retrieved,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,probe,2.0
+6,58,letter,postscript,,,Sequence,SPACE-TIME,example,
+6,58,paperwork,appointment,,,Sequence,SPACE-TIME,example,
+6,58,egg,chick,,,Sequence,SPACE-TIME,example,
+6,58,boarding,takeoff,,,Sequence,SPACE-TIME,example,
+6,58,opening,closing,hours,closing,Sequence,SPACE-TIME,probe,2.0
+7,45,isolation,companionship,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+7,45,sorrow,happiness,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+7,45,amnesia,memory,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+7,45,void,matter,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+7,45,glutton,moderation,moderation,overeater,Object:Nonstate (noun:noun),NON-ATTRIBUTE,probe,1.0
+8,-1,baseline,baseline,,,baseline,baseline,baseline,
+9,10,trainer,treats,,,Agent:Instrument,CASE RELATIONS,example,
+9,10,surgeon,scalpel,,,Agent:Instrument,CASE RELATIONS,example,
+9,10,conductor,baton,,,Agent:Instrument,CASE RELATIONS,example,
+9,10,photographer,camera,,,Agent:Instrument,CASE RELATIONS,example,
+9,10,knitter,needles,needles,yarn,Agent:Instrument,CASE RELATIONS,probe,1.0
+10,49,odorless,smelled,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+10,49,inconsolable,comforted,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+10,49,infallible,mistaken,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+10,49,incurable,healed,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+10,49,unquenchable,extinguished,extinguished,endless,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,probe,1.0
+11,-1,baseline,baseline,,,baseline,baseline,baseline,
+12,58,preschool,kindergarten,,,Sequence,SPACE-TIME,example,
+12,58,meal,dessert,,,Sequence,SPACE-TIME,example,
+12,58,crawling,walking,,,Sequence,SPACE-TIME,example,
+12,58,yesterday,today,,,Sequence,SPACE-TIME,example,
+12,58,warmup,game,game,stadium,Sequence,SPACE-TIME,probe,1.0
+13,45,miser,generosity,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+13,45,blindness,sight,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+13,45,blackout,electricity,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+13,45,bully,kindness,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+13,45,cruelty,mercy,mercy,whip,Object:Nonstate (noun:noun),NON-ATTRIBUTE,probe,1.0
+14,10,barber,scissors,,,Agent:Instrument,CASE RELATIONS,example,
+14,10,judge,gavel,,,Agent:Instrument,CASE RELATIONS,example,
+14,10,welder,torch,,,Agent:Instrument,CASE RELATIONS,example,
+14,10,writer,pen,,,Agent:Instrument,CASE RELATIONS,example,
+14,10,chef,knife,knife,recipe,Agent:Instrument,CASE RELATIONS,probe,1.0
+15,-1,baseline,baseline,,,baseline,baseline,baseline,
+16,45,greed,charity,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+16,45,beggar,wealth,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+16,45,vacuum,air,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+16,45,arrogance,humility,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+16,45,famine,food,drought,food,Object:Nonstate (noun:noun),NON-ATTRIBUTE,probe,2.0
+17,49,incorrigible,reformed,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+17,49,inalienable,surrendered,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+17,49,indestructible,destroyed,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+17,49,unforgettable,forgotten,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+17,49,unstoppable,stopped,diverted,stopped,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,probe,2.0
+18,58,flirtation,tryst,,,Sequence,SPACE-TIME,example,
+18,58,dating,marriage,,,Sequence,SPACE-TIME,example,
+18,58,ceremony,reception,,,Sequence,SPACE-TIME,example,
+18,58,breakfast,lunch,,,Sequence,SPACE-TIME,example,
+18,58,ingestion,digestion,digestion,chewing,Sequence,SPACE-TIME,probe,1.0
+19,10,hunter,rifle,,,Agent:Instrument,CASE RELATIONS,example,
+19,10,butcher,cleaver,,,Agent:Instrument,CASE RELATIONS,example,
+19,10,astronomer,telescope,,,Agent:Instrument,CASE RELATIONS,example,
+19,10,programmer,computer,,,Agent:Instrument,CASE RELATIONS,example,
+19,10,firefighter,hose,rescue,hose,Agent:Instrument,CASE RELATIONS,probe,2.0
+20,45,snow,warmth,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+20,45,ignorance,knowledge,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+20,45,loneliness,friendship,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+20,45,dance,silence,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+20,45,tribulation,peace,suffer,peace,Object:Nonstate (noun:noun),NON-ATTRIBUTE,probe,2.0
+21,49,irreparable,fixed,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+21,49,interminable,concluded,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+21,49,inescapable,avoided,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+21,49,nonnegotiable,negotiated,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+21,49,tireless,fatigued,fatigued,rested,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,probe,1.0
+22,10,mechanic,tools,,,Agent:Instrument,CASE RELATIONS,example,
+22,10,knight,sword,,,Agent:Instrument,CASE RELATIONS,example,
+22,10,tailor,thimble,,,Agent:Instrument,CASE RELATIONS,example,
+22,10,electrician,pliers,,,Agent:Instrument,CASE RELATIONS,example,
+22,10,soldier,gun,uniform,gun,Agent:Instrument,CASE RELATIONS,probe,2.0
+23,-1,baseline,baseline,,,baseline,baseline,baseline,
+24,49,invincible,defeated,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+24,49,nonrefundable,returned,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+24,49,bulletproof,pierced,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+24,49,foolproof,failed,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+24,49,insatiable,satisfied,satisfied,hungry,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,probe,1.0
+25,58,writing,editing,,,Sequence,SPACE-TIME,example,
+25,58,searing,roasting,,,Sequence,SPACE-TIME,example,
+25,58,cause,effect,,,Sequence,SPACE-TIME,example,
+25,58,practice,competition,,,Sequence,SPACE-TIME,example,
+25,58,lightning,thunder,thunder,sky,Sequence,SPACE-TIME,probe,1.0

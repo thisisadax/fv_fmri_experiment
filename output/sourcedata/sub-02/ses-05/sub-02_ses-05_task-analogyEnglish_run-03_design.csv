@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,32,beg,desperation,,,Expression,REFERENCE,example,
+1,32,jeer,scorn,,,Expression,REFERENCE,example,
+1,32,swear,outrage,,,Expression,REFERENCE,example,
+1,32,squeal,excitement,,,Expression,REFERENCE,example,
+1,32,slam,rage,rage,kitchen,Expression,REFERENCE,probe,1.0
+2,-1,baseline,baseline,,,baseline,baseline,baseline,
+3,44,dog,leash,,,Object:Instrument,CASE RELATIONS,example,
+3,44,cake,frosting,,,Object:Instrument,CASE RELATIONS,example,
+3,44,bread,knife,,,Object:Instrument,CASE RELATIONS,example,
+3,44,metal,file,,,Object:Instrument,CASE RELATIONS,example,
+3,44,wound,bandage,hospital,bandage,Object:Instrument,CASE RELATIONS,probe,2.0
+4,43,affordable,purchased,,,Object Attribute:Condition,ATTRIBUTE,example,
+4,43,detachable,removed,,,Object Attribute:Condition,ATTRIBUTE,example,
+4,43,wooden,burned,,,Object Attribute:Condition,ATTRIBUTE,example,
+4,43,valuable,stolen,,,Object Attribute:Condition,ATTRIBUTE,example,
+4,43,light,carried,weightless,carried,Object Attribute:Condition,ATTRIBUTE,probe,2.0
+5,42,chain,link,,,Mass:Potion,PART-WHOLE,example,
+5,42,choir,singers,,,Mass:Potion,PART-WHOLE,example,
+5,42,orchestra,musicians,,,Mass:Potion,PART-WHOLE,example,
+5,42,cup,tablespoons,,,Mass:Potion,PART-WHOLE,example,
+5,42,archipelago,islands,islands,reefs,Mass:Potion,PART-WHOLE,probe,1.0
+6,32,nod,agreement,,,Expression,REFERENCE,example,
+6,32,howl,anguish,,,Expression,REFERENCE,example,
+6,32,sulk,resentment,,,Expression,REFERENCE,example,
+6,32,yawn,boredom,,,Expression,REFERENCE,example,
+6,32,whistle,cheerfulness,cheerfulness,confidence,Expression,REFERENCE,probe,1.0
+7,44,horse,reins,,,Object:Instrument,CASE RELATIONS,example,
+7,44,wire,pliers,,,Object:Instrument,CASE RELATIONS,example,
+7,44,lawn,mower,,,Object:Instrument,CASE RELATIONS,example,
+7,44,canvas,paintbrush,,,Object:Instrument,CASE RELATIONS,example,
+7,44,surface,sandpaper,scratch,sandpaper,Object:Instrument,CASE RELATIONS,probe,2.0
+8,42,decade,years,,,Mass:Potion,PART-WHOLE,example,
+8,42,hive,bee,,,Mass:Potion,PART-WHOLE,example,
+8,42,watermelon,wedges,,,Mass:Potion,PART-WHOLE,example,
+8,42,paragraph,sentences,,,Mass:Potion,PART-WHOLE,example,
+8,42,garlic,cloves,flavor,cloves,Mass:Potion,PART-WHOLE,probe,2.0
+9,43,elastic,stretched,,,Object Attribute:Condition,ATTRIBUTE,example,
+9,43,popular,copied,,,Object Attribute:Condition,ATTRIBUTE,example,
+9,43,abundant,wasted,,,Object Attribute:Condition,ATTRIBUTE,example,
+9,43,faded,restored,,,Object Attribute:Condition,ATTRIBUTE,example,
+9,43,slippery,dropped,dropping,dropped,Object Attribute:Condition,ATTRIBUTE,probe,2.0
+10,-1,baseline,baseline,,,baseline,baseline,baseline,
+11,32,gawk,amazement,,,Expression,REFERENCE,example,
+11,32,insult,hostility,,,Expression,REFERENCE,example,
+11,32,stare,curiosity,,,Expression,REFERENCE,example,
+11,32,lie,dishonesty,,,Expression,REFERENCE,example,
+11,32,pace,worry,stress,worry,Expression,REFERENCE,probe,2.0
+12,42,flock,birds,,,Mass:Potion,PART-WHOLE,example,
+12,42,ton,pounds,,,Mass:Potion,PART-WHOLE,example,
+12,42,rope,strands,,,Mass:Potion,PART-WHOLE,example,
+12,42,soup,spoonful,,,Mass:Potion,PART-WHOLE,example,
+12,42,cake,slice,slice,plates,Mass:Potion,PART-WHOLE,probe,1.0
+13,-1,baseline,baseline,,,baseline,baseline,baseline,
+14,43,torn,mended,,,Object Attribute:Condition,ATTRIBUTE,example,
+14,43,attractive,admired,,,Object Attribute:Condition,ATTRIBUTE,example,
+14,43,leaky,patched,,,Object Attribute:Condition,ATTRIBUTE,example,
+14,43,sick,cured,,,Object Attribute:Condition,ATTRIBUTE,example,
+14,43,hungry,fed,ignored,fed,Object Attribute:Condition,ATTRIBUTE,probe,2.0
+15,42,play,acts,,,Mass:Potion,PART-WHOLE,example,
+15,42,ladder,rungs,,,Mass:Potion,PART-WHOLE,example,
+15,42,newspaper,sections,,,Mass:Potion,PART-WHOLE,example,
+15,42,foot,inch,,,Mass:Potion,PART-WHOLE,example,
+15,42,poem,verses,pages,verses,Mass:Potion,PART-WHOLE,probe,2.0
+16,32,swagger,arrogance,,,Expression,REFERENCE,example,
+16,32,moan,suffering,,,Expression,REFERENCE,example,
+16,32,hum,contentment,,,Expression,REFERENCE,example,
+16,32,wail,despair,,,Expression,REFERENCE,example,
+16,32,confess,guilt,truth,guilt,Expression,REFERENCE,probe,2.0
+17,44,face,sunscreen,,,Object:Instrument,CASE RELATIONS,example,
+17,44,paper,pencil,,,Object:Instrument,CASE RELATIONS,example,
+17,44,carpet,vacuum,,,Object:Instrument,CASE RELATIONS,example,
+17,44,clothes,detergent,,,Object:Instrument,CASE RELATIONS,example,
+17,44,grass,trimmer,trimmer,lawn,Object:Instrument,CASE RELATIONS,probe,1.0
+18,-1,baseline,baseline,,,baseline,baseline,baseline,
+19,43,cheap,bought,,,Object Attribute:Condition,ATTRIBUTE,example,
+19,43,wounded,dead,,,Object Attribute:Condition,ATTRIBUTE,example,
+19,43,dirty,cleaned,,,Object Attribute:Condition,ATTRIBUTE,example,
+19,43,tight,loosened,,,Object Attribute:Condition,ATTRIBUTE,example,
+19,43,flammable,lit,lit,fuel,Object Attribute:Condition,ATTRIBUTE,probe,1.0
+20,44,drawing,eraser,,,Object:Instrument,CASE RELATIONS,example,
+20,44,garden,hoe,,,Object:Instrument,CASE RELATIONS,example,
+20,44,stain,bleach,,,Object:Instrument,CASE RELATIONS,example,
+20,44,concrete,trowel,,,Object:Instrument,CASE RELATIONS,example,
+20,44,furniture,polish,dust,polish,Object:Instrument,CASE RELATIONS,probe,2.0
+21,-1,baseline,baseline,,,baseline,baseline,baseline,
+22,43,audible,heard,,,Object Attribute:Condition,ATTRIBUTE,example,
+22,43,collapsible,folded,,,Object Attribute:Condition,ATTRIBUTE,example,
+22,43,whole,halved,,,Object Attribute:Condition,ATTRIBUTE,example,
+22,43,readable,read,,,Object Attribute:Condition,ATTRIBUTE,example,
+22,43,contagious,quarantined,quarantined,mask,Object Attribute:Condition,ATTRIBUTE,probe,1.0
+23,44,chest,stethoscope,,,Object:Instrument,CASE RELATIONS,example,
+23,44,teeth,toothbrush,,,Object:Instrument,CASE RELATIONS,example,
+23,44,hay,pitchfork,,,Object:Instrument,CASE RELATIONS,example,
+23,44,log,axe,,,Object:Instrument,CASE RELATIONS,example,
+23,44,gate,padlock,padlock,yard,Object:Instrument,CASE RELATIONS,probe,1.0
+24,42,skeleton,bones,,,Mass:Potion,PART-WHOLE,example,
+24,42,song,notes,,,Mass:Potion,PART-WHOLE,example,
+24,42,quilt,squares,,,Mass:Potion,PART-WHOLE,example,
+24,42,continent,countries,,,Mass:Potion,PART-WHOLE,example,
+24,42,week,day,shifts,day,Mass:Potion,PART-WHOLE,probe,2.0
+25,32,glare,anger,,,Expression,REFERENCE,example,
+25,32,grin,delight,,,Expression,REFERENCE,example,
+25,32,weep,mourning,,,Expression,REFERENCE,example,
+25,32,gulp,nervousness,,,Expression,REFERENCE,example,
+25,32,cringe,shame,embarrassment,shame,Expression,REFERENCE,probe,2.0

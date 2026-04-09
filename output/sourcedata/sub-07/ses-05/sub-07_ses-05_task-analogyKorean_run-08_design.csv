@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,15,조급함,서두르다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+1,15,연기,기침하다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+1,15,갈망,탐닉하다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+1,15,부당함,항의하다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+1,15,슬픔,울다,울다,삐지다,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,probe,1.0
+2,-1,baseline,baseline,,,baseline,baseline,baseline,
+3,10,상담사,내담자,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+3,10,대부,대자,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+3,10,보모,아이,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+3,10,사진작가,고객,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+3,10,조종사,승객,승객,승무원,Agent:Recipient (Korean Localized),CASE RELATIONS,probe,1.0
+4,36,허구,사실이다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+4,36,해골,살집이있다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+4,36,아름다움,불쾌하다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+4,36,맨정신,취하다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+4,36,산,평평하다,가파르다,평평하다,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,probe,2.0
+5,15,불편함,조절하다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+5,15,고마움,감사하다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+5,15,흥분,환호하다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+5,15,주름,다리다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+5,15,절박함,애원하다,희망,애원하다,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,probe,2.0
+6,-1,baseline,baseline,,,baseline,baseline,baseline,
+7,36,관대함,인색하다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+7,36,풍요,희소하다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+7,36,평화,폭력적이다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+7,36,벙어리,수다스럽다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+7,36,카리스마,밋밋하다,매력있다,밋밋하다,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,probe,2.0
+8,10,음악가,청취자,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+8,10,교통안전요원,보행자,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+8,10,상사,직원,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+8,10,스폰서,선수,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+8,10,판매자,구매자,구매자,상품,Agent:Recipient (Korean Localized),CASE RELATIONS,probe,1.0
+9,60,항공기,헬리콥터,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+9,60,관목,철쭉,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+9,60,의류,셔츠,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+9,60,신발,샌들,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+9,60,고기,소고기,소,소고기,Taxonomic (Korean Localized),CLASS-INCLUSION,probe,2.0
+10,-1,baseline,baseline,,,baseline,baseline,baseline,
+11,15,행복,미소짓다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+11,15,폭풍,피신하다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+11,15,두려움,덜덜떨다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+11,15,의심,따져묻다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+11,15,가려움,긁다,로션바르다,긁다,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,probe,2.0
+12,36,지혜,어리석다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+12,36,시야,보이지않다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+12,36,눈보라,따뜻하다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+12,36,게으름,부지런하다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+12,36,진실,거짓이다,거짓이다,단순하다,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,probe,1.0
+13,60,장신구,반지,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+13,60,페이스트리,크루아상,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+13,60,무기,검,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+13,60,날씨,비,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+13,60,도구,망치,못,망치,Taxonomic (Korean Localized),CLASS-INCLUSION,probe,2.0
+14,10,은행원,고객,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+14,10,배관공,집주인,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+14,10,정원사,집주인,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+14,10,웨이터,손님,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+14,10,사회복지사,가정,가정방문,가정,Agent:Recipient (Korean Localized),CASE RELATIONS,probe,2.0
+15,15,손상,수리하다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+15,15,호기심,조사하다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+15,15,쏟음,닦다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+15,15,분노,소리지르다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+15,15,화재,대피하다,대피하다,소화기,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,probe,1.0
+16,60,직물,실크,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+16,60,의사,외과의사,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+16,60,견과류,아몬드,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+16,60,꽃,튤립,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+16,60,곤충,개미,군집,개미,Taxonomic (Korean Localized),CLASS-INCLUSION,probe,2.0
+17,10,후원자,수혜자,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+17,10,약사,고객,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+17,10,재단사,고객,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+17,10,편집자,저자,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+17,10,지휘자,오케스트라,무대감독,오케스트라,Agent:Recipient (Korean Localized),CASE RELATIONS,probe,2.0
+18,36,판타지,현실적이다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+18,36,기근,풍부하다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+18,36,사막,울창하다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+18,36,난쟁이,거대하다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+18,36,순간,길다,덧없다,길다,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,probe,2.0
+19,-1,baseline,baseline,,,baseline,baseline,baseline,
+20,60,곡물,쌀,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+20,60,배,카누,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+20,60,해산물,새우,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+20,60,도형,삼각형,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+20,60,모자,베레모,베레모,양모,Taxonomic (Korean Localized),CLASS-INCLUSION,probe,1.0
+21,10,점원,고객,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+21,10,안내데스크직원,방문객,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+21,10,하사,신병,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+21,10,출판사,구독자,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+21,10,꽃집주인,고객,정원사,고객,Agent:Recipient (Korean Localized),CASE RELATIONS,probe,2.0
+22,-1,baseline,baseline,,,baseline,baseline,baseline,
+23,60,채소,당근,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+23,60,과일,포도,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+23,60,포유류,돌고래,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+23,60,차,캐모마일차,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+23,60,가전제품,냉장고,냉장고,식료품 저장실,Taxonomic (Korean Localized),CLASS-INCLUSION,probe,1.0
+24,15,수치심,숨다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+24,15,더위,땀흘리다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+24,15,얼룩,문지르다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+24,15,지루함,하품하다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+24,15,공포,비명지르다,깜짝뛰다,비명지르다,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,probe,2.0
+25,36,고체,액체이다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+25,36,지능,멍청하다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+25,36,소음,무소음이다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+25,36,거짓말쟁이,정직하다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+25,36,침묵,시끄럽다,시끄럽다,완전하다,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,probe,1.0

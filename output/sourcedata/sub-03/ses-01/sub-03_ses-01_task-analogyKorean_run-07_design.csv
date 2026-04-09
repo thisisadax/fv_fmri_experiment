@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,28,위쪽,아래쪽,,,Directional (Korean Localized),CONTRAST,example,
+1,28,오르막,내리막,,,Directional (Korean Localized),CONTRAST,example,
+1,28,발사,착륙,,,Directional (Korean Localized),CONTRAST,example,
+1,28,동틀녘,해질녘,,,Directional (Korean Localized),CONTRAST,example,
+1,28,앞쪽,뒤쪽,뒤쪽,앞으로,Directional (Korean Localized),CONTRAST,probe,1.0
+2,46,지시사항,연수생,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+2,46,유산,상속인,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+2,46,대출금,차용자,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+2,46,명령,부하,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+2,46,졸업장,학생,성적증명서,학생,Object:Recipient (Korean Localized),CASE RELATIONS,probe,2.0
+3,-1,baseline,baseline,,,baseline,baseline,baseline,
+4,7,타이피스트,키보드,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+4,7,애견훈련사,간식,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+4,7,달리기선수,운동화,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+4,7,작가,펜,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+4,7,요정,마법지팡이,마법지팡이,주문,Agent:Instrument (Korean Localized),CASE RELATIONS,probe,1.0
+5,28,일출,일몰,,,Directional (Korean Localized),CONTRAST,example,
+5,28,까지,부터,,,Directional (Korean Localized),CONTRAST,example,
+5,28,승진,강등,,,Directional (Korean Localized),CONTRAST,example,
+5,28,북서,남동,,,Directional (Korean Localized),CONTRAST,example,
+5,28,주입하다,추출하다,추출하다,추가하다,Directional (Korean Localized),CONTRAST,probe,1.0
+6,-1,baseline,baseline,,,baseline,baseline,baseline,
+7,46,성과금,임원,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+7,46,복지급여,수급자,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+7,46,여권,신청자,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+7,46,몸값,납치범,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+7,46,구호물자,난민,기관,난민,Object:Recipient (Korean Localized),CASE RELATIONS,probe,2.0
+8,28,출발지,도착지,,,Directional (Korean Localized),CONTRAST,example,
+8,28,최고점,최저점,,,Directional (Korean Localized),CONTRAST,example,
+8,28,시작,끝,,,Directional (Korean Localized),CONTRAST,example,
+8,28,썰물,밀물,,,Directional (Korean Localized),CONTRAST,example,
+8,28,이전,이후,과거,이후,Directional (Korean Localized),CONTRAST,probe,2.0
+9,36,다이아몬드,부드럽다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+9,36,거짓말,참이다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+9,36,거인,작다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+9,36,난쟁이,거대하다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+9,36,관대함,인색하다,이타적이다,인색하다,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,probe,2.0
+10,46,박수,공연자,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+10,46,선물,수령인,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+10,46,수료증,교사,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+10,46,지원서,고용주,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+10,46,사례금,발견자,발견자,공지,Object:Recipient (Korean Localized),CASE RELATIONS,probe,1.0
+11,-1,baseline,baseline,,,baseline,baseline,baseline,
+12,7,정원사,삽,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+12,7,미용사,빗,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+12,7,정비사,도구,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+12,7,제빵사,오븐,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+12,7,드러머,드럼스틱,드럼스틱,무대,Agent:Instrument (Korean Localized),CASE RELATIONS,probe,1.0
+13,36,무지개,단색이다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+13,36,확신,의심스럽다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+13,36,자비,무자비하다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+13,36,가난,부유하다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+13,36,전력질주,느긋하다,느긋하다,짧다,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,probe,1.0
+14,28,얕다,깊다,,,Directional (Korean Localized),CONTRAST,example,
+14,28,바람받이,바람그늘,,,Directional (Korean Localized),CONTRAST,example,
+14,28,들어올리다,떨어뜨리다,,,Directional (Korean Localized),CONTRAST,example,
+14,28,내부,외부,,,Directional (Korean Localized),CONTRAST,example,
+14,28,들이마시다,내쉬다,내쉬다,숨쉬다,Directional (Korean Localized),CONTRAST,probe,1.0
+15,-1,baseline,baseline,,,baseline,baseline,baseline,
+16,36,배신자,충성스럽다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+16,36,유토피아,불완전하다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+16,36,달팽이,빠르다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+16,36,완벽함,결함이있다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+16,36,지루함,짜릿하다,조용하다,짜릿하다,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,probe,2.0
+17,46,통지서,세입자,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+17,46,배당금,주주,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+17,46,업데이트,사용자,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+17,46,급여수표,간호사,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+17,46,우편물,거주자,거주자,편지,Object:Recipient (Korean Localized),CASE RELATIONS,probe,1.0
+18,7,프로그래머,컴퓨터,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+18,7,간호사,주사기,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+18,7,쿼터백,미식축구공,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+18,7,목수,망치,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+18,7,바이올리니스트,바이올린,바이올린,연주회,Agent:Instrument (Korean Localized),CASE RELATIONS,probe,1.0
+19,36,어둠,밝다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+19,36,마비,움직일수있다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+19,36,무한,유한하다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+19,36,목소리,벙어리다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+19,36,아기,성숙하다,성숙하다,졸리다,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,probe,1.0
+20,-1,baseline,baseline,,,baseline,baseline,baseline,
+21,7,재봉사,바늘,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+21,7,플루티스트,플루트,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+21,7,중세기사,검,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+21,7,벌목꾼,도끼,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+21,7,전사,창,전투,창,Agent:Instrument (Korean Localized),CASE RELATIONS,probe,2.0
+22,28,뒤로,앞으로,,,Directional (Korean Localized),CONTRAST,example,
+22,28,북쪽행,남쪽행,,,Directional (Korean Localized),CONTRAST,example,
+22,28,적재하다,하역하다,,,Directional (Korean Localized),CONTRAST,example,
+22,28,가다,오다,,,Directional (Korean Localized),CONTRAST,example,
+22,28,주다,가져가다,증정품,가져가다,Directional (Korean Localized),CONTRAST,probe,2.0
+23,36,햇빛,어둡다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+23,36,청렴함,부정직하다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+23,36,소음,무소음이다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+23,36,평온,초조하다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+23,36,얼음,뜨겁다,뜨겁다,맑다,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,probe,1.0
+24,7,카우보이,올가미,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+24,7,도예가,물레,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+24,7,자전거선수,자전거,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+24,7,웨이터,쟁반,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+24,7,지휘자,지휘봉,오케스트라,지휘봉,Agent:Instrument (Korean Localized),CASE RELATIONS,probe,2.0
+25,46,초대장,손님,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+25,46,직구,포수,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+25,46,성적,학생,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+25,46,십일조,교회,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+25,46,조공,황제,황제,궁전,Object:Recipient (Korean Localized),CASE RELATIONS,probe,1.0

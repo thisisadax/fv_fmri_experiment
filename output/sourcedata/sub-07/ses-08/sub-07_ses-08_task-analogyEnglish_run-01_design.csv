@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,42,state,county,,,Mass:Potion,PART-WHOLE,example,
+1,42,crowd,people,,,Mass:Potion,PART-WHOLE,example,
+1,42,sand,grains,,,Mass:Potion,PART-WHOLE,example,
+1,42,country,states,,,Mass:Potion,PART-WHOLE,example,
+1,42,symphony,movements,movements,concert hall,Mass:Potion,PART-WHOLE,probe,1.0
+2,54,levee,overflow,,,Prevention,CAUSE-PURPOSE,example,
+2,54,seatbelt,death,,,Prevention,CAUSE-PURPOSE,example,
+2,54,refrigeration,spoilage,,,Prevention,CAUSE-PURPOSE,example,
+2,54,fungicide,mold,,,Prevention,CAUSE-PURPOSE,example,
+2,54,handrail,falling,stairs,falling,Prevention,CAUSE-PURPOSE,probe,2.0
+3,46,subpoena,witness,,,Object:Recipient,CASE RELATIONS,example,
+3,46,resume,recruiter,,,Object:Recipient,CASE RELATIONS,example,
+3,46,applause,performer,,,Object:Recipient,CASE RELATIONS,example,
+3,46,welfare,beneficiary,,,Object:Recipient,CASE RELATIONS,example,
+3,46,sentence,criminal,criminal,verdict,Object:Recipient,CASE RELATIONS,probe,1.0
+4,60,physician,doctor,,,Synonymity,SIMILAR,example,
+4,60,cellphone,mobile,,,Synonymity,SIMILAR,example,
+4,60,kid,child,,,Synonymity,SIMILAR,example,
+4,60,liberty,freedom,,,Synonymity,SIMILAR,example,
+4,60,error,mistake,typo,mistake,Synonymity,SIMILAR,probe,2.0
+5,-1,baseline,baseline,,,baseline,baseline,baseline,
+6,54,sealant,leakage,,,Prevention,CAUSE-PURPOSE,example,
+6,54,verification,fraud,,,Prevention,CAUSE-PURPOSE,example,
+6,54,practice,failure,,,Prevention,CAUSE-PURPOSE,example,
+6,54,dam,flooding,,,Prevention,CAUSE-PURPOSE,example,
+6,54,compromise,argument,argument,agreement,Prevention,CAUSE-PURPOSE,probe,1.0
+7,42,hour,minutes,,,Mass:Potion,PART-WHOLE,example,
+7,42,rainbow,colors,,,Mass:Potion,PART-WHOLE,example,
+7,42,puzzle,pieces,,,Mass:Potion,PART-WHOLE,example,
+7,42,watermelon,wedges,,,Mass:Potion,PART-WHOLE,example,
+7,42,newspaper,sections,sections,ink,Mass:Potion,PART-WHOLE,probe,1.0
+8,-1,baseline,baseline,,,baseline,baseline,baseline,
+9,60,throw,toss,,,Synonymity,SIMILAR,example,
+9,60,smart,intelligent,,,Synonymity,SIMILAR,example,
+9,60,leave,depart,,,Synonymity,SIMILAR,example,
+9,60,rug,carpet,,,Synonymity,SIMILAR,example,
+9,60,run,sprint,jog,sprint,Synonymity,SIMILAR,probe,2.0
+10,46,receipt,customer,,,Object:Recipient,CASE RELATIONS,example,
+10,46,orders,subordinate,,,Object:Recipient,CASE RELATIONS,example,
+10,46,certificate,teacher,,,Object:Recipient,CASE RELATIONS,example,
+10,46,bouquet,bridesmaid,,,Object:Recipient,CASE RELATIONS,example,
+10,46,passport,applicant,applicant,border,Object:Recipient,CASE RELATIONS,probe,1.0
+11,-1,baseline,baseline,,,baseline,baseline,baseline,
+12,60,option,choice,,,Synonymity,SIMILAR,example,
+12,60,raise,elevate,,,Synonymity,SIMILAR,example,
+12,60,teach,instruct,,,Synonymity,SIMILAR,example,
+12,60,sorrow,grief,,,Synonymity,SIMILAR,example,
+12,60,entire,whole,whole,pie,Synonymity,SIMILAR,probe,1.0
+13,46,visa,traveler,,,Object:Recipient,CASE RELATIONS,example,
+13,46,grade,pupil,,,Object:Recipient,CASE RELATIONS,example,
+13,46,crown,king,,,Object:Recipient,CASE RELATIONS,example,
+13,46,package,homeowner,,,Object:Recipient,CASE RELATIONS,example,
+13,46,donation,charity,pledge,charity,Object:Recipient,CASE RELATIONS,probe,2.0
+14,42,forest,tree,,,Mass:Potion,PART-WHOLE,example,
+14,42,dollar,cents,,,Mass:Potion,PART-WHOLE,example,
+14,42,page,paragraph,,,Mass:Potion,PART-WHOLE,example,
+14,42,skeleton,bones,,,Mass:Potion,PART-WHOLE,example,
+14,42,constellation,stars,stars,galaxies,Mass:Potion,PART-WHOLE,probe,1.0
+15,-1,baseline,baseline,,,baseline,baseline,baseline,
+16,54,flossing,plaque,,,Prevention,CAUSE-PURPOSE,example,
+16,54,lifejacket,drowning,,,Prevention,CAUSE-PURPOSE,example,
+16,54,helmet,concussion,,,Prevention,CAUSE-PURPOSE,example,
+16,54,humor,tension,,,Prevention,CAUSE-PURPOSE,example,
+16,54,umbrella,wetness,wind,wetness,Prevention,CAUSE-PURPOSE,probe,2.0
+17,46,ring,bride,,,Object:Recipient,CASE RELATIONS,example,
+17,46,notice,tenant,,,Object:Recipient,CASE RELATIONS,example,
+17,46,tribute,emperor,,,Object:Recipient,CASE RELATIONS,example,
+17,46,medal,hero,,,Object:Recipient,CASE RELATIONS,example,
+17,46,rations,soldier,soldier,canteen,Object:Recipient,CASE RELATIONS,probe,1.0
+18,42,foot,inch,,,Mass:Potion,PART-WHOLE,example,
+18,42,pomegranate,seeds,,,Mass:Potion,PART-WHOLE,example,
+18,42,play,acts,,,Mass:Potion,PART-WHOLE,example,
+18,42,mile,feet,,,Mass:Potion,PART-WHOLE,example,
+18,42,cup,tablespoons,liquid,tablespoons,Mass:Potion,PART-WHOLE,probe,2.0
+19,60,careful,cautious,,,Synonymity,SIMILAR,example,
+19,60,seem,appear,,,Synonymity,SIMILAR,example,
+19,60,spin,twirl,,,Synonymity,SIMILAR,example,
+19,60,end,finish,,,Synonymity,SIMILAR,example,
+19,60,house,abode,abode,address,Synonymity,SIMILAR,probe,1.0
+20,-1,baseline,baseline,,,baseline,baseline,baseline,
+21,42,song,notes,,,Mass:Potion,PART-WHOLE,example,
+21,42,word,letters,,,Mass:Potion,PART-WHOLE,example,
+21,42,poem,verses,,,Mass:Potion,PART-WHOLE,example,
+21,42,bouquet,flowers,,,Mass:Potion,PART-WHOLE,example,
+21,42,day,hours,sunrise,hours,Mass:Potion,PART-WHOLE,probe,2.0
+22,54,fence,trespassing,,,Prevention,CAUSE-PURPOSE,example,
+22,54,activity,boredom,,,Prevention,CAUSE-PURPOSE,example,
+22,54,diet,malnutrition,,,Prevention,CAUSE-PURPOSE,example,
+22,54,training,incompetence,,,Prevention,CAUSE-PURPOSE,example,
+22,54,oxygen,suffocation,suffocation,air,Prevention,CAUSE-PURPOSE,probe,1.0
+23,60,dream,fantasize,,,Synonymity,SIMILAR,example,
+23,60,cute,adorable,,,Synonymity,SIMILAR,example,
+23,60,buy,purchase,,,Synonymity,SIMILAR,example,
+23,60,scared,afraid,,,Synonymity,SIMILAR,example,
+23,60,huge,enormous,enormous,tall,Synonymity,SIMILAR,probe,1.0
+24,46,royalty,author,,,Object:Recipient,CASE RELATIONS,example,
+24,46,complaint,manager,,,Object:Recipient,CASE RELATIONS,example,
+24,46,degree,graduate,,,Object:Recipient,CASE RELATIONS,example,
+24,46,encore,audience,,,Object:Recipient,CASE RELATIONS,example,
+24,46,license,driver,test,driver,Object:Recipient,CASE RELATIONS,probe,2.0
+25,54,insecticide,bugs,,,Prevention,CAUSE-PURPOSE,example,
+25,54,maintenance,breakdown,,,Prevention,CAUSE-PURPOSE,example,
+25,54,food,hunger,,,Prevention,CAUSE-PURPOSE,example,
+25,54,lubricant,friction,,,Prevention,CAUSE-PURPOSE,example,
+25,54,moderation,excess,excess,balance,Prevention,CAUSE-PURPOSE,probe,1.0

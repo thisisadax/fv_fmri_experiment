@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,29,push,pull,,,Directional,CONTRAST,example,
+1,29,top,bottom,,,Directional,CONTRAST,example,
+1,29,retract,extend,,,Directional,CONTRAST,example,
+1,29,uphill,downhill,,,Directional,CONTRAST,example,
+1,29,first,last,opening,last,Directional,CONTRAST,probe,2.0
+2,39,toxicology,poisons,,,Knowledge,REFERENCE,example,
+2,39,political science,government,,,Knowledge,REFERENCE,example,
+2,39,hematology,blood,,,Knowledge,REFERENCE,example,
+2,39,thermodynamics,heat,,,Knowledge,REFERENCE,example,
+2,39,neurology,brain,clinic,brain,Knowledge,REFERENCE,probe,2.0
+3,23,pencil,pen,,,Coordinates,SIMILAR,example,
+3,23,rice,pasta,,,Coordinates,SIMILAR,example,
+3,23,piano,organ,,,Coordinates,SIMILAR,example,
+3,23,broccoli,cauliflower,,,Coordinates,SIMILAR,example,
+3,23,plate,bowl,bowl,dish,Coordinates,SIMILAR,probe,1.0
+4,-1,baseline,baseline,,,baseline,baseline,baseline,
+5,8,protective,guard,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+5,8,happy,smile,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+5,8,nosy,pry,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+5,8,hurt,cry,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+5,8,old,deteriorate,deteriorate,antiques,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,probe,1.0
+6,29,gather,scatter,,,Directional,CONTRAST,example,
+6,29,east,west,,,Directional,CONTRAST,example,
+6,29,attic,basement,,,Directional,CONTRAST,example,
+6,29,clockwise,counterclockwise,,,Directional,CONTRAST,example,
+6,29,up,down,down,sky,Directional,CONTRAST,probe,1.0
+7,39,pharmacology,drugs,,,Knowledge,REFERENCE,example,
+7,39,logic,reasoning,,,Knowledge,REFERENCE,example,
+7,39,linguistics,languages,,,Knowledge,REFERENCE,example,
+7,39,geography,places,,,Knowledge,REFERENCE,example,
+7,39,physics,matter,engines,matter,Knowledge,REFERENCE,probe,2.0
+8,-1,baseline,baseline,,,baseline,baseline,baseline,
+9,29,upward,downward,,,Directional,CONTRAST,example,
+9,29,promote,demote,,,Directional,CONTRAST,example,
+9,29,to,from,,,Directional,CONTRAST,example,
+9,29,arrive,leave,,,Directional,CONTRAST,example,
+9,29,port,starboard,ship,starboard,Directional,CONTRAST,probe,2.0
+10,8,miserly,withhold,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+10,8,stiff,resist,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+10,8,nervous,fidget,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+10,8,overloaded,collapse,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+10,8,brittle,crack,crack,fragile,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,probe,1.0
+11,39,meteorology,weather,,,Knowledge,REFERENCE,example,
+11,39,agriculture,farming,,,Knowledge,REFERENCE,example,
+11,39,acoustics,sound,,,Knowledge,REFERENCE,example,
+11,39,genetics,heredity,,,Knowledge,REFERENCE,example,
+11,39,dermatology,skin,skin,sunscreen,Knowledge,REFERENCE,probe,1.0
+12,23,coffee,tea,,,Coordinates,SIMILAR,example,
+12,23,canoe,kayak,,,Coordinates,SIMILAR,example,
+12,23,soccer,hockey,,,Coordinates,SIMILAR,example,
+12,23,mountain,hill,,,Coordinates,SIMILAR,example,
+12,23,beer,wine,wine,brew,Coordinates,SIMILAR,probe,1.0
+13,29,inbound,outbound,,,Directional,CONTRAST,example,
+13,29,upstream,downstream,,,Directional,CONTRAST,example,
+13,29,before,after,,,Directional,CONTRAST,example,
+13,29,north,south,,,Directional,CONTRAST,example,
+13,29,inward,outward,outward,shell,Directional,CONTRAST,probe,1.0
+14,8,embarrassed,blush,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+14,8,awakening,yawn,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+14,8,optimistic,hope,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+14,8,angry,confront,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+14,8,content,relax,relax,hammock,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,probe,1.0
+15,-1,baseline,baseline,,,baseline,baseline,baseline,
+16,23,butter,margarine,,,Coordinates,SIMILAR,example,
+16,23,wolf,fox,,,Coordinates,SIMILAR,example,
+16,23,comedy,tragedy,,,Coordinates,SIMILAR,example,
+16,23,lettuce,spinach,,,Coordinates,SIMILAR,example,
+16,23,violin,cello,play,cello,Coordinates,SIMILAR,probe,2.0
+17,29,inhale,exhale,,,Directional,CONTRAST,example,
+17,29,preceding,following,,,Directional,CONTRAST,example,
+17,29,dawn,dusk,,,Directional,CONTRAST,example,
+17,29,peak,valley,,,Directional,CONTRAST,example,
+17,29,lift,drop,drop,raise,Directional,CONTRAST,probe,1.0
+18,-1,baseline,baseline,,,baseline,baseline,baseline,
+19,39,epidemiology,epidemics,,,Knowledge,REFERENCE,example,
+19,39,nutrition,food,,,Knowledge,REFERENCE,example,
+19,39,hydrology,water,,,Knowledge,REFERENCE,example,
+19,39,ethics,morality,,,Knowledge,REFERENCE,example,
+19,39,volcanology,volcanoes,volcanoes,ash clouds,Knowledge,REFERENCE,probe,1.0
+20,8,noisy,disturb,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+20,8,soft,cushion,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+20,8,taut,snap,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+20,8,explosive,detonate,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+20,8,bold,dare,speak,dare,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,probe,2.0
+21,23,butterfly,moth,,,Coordinates,SIMILAR,example,
+21,23,record,cassette,,,Coordinates,SIMILAR,example,
+21,23,trout,salmon,,,Coordinates,SIMILAR,example,
+21,23,pants,shorts,,,Coordinates,SIMILAR,example,
+21,23,nephew,niece,niece,reunion,Coordinates,SIMILAR,probe,1.0
+22,39,entomology,insects,,,Knowledge,REFERENCE,example,
+22,39,genealogy,family,,,Knowledge,REFERENCE,example,
+22,39,robotics,robots,,,Knowledge,REFERENCE,example,
+22,39,cosmology,universe,,,Knowledge,REFERENCE,example,
+22,39,psychiatry,mental illness,mental illness,waiting room,Knowledge,REFERENCE,probe,1.0
+23,-1,baseline,baseline,,,baseline,baseline,baseline,
+24,8,golden,gleam,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+24,8,jealous,resent,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+24,8,skeptical,question,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+24,8,generous,give,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+24,8,impatient,rush,interrupt,rush,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,probe,2.0
+25,23,king,queen,,,Coordinates,SIMILAR,example,
+25,23,hawk,eagle,,,Coordinates,SIMILAR,example,
+25,23,car,bus,,,Coordinates,SIMILAR,example,
+25,23,hammer,screwdriver,,,Coordinates,SIMILAR,example,
+25,23,apple,orange,fruit,orange,Coordinates,SIMILAR,probe,2.0

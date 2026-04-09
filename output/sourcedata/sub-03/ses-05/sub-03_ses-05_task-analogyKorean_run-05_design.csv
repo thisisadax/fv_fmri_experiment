@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,8,가수,마이크,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+1,8,유아,크레용,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+1,8,보석상,보석,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+1,8,농부,트랙터,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+1,8,지휘자,지휘봉,지휘봉,관객,Agent:Object (Korean Localized),CASE RELATIONS,probe,1.0
+2,20,수풀,동물,,,Concealment (Korean Localized),REFERENCE,example,
+2,20,외투,무기,,,Concealment (Korean Localized),REFERENCE,example,
+2,20,붕대,상처,,,Concealment (Korean Localized),REFERENCE,example,
+2,20,거즈,흉터,,,Concealment (Korean Localized),REFERENCE,example,
+2,20,퍼티,균열,균열,페인트,Concealment (Korean Localized),REFERENCE,probe,1.0
+3,28,높다,낮다,,,Directional (Korean Localized),CONTRAST,example,
+3,28,팽창하다,수축하다,,,Directional (Korean Localized),CONTRAST,example,
+3,28,위,아래,,,Directional (Korean Localized),CONTRAST,example,
+3,28,다락방,지하실,,,Directional (Korean Localized),CONTRAST,example,
+3,28,상류,하류,발원지,하류,Directional (Korean Localized),CONTRAST,probe,2.0
+4,-1,baseline,baseline,,,baseline,baseline,baseline,
+5,31,낑낑거리기,괴로움,,,Expression (Korean Localized),REFERENCE,example,
+5,31,절,존경,,,Expression (Korean Localized),REFERENCE,example,
+5,31,침삼키기,긴장감,,,Expression (Korean Localized),REFERENCE,example,
+5,31,발구르기,좌절,,,Expression (Korean Localized),REFERENCE,example,
+5,31,자랑하기,자부심,자신감,자부심,Expression (Korean Localized),REFERENCE,probe,2.0
+6,28,진전,퇴보,,,Directional (Korean Localized),CONTRAST,example,
+6,28,발사,착륙,,,Directional (Korean Localized),CONTRAST,example,
+6,28,상행,하행,,,Directional (Korean Localized),CONTRAST,example,
+6,28,과거,미래,,,Directional (Korean Localized),CONTRAST,example,
+6,28,도착하다,출발하다,공항,출발하다,Directional (Korean Localized),CONTRAST,probe,2.0
+7,8,작가,펜,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+7,8,재단사,바늘,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+7,8,소설가,소설책,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+7,8,와인메이커,와인,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+7,8,서예가,먹물,먹물,스튜디오,Agent:Object (Korean Localized),CASE RELATIONS,probe,1.0
+8,20,필명,본명,,,Concealment (Korean Localized),REFERENCE,example,
+8,20,침묵,의견,,,Concealment (Korean Localized),REFERENCE,example,
+8,20,담쟁이덩굴,벽,,,Concealment (Korean Localized),REFERENCE,example,
+8,20,크림,케이크,,,Concealment (Korean Localized),REFERENCE,example,
+8,20,선글라스,눈,눈,렌즈,Concealment (Korean Localized),REFERENCE,probe,1.0
+9,-1,baseline,baseline,,,baseline,baseline,baseline,
+10,28,내향,외향,,,Directional (Korean Localized),CONTRAST,example,
+10,28,입력,출력,,,Directional (Korean Localized),CONTRAST,example,
+10,28,승진,강등,,,Directional (Korean Localized),CONTRAST,example,
+10,28,뒤로,앞으로,,,Directional (Korean Localized),CONTRAST,example,
+10,28,접다,펴다,펴다,철회하다,Directional (Korean Localized),CONTRAST,probe,1.0
+11,31,노려보기,분노,,,Expression (Korean Localized),REFERENCE,example,
+11,31,휘파람,명랑함,,,Expression (Korean Localized),REFERENCE,example,
+11,31,포효,격노,,,Expression (Korean Localized),REFERENCE,example,
+11,31,얼굴붉히기,당황,,,Expression (Korean Localized),REFERENCE,example,
+11,31,중얼거림,불만,불만,피로,Expression (Korean Localized),REFERENCE,probe,1.0
+12,20,유머,고통,,,Concealment (Korean Localized),REFERENCE,example,
+12,20,구름,해,,,Concealment (Korean Localized),REFERENCE,example,
+12,20,망토,인물,,,Concealment (Korean Localized),REFERENCE,example,
+12,20,공손함,분노,,,Concealment (Korean Localized),REFERENCE,example,
+12,20,허세,약점,포커페이스,약점,Concealment (Korean Localized),REFERENCE,probe,2.0
+13,-1,baseline,baseline,,,baseline,baseline,baseline,
+14,31,고함지르기,공포,,,Expression (Korean Localized),REFERENCE,example,
+14,31,어깨으쓱이기,무관심,,,Expression (Korean Localized),REFERENCE,example,
+14,31,문쾅닫기,격분,,,Expression (Korean Localized),REFERENCE,example,
+14,31,울기,애도,,,Expression (Korean Localized),REFERENCE,example,
+14,31,욕하기,분개,분개,좌절,Expression (Korean Localized),REFERENCE,probe,1.0
+15,8,직조공,천,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+15,8,조각가,조각품,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+15,8,음악가,악기,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+15,8,퀼터,퀼트,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+15,8,교사,교과서,교과서,학생들,Agent:Object (Korean Localized),CASE RELATIONS,probe,1.0
+16,28,앞쪽,뒤쪽,,,Directional (Korean Localized),CONTRAST,example,
+16,28,주다,가져가다,,,Directional (Korean Localized),CONTRAST,example,
+16,28,앞,뒤,,,Directional (Korean Localized),CONTRAST,example,
+16,28,수신,발신,,,Directional (Korean Localized),CONTRAST,example,
+16,28,시작,끝,끝,이야기,Directional (Korean Localized),CONTRAST,probe,1.0
+17,-1,baseline,baseline,,,baseline,baseline,baseline,
+18,8,벽돌공,벽,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+18,8,만화가,만화,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+18,8,학생,에세이,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+18,8,디자이너,패션,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+18,8,목수,가구,트럭,가구,Agent:Object (Korean Localized),CASE RELATIONS,probe,2.0
+19,31,키득거리기,긴장,,,Expression (Korean Localized),REFERENCE,example,
+19,31,모욕하기,적대감,,,Expression (Korean Localized),REFERENCE,example,
+19,31,구부정하게앉기,게으름,,,Expression (Korean Localized),REFERENCE,example,
+19,31,흐느끼기,비탄,,,Expression (Korean Localized),REFERENCE,example,
+19,31,씩웃음,우쭐함,놀림,우쭐함,Expression (Korean Localized),REFERENCE,probe,2.0
+20,20,부인,수치심,,,Concealment (Korean Localized),REFERENCE,example,
+20,20,가림처리,텍스트,,,Concealment (Korean Localized),REFERENCE,example,
+20,20,칼집,칼날,,,Concealment (Korean Localized),REFERENCE,example,
+20,20,베일,얼굴,,,Concealment (Korean Localized),REFERENCE,example,
+20,20,서랍,내용물,사무실,내용물,Concealment (Korean Localized),REFERENCE,probe,2.0
+21,8,타자수,키보드,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+21,8,극작가,희곡,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+21,8,예술가,물감,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+21,8,정원사,삽,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+21,8,뜨개공,스웨터,클럽,스웨터,Agent:Object (Korean Localized),CASE RELATIONS,probe,2.0
+22,-1,baseline,baseline,,,baseline,baseline,baseline,
+23,20,자신감,의심,,,Concealment (Korean Localized),REFERENCE,example,
+23,20,가명,신분,,,Concealment (Korean Localized),REFERENCE,example,
+23,20,화장,잡티,,,Concealment (Korean Localized),REFERENCE,example,
+23,20,패치,찢어진부분,,,Concealment (Korean Localized),REFERENCE,example,
+23,20,커튼,창문,창문,벽,Concealment (Korean Localized),REFERENCE,probe,1.0
+24,28,얕다,깊다,,,Directional (Korean Localized),CONTRAST,example,
+24,28,가다,오다,,,Directional (Korean Localized),CONTRAST,example,
+24,28,가까이,멀리,,,Directional (Korean Localized),CONTRAST,example,
+24,28,최고점,최저점,,,Directional (Korean Localized),CONTRAST,example,
+24,28,위로,아래로,아래로,상승,Directional (Korean Localized),CONTRAST,probe,1.0
+25,31,활짝웃음,환희,,,Expression (Korean Localized),REFERENCE,example,
+25,31,비웃음,경멸,,,Expression (Korean Localized),REFERENCE,example,
+25,31,무시하기,멸시,,,Expression (Korean Localized),REFERENCE,example,
+25,31,꺄악소리내기,흥분,,,Expression (Korean Localized),REFERENCE,example,
+25,31,박수,찬성,찬성,칭찬,Expression (Korean Localized),REFERENCE,probe,1.0

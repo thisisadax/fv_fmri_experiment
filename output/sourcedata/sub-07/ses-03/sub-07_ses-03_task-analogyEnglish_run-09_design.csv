@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,58,appetizer,entree,,,Sequence,SPACE-TIME,example,
+1,58,diagnosis,treatment,,,Sequence,SPACE-TIME,example,
+1,58,sowing,reaping,,,Sequence,SPACE-TIME,example,
+1,58,writing,editing,,,Sequence,SPACE-TIME,example,
+1,58,tadpole,frog,lily pad,frog,Sequence,SPACE-TIME,probe,2.0
+2,7,irritable,annoyance,,,Agent Attribute:State,ATTRIBUTE,example,
+2,7,hostile,aggression,,,Agent Attribute:State,ATTRIBUTE,example,
+2,7,loving,affection,,,Agent Attribute:State,ATTRIBUTE,example,
+2,7,despondent,hopelessness,,,Agent Attribute:State,ATTRIBUTE,example,
+2,7,indifferent,apathy,apathy,boredom,Agent Attribute:State,ATTRIBUTE,probe,1.0
+3,48,frog,croak,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+3,48,kettle,boil,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+3,48,student,learn,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+3,48,door,close,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+3,48,educator,teach,test,teach,Object:Typical Action (noun.verb),ATTRIBUTE,probe,2.0
+4,-1,baseline,baseline,,,baseline,baseline,baseline,
+5,58,preoperative,operation,,,Sequence,SPACE-TIME,example,
+5,58,paperwork,appointment,,,Sequence,SPACE-TIME,example,
+5,58,searing,roasting,,,Sequence,SPACE-TIME,example,
+5,58,outline,essay,,,Sequence,SPACE-TIME,example,
+5,58,yesterday,today,tomorrow,today,Sequence,SPACE-TIME,probe,2.0
+6,33,transportation,bus,,,Functional,CLASS-INCLUSION,example,
+6,33,marker,flag,,,Functional,CLASS-INCLUSION,example,
+6,33,instrument,clarinet,,,Functional,CLASS-INCLUSION,example,
+6,33,cushion,pillow,,,Functional,CLASS-INCLUSION,example,
+6,33,tool,chisel,chisel,workshop,Functional,CLASS-INCLUSION,probe,1.0
+7,48,chef,cook,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+7,48,rabbit,hop,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+7,48,soldier,march,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+7,48,bird,fly,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+7,48,thunder,rumble,rumble,storm,Object:Typical Action (noun.verb),ATTRIBUTE,probe,1.0
+8,7,blushing,embarrassment,,,Agent Attribute:State,ATTRIBUTE,example,
+8,7,restless,agitation,,,Agent Attribute:State,ATTRIBUTE,example,
+8,7,crying,grief,,,Agent Attribute:State,ATTRIBUTE,example,
+8,7,lonely,isolation,,,Agent Attribute:State,ATTRIBUTE,example,
+8,7,forlorn,desolation,desolation,staring,Agent Attribute:State,ATTRIBUTE,probe,1.0
+9,33,shoe,sandal,,,Functional,CLASS-INCLUSION,example,
+9,33,home,tree,,,Functional,CLASS-INCLUSION,example,
+9,33,covering,tarp,,,Functional,CLASS-INCLUSION,example,
+9,33,preservative,salt,,,Functional,CLASS-INCLUSION,example,
+9,33,furniture,chair,chair,hardwood,Functional,CLASS-INCLUSION,probe,1.0
+10,48,snow,fall,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+10,48,dolphin,leap,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+10,48,refrigerator,cool,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+10,48,tree,grow,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+10,48,owl,hoot,branch,hoot,Object:Typical Action (noun.verb),ATTRIBUTE,probe,2.0
+11,-1,baseline,baseline,,,baseline,baseline,baseline,
+12,7,lazy,indolence,,,Agent Attribute:State,ATTRIBUTE,example,
+12,7,insecure,doubt,,,Agent Attribute:State,ATTRIBUTE,example,
+12,7,devoted,dedication,,,Agent Attribute:State,ATTRIBUTE,example,
+12,7,lethargic,fatigue,,,Agent Attribute:State,ATTRIBUTE,example,
+12,7,alarmed,fright,fright,alarm clock,Agent Attribute:State,ATTRIBUTE,probe,1.0
+13,48,stomach,digest,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+13,48,horse,gallop,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+13,48,bell,ring,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+13,48,lightning,strike,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+13,48,wave,crash,crash,swell,Object:Typical Action (noun.verb),ATTRIBUTE,probe,1.0
+14,33,vessel,pot,,,Functional,CLASS-INCLUSION,example,
+14,33,seat,chair,,,Functional,CLASS-INCLUSION,example,
+14,33,fuel,gasoline,,,Functional,CLASS-INCLUSION,example,
+14,33,landmark,lighthouse,,,Functional,CLASS-INCLUSION,example,
+14,33,clothing,sock,sock,hanger,Functional,CLASS-INCLUSION,probe,1.0
+15,58,windup,pitch,,,Sequence,SPACE-TIME,example,
+15,58,preschool,kindergarten,,,Sequence,SPACE-TIME,example,
+15,58,practice,competition,,,Sequence,SPACE-TIME,example,
+15,58,crawling,walking,,,Sequence,SPACE-TIME,example,
+15,58,illness,recovery,recovery,hygiene,Sequence,SPACE-TIME,probe,1.0
+16,-1,baseline,baseline,,,baseline,baseline,baseline,
+17,33,filter,screen,,,Functional,CLASS-INCLUSION,example,
+17,33,utensil,spoon,,,Functional,CLASS-INCLUSION,example,
+17,33,signal,horn,,,Functional,CLASS-INCLUSION,example,
+17,33,decoration,wreath,,,Functional,CLASS-INCLUSION,example,
+17,33,weapon,spear,net,spear,Functional,CLASS-INCLUSION,probe,2.0
+18,7,attentive,alertness,,,Agent Attribute:State,ATTRIBUTE,example,
+18,7,upset,distress,,,Agent Attribute:State,ATTRIBUTE,example,
+18,7,emotional,turmoil,,,Agent Attribute:State,ATTRIBUTE,example,
+18,7,calm,tranquility,,,Agent Attribute:State,ATTRIBUTE,example,
+18,7,ecstatic,bliss,confetti,bliss,Agent Attribute:State,ATTRIBUTE,probe,2.0
+19,-1,baseline,baseline,,,baseline,baseline,baseline,
+20,58,conception,birth,,,Sequence,SPACE-TIME,example,
+20,58,breakfast,lunch,,,Sequence,SPACE-TIME,example,
+20,58,kiss,intercourse,,,Sequence,SPACE-TIME,example,
+20,58,morning,afternoon,,,Sequence,SPACE-TIME,example,
+20,58,title,story,story,cover,Sequence,SPACE-TIME,probe,1.0
+21,48,pendulum,swing,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+21,48,oven,heat,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+21,48,guard,protect,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+21,48,judge,rule,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+21,48,gardener,plant,plant,soil,Object:Typical Action (noun.verb),ATTRIBUTE,probe,1.0
+22,7,peaceful,serenity,,,Agent Attribute:State,ATTRIBUTE,example,
+22,7,smiling,pleasure,,,Agent Attribute:State,ATTRIBUTE,example,
+22,7,heartbroken,sorrow,,,Agent Attribute:State,ATTRIBUTE,example,
+22,7,messy,disarray,,,Agent Attribute:State,ATTRIBUTE,example,
+22,7,ambitious,determination,greed,determination,Agent Attribute:State,ATTRIBUTE,probe,2.0
+23,-1,baseline,baseline,,,baseline,baseline,baseline,
+24,58,performance,applause,,,Sequence,SPACE-TIME,example,
+24,58,question,answer,,,Sequence,SPACE-TIME,example,
+24,58,design,manufacture,,,Sequence,SPACE-TIME,example,
+24,58,draft,revision,,,Sequence,SPACE-TIME,example,
+24,58,takeoff,landing,landing,runway,Sequence,SPACE-TIME,probe,1.0
+25,33,container,bucket,,,Functional,CLASS-INCLUSION,example,
+25,33,abrasive,sandpaper,,,Functional,CLASS-INCLUSION,example,
+25,33,nourishment,banana,,,Functional,CLASS-INCLUSION,example,
+25,33,sweetener,honey,,,Functional,CLASS-INCLUSION,example,
+25,33,barrier,fence,yard,fence,Functional,CLASS-INCLUSION,probe,2.0

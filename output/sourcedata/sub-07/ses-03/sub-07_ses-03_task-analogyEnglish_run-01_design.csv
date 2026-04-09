@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,18,instrument,Guitar,,,ClassIndividual,CLASS-INCLUSION,example,
+1,18,president,Lincoln,,,ClassIndividual,CLASS-INCLUSION,example,
+1,18,fruit,Banana,,,ClassIndividual,CLASS-INCLUSION,example,
+1,18,ocean,Indian,,,ClassIndividual,CLASS-INCLUSION,example,
+1,18,sport,Baseball,bat,baseball,ClassIndividual,CLASS-INCLUSION,probe,2.0
+2,40,driveway,parking,,,Location:Action/Activity,SPACE-TIME,example,
+2,40,highway,driving,,,Location:Action/Activity,SPACE-TIME,example,
+2,40,chapel,praying,,,Location:Action/Activity,SPACE-TIME,example,
+2,40,studio,recording,,,Location:Action/Activity,SPACE-TIME,example,
+2,40,hotel,lodging,dining,lodging,Location:Action/Activity,SPACE-TIME,probe,2.0
+3,-1,baseline,baseline,,,baseline,baseline,baseline,
+4,15,paralyzed,mobility,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+4,15,single,marriage,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+4,15,employed,unemployment,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+4,15,tidy,disorder,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+4,15,wet,dryness,dryness,warmth,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,probe,1.0
+5,0,assault,injure,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+5,0,fish,catch,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+5,0,run,exercise,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+5,0,sing,entertain,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+5,0,iron,smooth,smooth,shirt,Action/Activity:Goal,CAUSE-PURPOSE,probe,1.0
+6,18,cereal,Cheerios,,,ClassIndividual,CLASS-INCLUSION,example,
+6,18,television,Sony,,,ClassIndividual,CLASS-INCLUSION,example,
+6,18,berry,Strawberry,,,ClassIndividual,CLASS-INCLUSION,example,
+6,18,explorer,Columbus,,,ClassIndividual,CLASS-INCLUSION,example,
+6,18,scientist,Einstein,professor,einstein,ClassIndividual,CLASS-INCLUSION,probe,2.0
+7,-1,baseline,baseline,,,baseline,baseline,baseline,
+8,15,joyful,misery,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+8,15,hungry,fullness,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+8,15,merciful,ruthlessness,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+8,15,furious,serenity,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+8,15,sane,madness,madness,stress,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,probe,1.0
+9,40,track,running,,,Location:Action/Activity,SPACE-TIME,example,
+9,40,theater,acting,,,Location:Action/Activity,SPACE-TIME,example,
+9,40,laundromat,washing,,,Location:Action/Activity,SPACE-TIME,example,
+9,40,mall,shopping,,,Location:Action/Activity,SPACE-TIME,example,
+9,40,hospital,healing,visiting,healing,Location:Action/Activity,SPACE-TIME,probe,2.0
+10,18,motorcycle,Harley,,,ClassIndividual,CLASS-INCLUSION,example,
+10,18,pasta,Spaghetti,,,ClassIndividual,CLASS-INCLUSION,example,
+10,18,hero,Superman,,,ClassIndividual,CLASS-INCLUSION,example,
+10,18,volcano,Vesuvius,,,ClassIndividual,CLASS-INCLUSION,example,
+10,18,horse,Palomino,donkey,palomino,ClassIndividual,CLASS-INCLUSION,probe,2.0
+11,0,donate,help,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+11,0,argue,convince,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+11,0,borrow,use,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+11,0,wave,greet,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+11,0,flee,escape,escape,hide,Action/Activity:Goal,CAUSE-PURPOSE,probe,1.0
+12,15,rich,poverty,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+12,15,visible,invisibility,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+12,15,dark,brightness,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+12,15,smooth,roughness,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+12,15,obedient,defiance,disagreement,defiance,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,probe,2.0
+13,-1,baseline,baseline,,,baseline,baseline,baseline,
+14,0,dig,uncover,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+14,0,testify,prove,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+14,0,market,sell,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+14,0,rest,recover,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+14,0,medicate,heal,pill,heal,Action/Activity:Goal,CAUSE-PURPOSE,probe,2.0
+15,40,cinema,watching,,,Location:Action/Activity,SPACE-TIME,example,
+15,40,lake,fishing,,,Location:Action/Activity,SPACE-TIME,example,
+15,40,auditorium,lecturing,,,Location:Action/Activity,SPACE-TIME,example,
+15,40,concert hall,performing,,,Location:Action/Activity,SPACE-TIME,example,
+15,40,park,playing,playing,picnicking,Location:Action/Activity,SPACE-TIME,probe,1.0
+16,18,country,Ireland,,,ClassIndividual,CLASS-INCLUSION,example,
+16,18,dance,Waltz,,,ClassIndividual,CLASS-INCLUSION,example,
+16,18,computer,Dell,,,ClassIndividual,CLASS-INCLUSION,example,
+16,18,holiday,Christmas,,,ClassIndividual,CLASS-INCLUSION,example,
+16,18,constellation,Orion,orion,hunter,ClassIndividual,CLASS-INCLUSION,probe,1.0
+17,15,ignorant,knowledge,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+17,15,wise,foolishness,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+17,15,grateful,ingratitude,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+17,15,hopeful,despair,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+17,15,patient,impatience,tolerance,impatience,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,probe,2.0
+18,0,bathe,clean,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+18,0,bid,acquire,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+18,0,patrol,guard,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+18,0,listen,enjoy,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+18,0,breathe,live,lungs,live,Action/Activity:Goal,CAUSE-PURPOSE,probe,2.0
+19,-1,baseline,baseline,,,baseline,baseline,baseline,
+20,40,trail,hiking,,,Location:Action/Activity,SPACE-TIME,example,
+20,40,bowling alley,bowling,,,Location:Action/Activity,SPACE-TIME,example,
+20,40,library,studying,,,Location:Action/Activity,SPACE-TIME,example,
+20,40,observatory,stargazing,,,Location:Action/Activity,SPACE-TIME,example,
+20,40,reef,diving,snorkeling,diving,Location:Action/Activity,SPACE-TIME,probe,2.0
+21,15,fearful,courage,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+21,15,vacant,occupancy,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+21,15,empty,fullness,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+21,15,healthy,illness,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+21,15,clean,filth,soap,filth,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,probe,2.0
+22,-1,baseline,baseline,,,baseline,baseline,baseline,
+23,40,museum,viewing,,,Location:Action/Activity,SPACE-TIME,example,
+23,40,river,rafting,,,Location:Action/Activity,SPACE-TIME,example,
+23,40,beach,sunbathing,,,Location:Action/Activity,SPACE-TIME,example,
+23,40,warehouse,storing,,,Location:Action/Activity,SPACE-TIME,example,
+23,40,forest,camping,camping,hiking,Location:Action/Activity,SPACE-TIME,probe,1.0
+24,18,city,Dallas,,,ClassIndividual,CLASS-INCLUSION,example,
+24,18,state,Virginia,,,ClassIndividual,CLASS-INCLUSION,example,
+24,18,grain,Rice,,,ClassIndividual,CLASS-INCLUSION,example,
+24,18,day,Monday,,,ClassIndividual,CLASS-INCLUSION,example,
+24,18,language,Spanish,spanish,grammar,ClassIndividual,CLASS-INCLUSION,probe,1.0
+25,0,fight,win,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+25,0,sow,harvest,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+25,0,reach,hold,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+25,0,play,enjoy,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+25,0,fly,travel,glide,travel,Action/Activity:Goal,CAUSE-PURPOSE,probe,2.0

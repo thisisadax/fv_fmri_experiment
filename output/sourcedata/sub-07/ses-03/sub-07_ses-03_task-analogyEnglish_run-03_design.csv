@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,50,desert,dryness,,,ObjectState(noun:noun),ATTRIBUTE,example,
+1,50,storm,turbulence,,,ObjectState(noun:noun),ATTRIBUTE,example,
+1,50,pessimist,despair,,,ObjectState(noun:noun),ATTRIBUTE,example,
+1,50,outlaw,lawlessness,,,ObjectState(noun:noun),ATTRIBUTE,example,
+1,50,tyrant,cruelty,power,cruelty,ObjectState(noun:noun),ATTRIBUTE,probe,2.0
+2,23,canoe,kayak,,,Coordinates,SIMILAR,example,
+2,23,plate,bowl,,,Coordinates,SIMILAR,example,
+2,23,butterfly,moth,,,Coordinates,SIMILAR,example,
+2,23,stallion,mare,,,Coordinates,SIMILAR,example,
+2,23,couch,recliner,recliner,sit,Coordinates,SIMILAR,probe,1.0
+3,52,outline,paper,,,Plan,REFERENCE,example,
+3,52,rubric,grading,,,Plan,REFERENCE,example,
+3,52,prescription,medication,,,Plan,REFERENCE,example,
+3,52,draft,speech,,,Plan,REFERENCE,example,
+3,52,schedule,semester,dorm,semester,Plan,REFERENCE,probe,2.0
+4,-1,baseline,baseline,,,baseline,baseline,baseline,
+5,49,interminable,concluded,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+5,49,countless,counted,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+5,49,nontransferable,transferred,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+5,49,irreparable,fixed,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+5,49,boundless,contained,contained,charted,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,probe,1.0
+6,23,helicopter,airplane,,,Coordinates,SIMILAR,example,
+6,23,desert,tundra,,,Coordinates,SIMILAR,example,
+6,23,violin,cello,,,Coordinates,SIMILAR,example,
+6,23,spring,autumn,,,Coordinates,SIMILAR,example,
+6,23,trout,salmon,salmon,swim,Coordinates,SIMILAR,probe,1.0
+7,-1,baseline,baseline,,,baseline,baseline,baseline,
+8,50,pacifist,peace,,,ObjectState(noun:noun),ATTRIBUTE,example,
+8,50,ember,heat,,,ObjectState(noun:noun),ATTRIBUTE,example,
+8,50,draft,development,,,ObjectState(noun:noun),ATTRIBUTE,example,
+8,50,plague,devastation,,,ObjectState(noun:noun),ATTRIBUTE,example,
+8,50,slave,bondage,chains,bondage,ObjectState(noun:noun),ATTRIBUTE,probe,2.0
+9,49,incorrigible,reformed,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+9,49,bulletproof,pierced,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+9,49,odorless,smelled,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+9,49,shatterproof,shattered,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+9,49,unquestionable,doubted,doubted,certain,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,probe,1.0
+10,-1,baseline,baseline,,,baseline,baseline,baseline,
+11,50,sage,wisdom,,,ObjectState(noun:noun),ATTRIBUTE,example,
+11,50,swamp,dampness,,,ObjectState(noun:noun),ATTRIBUTE,example,
+11,50,sanctuary,safety,,,ObjectState(noun:noun),ATTRIBUTE,example,
+11,50,tomb,silence,,,ObjectState(noun:noun),ATTRIBUTE,example,
+11,50,fugitive,flight,alias,flight,ObjectState(noun:noun),ATTRIBUTE,probe,2.0
+12,52,timeline,project,,,Plan,REFERENCE,example,
+12,52,proof,publication,,,Plan,REFERENCE,example,
+12,52,recipe,cake,,,Plan,REFERENCE,example,
+12,52,script,movie,,,Plan,REFERENCE,example,
+12,52,scenario,drill,alarm,drill,Plan,REFERENCE,probe,2.0
+13,49,unforgettable,forgotten,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+13,49,inevitable,prevented,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+13,49,nonnegotiable,negotiated,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+13,49,nonrefundable,returned,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+13,49,inescapable,avoided,inevitable,avoided,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,probe,2.0
+14,23,apple,orange,,,Coordinates,SIMILAR,example,
+14,23,wolf,fox,,,Coordinates,SIMILAR,example,
+14,23,fork,spoon,,,Coordinates,SIMILAR,example,
+14,23,butter,margarine,,,Coordinates,SIMILAR,example,
+14,23,hawk,eagle,bird of prey,eagle,Coordinates,SIMILAR,probe,2.0
+15,-1,baseline,baseline,,,baseline,baseline,baseline,
+16,52,plan,lesson,,,Plan,REFERENCE,example,
+16,52,map,expedition,,,Plan,REFERENCE,example,
+16,52,specification,software,,,Plan,REFERENCE,example,
+16,52,instructions,model,,,Plan,REFERENCE,example,
+16,52,regimen,fitness,gym,fitness,Plan,REFERENCE,probe,2.0
+17,50,mourner,grief,,,ObjectState(noun:noun),ATTRIBUTE,example,
+17,50,monk,devotion,,,ObjectState(noun:noun),ATTRIBUTE,example,
+17,50,hero,bravery,,,ObjectState(noun:noun),ATTRIBUTE,example,
+17,50,wasteland,desolation,,,ObjectState(noun:noun),ATTRIBUTE,example,
+17,50,infant,helplessness,helplessness,diaper,ObjectState(noun:noun),ATTRIBUTE,probe,1.0
+18,-1,baseline,baseline,,,baseline,baseline,baseline,
+19,49,impassable,crossed,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+19,49,immovable,shaken,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+19,49,inalienable,surrendered,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+19,49,eternal,ended,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+19,49,incorruptible,bribed,tempted,bribed,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,probe,2.0
+20,23,cotton,silk,,,Coordinates,SIMILAR,example,
+20,23,cake,pie,,,Coordinates,SIMILAR,example,
+20,23,baseball,football,,,Coordinates,SIMILAR,example,
+20,23,male,female,,,Coordinates,SIMILAR,example,
+20,23,book,magazine,novel,magazine,Coordinates,SIMILAR,probe,2.0
+21,50,coward,fear,,,ObjectState(noun:noun),ATTRIBUTE,example,
+21,50,ballerina,grace,,,ObjectState(noun:noun),ATTRIBUTE,example,
+21,50,orphan,loss,,,ObjectState(noun:noun),ATTRIBUTE,example,
+21,50,guardian,vigilance,,,ObjectState(noun:noun),ATTRIBUTE,example,
+21,50,celebrity,fame,fame,wealth,ObjectState(noun:noun),ATTRIBUTE,probe,1.0
+22,52,pilot,series,,,Plan,REFERENCE,example,
+22,52,protocol,experiment,,,Plan,REFERENCE,example,
+22,52,formula,compound,,,Plan,REFERENCE,example,
+22,52,strategy,attack,,,Plan,REFERENCE,example,
+22,52,blueprint,house,house,hard hat,Plan,REFERENCE,probe,1.0
+23,49,tamperproof,altered,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+23,49,stainproof,stained,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+23,49,foolproof,failed,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+23,49,tireless,fatigued,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+23,49,unsinkable,sunk,iceberg,sunk,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,probe,2.0
+24,23,piano,organ,,,Coordinates,SIMILAR,example,
+24,23,son,daughter,,,Coordinates,SIMILAR,example,
+24,23,frog,toad,,,Coordinates,SIMILAR,example,
+24,23,lamp,candle,,,Coordinates,SIMILAR,example,
+24,23,oak,maple,acorn,maple,Coordinates,SIMILAR,probe,2.0
+25,52,storyboard,animation,,,Plan,REFERENCE,example,
+25,52,manual,assembly,,,Plan,REFERENCE,example,
+25,52,playbook,football,,,Plan,REFERENCE,example,
+25,52,charter,organization,,,Plan,REFERENCE,example,
+25,52,route,delivery,delivery,truck,Plan,REFERENCE,probe,1.0

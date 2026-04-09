@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,30,sand,hourglass,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+1,30,bullet,gun,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+1,30,oxygen,fire,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+1,30,drumstick,drum,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+1,30,kerosene,heater,diesel,heater,EnablingAgent:Object,CAUSE-PURPOSE,probe,2.0
+2,26,worried,frantic,,,Dimensional Excessive,SIMILAR,example,
+2,26,wiping,scrubbing,,,Dimensional Excessive,SIMILAR,example,
+2,26,firm,rigid,,,Dimensional Excessive,SIMILAR,example,
+2,26,fat,obese,,,Dimensional Excessive,SIMILAR,example,
+2,26,snacking,bingeing,bingeing,sofa,Dimensional Excessive,SIMILAR,probe,1.0
+3,13,stuffed,hungry,,,Asymmetric Contrary,CONTRAST,example,
+3,13,perfect,flawed,,,Asymmetric Contrary,CONTRAST,example,
+3,13,lethal,safe,,,Asymmetric Contrary,CONTRAST,example,
+3,13,rigid,flexible,,,Asymmetric Contrary,CONTRAST,example,
+3,13,silent,loud,loud,quiet,Asymmetric Contrary,CONTRAST,probe,1.0
+4,-1,baseline,baseline,,,baseline,baseline,baseline,
+5,42,hive,bee,,,Mass:Potion,PART-WHOLE,example,
+5,42,puzzle,pieces,,,Mass:Potion,PART-WHOLE,example,
+5,42,rainbow,colors,,,Mass:Potion,PART-WHOLE,example,
+5,42,highway,lanes,,,Mass:Potion,PART-WHOLE,example,
+5,42,ton,pounds,trucks,pounds,Mass:Potion,PART-WHOLE,probe,2.0
+6,30,diesel,generator,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+6,30,blade,saw,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+6,30,soil,garden,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+6,30,net,volleyball,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+6,30,detergent,dishwasher,dishwasher,water,EnablingAgent:Object,CAUSE-PURPOSE,probe,1.0
+7,-1,baseline,baseline,,,baseline,baseline,baseline,
+8,13,effortless,challenging,,,Asymmetric Contrary,CONTRAST,example,
+8,13,weightless,heavy,,,Asymmetric Contrary,CONTRAST,example,
+8,13,sterile,dirty,,,Asymmetric Contrary,CONTRAST,example,
+8,13,bottomless,shallow,,,Asymmetric Contrary,CONTRAST,example,
+8,13,freezing,warm,warm,ice,Asymmetric Contrary,CONTRAST,probe,1.0
+9,42,flock,birds,,,Mass:Potion,PART-WHOLE,example,
+9,42,pomegranate,seeds,,,Mass:Potion,PART-WHOLE,example,
+9,42,pizza,slice,,,Mass:Potion,PART-WHOLE,example,
+9,42,choir,singers,,,Mass:Potion,PART-WHOLE,example,
+9,42,newspaper,sections,editions,sections,Mass:Potion,PART-WHOLE,probe,2.0
+10,-1,baseline,baseline,,,baseline,baseline,baseline,
+11,26,tall,towering,,,Dimensional Excessive,SIMILAR,example,
+11,26,generous,extravagant,,,Dimensional Excessive,SIMILAR,example,
+11,26,proud,vain,,,Dimensional Excessive,SIMILAR,example,
+11,26,wet,saturated,,,Dimensional Excessive,SIMILAR,example,
+11,26,assertive,aggressive,aggressive,more assertive,Dimensional Excessive,SIMILAR,probe,1.0
+12,30,monitor,computer,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+12,30,paper,printer,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+12,30,fuel,rocket,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+12,30,electricity,stove,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+12,30,needle,syringe,plunger,syringe,EnablingAgent:Object,CAUSE-PURPOSE,probe,2.0
+13,13,arrogant,humble,,,Asymmetric Contrary,CONTRAST,example,
+13,13,blunt,pointed,,,Asymmetric Contrary,CONTRAST,example,
+13,13,parched,moist,,,Asymmetric Contrary,CONTRAST,example,
+13,13,hostile,friendly,,,Asymmetric Contrary,CONTRAST,example,
+13,13,obnoxious,polite,polite,classroom,Asymmetric Contrary,CONTRAST,probe,1.0
+14,42,soup,spoonful,,,Mass:Potion,PART-WHOLE,example,
+14,42,minute,seconds,,,Mass:Potion,PART-WHOLE,example,
+14,42,house,rooms,,,Mass:Potion,PART-WHOLE,example,
+14,42,building,floors,,,Mass:Potion,PART-WHOLE,example,
+14,42,earthworm,segment,segment,soil,Mass:Potion,PART-WHOLE,probe,1.0
+15,-1,baseline,baseline,,,baseline,baseline,baseline,
+16,26,devoted,fanatical,,,Dimensional Excessive,SIMILAR,example,
+16,26,asking,interrogating,,,Dimensional Excessive,SIMILAR,example,
+16,26,walking,stomping,,,Dimensional Excessive,SIMILAR,example,
+16,26,caring,overbearing,,,Dimensional Excessive,SIMILAR,example,
+16,26,pleased,thrilled,gift,thrilled,Dimensional Excessive,SIMILAR,probe,2.0
+17,13,feeble,strong,,,Asymmetric Contrary,CONTRAST,example,
+17,13,towering,short,,,Asymmetric Contrary,CONTRAST,example,
+17,13,dire,mild,,,Asymmetric Contrary,CONTRAST,example,
+17,13,pure,tainted,,,Asymmetric Contrary,CONTRAST,example,
+17,13,deceitful,honest,mask,honest,Asymmetric Contrary,CONTRAST,probe,2.0
+18,42,deck,cards,,,Mass:Potion,PART-WHOLE,example,
+18,42,skeleton,bones,,,Mass:Potion,PART-WHOLE,example,
+18,42,city,neighborhoods,,,Mass:Potion,PART-WHOLE,example,
+18,42,song,notes,,,Mass:Potion,PART-WHOLE,example,
+18,42,year,months,months,new year,Mass:Potion,PART-WHOLE,probe,1.0
+19,26,mist,fog,,,Dimensional Excessive,SIMILAR,example,
+19,26,overcooked,burnt,,,Dimensional Excessive,SIMILAR,example,
+19,26,reserved,withdrawn,,,Dimensional Excessive,SIMILAR,example,
+19,26,talking,ranting,,,Dimensional Excessive,SIMILAR,example,
+19,26,wind,hurricane,hurricane,storm,Dimensional Excessive,SIMILAR,probe,1.0
+20,30,lease,apartment,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+20,30,engine,airplane,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+20,30,paddle,canoe,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+20,30,bait,trap,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+20,30,magnet,compass,compass,iron,EnablingAgent:Object,CAUSE-PURPOSE,probe,1.0
+21,42,flower,petals,,,Mass:Potion,PART-WHOLE,example,
+21,42,corn,kernels,,,Mass:Potion,PART-WHOLE,example,
+21,42,page,paragraph,,,Mass:Potion,PART-WHOLE,example,
+21,42,forest,tree,,,Mass:Potion,PART-WHOLE,example,
+21,42,tree,branches,branches,feet,Mass:Potion,PART-WHOLE,probe,1.0
+22,-1,baseline,baseline,,,baseline,baseline,baseline,
+23,13,brutal,gentle,,,Asymmetric Contrary,CONTRAST,example,
+23,13,radiant,gloomy,,,Asymmetric Contrary,CONTRAST,example,
+23,13,furious,pleased,,,Asymmetric Contrary,CONTRAST,example,
+23,13,ancient,modern,,,Asymmetric Contrary,CONTRAST,example,
+23,13,catastrophic,beneficial,storm,beneficial,Asymmetric Contrary,CONTRAST,probe,2.0
+24,30,battery,flashlight,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+24,30,dam,reservoir,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+24,30,shell,shotgun,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+24,30,coin,meter,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+24,30,cue,billiards,billiards,chalk,EnablingAgent:Object,CAUSE-PURPOSE,probe,1.0
+25,26,eager,desperate,,,Dimensional Excessive,SIMILAR,example,
+25,26,drinking,guzzling,,,Dimensional Excessive,SIMILAR,example,
+25,26,loud,deafening,,,Dimensional Excessive,SIMILAR,example,
+25,26,detailed,pedantic,,,Dimensional Excessive,SIMILAR,example,
+25,26,hungry,famished,hungrier,famished,Dimensional Excessive,SIMILAR,probe,2.0

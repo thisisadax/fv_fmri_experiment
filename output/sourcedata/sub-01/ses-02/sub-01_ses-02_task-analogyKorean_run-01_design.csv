@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,54,주택소유자,소유권등기,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+1,54,배우,상,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+1,54,투자자,배당금,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+1,54,부모,양육권,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+1,54,운전자,운전면허증,고속도로,운전면허증,Recipient:Instrument (Korean Localized),CASE RELATIONS,probe,2.0
+2,4,해동하다,얼어붙다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+2,4,사포질하다,거칠다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+2,4,듣다,들리다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+2,4,풀어주다,갇히다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+2,4,복원하다,손상되다,손상되다,오래되다,Action:Object Attribute (Korean Localized),ATTRIBUTE,probe,1.0
+3,32,접착제,풀,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+3,32,장난감,인형,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+3,32,좌석,스툴,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+3,32,광택제,왁스,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+3,32,수납공간,옷장,옷장,옷걸이,Functional (Korean Localized),CLASS-INCLUSION,probe,1.0
+4,54,기부자,영수증,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+4,54,여왕,왕좌,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+4,54,성직자,서품,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+4,54,예술가,커미션비,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+4,54,참석자,명찰,학회,명찰,Recipient:Instrument (Korean Localized),CASE RELATIONS,probe,2.0
+5,59,사다,구매하다,,,Synonymity (Korean Localized),SIMILAR,example,
+5,59,집,거처,,,Synonymity (Korean Localized),SIMILAR,example,
+5,59,용감하다,대담하다,,,Synonymity (Korean Localized),SIMILAR,example,
+5,59,똑똑하다,영리하다,,,Synonymity (Korean Localized),SIMILAR,example,
+5,59,음악,가락,노래,가락,Synonymity (Korean Localized),SIMILAR,probe,2.0
+6,32,의복,셔츠,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+6,32,장식,리스,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+6,32,용기,냄비,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+6,32,차량,트럭,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+6,32,머리보호구,헬멧,헬멧,머리,Functional (Korean Localized),CLASS-INCLUSION,probe,1.0
+7,-1,baseline,baseline,,,baseline,baseline,baseline,
+8,59,숨기다,감추다,,,Synonymity (Korean Localized),SIMILAR,example,
+8,59,닫다,폐쇄하다,,,Synonymity (Korean Localized),SIMILAR,example,
+8,59,말하다,이야기하다,,,Synonymity (Korean Localized),SIMILAR,example,
+8,59,바라다,원하다,,,Synonymity (Korean Localized),SIMILAR,example,
+8,59,화나다,분노하다,분노하다,짜증나다,Synonymity (Korean Localized),SIMILAR,probe,1.0
+9,32,구속도구,목줄,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+9,32,악기,바이올린,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+9,32,화폐,동전,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+9,32,쉼터,동굴,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+9,32,방부제,소금,냉동고,소금,Functional (Korean Localized),CLASS-INCLUSION,probe,2.0
+10,4,정리하다,어지럽다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+10,4,위로하다,아프다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+10,4,보호하다,취약하다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+10,4,비우다,가득하다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+10,4,격려하다,낙담하다,낙담하다,응원,Action:Object Attribute (Korean Localized),ATTRIBUTE,probe,1.0
+11,54,환자,진료의뢰서,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+11,54,고객,보증서,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+11,54,유권자,투표용지,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+11,54,세입자,열쇠,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+11,54,군인,훈장,훈장,계급,Recipient:Instrument (Korean Localized),CASE RELATIONS,probe,1.0
+12,-1,baseline,baseline,,,baseline,baseline,baseline,
+13,59,영아,아기,,,Synonymity (Korean Localized),SIMILAR,example,
+13,59,사탕,캔디,,,Synonymity (Korean Localized),SIMILAR,example,
+13,59,변호사,법률가,,,Synonymity (Korean Localized),SIMILAR,example,
+13,59,옵션,선택지,,,Synonymity (Korean Localized),SIMILAR,example,
+13,59,끝내다,마치다,마치다,크레딧,Synonymity (Korean Localized),SIMILAR,probe,1.0
+14,4,설득하다,회의적이다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+14,4,매끈하게 하다,거칠다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+14,4,밝히다,어둡다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+14,4,펴다,구겨지다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+14,4,가지치기하다,무성하다,무성하다,전지가위,Action:Object Attribute (Korean Localized),ATTRIBUTE,probe,1.0
+15,-1,baseline,baseline,,,baseline,baseline,baseline,
+16,54,주택구매자,주택담보대출,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+16,54,채무자,신용,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+16,54,사냥꾼,사냥허가증,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+16,54,손님,초대장,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+16,54,국민,복지급여,복지급여,정부,Recipient:Instrument (Korean Localized),CASE RELATIONS,probe,1.0
+17,59,고르다,선택하다,,,Synonymity (Korean Localized),SIMILAR,example,
+17,59,가연성의,인화성의,,,Synonymity (Korean Localized),SIMILAR,example,
+17,59,드레스,원피스,,,Synonymity (Korean Localized),SIMILAR,example,
+17,59,만들다,제조하다,,,Synonymity (Korean Localized),SIMILAR,example,
+17,59,엄마,어머니,이모,어머니,Synonymity (Korean Localized),SIMILAR,probe,2.0
+18,4,풀다,엉키다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+18,4,채우다,비다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+18,4,증폭하다,조용하다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+18,4,보상하다,마땅하다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+18,4,확대하다,작다,사진,작다,Action:Object Attribute (Korean Localized),ATTRIBUTE,probe,2.0
+19,-1,baseline,baseline,,,baseline,baseline,baseline,
+20,59,시작하다,개시하다,,,Synonymity (Korean Localized),SIMILAR,example,
+20,59,감옥,교도소,,,Synonymity (Korean Localized),SIMILAR,example,
+20,59,아프다,병들다,,,Synonymity (Korean Localized),SIMILAR,example,
+20,59,마르다,날씬하다,,,Synonymity (Korean Localized),SIMILAR,example,
+20,59,개울,시냇물,시냇물,다리,Synonymity (Korean Localized),SIMILAR,probe,1.0
+21,32,곡물,밀,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+21,32,식기,숟가락,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+21,32,지레,쇠지레,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+21,32,교통수단,버스,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+21,32,소스,케첩,병,케첩,Functional (Korean Localized),CLASS-INCLUSION,probe,2.0
+22,-1,baseline,baseline,,,baseline,baseline,baseline,
+23,54,회사,투자금,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+23,54,방문자,출입증,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+23,54,임대인,임대료,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+23,54,학생,자격증명서,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+23,54,식당손님,예약,예약,메뉴,Recipient:Instrument (Korean Localized),CASE RELATIONS,probe,1.0
+24,32,예술작품,조각,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+24,32,가전제품,오븐,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+24,32,비료,퇴비,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+24,32,가구,의자,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+24,32,약,아스피린,아스피린,열,Functional (Korean Localized),CLASS-INCLUSION,probe,1.0
+25,4,수리하다,고장나다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+25,4,버리다,쓸모없다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+25,4,치료하다,다치다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+25,4,교체하다,구식이다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+25,4,먹이다,배고프다,주방,배고프다,Action:Object Attribute (Korean Localized),ATTRIBUTE,probe,2.0

@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,7,drunk,intoxication,,,Agent Attribute:State,ATTRIBUTE,example,
+1,7,anxious,worry,,,Agent Attribute:State,ATTRIBUTE,example,
+1,7,insecure,doubt,,,Agent Attribute:State,ATTRIBUTE,example,
+1,7,smiling,pleasure,,,Agent Attribute:State,ATTRIBUTE,example,
+1,7,blushing,embarrassment,embarrassment,looking down,Agent Attribute:State,ATTRIBUTE,probe,1.0
+2,40,reef,diving,,,Location:Action/Activity,SPACE-TIME,example,
+2,40,auditorium,lecturing,,,Location:Action/Activity,SPACE-TIME,example,
+2,40,orchard,picking,,,Location:Action/Activity,SPACE-TIME,example,
+2,40,temple,meditating,,,Location:Action/Activity,SPACE-TIME,example,
+2,40,courthouse,judging,sentencing,judging,Location:Action/Activity,SPACE-TIME,probe,2.0
+3,30,net,volleyball,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+3,30,monitor,computer,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+3,30,oar,rowboat,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+3,30,antenna,radio,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+3,30,filter,aquarium,pump,aquarium,EnablingAgent:Object,CAUSE-PURPOSE,probe,2.0
+4,19,pod,whale,,,Collection:Member,PART-WHOLE,example,
+4,19,medley,tune,,,Collection:Member,PART-WHOLE,example,
+4,19,army,soldier,,,Collection:Member,PART-WHOLE,example,
+4,19,flock,bird,,,Collection:Member,PART-WHOLE,example,
+4,19,arsenal,weapon,weapon,fence,Collection:Member,PART-WHOLE,probe,1.0
+5,-1,baseline,baseline,,,baseline,baseline,baseline,
+6,40,laboratory,experimenting,,,Location:Action/Activity,SPACE-TIME,example,
+6,40,spa,relaxing,,,Location:Action/Activity,SPACE-TIME,example,
+6,40,market,selling,,,Location:Action/Activity,SPACE-TIME,example,
+6,40,voting booth,voting,,,Location:Action/Activity,SPACE-TIME,example,
+6,40,arcade,gaming,joysticks,gaming,Location:Action/Activity,SPACE-TIME,probe,2.0
+7,30,cue,billiards,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+7,30,electricity,stove,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+7,30,kerosene,heater,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+7,30,battery,phone,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+7,30,heat,sauna,sauna,steam,EnablingAgent:Object,CAUSE-PURPOSE,probe,1.0
+8,-1,baseline,baseline,,,baseline,baseline,baseline,
+9,40,greenhouse,cultivating,,,Location:Action/Activity,SPACE-TIME,example,
+9,40,cafeteria,eating,,,Location:Action/Activity,SPACE-TIME,example,
+9,40,stadium,sports,,,Location:Action/Activity,SPACE-TIME,example,
+9,40,brewery,brewing,,,Location:Action/Activity,SPACE-TIME,example,
+9,40,marina,sailing,sailing,docks,Location:Action/Activity,SPACE-TIME,probe,1.0
+10,30,reed,saxophone,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+10,30,paper,printer,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+10,30,coin,meter,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+10,30,spring,trampoline,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+10,30,coal,locomotive,coal car,locomotive,EnablingAgent:Object,CAUSE-PURPOSE,probe,2.0
+11,19,audience,spectator,,,Collection:Member,PART-WHOLE,example,
+11,19,chain,store,,,Collection:Member,PART-WHOLE,example,
+11,19,schedule,appointment,,,Collection:Member,PART-WHOLE,example,
+11,19,scale,note,,,Collection:Member,PART-WHOLE,example,
+11,19,directory,listing,listing,heading,Collection:Member,PART-WHOLE,probe,1.0
+12,-1,baseline,baseline,,,baseline,baseline,baseline,
+13,7,lonely,isolation,,,Agent Attribute:State,ATTRIBUTE,example,
+13,7,remorseful,regret,,,Agent Attribute:State,ATTRIBUTE,example,
+13,7,hostile,aggression,,,Agent Attribute:State,ATTRIBUTE,example,
+13,7,starving,hunger,,,Agent Attribute:State,ATTRIBUTE,example,
+13,7,messy,disarray,disarray,closet,Agent Attribute:State,ATTRIBUTE,probe,1.0
+14,19,choir,singer,,,Collection:Member,PART-WHOLE,example,
+14,19,caravan,camel,,,Collection:Member,PART-WHOLE,example,
+14,19,book,chapter,,,Collection:Member,PART-WHOLE,example,
+14,19,toolbox,tool,,,Collection:Member,PART-WHOLE,example,
+14,19,zoo,animal,animal,ticket,Collection:Member,PART-WHOLE,probe,1.0
+15,-1,baseline,baseline,,,baseline,baseline,baseline,
+16,30,harness,parachute,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+16,30,rope,pulley,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+16,30,wood,fireplace,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+16,30,wind,windmill,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+16,30,rain,crop,crop,soil,EnablingAgent:Object,CAUSE-PURPOSE,probe,1.0
+17,7,forlorn,desolation,,,Agent Attribute:State,ATTRIBUTE,example,
+17,7,devoted,dedication,,,Agent Attribute:State,ATTRIBUTE,example,
+17,7,envious,jealousy,,,Agent Attribute:State,ATTRIBUTE,example,
+17,7,loving,affection,,,Agent Attribute:State,ATTRIBUTE,example,
+17,7,nostalgic,longing,longing,photo,Agent Attribute:State,ATTRIBUTE,probe,1.0
+18,19,gaggle,goose,,,Collection:Member,PART-WHOLE,example,
+18,19,buffet,dish,,,Collection:Member,PART-WHOLE,example,
+18,19,paragraph,sentence,,,Collection:Member,PART-WHOLE,example,
+18,19,bundle,stick,,,Collection:Member,PART-WHOLE,example,
+18,19,bouquet,flower,vase,flower,Collection:Member,PART-WHOLE,probe,2.0
+19,40,observatory,stargazing,,,Location:Action/Activity,SPACE-TIME,example,
+19,40,store,shopping,,,Location:Action/Activity,SPACE-TIME,example,
+19,40,playground,swinging,,,Location:Action/Activity,SPACE-TIME,example,
+19,40,chapel,praying,,,Location:Action/Activity,SPACE-TIME,example,
+19,40,warehouse,storing,storing,stacking,Location:Action/Activity,SPACE-TIME,probe,1.0
+20,-1,baseline,baseline,,,baseline,baseline,baseline,
+21,7,defiant,rebellion,,,Agent Attribute:State,ATTRIBUTE,example,
+21,7,calm,tranquility,,,Agent Attribute:State,ATTRIBUTE,example,
+21,7,pensive,reflection,,,Agent Attribute:State,ATTRIBUTE,example,
+21,7,nervous,anxiety,,,Agent Attribute:State,ATTRIBUTE,example,
+21,7,morose,sadness,boredom,sadness,Agent Attribute:State,ATTRIBUTE,probe,2.0
+22,19,delegation,diplomat,,,Collection:Member,PART-WHOLE,example,
+22,19,litter,kitten,,,Collection:Member,PART-WHOLE,example,
+22,19,series,episode,,,Collection:Member,PART-WHOLE,example,
+22,19,constellation,star,,,Collection:Member,PART-WHOLE,example,
+22,19,curriculum,course,degree,course,Collection:Member,PART-WHOLE,probe,2.0
+23,40,school,learning,,,Location:Action/Activity,SPACE-TIME,example,
+23,40,laundromat,washing,,,Location:Action/Activity,SPACE-TIME,example,
+23,40,bakery,baking,,,Location:Action/Activity,SPACE-TIME,example,
+23,40,sidewalk,strolling,,,Location:Action/Activity,SPACE-TIME,example,
+23,40,airport,boarding,boarding,waiting,Location:Action/Activity,SPACE-TIME,probe,1.0
+24,7,panicked,terror,,,Agent Attribute:State,ATTRIBUTE,example,
+24,7,withdrawn,seclusion,,,Agent Attribute:State,ATTRIBUTE,example,
+24,7,lazy,indolence,,,Agent Attribute:State,ATTRIBUTE,example,
+24,7,furious,rage,,,Agent Attribute:State,ATTRIBUTE,example,
+24,7,thoughtful,contemplation,focus,contemplation,Agent Attribute:State,ATTRIBUTE,probe,2.0
+25,30,thread,loom,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+25,30,ice,skate,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+25,30,oxygen,fire,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+25,30,water,irrigation,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+25,30,helium,balloon,balloon,party,EnablingAgent:Object,CAUSE-PURPOSE,probe,1.0

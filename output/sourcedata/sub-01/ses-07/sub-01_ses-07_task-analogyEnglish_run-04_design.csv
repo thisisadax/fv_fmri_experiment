@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,9,lobbyist,legislation,,,Agent:Goal,CAUSE-PURPOSE,example,
+1,9,teacher,education,,,Agent:Goal,CAUSE-PURPOSE,example,
+1,9,brewer,beer,,,Agent:Goal,CAUSE-PURPOSE,example,
+1,9,immigrant,citizenship,,,Agent:Goal,CAUSE-PURPOSE,example,
+1,9,diplomat,treaty,treaty,envoy,Agent:Goal,CAUSE-PURPOSE,probe,1.0
+2,47,vase,porcelain,,,Object:Stuff,PART-WHOLE,example,
+2,47,shirt,cotton,,,Object:Stuff,PART-WHOLE,example,
+2,47,window,glass,,,Object:Stuff,PART-WHOLE,example,
+2,47,mattress,foam,,,Object:Stuff,PART-WHOLE,example,
+2,47,basket,wicker,fruit,wicker,Object:Stuff,PART-WHOLE,probe,2.0
+3,28,dolphin,porpoise,,,Dimensional Similarity,SIMILAR,example,
+3,28,frog,toad,,,Dimensional Similarity,SIMILAR,example,
+3,28,coffee,tea,,,Dimensional Similarity,SIMILAR,example,
+3,28,canoe,kayak,,,Dimensional Similarity,SIMILAR,example,
+3,28,sofa,couch,living room,couch,Dimensional Similarity,SIMILAR,probe,2.0
+4,-1,baseline,baseline,,,baseline,baseline,baseline,
+5,9,scientist,discovery,,,Agent:Goal,CAUSE-PURPOSE,example,
+5,9,entrepreneur,profit,,,Agent:Goal,CAUSE-PURPOSE,example,
+5,9,mediator,reconciliation,,,Agent:Goal,CAUSE-PURPOSE,example,
+5,9,castaway,rescue,,,Agent:Goal,CAUSE-PURPOSE,example,
+5,9,writer,publication,publication,editor,Agent:Goal,CAUSE-PURPOSE,probe,1.0
+6,28,guitar,banjo,,,Dimensional Similarity,SIMILAR,example,
+6,28,sadness,despair,,,Dimensional Similarity,SIMILAR,example,
+6,28,oak,maple,,,Dimensional Similarity,SIMILAR,example,
+6,28,plane,jet,,,Dimensional Similarity,SIMILAR,example,
+6,28,movie,film,film,director,Dimensional Similarity,SIMILAR,probe,1.0
+7,-1,baseline,baseline,,,baseline,baseline,baseline,
+8,27,flirt,harass,,,Dimensional Naughty,SIMILAR,example,
+8,27,warn,threaten,,,Dimensional Naughty,SIMILAR,example,
+8,27,watch,peep,,,Dimensional Naughty,SIMILAR,example,
+8,27,compete,cheat,,,Dimensional Naughty,SIMILAR,example,
+8,27,promote,spam,spam,publicize,Dimensional Naughty,SIMILAR,probe,1.0
+9,47,lawn,grass,,,Object:Stuff,PART-WHOLE,example,
+9,47,concrete,cement,,,Object:Stuff,PART-WHOLE,example,
+9,47,blanket,fleece,,,Object:Stuff,PART-WHOLE,example,
+9,47,roof,shingles,,,Object:Stuff,PART-WHOLE,example,
+9,47,pillow,feathers,bed,feathers,Object:Stuff,PART-WHOLE,probe,2.0
+10,9,gardener,bloom,,,Agent:Goal,CAUSE-PURPOSE,example,
+10,9,student,degree,,,Agent:Goal,CAUSE-PURPOSE,example,
+10,9,therapist,healing,,,Agent:Goal,CAUSE-PURPOSE,example,
+10,9,fisherman,catch,,,Agent:Goal,CAUSE-PURPOSE,example,
+10,9,addict,fix,fix,craving,Agent:Goal,CAUSE-PURPOSE,probe,1.0
+11,28,blanket,quilt,,,Dimensional Similarity,SIMILAR,example,
+11,28,wolf,coyote,,,Dimensional Similarity,SIMILAR,example,
+11,28,rose,tulip,,,Dimensional Similarity,SIMILAR,example,
+11,28,pond,lake,,,Dimensional Similarity,SIMILAR,example,
+11,28,piano,organ,bench,organ,Dimensional Similarity,SIMILAR,probe,2.0
+12,47,butter,cream,,,Object:Stuff,PART-WHOLE,example,
+12,47,road,asphalt,,,Object:Stuff,PART-WHOLE,example,
+12,47,sandcastle,sand,,,Object:Stuff,PART-WHOLE,example,
+12,47,beer,grain,,,Object:Stuff,PART-WHOLE,example,
+12,47,swarm,bees,bees,sting,Object:Stuff,PART-WHOLE,probe,1.0
+13,27,punish,torture,,,Dimensional Naughty,SIMILAR,example,
+13,27,charge,gouge,,,Dimensional Naughty,SIMILAR,example,
+13,27,drive,speed,,,Dimensional Naughty,SIMILAR,example,
+13,27,compliment,flatter,,,Dimensional Naughty,SIMILAR,example,
+13,27,use,exploit,exploit,tool,Dimensional Naughty,SIMILAR,probe,1.0
+14,9,farmer,harvest,,,Agent:Goal,CAUSE-PURPOSE,example,
+14,9,bodyguard,protection,,,Agent:Goal,CAUSE-PURPOSE,example,
+14,9,tutor,understanding,,,Agent:Goal,CAUSE-PURPOSE,example,
+14,9,prisoner,freedom,,,Agent:Goal,CAUSE-PURPOSE,example,
+14,9,programmer,software,laptop,software,Agent:Goal,CAUSE-PURPOSE,probe,2.0
+15,-1,baseline,baseline,,,baseline,baseline,baseline,
+16,28,turtle,tortoise,,,Dimensional Similarity,SIMILAR,example,
+16,28,clever,ingenious,,,Dimensional Similarity,SIMILAR,example,
+16,28,roast,char,,,Dimensional Similarity,SIMILAR,example,
+16,28,truck,van,,,Dimensional Similarity,SIMILAR,example,
+16,28,sedan,coupe,coupe,parked,Dimensional Similarity,SIMILAR,probe,1.0
+17,27,tax,extort,,,Dimensional Naughty,SIMILAR,example,
+17,27,edit,censor,,,Dimensional Naughty,SIMILAR,example,
+17,27,snack,binge,,,Dimensional Naughty,SIMILAR,example,
+17,27,tease,ridicule,,,Dimensional Naughty,SIMILAR,example,
+17,27,sell,scam,upsell,scam,Dimensional Naughty,SIMILAR,probe,2.0
+18,-1,baseline,baseline,,,baseline,baseline,baseline,
+19,47,stew,meat,,,Object:Stuff,PART-WHOLE,example,
+19,47,meal,courses,,,Object:Stuff,PART-WHOLE,example,
+19,47,tire,rubber,,,Object:Stuff,PART-WHOLE,example,
+19,47,yogurt,milk,,,Object:Stuff,PART-WHOLE,example,
+19,47,wall,bricks,bricks,wallpaper,Object:Stuff,PART-WHOLE,probe,1.0
+20,28,hate,detest,,,Dimensional Similarity,SIMILAR,example,
+20,28,whisper,murmur,,,Dimensional Similarity,SIMILAR,example,
+20,28,shove,push,,,Dimensional Similarity,SIMILAR,example,
+20,28,chimpanzee,gorilla,,,Dimensional Similarity,SIMILAR,example,
+20,28,house,cottage,cottage,neighborhood,Dimensional Similarity,SIMILAR,probe,1.0
+21,27,drink,slurp,,,Dimensional Naughty,SIMILAR,example,
+21,27,lead,dictate,,,Dimensional Naughty,SIMILAR,example,
+21,27,discipline,abuse,,,Dimensional Naughty,SIMILAR,example,
+21,27,push,shove,,,Dimensional Naughty,SIMILAR,example,
+21,27,debate,argue,discuss,argue,Dimensional Naughty,SIMILAR,probe,2.0
+22,-1,baseline,baseline,,,baseline,baseline,baseline,
+23,47,snowman,snow,,,Object:Stuff,PART-WHOLE,example,
+23,47,library,books,,,Object:Stuff,PART-WHOLE,example,
+23,47,bread,flour,,,Object:Stuff,PART-WHOLE,example,
+23,47,table,wood,,,Object:Stuff,PART-WHOLE,example,
+23,47,crowd,people,people,tickets,Object:Stuff,PART-WHOLE,probe,1.0
+24,27,defend,retaliate,,,Dimensional Naughty,SIMILAR,example,
+24,27,trade,swindle,,,Dimensional Naughty,SIMILAR,example,
+24,27,sign,forge,,,Dimensional Naughty,SIMILAR,example,
+24,27,remind,pester,,,Dimensional Naughty,SIMILAR,example,
+24,27,eat,gorge,gorge,plate,Dimensional Naughty,SIMILAR,probe,1.0
+25,9,soldier,victory,,,Agent:Goal,CAUSE-PURPOSE,example,
+25,9,traveler,destination,,,Agent:Goal,CAUSE-PURPOSE,example,
+25,9,photographer,image,,,Agent:Goal,CAUSE-PURPOSE,example,
+25,9,seamstress,dress,,,Agent:Goal,CAUSE-PURPOSE,example,
+25,9,artist,masterpiece,sketch,masterpiece,Agent:Goal,CAUSE-PURPOSE,probe,2.0

@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,31,clambake,clams,,,Event:Feature,PART-WHOLE,example,
+1,31,reunion,classmates,,,Event:Feature,PART-WHOLE,example,
+1,31,sleepover,pajamas,,,Event:Feature,PART-WHOLE,example,
+1,31,audition,actor,,,Event:Feature,PART-WHOLE,example,
+1,31,wedding,rings,corsage,rings,Event:Feature,PART-WHOLE,probe,2.0
+2,21,gentle,harsh,,,Contrary,CONTRAST,example,
+2,21,love,hate,,,Contrary,CONTRAST,example,
+2,21,safe,dangerous,,,Contrary,CONTRAST,example,
+2,21,fast,slow,,,Contrary,CONTRAST,example,
+2,21,joy,sorrow,sorrow,happiness,Contrary,CONTRAST,probe,1.0
+3,-1,baseline,baseline,,,baseline,baseline,baseline,
+4,27,hunt,poach,,,Dimensional Naughty,SIMILAR,example,
+4,27,listen,eavesdrop,,,Dimensional Naughty,SIMILAR,example,
+4,27,look,glare,,,Dimensional Naughty,SIMILAR,example,
+4,27,ask,interrogate,,,Dimensional Naughty,SIMILAR,example,
+4,27,copy,plagiarize,plagiarize,printer,Dimensional Naughty,SIMILAR,probe,1.0
+5,39,epidemiology,epidemics,,,Knowledge,REFERENCE,example,
+5,39,ophthalmology,eyes,,,Knowledge,REFERENCE,example,
+5,39,virology,viruses,,,Knowledge,REFERENCE,example,
+5,39,political science,government,,,Knowledge,REFERENCE,example,
+5,39,zoology,animals,safari,animals,Knowledge,REFERENCE,probe,2.0
+6,31,picnic,snacks,,,Event:Feature,PART-WHOLE,example,
+6,31,fair,cotton candy,,,Event:Feature,PART-WHOLE,example,
+6,31,dance,music,,,Event:Feature,PART-WHOLE,example,
+6,31,potluck,casserole,,,Event:Feature,PART-WHOLE,example,
+6,31,feast,wine,juice,wine,Event:Feature,PART-WHOLE,probe,2.0
+7,21,laugh,cry,,,Contrary,CONTRAST,example,
+7,21,dull,bright,,,Contrary,CONTRAST,example,
+7,21,active,passive,,,Contrary,CONTRAST,example,
+7,21,happy,sad,,,Contrary,CONTRAST,example,
+7,21,sleepy,awake,awake,drowsy,Contrary,CONTRAST,probe,1.0
+8,39,chemistry,elements,,,Knowledge,REFERENCE,example,
+8,39,mythology,myths,,,Knowledge,REFERENCE,example,
+8,39,oceanography,oceans,,,Knowledge,REFERENCE,example,
+8,39,archaeology,artifacts,,,Knowledge,REFERENCE,example,
+8,39,geometry,shapes,lines,shapes,Knowledge,REFERENCE,probe,2.0
+9,-1,baseline,baseline,,,baseline,baseline,baseline,
+10,27,offer,impose,,,Dimensional Naughty,SIMILAR,example,
+10,27,enter,intrude,,,Dimensional Naughty,SIMILAR,example,
+10,27,influence,manipulate,,,Dimensional Naughty,SIMILAR,example,
+10,27,push,shove,,,Dimensional Naughty,SIMILAR,example,
+10,27,sip,guzzle,guzzle,gulp,Dimensional Naughty,SIMILAR,probe,1.0
+11,21,wet,dry,,,Contrary,CONTRAST,example,
+11,21,build,destroy,,,Contrary,CONTRAST,example,
+11,21,optimistic,pessimistic,,,Contrary,CONTRAST,example,
+11,21,public,private,,,Contrary,CONTRAST,example,
+11,21,pretty,ugly,mirror,ugly,Contrary,CONTRAST,probe,2.0
+12,31,boxing match,gloves,,,Event:Feature,PART-WHOLE,example,
+12,31,magic show,magician,,,Event:Feature,PART-WHOLE,example,
+12,31,tournament,trophy,,,Event:Feature,PART-WHOLE,example,
+12,31,auction,auctioneer,,,Event:Feature,PART-WHOLE,example,
+12,31,fundraiser,donations,sponsors,donations,Event:Feature,PART-WHOLE,probe,2.0
+13,39,statistics,data,,,Knowledge,REFERENCE,example,
+13,39,psychology,behavior,,,Knowledge,REFERENCE,example,
+13,39,astronomy,stars,,,Knowledge,REFERENCE,example,
+13,39,history,past,,,Knowledge,REFERENCE,example,
+13,39,ornithology,birds,bats,birds,Knowledge,REFERENCE,probe,2.0
+14,21,salty,sweet,,,Contrary,CONTRAST,example,
+14,21,tall,short,,,Contrary,CONTRAST,example,
+14,21,give,take,,,Contrary,CONTRAST,example,
+14,21,hungry,full,,,Contrary,CONTRAST,example,
+14,21,loyal,treacherous,faithful,treacherous,Contrary,CONTRAST,probe,2.0
+15,-1,baseline,baseline,,,baseline,baseline,baseline,
+16,31,raffle,tickets,,,Event:Feature,PART-WHOLE,example,
+16,31,competition,athlete,,,Event:Feature,PART-WHOLE,example,
+16,31,baptism,priest,,,Event:Feature,PART-WHOLE,example,
+16,31,parade,floats,,,Event:Feature,PART-WHOLE,example,
+16,31,bonfire,marshmallows,marshmallows,tents,Event:Feature,PART-WHOLE,probe,1.0
+17,27,exaggerate,lie,,,Dimensional Naughty,SIMILAR,example,
+17,27,punish,torture,,,Dimensional Naughty,SIMILAR,example,
+17,27,encourage,pressure,,,Dimensional Naughty,SIMILAR,example,
+17,27,feed,poison,,,Dimensional Naughty,SIMILAR,example,
+17,27,pamper,spoil,ribbon,spoil,Dimensional Naughty,SIMILAR,probe,2.0
+18,-1,baseline,baseline,,,baseline,baseline,baseline,
+19,39,anthropology,humans,,,Knowledge,REFERENCE,example,
+19,39,hematology,blood,,,Knowledge,REFERENCE,example,
+19,39,theology,religion,,,Knowledge,REFERENCE,example,
+19,39,neurology,brain,,,Knowledge,REFERENCE,example,
+19,39,dermatology,skin,skin,sunscreen,Knowledge,REFERENCE,probe,1.0
+20,27,charge,gouge,,,Dimensional Naughty,SIMILAR,example,
+20,27,inquire,pry,,,Dimensional Naughty,SIMILAR,example,
+20,27,employ,enslave,,,Dimensional Naughty,SIMILAR,example,
+20,27,laugh,jeer,,,Dimensional Naughty,SIMILAR,example,
+20,27,defend,retaliate,counter,retaliate,Dimensional Naughty,SIMILAR,probe,2.0
+21,-1,baseline,baseline,,,baseline,baseline,baseline,
+22,21,rich,poor,,,Contrary,CONTRAST,example,
+22,21,start,finish,,,Contrary,CONTRAST,example,
+22,21,early,late,,,Contrary,CONTRAST,example,
+22,21,hot,cold,,,Contrary,CONTRAST,example,
+22,21,cheerful,gloomy,happy,gloomy,Contrary,CONTRAST,probe,2.0
+23,39,mathematics,numbers,,,Knowledge,REFERENCE,example,
+23,39,orthopedics,bones,,,Knowledge,REFERENCE,example,
+23,39,ethics,morality,,,Knowledge,REFERENCE,example,
+23,39,climatology,climate,,,Knowledge,REFERENCE,example,
+23,39,immunology,immunity,immunity,vaccines,Knowledge,REFERENCE,probe,1.0
+24,31,game,referee,,,Event:Feature,PART-WHOLE,example,
+24,31,birthday,candles,,,Event:Feature,PART-WHOLE,example,
+24,31,cocktail party,drinks,,,Event:Feature,PART-WHOLE,example,
+24,31,Easter,eggs,,,Event:Feature,PART-WHOLE,example,
+24,31,premiere,red carpet,red carpet,box office,Event:Feature,PART-WHOLE,probe,1.0
+25,27,lead,dictate,,,Dimensional Naughty,SIMILAR,example,
+25,27,drink,slurp,,,Dimensional Naughty,SIMILAR,example,
+25,27,manage,micromanage,,,Dimensional Naughty,SIMILAR,example,
+25,27,joke,mock,,,Dimensional Naughty,SIMILAR,example,
+25,27,give,bribe,donate,bribe,Dimensional Naughty,SIMILAR,probe,2.0

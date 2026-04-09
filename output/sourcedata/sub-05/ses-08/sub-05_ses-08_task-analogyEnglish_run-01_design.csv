@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,9,team,trophy,,,Agent:Goal,CAUSE-PURPOSE,example,
+1,9,negotiator,agreement,,,Agent:Goal,CAUSE-PURPOSE,example,
+1,9,seamstress,dress,,,Agent:Goal,CAUSE-PURPOSE,example,
+1,9,burglar,loot,,,Agent:Goal,CAUSE-PURPOSE,example,
+1,9,recruiter,hire,hire,phone call,Agent:Goal,CAUSE-PURPOSE,probe,1.0
+2,42,decade,years,,,Mass:Potion,PART-WHOLE,example,
+2,42,word,letters,,,Mass:Potion,PART-WHOLE,example,
+2,42,pound,ounce,,,Mass:Potion,PART-WHOLE,example,
+2,42,sand,grains,,,Mass:Potion,PART-WHOLE,example,
+2,42,series,episodes,trailers,episodes,Mass:Potion,PART-WHOLE,probe,2.0
+3,21,friend,enemy,,,Contrary,CONTRAST,example,
+3,21,proud,humble,,,Contrary,CONTRAST,example,
+3,21,optimistic,pessimistic,,,Contrary,CONTRAST,example,
+3,21,patient,impatient,,,Contrary,CONTRAST,example,
+3,21,salty,sweet,sweet,ocean,Contrary,CONTRAST,probe,1.0
+4,35,megaphone,amplify,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+4,35,tongs,grab,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+4,35,pliers,grip,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+4,35,chisel,carve,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+4,35,freezer,freeze,chill,freeze,Instrument:Intended Action,CAUSE-PURPOSE,probe,2.0
+5,-1,baseline,baseline,,,baseline,baseline,baseline,
+6,42,building,floors,,,Mass:Potion,PART-WHOLE,example,
+6,42,staircase,steps,,,Mass:Potion,PART-WHOLE,example,
+6,42,air,puff,,,Mass:Potion,PART-WHOLE,example,
+6,42,soup,spoonful,,,Mass:Potion,PART-WHOLE,example,
+6,42,library,books,shelves,books,Mass:Potion,PART-WHOLE,probe,2.0
+7,9,miser,wealth,,,Agent:Goal,CAUSE-PURPOSE,example,
+7,9,detective,truth,,,Agent:Goal,CAUSE-PURPOSE,example,
+7,9,fisherman,catch,,,Agent:Goal,CAUSE-PURPOSE,example,
+7,9,missionary,conversion,,,Agent:Goal,CAUSE-PURPOSE,example,
+7,9,diplomat,treaty,treaty,embassy,Agent:Goal,CAUSE-PURPOSE,probe,1.0
+8,-1,baseline,baseline,,,baseline,baseline,baseline,
+9,35,tweezers,pluck,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+9,35,spatula,flip,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+9,35,hose,spray,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+9,35,pan,fry,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+9,35,compass,navigate,navigate,orient,Instrument:Intended Action,CAUSE-PURPOSE,probe,1.0
+10,21,sleepy,awake,,,Contrary,CONTRAST,example,
+10,21,rural,urban,,,Contrary,CONTRAST,example,
+10,21,accept,reject,,,Contrary,CONTRAST,example,
+10,21,tame,wild,,,Contrary,CONTRAST,example,
+10,21,buy,sell,receipt,sell,Contrary,CONTRAST,probe,2.0
+11,-1,baseline,baseline,,,baseline,baseline,baseline,
+12,42,foot,inch,,,Mass:Potion,PART-WHOLE,example,
+12,42,corn,kernels,,,Mass:Potion,PART-WHOLE,example,
+12,42,minute,seconds,,,Mass:Potion,PART-WHOLE,example,
+12,42,city,neighborhoods,,,Mass:Potion,PART-WHOLE,example,
+12,42,deck,cards,cards,shuffling,Mass:Potion,PART-WHOLE,probe,1.0
+13,9,hunter,prey,,,Agent:Goal,CAUSE-PURPOSE,example,
+13,9,dancer,applause,,,Agent:Goal,CAUSE-PURPOSE,example,
+13,9,writer,publication,,,Agent:Goal,CAUSE-PURPOSE,example,
+13,9,teacher,education,,,Agent:Goal,CAUSE-PURPOSE,example,
+13,9,preacher,salvation,salvation,sermon,Agent:Goal,CAUSE-PURPOSE,probe,1.0
+14,-1,baseline,baseline,,,baseline,baseline,baseline,
+15,42,year,months,,,Mass:Potion,PART-WHOLE,example,
+15,42,forest,tree,,,Mass:Potion,PART-WHOLE,example,
+15,42,week,day,,,Mass:Potion,PART-WHOLE,example,
+15,42,song,notes,,,Mass:Potion,PART-WHOLE,example,
+15,42,cup,tablespoons,tablespoons,mugs,Mass:Potion,PART-WHOLE,probe,1.0
+16,21,wet,dry,,,Contrary,CONTRAST,example,
+16,21,temporary,permanent,,,Contrary,CONTRAST,example,
+16,21,wise,foolish,,,Contrary,CONTRAST,example,
+16,21,rough,smooth,,,Contrary,CONTRAST,example,
+16,21,raw,cooked,cooked,salad,Contrary,CONTRAST,probe,1.0
+17,35,airplane,fly,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+17,35,corkscrew,uncork,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+17,35,lever,lift,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+17,35,glue,bond,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+17,35,anchor,secure,dock,secure,Instrument:Intended Action,CAUSE-PURPOSE,probe,2.0
+18,9,christian,heaven,,,Agent:Goal,CAUSE-PURPOSE,example,
+18,9,programmer,software,,,Agent:Goal,CAUSE-PURPOSE,example,
+18,9,spy,information,,,Agent:Goal,CAUSE-PURPOSE,example,
+18,9,brewer,beer,,,Agent:Goal,CAUSE-PURPOSE,example,
+18,9,sculptor,statue,chisel,statue,Agent:Goal,CAUSE-PURPOSE,probe,2.0
+19,21,tight,loose,,,Contrary,CONTRAST,example,
+19,21,natural,artificial,,,Contrary,CONTRAST,example,
+19,21,open,close,,,Contrary,CONTRAST,example,
+19,21,deep,shallow,,,Contrary,CONTRAST,example,
+19,21,early,late,late,first,Contrary,CONTRAST,probe,1.0
+20,42,cake,slice,,,Mass:Potion,PART-WHOLE,example,
+20,42,garlic,cloves,,,Mass:Potion,PART-WHOLE,example,
+20,42,pomegranate,seeds,,,Mass:Potion,PART-WHOLE,example,
+20,42,bouquet,flowers,,,Mass:Potion,PART-WHOLE,example,
+20,42,keyboard,keys,keys,switches,Mass:Potion,PART-WHOLE,probe,1.0
+21,35,broom,sweep,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+21,35,shovel,dig,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+21,35,screwdriver,screw,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+21,35,sandpaper,smooth,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+21,35,net,catch,catch,scoop,Instrument:Intended Action,CAUSE-PURPOSE,probe,1.0
+22,21,sharp,blunt,,,Contrary,CONTRAST,example,
+22,21,honest,dishonest,,,Contrary,CONTRAST,example,
+22,21,peace,war,,,Contrary,CONTRAST,example,
+22,21,excited,bored,,,Contrary,CONTRAST,example,
+22,21,high,low,mountain,low,Contrary,CONTRAST,probe,2.0
+23,-1,baseline,baseline,,,baseline,baseline,baseline,
+24,35,lawnmower,mow,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+24,35,helmet,protect,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+24,35,funnel,pour,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+24,35,camera,photograph,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+24,35,razor,shave,shave,blade,Instrument:Intended Action,CAUSE-PURPOSE,probe,1.0
+25,9,lawyer,justice,,,Agent:Goal,CAUSE-PURPOSE,example,
+25,9,prospector,gold,,,Agent:Goal,CAUSE-PURPOSE,example,
+25,9,chef,meal,,,Agent:Goal,CAUSE-PURPOSE,example,
+25,9,nurse,recovery,,,Agent:Goal,CAUSE-PURPOSE,example,
+25,9,potter,vase,kiln,vase,Agent:Goal,CAUSE-PURPOSE,probe,2.0

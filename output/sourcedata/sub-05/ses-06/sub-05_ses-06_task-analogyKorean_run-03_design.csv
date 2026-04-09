@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,26,방문하다,스토킹하다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+1,26,이야기하다,뒷담화하다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+1,26,방어하다,보복하다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+1,26,돌보다,과하게챙기다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+1,26,홍보하다,스팸발송하다,스팸발송하다,세일,Dimensional Naughty (Korean Localized),SIMILAR,probe,1.0
+2,-1,baseline,baseline,,,baseline,baseline,baseline,
+3,42,학교,교육,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+3,42,제재소,목재,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+3,42,포도밭,포도,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+3,42,제분소,밀가루,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+3,42,강당,강연,좌석,강연,Location:Process/Product (Korean Localized),SPACE-TIME,probe,2.0
+4,26,서명하다,서명위조하다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+4,26,거래하다,사기치다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+4,26,바로잡다,호통치다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+4,26,간식먹다,폭식하다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+4,26,운전하다,과속하다,과속하다,고속도로,Dimensional Naughty (Korean Localized),SIMILAR,probe,1.0
+5,-1,baseline,baseline,,,baseline,baseline,baseline,
+6,63,치약,흰색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+6,63,연어,분홍색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+6,63,라벤더,보라색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+6,63,불,빨간색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+6,63,초콜릿,갈색,흰색,갈색,things - color (Korean Localized),Encyclopedic_semantics,probe,2.0
+7,17,정적,소음,,,Change (Korean Localized),SIMILAR,example,
+7,17,테러,두려움,,,Change (Korean Localized),SIMILAR,example,
+7,17,흐려지다,시야,,,Change (Korean Localized),SIMILAR,example,
+7,17,분노,짜증,,,Change (Korean Localized),SIMILAR,example,
+7,17,불어나다,강물,강물,물살,Change (Korean Localized),SIMILAR,probe,1.0
+8,42,바,칵테일,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+8,42,도축장,고기,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+8,42,온실,식물,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+8,42,증류소,위스키,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+8,42,와인양조장,와인,코르크,와인,Location:Process/Product (Korean Localized),SPACE-TIME,probe,2.0
+9,63,백조,흰색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+9,63,설탕,흰색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+9,63,자두,보라색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+9,63,오이,초록색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+9,63,플라밍고,분홍색,회색,분홍색,things - color (Korean Localized),Encyclopedic_semantics,probe,2.0
+10,17,고문,고통,,,Change (Korean Localized),SIMILAR,example,
+10,17,하강,고도,,,Change (Korean Localized),SIMILAR,example,
+10,17,누그러뜨리다,목소리,,,Change (Korean Localized),SIMILAR,example,
+10,17,격화,갈등,,,Change (Korean Localized),SIMILAR,example,
+10,17,넓히다,격차,격차,도로,Change (Korean Localized),SIMILAR,probe,1.0
+11,42,훈제실,육포,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+11,42,낙농장,우유,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+11,42,극장,연극,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+11,42,자궁,아기,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+11,42,인쇄소,책,종이,책,Location:Process/Product (Korean Localized),SPACE-TIME,probe,2.0
+12,26,베끼다,표절하다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+12,26,사용하다,착취하다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+12,26,과장하다,거짓말하다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+12,26,판매하다,사기치다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+12,26,바라보다,음흉하게쳐다보다,눈,음흉하게쳐다보다,Dimensional Naughty (Korean Localized),SIMILAR,probe,2.0
+13,63,달,흰색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+13,63,사과,빨간색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+13,63,제비꽃,보라색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+13,63,콜리플라워,흰색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+13,63,루비,빨간색,보라색,빨간색,things - color (Korean Localized),Encyclopedic_semantics,probe,2.0
+14,17,경감하다,부담,,,Change (Korean Localized),SIMILAR,example,
+14,17,사망,인구,,,Change (Korean Localized),SIMILAR,example,
+14,17,방음,소리,,,Change (Korean Localized),SIMILAR,example,
+14,17,밝히다,방,,,Change (Korean Localized),SIMILAR,example,
+14,17,줄이다,영향,속도,영향,Change (Korean Localized),SIMILAR,probe,2.0
+15,-1,baseline,baseline,,,baseline,baseline,baseline,
+16,63,체리,빨간색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+16,63,하늘,파란색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+16,63,분필,흰색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+16,63,청바지,파란색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+16,63,개구리,초록색,초록색,빨간색,things - color (Korean Localized),Encyclopedic_semantics,probe,1.0
+17,26,가르치다,사상주입하다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+17,26,고용하다,노예로부리다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+17,26,시위하다,폭동일으키다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+17,26,사냥하다,밀렵하다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+17,26,먹다,게걸스럽게먹다,부엌,게걸스럽게먹다,Dimensional Naughty (Korean Localized),SIMILAR,probe,2.0
+18,17,인출,예금,,,Change (Korean Localized),SIMILAR,example,
+18,17,인상하다,급여,,,Change (Korean Localized),SIMILAR,example,
+18,17,부족,공급,,,Change (Korean Localized),SIMILAR,example,
+18,17,고갈,비축량,,,Change (Korean Localized),SIMILAR,example,
+18,17,침식,해안선,방파제,해안선,Change (Korean Localized),SIMILAR,probe,2.0
+19,42,목화밭,목화,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+19,42,은행,대출,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+19,42,밭,쟁기질,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+19,42,정비소,수리,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+19,42,주방,음식,음식,셰프,Location:Process/Product (Korean Localized),SPACE-TIME,probe,1.0
+20,-1,baseline,baseline,,,baseline,baseline,baseline,
+21,26,편집하다,검열하다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+21,26,들어가다,침입하다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+21,26,주다,뇌물주다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+21,26,먹이다,강제로먹이다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+21,26,상기시키다,귀찮게하다,메모,귀찮게하다,Dimensional Naughty (Korean Localized),SIMILAR,probe,2.0
+22,42,병원,수술,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+22,42,카지노,도박,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+22,42,교회,예배,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+22,42,제강소,강철,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+22,42,호수,낚시,낚시,배,Location:Process/Product (Korean Localized),SPACE-TIME,probe,1.0
+23,17,입금,잔액,,,Change (Korean Localized),SIMILAR,example,
+23,17,바래다,사진,,,Change (Korean Localized),SIMILAR,example,
+23,17,바람이 빠지다,타이어,,,Change (Korean Localized),SIMILAR,example,
+23,17,좁히다,도로,,,Change (Korean Localized),SIMILAR,example,
+23,17,삭감하다,예산,직원,예산,Change (Korean Localized),SIMILAR,probe,2.0
+24,-1,baseline,baseline,,,baseline,baseline,baseline,
+25,63,아보카도,초록색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+25,63,수선화,노란색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+25,63,당근,주황색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+25,63,브로콜리,초록색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+25,63,소금,흰색,흰색,갈색,things - color (Korean Localized),Encyclopedic_semantics,probe,1.0

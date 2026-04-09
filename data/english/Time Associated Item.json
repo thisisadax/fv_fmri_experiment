@@ -1,0 +1,610 @@
+{
+  "source_dataset": "SemEval-2012",
+  "relation_category": "SPACE-TIME",
+  "relation_name": "Time Associated Item",
+  "relation_source": "Time Associated Item",
+  "num_relations_per_source": 1,
+  "relation_index": 1,
+  "n_clean_pairs": 85,
+  "n_original_pairs": 41,
+  "relation_description": "The second item is something characteristically associated with the time period, life stage, or occasion represented by the first item.",
+  "relation_pairs": [
+    "infancy:pacifier",
+    "infancy:bottle",
+    "toddler:tantrums",
+    "childhood:toys",
+    "childhood:crayon",
+    "girlhood:dolls",
+    "adolescence:acne",
+    "puberty:hormones",
+    "puberty:braces",
+    "youth:backpack",
+    "college:textbook",
+    "college:degree",
+    "adulthood:mortgage",
+    "adulthood:independence",
+    "parenthood:diapers",
+    "parenthood:sleeplessness",
+    "elderly:cane",
+    "retirement:pension",
+    "courtship:candy",
+    "pregnancy:ultrasound",
+    "death:coffin",
+    "promotion:raise",
+    "honeymoon:beach",
+    "middle age:gray hair",
+    "senior year:yearbook",
+    "morning:sunrise",
+    "morning:coffee",
+    "dawn:rooster",
+    "noon:lunch",
+    "afternoon:nap",
+    "evening:sunset",
+    "dusk:crickets",
+    "night:stars",
+    "midnight:owl",
+    "spring:flowers",
+    "spring:rain",
+    "summer:sunscreen",
+    "summer:swimsuit",
+    "fall:leaves",
+    "fall:pumpkins",
+    "winter:snow",
+    "winter:fireplace",
+    "Halloween:candy",
+    "Christmas:presents",
+    "Thanksgiving:turkey",
+    "Easter:eggs",
+    "birthday:cake",
+    "wedding:rings",
+    "graduation:cap",
+    "funeral:wreath",
+    "New Year's:fireworks",
+    "Valentine's Day:chocolate",
+    "Fourth of July:sparklers",
+    "Mardi Gras:beads",
+    "Hanukkah:menorah",
+    "Labor Day:barbecue",
+    "Super Bowl:commercials",
+    "bedtime:pajamas",
+    "recess:playground",
+    "rush hour:traffic",
+    "vacation:suitcase",
+    "lunchtime:sandwich",
+    "bathtime:bubbles",
+    "naptime:blanket",
+    "school:homework",
+    "student:dorm",
+    "weekday:commute",
+    "rainy day:umbrella",
+    "blizzard:shovel",
+    "storytime:book",
+    "halftime:snacks",
+    "prom:corsage",
+    "baby shower:rattle",
+    "spring cleaning:broom",
+    "happy hour:cocktails",
+    "summer camp:campfire",
+    "harvest:scarecrow",
+    "wartime:rations",
+    "moving day:boxes",
+    "tax season:receipts",
+    "flu season:tissues",
+    "election day:ballot",
+    "twilight:bats",
+    "drought:dust",
+    "Prohibition:speakeasy"
+  ],
+  "distractors": [
+    [
+      "toddler bed",
+      "training pants",
+      "lunchbox",
+      "car keys"
+    ],
+    [
+      "booster seat",
+      "training pants",
+      "lunchbox",
+      "briefcase"
+    ],
+    [
+      "homework",
+      "braces",
+      "locker",
+      "pension"
+    ],
+    [
+      "acne",
+      "degree",
+      "mortgage",
+      "cane"
+    ],
+    [
+      "lipstick",
+      "resume",
+      "wedding ring",
+      "reading glasses"
+    ],
+    [
+      "lip gloss",
+      "prom dress",
+      "driver's license",
+      "retirement card"
+    ],
+    [
+      "wrinkles",
+      "gray hair",
+      "walker",
+      "pacifier"
+    ],
+    [
+      "hot flashes",
+      "menopause",
+      "taxes",
+      "training wheels"
+    ],
+    [
+      "baby teeth",
+      "dentures",
+      "cane",
+      "crib"
+    ],
+    [
+      "briefcase",
+      "diaper bag",
+      "toolbox",
+      "cane"
+    ],
+    [
+      "yearbook",
+      "locker",
+      "prom ticket",
+      "pension"
+    ],
+    [
+      "high school diploma",
+      "report card",
+      "permission slip",
+      "tricycle"
+    ],
+    [
+      "pension",
+      "degree",
+      "toy box",
+      "pacifier"
+    ],
+    [
+      "curfew",
+      "retirement",
+      "homework",
+      "pacifier"
+    ],
+    [
+      "lunchbox",
+      "prom ticket",
+      "walker",
+      "pension"
+    ],
+    [
+      "jet lag",
+      "midterms",
+      "homework",
+      "cane"
+    ],
+    [
+      "crutches",
+      "stroller",
+      "tricycle",
+      "backpack"
+    ],
+    [
+      "paycheck",
+      "promotion",
+      "mortgage",
+      "training wheels"
+    ],
+    [
+      "engagement ring",
+      "vows",
+      "wedding cake",
+      "baby stroller"
+    ],
+    [
+      "x-ray",
+      "stethoscope",
+      "diapers",
+      "walker"
+    ],
+    [
+      "hospital wristband",
+      "wedding ring",
+      "birthday cake",
+      "pacifier"
+    ],
+    [
+      "transfer",
+      "retirement party",
+      "classroom",
+      "pacifier"
+    ],
+    [
+      "anniversary dinner",
+      "wedding vows",
+      "moving boxes",
+      "report card"
+    ],
+    [
+      "acne",
+      "braces",
+      "pacifier",
+      "textbook"
+    ],
+    [
+      "kindergarten",
+      "spelling test",
+      "recess",
+      "finger paints"
+    ],
+    [
+      "sunset",
+      "twilight",
+      "stars",
+      "pajamas"
+    ],
+    [
+      "nightcap",
+      "beer",
+      "sundae",
+      "pajamas"
+    ],
+    [
+      "owl",
+      "crickets",
+      "streetlights",
+      "pillow"
+    ],
+    [
+      "brunch",
+      "dinner",
+      "sunrise",
+      "pajamas"
+    ],
+    [
+      "sunrise",
+      "dinner",
+      "midnight snack",
+      "alarm clock"
+    ],
+    [
+      "sunrise",
+      "dawn",
+      "noon",
+      "pillow"
+    ],
+    [
+      "rooster",
+      "lunch",
+      "sunrise",
+      "pajamas"
+    ],
+    [
+      "sun",
+      "sunrise",
+      "noon",
+      "sunglasses"
+    ],
+    [
+      "rooster",
+      "sparrow",
+      "sun",
+      "beach ball"
+    ],
+    [
+      "snow",
+      "pumpkins",
+      "sunscreen",
+      "fireworks"
+    ],
+    [
+      "snow",
+      "sunburn",
+      "leaves",
+      "eggnog"
+    ],
+    [
+      "scarf",
+      "snow shovel",
+      "pumpkin",
+      "menorah"
+    ],
+    [
+      "parka",
+      "skis",
+      "scarecrow",
+      "turkey"
+    ],
+    [
+      "flowers",
+      "snowflakes",
+      "beach towel",
+      "fireworks"
+    ],
+    [
+      "eggs",
+      "snowman",
+      "bikini",
+      "sparklers"
+    ],
+    [
+      "flowers",
+      "sunburn",
+      "pumpkins",
+      "sparklers"
+    ],
+    [
+      "air conditioner",
+      "fire pit",
+      "beach ball",
+      "sunscreen"
+    ],
+    [
+      "pumpkin pie",
+      "fireworks",
+      "eggs",
+      "menorah"
+    ],
+    [
+      "menorah",
+      "turkey",
+      "fireworks",
+      "beads"
+    ],
+    [
+      "eggs",
+      "menorah",
+      "presents",
+      "shamrock"
+    ],
+    [
+      "pumpkin",
+      "presents",
+      "turkey",
+      "beads"
+    ],
+    [
+      "cap",
+      "corsage",
+      "rings",
+      "wreath"
+    ],
+    [
+      "tassel",
+      "balloons",
+      "turkey",
+      "eggs"
+    ],
+    [
+      "corsage",
+      "birthday cake",
+      "rings",
+      "wreath"
+    ],
+    [
+      "birthday candles",
+      "presents",
+      "balloons",
+      "confetti"
+    ],
+    [
+      "turkey",
+      "menorah",
+      "eggs",
+      "beads"
+    ],
+    [
+      "eggs",
+      "turkey",
+      "menorah",
+      "pumpkin"
+    ],
+    [
+      "pumpkin",
+      "presents",
+      "menorah",
+      "turkey"
+    ],
+    [
+      "eggs",
+      "sparklers",
+      "menorah",
+      "turkey"
+    ],
+    [
+      "eggs",
+      "shamrock",
+      "sparklers",
+      "pumpkin"
+    ],
+    [
+      "fireworks",
+      "beads",
+      "eggs",
+      "menorah"
+    ],
+    [
+      "fireworks",
+      "beads",
+      "eggs",
+      "menorah"
+    ],
+    [
+      "alarm clock",
+      "backpack",
+      "coffee",
+      "sunrise"
+    ],
+    [
+      "classroom",
+      "detention",
+      "homework",
+      "report card"
+    ],
+    [
+      "lunch",
+      "sunset",
+      "nightlife",
+      "pajamas"
+    ],
+    [
+      "moving boxes",
+      "briefcase",
+      "textbook",
+      "snow shovel"
+    ],
+    [
+      "pancakes",
+      "steak",
+      "cereal",
+      "ice cream"
+    ],
+    [
+      "sprinkler",
+      "pool",
+      "beach towel",
+      "pajamas"
+    ],
+    [
+      "alarm clock",
+      "homework",
+      "sunrise",
+      "soccer ball"
+    ],
+    [
+      "paycheck",
+      "mortgage",
+      "pension",
+      "diapers"
+    ],
+    [
+      "office",
+      "cubicle",
+      "nursery",
+      "retirement home"
+    ],
+    [
+      "weekend getaway",
+      "sleep in",
+      "barbecue",
+      "fireworks"
+    ],
+    [
+      "sunglasses",
+      "snow shovel",
+      "beach towel",
+      "sunscreen"
+    ],
+    [
+      "sunscreen",
+      "sandals",
+      "lawn mower",
+      "picnic basket"
+    ],
+    [
+      "chalkboard",
+      "soccer ball",
+      "piano",
+      "broom"
+    ],
+    [
+      "textbook",
+      "report card",
+      "passport",
+      "screwdriver"
+    ],
+    [
+      "cap",
+      "wedding ring",
+      "pumpkin",
+      "menorah"
+    ],
+    [
+      "wedding cake",
+      "corsage",
+      "cap",
+      "turkey"
+    ],
+    [
+      "snow shovel",
+      "lawn mower",
+      "pumpkin",
+      "sunscreen"
+    ],
+    [
+      "pancakes",
+      "oatmeal",
+      "orange juice",
+      "milk"
+    ],
+    [
+      "snowman",
+      "sled",
+      "stockings",
+      "eggs"
+    ],
+    [
+      "beach umbrella",
+      "snow shovel",
+      "eggs",
+      "sparklers"
+    ],
+    [
+      "honeymoon",
+      "birthday cake",
+      "beads",
+      "eggs"
+    ],
+    [
+      "suitcase",
+      "balloons",
+      "birthday cake",
+      "textbook"
+    ],
+    [
+      "fireworks",
+      "presents",
+      "eggs",
+      "balloons"
+    ],
+    [
+      "sunscreen",
+      "snow boots",
+      "flip-flops",
+      "sunglasses"
+    ],
+    [
+      "ticket",
+      "passport",
+      "invoice",
+      "coupon"
+    ],
+    [
+      "roosters",
+      "butterflies",
+      "sunrise",
+      "pajamas"
+    ],
+    [
+      "flood",
+      "snow",
+      "puddles",
+      "umbrella"
+    ],
+    [
+      "saloon",
+      "jukebox",
+      "disco ball",
+      "smartphone"
+    ]
+  ]
+}

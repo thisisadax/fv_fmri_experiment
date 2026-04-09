@@ -1,0 +1,638 @@
+{
+  "source_dataset": "SemEval-2012",
+  "relation_category": "PART-WHOLE",
+  "relation_name": "Creature:Possession",
+  "relation_source": "Creature:Possession",
+  "num_relations_per_source": 1,
+  "relation_index": 1,
+  "n_clean_pairs": 89,
+  "n_original_pairs": 41,
+  "relation_description": "The first item (X) possesses, owns, or has the second item (Y) as a belonging, content, or inherent part.",
+  "relation_pairs": [
+    "garden:vegetables",
+    "scholar:books",
+    "employee:job",
+    "expert:experience",
+    "mall:shops",
+    "library:books",
+    "teacher:students",
+    "doctor:degree",
+    "lawyer:clients",
+    "bird:feathers",
+    "investor:investments",
+    "mammal:hair",
+    "baker:bread",
+    "songwriter:lyrics",
+    "musician:music",
+    "jug:milk",
+    "bank:money",
+    "refinery:gas",
+    "proprietor:employees",
+    "mansion:rooms",
+    "homeowner:home",
+    "college:teachers",
+    "bird:wings",
+    "tree:bark",
+    "house:residents",
+    "mother:children",
+    "farmer:crops",
+    "word:letters",
+    "fish:scales",
+    "turtle:shell",
+    "cat:whiskers",
+    "dog:tail",
+    "lion:mane",
+    "porcupine:quills",
+    "elephant:trunk",
+    "deer:antlers",
+    "spider:web",
+    "lobster:claws",
+    "rabbit:fur",
+    "owl:talons",
+    "snake:fangs",
+    "museum:exhibits",
+    "hospital:patients",
+    "school:classrooms",
+    "hotel:guests",
+    "ocean:waves",
+    "forest:trees",
+    "zoo:animals",
+    "prison:inmates",
+    "theater:stage",
+    "restaurant:menu",
+    "pantry:food",
+    "closet:clothes",
+    "toolbox:tools",
+    "wallet:cash",
+    "orchard:fruit",
+    "barn:hay",
+    "aquarium:fish",
+    "kitchen:appliances",
+    "stadium:seats",
+    "car:engine",
+    "clock:hands",
+    "book:pages",
+    "flower:petals",
+    "guitar:strings",
+    "piano:keys",
+    "bicycle:wheels",
+    "shirt:buttons",
+    "computer:screen",
+    "fence:posts",
+    "umbrella:handle",
+    "artist:paintings",
+    "chef:recipes",
+    "pilot:license",
+    "author:manuscripts",
+    "judge:gavel",
+    "shepherd:flock",
+    "king:throne",
+    "cowboy:horse",
+    "soldier:uniform",
+    "captain:crew",
+    "rancher:cattle",
+    "company:products",
+    "team:players",
+    "orchestra:musicians",
+    "army:soldiers",
+    "fleet:ships",
+    "country:citizens",
+    "family:members"
+  ],
+  "distractors": [
+    [
+      "Butterflies",
+      "Watering can",
+      "Yard",
+      "Sunlight"
+    ],
+    [
+      "Lectures",
+      "Classroom",
+      "Seminars",
+      "Debates"
+    ],
+    [
+      "Boss",
+      "Company",
+      "Commute",
+      "Lunch break"
+    ],
+    [
+      "Advice",
+      "Audience",
+      "Field",
+      "Conference"
+    ],
+    [
+      "Shoppers",
+      "Bus stop",
+      "Food smells",
+      "Weekend crowd"
+    ],
+    [
+      "Patrons",
+      "Late fees",
+      "Silence",
+      "Story time"
+    ],
+    [
+      "Parents",
+      "Lessons",
+      "Homework",
+      "Bell"
+    ],
+    [
+      "Symptoms",
+      "Surgeries",
+      "Hospital",
+      "Waiting room"
+    ],
+    [
+      "Courtroom",
+      "Judge",
+      "Jury",
+      "Gavel"
+    ],
+    [
+      "Song",
+      "Flight",
+      "Sky",
+      "Tree"
+    ],
+    [
+      "Broker",
+      "Market",
+      "Risk",
+      "Charts"
+    ],
+    [
+      "Beak",
+      "Gills",
+      "Habitat",
+      "Forest"
+    ],
+    [
+      "Customers",
+      "Counter",
+      "Early mornings",
+      "Flour dust"
+    ],
+    [
+      "Concerts",
+      "Studio",
+      "Radio play",
+      "Tour bus"
+    ],
+    [
+      "Audience",
+      "Stage",
+      "Tour",
+      "Spotlight"
+    ],
+    [
+      "Fridge",
+      "Glass",
+      "Breakfast",
+      "Cereal"
+    ],
+    [
+      "Customers",
+      "Checkbooks",
+      "Credit scores",
+      "Paychecks"
+    ],
+    [
+      "Smoke",
+      "Tanker trucks",
+      "Flames",
+      "Coastline"
+    ],
+    [
+      "Customers",
+      "Suppliers",
+      "Sales",
+      "Ads"
+    ],
+    [
+      "Guests",
+      "Parties",
+      "Caterers",
+      "Music"
+    ],
+    [
+      "Landlord",
+      "Moving truck",
+      "Neighborhood",
+      "Yard sale"
+    ],
+    [
+      "Lectures",
+      "Textbooks",
+      "Admissions",
+      "School spirit"
+    ],
+    [
+      "Song",
+      "Flight",
+      "Sky",
+      "Branch"
+    ],
+    [
+      "Shade",
+      "Forest",
+      "Birds",
+      "Squirrel"
+    ],
+    [
+      "Owners",
+      "Neighbors",
+      "Mail",
+      "Street"
+    ],
+    [
+      "Husband",
+      "Babysitter",
+      "Bedtime stories",
+      "Playground"
+    ],
+    [
+      "Weather",
+      "Market",
+      "Harvest festival",
+      "Tractor noise"
+    ],
+    [
+      "Punctuation",
+      "Sentence",
+      "Alphabet",
+      "Page"
+    ],
+    [
+      "Water",
+      "Hooks",
+      "Reef",
+      "Bait"
+    ],
+    [
+      "Pond",
+      "Sand",
+      "Algae",
+      "Sunbeam"
+    ],
+    [
+      "Purr",
+      "Litter box",
+      "Yarn",
+      "Sofa"
+    ],
+    [
+      "Bark",
+      "Leash",
+      "Park",
+      "Yard"
+    ],
+    [
+      "Roar",
+      "Cave",
+      "Savanna",
+      "Zookeeper"
+    ],
+    [
+      "Forest",
+      "Bark",
+      "Night",
+      "Leaves"
+    ],
+    [
+      "Circus",
+      "Safari",
+      "Peanuts",
+      "Watering hole"
+    ],
+    [
+      "Forest",
+      "Hunter",
+      "Meadow",
+      "Headlights"
+    ],
+    [
+      "Corner",
+      "Fly",
+      "Ceiling",
+      "Halloween"
+    ],
+    [
+      "Ocean",
+      "Trap",
+      "Boil",
+      "Butter"
+    ],
+    [
+      "Hopping",
+      "Garden",
+      "Easter",
+      "Magic hat"
+    ],
+    [
+      "Night",
+      "Wisdom",
+      "Moon",
+      "Snowy forest"
+    ],
+    [
+      "Slither",
+      "Desert",
+      "Grass",
+      "Charmer"
+    ],
+    [
+      "Visitors",
+      "Cameras",
+      "Field trips",
+      "Field trip bus"
+    ],
+    [
+      "Illness",
+      "Waiting room",
+      "Family members",
+      "ER visit"
+    ],
+    [
+      "Bus stop",
+      "Tests",
+      "Recess",
+      "Backpacks"
+    ],
+    [
+      "Luggage",
+      "Breakfast",
+      "Check-in time",
+      "Tour bus"
+    ],
+    [
+      "Shore",
+      "Boats",
+      "Seagulls",
+      "Surfboards"
+    ],
+    [
+      "Rangers",
+      "Campers",
+      "Rain",
+      "Backpacks"
+    ],
+    [
+      "Visitors",
+      "Baby strollers",
+      "Field trips",
+      "Animal shows"
+    ],
+    [
+      "Visitors",
+      "Lawyers",
+      "Court dates",
+      "Sentences"
+    ],
+    [
+      "Audience",
+      "Curtain time",
+      "Showtime",
+      "Red carpet"
+    ],
+    [
+      "Customers",
+      "Wait time",
+      "Smells",
+      "Food truck"
+    ],
+    [
+      "Moths",
+      "Shopping list",
+      "Kitchen",
+      "Apron"
+    ],
+    [
+      "Mirror",
+      "Bedroom",
+      "Laundry day",
+      "Attic"
+    ],
+    [
+      "Garage",
+      "Workbench",
+      "Projects",
+      "Dust"
+    ],
+    [
+      "Pocket",
+      "Credit score",
+      "Counter",
+      "Shopping bag"
+    ],
+    [
+      "Pickers",
+      "Harvest season",
+      "Bees",
+      "Sunshine"
+    ],
+    [
+      "Farmhands",
+      "Dust",
+      "Mice",
+      "Moonlight"
+    ],
+    [
+      "Visitors",
+      "Guides",
+      "Bubbles",
+      "Field trip"
+    ],
+    [
+      "Chef",
+      "Recipes",
+      "Steam",
+      "Grocery bags"
+    ],
+    [
+      "Fans",
+      "Cheers",
+      "Tailgate",
+      "Jerseys"
+    ],
+    [
+      "Driver",
+      "Keys",
+      "Garage",
+      "Highway"
+    ],
+    [
+      "Wall",
+      "Time",
+      "Tick",
+      "Midnight"
+    ],
+    [
+      "Author",
+      "Shelf",
+      "Bookmark",
+      "Library"
+    ],
+    [
+      "Bees",
+      "Vase",
+      "Garden",
+      "Spring"
+    ],
+    [
+      "Pick",
+      "Amp",
+      "Song",
+      "Stage"
+    ],
+    [
+      "Bench",
+      "Sheet music",
+      "Recital",
+      "Tuner"
+    ],
+    [
+      "Helmet",
+      "Rider",
+      "Road",
+      "Bike rack"
+    ],
+    [
+      "Hanger",
+      "Iron",
+      "Laundry",
+      "Closet"
+    ],
+    [
+      "User",
+      "Internet",
+      "Desk",
+      "Coffee mug"
+    ],
+    [
+      "Yard",
+      "Neighbor",
+      "Border",
+      "Dog"
+    ],
+    [
+      "Rain",
+      "Pocket",
+      "Storm",
+      "Coat"
+    ],
+    [
+      "Gallery",
+      "Studio",
+      "Critics",
+      "Auction"
+    ],
+    [
+      "Kitchen",
+      "Diners",
+      "Cooking show",
+      "Reservation"
+    ],
+    [
+      "Airplane",
+      "Runway",
+      "Control tower",
+      "Clouds"
+    ],
+    [
+      "Publisher",
+      "Book tour",
+      "Typing",
+      "Library"
+    ],
+    [
+      "Bench",
+      "Jury",
+      "Verdict",
+      "Lawyer"
+    ],
+    [
+      "Pasture",
+      "Hillside",
+      "Weather",
+      "Campfire"
+    ],
+    [
+      "Queen",
+      "Coronation",
+      "Royal decree",
+      "Parade"
+    ],
+    [
+      "Ranch",
+      "Cattle drive",
+      "Campfire",
+      "Dust"
+    ],
+    [
+      "Boot camp",
+      "Barracks",
+      "Orders",
+      "War zone"
+    ],
+    [
+      "Ship",
+      "Bridge",
+      "Compass",
+      "Harbor"
+    ],
+    [
+      "Prairie",
+      "Auction",
+      "Dust storms",
+      "County fair"
+    ],
+    [
+      "Customers",
+      "Meetings",
+      "Deadlines",
+      "Office gossip"
+    ],
+    [
+      "Fans",
+      "Practice",
+      "Pep rally",
+      "Stadium lights"
+    ],
+    [
+      "Audience",
+      "Rehearsal",
+      "Concert hall",
+      "Applause"
+    ],
+    [
+      "Draft",
+      "Training",
+      "Orders",
+      "Parade"
+    ],
+    [
+      "Dock",
+      "Ocean",
+      "Storms",
+      "Harbor lights"
+    ],
+    [
+      "Tourists",
+      "Immigrants",
+      "Refugees",
+      "World map"
+    ],
+    [
+      "Neighbors",
+      "Holidays",
+      "Reunion",
+      "Vacation"
+    ]
+  ]
+}

@@ -1,0 +1,1209 @@
+{
+  "source_dataset": "SemEval-2012",
+  "relation_category": "ATTRIBUTE",
+  "relation_name": "Object Attribute:Condition (Korean Localized)",
+  "relation_source": "Object Attribute:Condition",
+  "num_relations_per_source": 1,
+  "relation_index": 1,
+  "n_clean_pairs": 85,
+  "n_original_pairs": 40,
+  "relation_description": "A relation where the first item is an attribute or property, and the second item is a condition or state that something with that attribute may end up in or be subjected to. (Korean localized stimuli)",
+  "relation_pairs": [
+    "착용 가능하다:해지다",
+    "망가지다:수리되다",
+    "향기롭다:냄새나다",
+    "차갑다:얼다",
+    "먼지투성이다:먼지를 털다",
+    "방황하다:길을 잃다",
+    "가볍다:들다",
+    "유연하다:휘어지다",
+    "부드럽다:껴안기다",
+    "인화성이 있다:불붙다",
+    "아프다:치료되다",
+    "고칠 수 있다:고쳐지다",
+    "나무 재질이다:불타다",
+    "탄성이 있다:늘어나다",
+    "깨지기 쉽다:손상되다",
+    "온전하다:반으로 나뉘다",
+    "잘 휘다:비틀리다",
+    "깨끗하다:더러워지다",
+    "가능하다:완료되다",
+    "다치다:죽다",
+    "잘 부서지다:금가다",
+    "날카롭다:무뎌지다",
+    "미끄럽다:떨어뜨리다",
+    "무겁다:끌다",
+    "거칠다:사포질하다",
+    "흡수성이 있다:흠뻑 젖다",
+    "젖다:마르다",
+    "뜨겁다:식다",
+    "얼다:녹다",
+    "익다:따다",
+    "날것이다:익히다",
+    "눅눅하다:버리다",
+    "먹을 수 있다:먹히다",
+    "상하기 쉽다:상하다",
+    "더럽다:청소되다",
+    "녹슬다:닦이다",
+    "구겨지다:다림질되다",
+    "엉키다:빗질되다",
+    "무디다:갈리다",
+    "바래다:복원되다",
+    "납작하다:부풀다",
+    "비다:채워지다",
+    "가득하다:비워지다",
+    "느슨하다:조여지다",
+    "빡빡하다:풀리다",
+    "눈에 보이다:목격되다",
+    "들을 수 있다:들리다",
+    "읽을 수 있다:읽히다",
+    "휴대 가능하다:옮겨지다",
+    "세탁 가능하다:세탁되다",
+    "깨지기 쉽다:깨지다",
+    "살 만하다:구매되다",
+    "귀중하다:도난당하다",
+    "일회용이다:버려지다",
+    "조절 가능하다:조정되다",
+    "접을 수 있다:접히다",
+    "분리 가능하다:떼어지다",
+    "재활용 가능하다:재활용되다",
+    "물에 잘 녹다:용해되다",
+    "얇다:찢어지다",
+    "기억에 남다:기억되다",
+    "잊기 쉽다:잊히다",
+    "성형하기 쉽다:모양이 잡히다",
+    "매력적이다:칭찬받다",
+    "위험하다:피하다",
+    "지루하다:건너뛰다",
+    "전염성이 있다:격리되다",
+    "배고프다:먹다",
+    "이용 가능하다:가져가다",
+    "희귀하다:탐내다",
+    "풍부하다:낭비되다",
+    "싸다:사다",
+    "길다:짧아지다",
+    "휘다:펴지다",
+    "찢어지다:수선되다",
+    "얼룩지다:표백되다",
+    "매듭지다:풀리다",
+    "흩어지다:모아지다",
+    "섞이다:분리되다",
+    "구식이다:업데이트되다",
+    "복잡하다:단순해지다",
+    "새다:땜질되다",
+    "열리다:들어가다",
+    "인기 있다:모방되다",
+    "약하다:패배하다"
+  ],
+  "distractors": [
+    [
+      "입다",
+      "꽂히다",
+      "옷",
+      "옷장"
+    ],
+    [
+      "수리하다",
+      "삭제되다",
+      "손상",
+      "공구함"
+    ],
+    [
+      "냄새 맡다",
+      "맛보다",
+      "향수",
+      "꽃"
+    ],
+    [
+      "얼다",
+      "끓이다",
+      "얼음",
+      "겨울"
+    ],
+    [
+      "먼지를 털다",
+      "칠하다",
+      "가루",
+      "선반"
+    ],
+    [
+      "잃다",
+      "일시정지되다",
+      "여행",
+      "길"
+    ],
+    [
+      "나르다",
+      "상자에 담다",
+      "무게가 없다",
+      "배낭"
+    ],
+    [
+      "굽히다",
+      "부러지다",
+      "잘 늘어나다",
+      "요가"
+    ],
+    [
+      "껴안다",
+      "썰다",
+      "베개",
+      "침대"
+    ],
+    [
+      "불을 붙이다",
+      "흠뻑 젖다",
+      "연료",
+      "성냥"
+    ],
+    [
+      "치료하다",
+      "무시하다",
+      "질병",
+      "병원"
+    ],
+    [
+      "고치다",
+      "녹다",
+      "수리",
+      "작업장"
+    ],
+    [
+      "불타다",
+      "녹다",
+      "목재",
+      "벽난로"
+    ],
+    [
+      "늘리다",
+      "얼다",
+      "고무",
+      "허리밴드"
+    ],
+    [
+      "손상시키다",
+      "늘어나다",
+      "유리",
+      "뽁뽁이"
+    ],
+    [
+      "반으로 자르다",
+      "멍들다",
+      "완전하다",
+      "칼"
+    ],
+    [
+      "비틀다",
+      "산산조각나다",
+      "유연하다",
+      "철사"
+    ],
+    [
+      "더럽히다",
+      "칠하다",
+      "비누",
+      "세면대"
+    ],
+    [
+      "하다",
+      "무시하다",
+      "가능하다",
+      "체크리스트"
+    ],
+    [
+      "죽다",
+      "회복되다",
+      "부상",
+      "전쟁터"
+    ],
+    [
+      "금가다",
+      "녹다",
+      "섬세하다",
+      "겨울"
+    ],
+    [
+      "무디게 하다",
+      "닦다",
+      "칼날",
+      "칼갈이"
+    ],
+    [
+      "떨어뜨리다",
+      "청소하다",
+      "미끄럽다",
+      "바닥"
+    ],
+    [
+      "끌다",
+      "뜨다",
+      "무겁다",
+      "손수레"
+    ],
+    [
+      "사포질하다",
+      "유광 처리되다",
+      "거칠다",
+      "사포"
+    ],
+    [
+      "담그다",
+      "얼다",
+      "스펀지",
+      "세면대"
+    ],
+    [
+      "말리다",
+      "칠하다",
+      "물",
+      "수건"
+    ],
+    [
+      "식히다",
+      "얼다",
+      "열",
+      "오븐"
+    ],
+    [
+      "녹이다",
+      "익히다",
+      "얼음",
+      "냉동실"
+    ],
+    [
+      "따다",
+      "심다",
+      "수확",
+      "과수원"
+    ],
+    [
+      "요리하다",
+      "타버리다",
+      "익지 않다",
+      "주방"
+    ],
+    [
+      "버리다",
+      "봉인되다",
+      "오래되다",
+      "빵집"
+    ],
+    [
+      "먹다",
+      "심다",
+      "음식",
+      "접시"
+    ],
+    [
+      "상하다",
+      "끓이다",
+      "유통기한",
+      "냉장고"
+    ],
+    [
+      "청소하다",
+      "칠하다",
+      "때",
+      "비누"
+    ],
+    [
+      "닦다",
+      "얼다",
+      "금속",
+      "차고"
+    ],
+    [
+      "다림질하다",
+      "단추를 잠그다",
+      "주름",
+      "옷걸이"
+    ],
+    [
+      "빗질하다",
+      "땋다",
+      "매듭",
+      "솔"
+    ],
+    [
+      "갈다",
+      "청소하다",
+      "무디다",
+      "서랍"
+    ],
+    [
+      "복원하다",
+      "재인쇄되다",
+      "색",
+      "햇빛"
+    ],
+    [
+      "공기를 넣다",
+      "접히다",
+      "타이어",
+      "펌프"
+    ],
+    [
+      "채우다",
+      "봉인되다",
+      "비어 있다",
+      "용기"
+    ],
+    [
+      "비우다",
+      "봉인되다",
+      "가득 차다",
+      "양동이"
+    ],
+    [
+      "조이다",
+      "붙이다",
+      "느슨하다",
+      "나사"
+    ],
+    [
+      "풀다",
+      "늘어나다",
+      "딱 맞다",
+      "벨트"
+    ],
+    [
+      "보다",
+      "숨겨지다",
+      "투명하다",
+      "창문"
+    ],
+    [
+      "듣다",
+      "음소거되다",
+      "시끄럽다",
+      "스피커"
+    ],
+    [
+      "읽다",
+      "말하다",
+      "읽기 쉽다",
+      "책"
+    ],
+    [
+      "옮기다",
+      "꽂히다",
+      "가볍다",
+      "여행가방"
+    ],
+    [
+      "세탁하다",
+      "칠하다",
+      "세제",
+      "빨래"
+    ],
+    [
+      "깨지다",
+      "고쳐지다",
+      "유리",
+      "완충재"
+    ],
+    [
+      "구매하다",
+      "임대하다",
+      "싸다",
+      "예산"
+    ],
+    [
+      "훔치다",
+      "녹다",
+      "보물",
+      "금고"
+    ],
+    [
+      "버리다",
+      "불타다",
+      "쓰레기",
+      "쓰레기통"
+    ],
+    [
+      "수정하다",
+      "잠기다",
+      "설정",
+      "다이얼"
+    ],
+    [
+      "접다",
+      "부풀다",
+      "텐트",
+      "보관함"
+    ],
+    [
+      "떼다",
+      "붙다",
+      "클립",
+      "자석"
+    ],
+    [
+      "재활용하다",
+      "칠하다",
+      "병",
+      "보도턱"
+    ],
+    [
+      "녹다",
+      "얼다",
+      "설탕",
+      "물"
+    ],
+    [
+      "찢다",
+      "쌓이다",
+      "얇다",
+      "종이"
+    ],
+    [
+      "기억하다",
+      "잊히다",
+      "잊을 수 없다",
+      "이야기"
+    ],
+    [
+      "잊다",
+      "알아차리다",
+      "무디다",
+      "메모"
+    ],
+    [
+      "모양을 만들다",
+      "금가다",
+      "부드럽다",
+      "찰흙"
+    ],
+    [
+      "감탄하다",
+      "무시하다",
+      "예쁘다",
+      "사진"
+    ],
+    [
+      "피하다",
+      "장식되다",
+      "위험하다",
+      "경고"
+    ],
+    [
+      "건너뛰다",
+      "평가되다",
+      "지루하다",
+      "강의"
+    ],
+    [
+      "격리하다",
+      "치료되다",
+      "전염성이다",
+      "마스크"
+    ],
+    [
+      "먹이다",
+      "무시하다",
+      "식욕",
+      "주방"
+    ],
+    [
+      "가져가다",
+      "숨겨지다",
+      "무료이다",
+      "선반"
+    ],
+    [
+      "탐내다",
+      "흔하다",
+      "희소하다",
+      "박물관"
+    ],
+    [
+      "낭비하다",
+      "절약하다",
+      "풍부하다",
+      "수확"
+    ],
+    [
+      "사다",
+      "무시하다",
+      "저렴하다",
+      "세일"
+    ],
+    [
+      "줄이다",
+      "늘어나다",
+      "길다",
+      "줄자"
+    ],
+    [
+      "펴다",
+      "칠하다",
+      "휘다",
+      "자"
+    ],
+    [
+      "수선하다",
+      "빨다",
+      "찢어진 곳",
+      "바늘"
+    ],
+    [
+      "표백하다",
+      "다림질하다",
+      "얼룩",
+      "빨래"
+    ],
+    [
+      "풀다",
+      "닦다",
+      "밧줄",
+      "신발끈"
+    ],
+    [
+      "모으다",
+      "무시하다",
+      "흩어지다",
+      "빗자루"
+    ],
+    [
+      "분리하다",
+      "데우다",
+      "혼합물",
+      "그릇"
+    ],
+    [
+      "업데이트하다",
+      "삭제되다",
+      "오래되다",
+      "소프트웨어"
+    ],
+    [
+      "단순화하다",
+      "확장되다",
+      "복잡하다",
+      "퍼즐"
+    ],
+    [
+      "땜질하다",
+      "칠하다",
+      "구멍",
+      "양동이"
+    ],
+    [
+      "들어가다",
+      "닫히다",
+      "잠금해제되다",
+      "문"
+    ],
+    [
+      "베끼다",
+      "고용되다",
+      "유행하다",
+      "군중"
+    ],
+    [
+      "이기다",
+      "훈련되다",
+      "허약하다",
+      "경기"
+    ]
+  ],
+  "english_pairs": [
+    "wearable:become worn out",
+    "broken:be repaired",
+    "fragrant:smell (emit odor) (IMPERFECT TRANSLATION)",
+    "cold:freeze",
+    "dusty:be dusted off",
+    "wandering:get lost",
+    "lightweight:be carried",
+    "flexible:be bent",
+    "soft:be cuddled",
+    "flammable:catch fire",
+    "sick:be cured",
+    "reparable:be fixed",
+    "wooden:burn",
+    "elastic:stretch",
+    "fragile:be damaged",
+    "whole:be halved",
+    "pliable:be twisted",
+    "clean:become dirty",
+    "doable:be completed",
+    "wounded:die",
+    "brittle:crack",
+    "sharp:become dull",
+    "slippery:be dropped",
+    "heavy:be dragged",
+    "rough:be sanded",
+    "absorbent:get soaked",
+    "wet:dry",
+    "hot:cool down",
+    "frozen:thaw",
+    "ripe:be picked",
+    "raw:be cooked",
+    "stale:be thrown away",
+    "edible:be eaten",
+    "perishable:spoil",
+    "dirty:be cleaned",
+    "rusty:be polished",
+    "wrinkled:be ironed",
+    "tangled:be combed",
+    "dull:be sharpened",
+    "faded:be restored",
+    "flat:be inflated",
+    "empty:be filled",
+    "full:be emptied",
+    "loose:be tightened",
+    "tight:be loosened",
+    "visible:be seen",
+    "audible:be heard",
+    "readable:be read",
+    "portable:be moved",
+    "washable:be laundered",
+    "breakable:break",
+    "affordable:be purchased",
+    "valuable:be stolen",
+    "disposable:be discarded",
+    "adjustable:be adjusted",
+    "collapsible:be folded",
+    "detachable:be removed",
+    "recyclable:be recycled",
+    "soluble:be dissolved",
+    "thin:tear",
+    "memorable:be remembered",
+    "forgettable:be forgotten",
+    "malleable:be shaped",
+    "attractive:be admired",
+    "dangerous:be avoided",
+    "boring:be skipped",
+    "contagious:be quarantined",
+    "hungry:eat (IMPERFECT TRANSLATION)",
+    "available:be taken",
+    "rare:be coveted",
+    "abundant:be wasted",
+    "cheap:be bought",
+    "long:be shortened",
+    "crooked:be straightened",
+    "torn:be mended",
+    "stained:be bleached",
+    "knotted:be untied",
+    "scattered:be collected",
+    "mixed:be separated",
+    "outdated:be updated",
+    "complicated:be simplified",
+    "leaky:be patched",
+    "open:be entered",
+    "popular:be copied",
+    "weak:be defeated"
+  ],
+  "english_distractors": [
+    [
+      "wearing",
+      "plugged",
+      "clothing",
+      "closet"
+    ],
+    [
+      "repairing",
+      "deleted",
+      "damage",
+      "toolbox"
+    ],
+    [
+      "smelling",
+      "tasted",
+      "perfume",
+      "flowers"
+    ],
+    [
+      "freezing",
+      "boiled",
+      "ice",
+      "winter"
+    ],
+    [
+      "dusting",
+      "painted",
+      "powder",
+      "shelf"
+    ],
+    [
+      "losing",
+      "paused",
+      "travel",
+      "road"
+    ],
+    [
+      "carrying",
+      "boxed",
+      "weightless",
+      "backpack"
+    ],
+    [
+      "bending",
+      "snapped",
+      "stretchy",
+      "yoga"
+    ],
+    [
+      "cuddling",
+      "sliced",
+      "pillow",
+      "bed"
+    ],
+    [
+      "lighting",
+      "soaked",
+      "fuel",
+      "match"
+    ],
+    [
+      "curing",
+      "ignored",
+      "illness",
+      "hospital"
+    ],
+    [
+      "fixing",
+      "melted",
+      "repair",
+      "workshop"
+    ],
+    [
+      "burning",
+      "melted",
+      "timber",
+      "fireplace"
+    ],
+    [
+      "stretching",
+      "frozen",
+      "rubber",
+      "waistband"
+    ],
+    [
+      "damaging",
+      "stretched",
+      "glass",
+      "bubble wrap"
+    ],
+    [
+      "halving",
+      "bruised",
+      "complete",
+      "knife"
+    ],
+    [
+      "twisting",
+      "shattered",
+      "flexible",
+      "wire"
+    ],
+    [
+      "dirtying",
+      "painted",
+      "soap",
+      "sink"
+    ],
+    [
+      "doing",
+      "ignored",
+      "possible",
+      "checklist"
+    ],
+    [
+      "dying",
+      "healed",
+      "injury",
+      "battlefield"
+    ],
+    [
+      "cracking",
+      "melted",
+      "delicate",
+      "winter"
+    ],
+    [
+      "dulling",
+      "polished",
+      "blade",
+      "sharpener"
+    ],
+    [
+      "dropping",
+      "cleaned",
+      "slick",
+      "floor"
+    ],
+    [
+      "dragging",
+      "floated",
+      "weighty",
+      "cart"
+    ],
+    [
+      "sanding",
+      "glazed",
+      "coarse",
+      "sandpaper"
+    ],
+    [
+      "soaking",
+      "frozen",
+      "sponge",
+      "sink"
+    ],
+    [
+      "drying",
+      "painted",
+      "water",
+      "towel"
+    ],
+    [
+      "cooling",
+      "frozen",
+      "heat",
+      "oven"
+    ],
+    [
+      "thawing",
+      "cooked",
+      "ice",
+      "freezer"
+    ],
+    [
+      "picking",
+      "planted",
+      "harvest",
+      "orchard"
+    ],
+    [
+      "cooking",
+      "burned",
+      "uncooked",
+      "kitchen"
+    ],
+    [
+      "tossing",
+      "sealed",
+      "old",
+      "bakery"
+    ],
+    [
+      "eating",
+      "planted",
+      "food",
+      "plate"
+    ],
+    [
+      "spoiling",
+      "boiled",
+      "expiration",
+      "fridge"
+    ],
+    [
+      "cleaning",
+      "painted",
+      "grime",
+      "soap"
+    ],
+    [
+      "polishing",
+      "frozen",
+      "metal",
+      "garage"
+    ],
+    [
+      "ironing",
+      "buttoned",
+      "crease",
+      "hanger"
+    ],
+    [
+      "combing",
+      "braided",
+      "knot",
+      "brush"
+    ],
+    [
+      "sharpening",
+      "cleaned",
+      "blunt",
+      "drawer"
+    ],
+    [
+      "restoring",
+      "reprinted",
+      "color",
+      "sunlight"
+    ],
+    [
+      "inflating",
+      "folded",
+      "tire",
+      "pump"
+    ],
+    [
+      "filling",
+      "sealed",
+      "vacant",
+      "container"
+    ],
+    [
+      "emptying",
+      "sealed",
+      "packed",
+      "bucket"
+    ],
+    [
+      "tightening",
+      "glued",
+      "slack",
+      "screw"
+    ],
+    [
+      "loosening",
+      "stretched",
+      "snug",
+      "belt"
+    ],
+    [
+      "seeing",
+      "hidden",
+      "clear",
+      "window"
+    ],
+    [
+      "hearing",
+      "muted",
+      "loud",
+      "speaker"
+    ],
+    [
+      "reading",
+      "spoken",
+      "legible",
+      "book"
+    ],
+    [
+      "moving",
+      "plugged",
+      "lightweight",
+      "suitcase"
+    ],
+    [
+      "laundering",
+      "painted",
+      "detergent",
+      "laundry"
+    ],
+    [
+      "breaking",
+      "fixed",
+      "glass",
+      "padding"
+    ],
+    [
+      "purchasing",
+      "rented",
+      "cheap",
+      "budget"
+    ],
+    [
+      "stealing",
+      "melted",
+      "treasure",
+      "safe"
+    ],
+    [
+      "discarding",
+      "burned",
+      "trash",
+      "bin"
+    ],
+    [
+      "modifying",
+      "locked",
+      "settings",
+      "knob"
+    ],
+    [
+      "folding",
+      "inflated",
+      "tent",
+      "storage"
+    ],
+    [
+      "removing",
+      "attached",
+      "clip",
+      "magnet"
+    ],
+    [
+      "recycling",
+      "painted",
+      "bottle",
+      "curb"
+    ],
+    [
+      "dissolving",
+      "frozen",
+      "sugar",
+      "water"
+    ],
+    [
+      "tearing",
+      "stacked",
+      "slim",
+      "paper"
+    ],
+    [
+      "remembering",
+      "forgotten",
+      "unforgettable",
+      "story"
+    ],
+    [
+      "forgetting",
+      "noticed",
+      "dull",
+      "note"
+    ],
+    [
+      "shaping",
+      "cracked",
+      "soft",
+      "clay"
+    ],
+    [
+      "admiring",
+      "ignored",
+      "pretty",
+      "photo"
+    ],
+    [
+      "avoiding",
+      "decorated",
+      "risky",
+      "warning"
+    ],
+    [
+      "skipping",
+      "rated",
+      "dull",
+      "lecture"
+    ],
+    [
+      "quarantining",
+      "cured",
+      "infectious",
+      "mask"
+    ],
+    [
+      "feeding",
+      "ignored",
+      "appetite",
+      "kitchen"
+    ],
+    [
+      "taking",
+      "hidden",
+      "free",
+      "shelf"
+    ],
+    [
+      "coveting",
+      "common",
+      "scarce",
+      "museum"
+    ],
+    [
+      "wasting",
+      "saved",
+      "plenty",
+      "harvest"
+    ],
+    [
+      "buying",
+      "ignored",
+      "inexpensive",
+      "sale"
+    ],
+    [
+      "shortening",
+      "stretched",
+      "lengthy",
+      "tape"
+    ],
+    [
+      "straightening",
+      "painted",
+      "bent",
+      "ruler"
+    ],
+    [
+      "mending",
+      "washed",
+      "rip",
+      "needle"
+    ],
+    [
+      "bleaching",
+      "ironed",
+      "spot",
+      "laundry"
+    ],
+    [
+      "untying",
+      "polished",
+      "rope",
+      "shoelace"
+    ],
+    [
+      "collecting",
+      "ignored",
+      "spread",
+      "broom"
+    ],
+    [
+      "separating",
+      "heated",
+      "blend",
+      "bowl"
+    ],
+    [
+      "updating",
+      "deleted",
+      "old",
+      "software"
+    ],
+    [
+      "simplifying",
+      "expanded",
+      "complex",
+      "puzzle"
+    ],
+    [
+      "patching",
+      "painted",
+      "hole",
+      "bucket"
+    ],
+    [
+      "entering",
+      "closed",
+      "unlocked",
+      "door"
+    ],
+    [
+      "copying",
+      "hired",
+      "trendy",
+      "crowd"
+    ],
+    [
+      "defeating",
+      "trained",
+      "frail",
+      "match"
+    ]
+  ]
+}

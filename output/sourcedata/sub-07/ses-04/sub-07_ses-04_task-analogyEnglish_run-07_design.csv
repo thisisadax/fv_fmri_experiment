@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,30,reed,saxophone,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+1,30,soil,garden,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+1,30,antenna,radio,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+1,30,oil,lamp,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+1,30,gravity,pendulum,pendulum,mass,EnablingAgent:Object,CAUSE-PURPOSE,probe,1.0
+2,60,stick,attach,,,Synonymity,SIMILAR,example,
+2,60,end,finish,,,Synonymity,SIMILAR,example,
+2,60,clean,tidy,,,Synonymity,SIMILAR,example,
+2,60,old,mature,,,Synonymity,SIMILAR,example,
+2,60,throw,toss,pitch,toss,Synonymity,SIMILAR,probe,2.0
+3,63,strawberry,red,,,things - color,Encyclopedic_semantics,example,
+3,63,blood,red,,,things - color,Encyclopedic_semantics,example,
+3,63,ketchup,red,,,things - color,Encyclopedic_semantics,example,
+3,63,pumpkin,orange,,,things - color,Encyclopedic_semantics,example,
+3,63,amethyst,purple,green,purple,things - color,Encyclopedic_semantics,probe,2.0
+4,-1,baseline,baseline,,,baseline,baseline,baseline,
+5,30,electricity,stove,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+5,30,bow,violin,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+5,30,rain,crop,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+5,30,dam,reservoir,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+5,30,water,shower,shower,pipe,EnablingAgent:Object,CAUSE-PURPOSE,probe,1.0
+6,60,brave,courageous,,,Synonymity,SIMILAR,example,
+6,60,hurry,rush,,,Synonymity,SIMILAR,example,
+6,60,grab,seize,,,Synonymity,SIMILAR,example,
+6,60,cute,adorable,,,Synonymity,SIMILAR,example,
+6,60,allow,permit,rule,permit,Synonymity,SIMILAR,probe,2.0
+7,63,lime,green,,,things - color,Encyclopedic_semantics,example,
+7,63,toothpaste,white,,,things - color,Encyclopedic_semantics,example,
+7,63,banana,yellow,,,things - color,Encyclopedic_semantics,example,
+7,63,carrot,orange,,,things - color,Encyclopedic_semantics,example,
+7,63,charcoal,black,black,black,things - color,Encyclopedic_semantics,probe,2.0
+8,-1,baseline,baseline,,,baseline,baseline,baseline,
+9,58,download,install,,,Sequence,SPACE-TIME,example,
+9,58,yesterday,today,,,Sequence,SPACE-TIME,example,
+9,58,breakfast,lunch,,,Sequence,SPACE-TIME,example,
+9,58,cooking,eating,,,Sequence,SPACE-TIME,example,
+9,58,birth,death,labor,death,Sequence,SPACE-TIME,probe,2.0
+10,60,wish,desire,,,Synonymity,SIMILAR,example,
+10,60,autumn,fall,,,Synonymity,SIMILAR,example,
+10,60,cry,weep,,,Synonymity,SIMILAR,example,
+10,60,help,assist,,,Synonymity,SIMILAR,example,
+10,60,careful,cautious,cautious,seatbelt,Synonymity,SIMILAR,probe,1.0
+11,-1,baseline,baseline,,,baseline,baseline,baseline,
+12,58,foreword,novel,,,Sequence,SPACE-TIME,example,
+12,58,cause,effect,,,Sequence,SPACE-TIME,example,
+12,58,caterpillar,butterfly,,,Sequence,SPACE-TIME,example,
+12,58,searing,roasting,,,Sequence,SPACE-TIME,example,
+12,58,question,answer,answer,quiz,Sequence,SPACE-TIME,probe,1.0
+13,30,paddle,canoe,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+13,30,marker,whiteboard,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+13,30,yeast,bread,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+13,30,motor,fan,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+13,30,oxygen,fire,spark,fire,EnablingAgent:Object,CAUSE-PURPOSE,probe,2.0
+14,60,shut,close,,,Synonymity,SIMILAR,example,
+14,60,gift,present,,,Synonymity,SIMILAR,example,
+14,60,rug,carpet,,,Synonymity,SIMILAR,example,
+14,60,soil,dirt,,,Synonymity,SIMILAR,example,
+14,60,stone,rock,boulder,rock,Synonymity,SIMILAR,probe,2.0
+15,-1,baseline,baseline,,,baseline,baseline,baseline,
+16,63,coffee,brown,,,things - color,Encyclopedic_semantics,example,
+16,63,ink,black,,,things - color,Encyclopedic_semantics,example,
+16,63,moon,white,,,things - color,Encyclopedic_semantics,example,
+16,63,milk,white,,,things - color,Encyclopedic_semantics,example,
+16,63,fridge,white,red,white,things - color,Encyclopedic_semantics,probe,2.0
+17,58,order,delivery,,,Sequence,SPACE-TIME,example,
+17,58,writing,editing,,,Sequence,SPACE-TIME,example,
+17,58,text,index,,,Sequence,SPACE-TIME,example,
+17,58,preview,movie,,,Sequence,SPACE-TIME,example,
+17,58,paperwork,appointment,appointment,clinic,Sequence,SPACE-TIME,probe,1.0
+18,-1,baseline,baseline,,,baseline,baseline,baseline,
+19,60,sick,ill,,,Synonymity,SIMILAR,example,
+19,60,cellphone,mobile,,,Synonymity,SIMILAR,example,
+19,60,scare,frighten,,,Synonymity,SIMILAR,example,
+19,60,voyage,journey,,,Synonymity,SIMILAR,example,
+19,60,odd,strange,strange,random,Synonymity,SIMILAR,probe,1.0
+20,30,key,car,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+20,30,charcoal,grill,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+20,30,magnet,compass,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+20,30,diesel,generator,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+20,30,spring,trampoline,frame,trampoline,EnablingAgent:Object,CAUSE-PURPOSE,probe,2.0
+21,63,ruby,red,,,things - color,Encyclopedic_semantics,example,
+21,63,broccoli,green,,,things - color,Encyclopedic_semantics,example,
+21,63,sea,blue,,,things - color,Encyclopedic_semantics,example,
+21,63,cloud,white,,,things - color,Encyclopedic_semantics,example,
+21,63,plum,purple,purple,purple,things - color,Encyclopedic_semantics,probe,1.0
+22,58,beginning,middle,,,Sequence,SPACE-TIME,example,
+22,58,blueprint,construction,,,Sequence,SPACE-TIME,example,
+22,58,ingestion,digestion,,,Sequence,SPACE-TIME,example,
+22,58,symptom,diagnosis,,,Sequence,SPACE-TIME,example,
+22,58,interview,hiring,portfolio,hiring,Sequence,SPACE-TIME,probe,2.0
+23,30,battery,phone,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+23,30,oar,rowboat,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+23,30,brush,paint,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+23,30,chalk,chalkboard,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+23,30,ball,tennis,net,tennis,EnablingAgent:Object,CAUSE-PURPOSE,probe,2.0
+24,63,honey,yellow,,,things - color,Encyclopedic_semantics,example,
+24,63,sunflower,yellow,,,things - color,Encyclopedic_semantics,example,
+24,63,orange,orange,,,things - color,Encyclopedic_semantics,example,
+24,63,jade,green,,,things - color,Encyclopedic_semantics,example,
+24,63,yogurt,white,white,yellow,things - color,Encyclopedic_semantics,probe,1.0
+25,58,shoot,recoil,,,Sequence,SPACE-TIME,example,
+25,58,start,finish,,,Sequence,SPACE-TIME,example,
+25,58,departure,arrival,,,Sequence,SPACE-TIME,example,
+25,58,conception,birth,,,Sequence,SPACE-TIME,example,
+25,58,overture,opera,theater,opera,Sequence,SPACE-TIME,probe,2.0

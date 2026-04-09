@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,42,highway,lanes,,,Mass:Potion,PART-WHOLE,example,
+1,42,skeleton,bones,,,Mass:Potion,PART-WHOLE,example,
+1,42,library,books,,,Mass:Potion,PART-WHOLE,example,
+1,42,quilt,squares,,,Mass:Potion,PART-WHOLE,example,
+1,42,sand,grains,pebbles,grains,Mass:Potion,PART-WHOLE,probe,2.0
+2,3,widen,narrow,,,Action:Object Attribute,ATTRIBUTE,example,
+2,3,encourage,discouraged,,,Action:Object Attribute,ATTRIBUTE,example,
+2,3,empty,full,,,Action:Object Attribute,ATTRIBUTE,example,
+2,3,demolish,condemned,,,Action:Object Attribute,ATTRIBUTE,example,
+2,3,wash,soiled,soiled,sink,Action:Object Attribute,ATTRIBUTE,probe,1.0
+3,-1,baseline,baseline,,,baseline,baseline,baseline,
+4,7,giddy,happiness,,,Agent Attribute:State,ATTRIBUTE,example,
+4,7,laughing,amusement,,,Agent Attribute:State,ATTRIBUTE,example,
+4,7,nostalgic,longing,,,Agent Attribute:State,ATTRIBUTE,example,
+4,7,ecstatic,bliss,,,Agent Attribute:State,ATTRIBUTE,example,
+4,7,drowsy,sleepiness,sleepiness,pajamas,Agent Attribute:State,ATTRIBUTE,probe,1.0
+5,10,seamstress,needle,,,Agent:Instrument,CASE RELATIONS,example,
+5,10,flutist,flute,,,Agent:Instrument,CASE RELATIONS,example,
+5,10,fisherman,rod,,,Agent:Instrument,CASE RELATIONS,example,
+5,10,student,pencil,,,Agent:Instrument,CASE RELATIONS,example,
+5,10,witch,cauldron,cottage,cauldron,Agent:Instrument,CASE RELATIONS,probe,2.0
+6,42,week,day,,,Mass:Potion,PART-WHOLE,example,
+6,42,sentence,words,,,Mass:Potion,PART-WHOLE,example,
+6,42,pack,wolves,,,Mass:Potion,PART-WHOLE,example,
+6,42,year,months,,,Mass:Potion,PART-WHOLE,example,
+6,42,bouquet,flowers,ribbon,flowers,Mass:Potion,PART-WHOLE,probe,2.0
+7,7,stressed,tension,,,Agent Attribute:State,ATTRIBUTE,example,
+7,7,alarmed,fright,,,Agent Attribute:State,ATTRIBUTE,example,
+7,7,mad,anger,,,Agent Attribute:State,ATTRIBUTE,example,
+7,7,furious,rage,,,Agent Attribute:State,ATTRIBUTE,example,
+7,7,blushing,embarrassment,embarrassment,attraction,Agent Attribute:State,ATTRIBUTE,probe,1.0
+8,-1,baseline,baseline,,,baseline,baseline,baseline,
+9,10,golfer,club,,,Agent:Instrument,CASE RELATIONS,example,
+9,10,potter,wheel,,,Agent:Instrument,CASE RELATIONS,example,
+9,10,writer,pen,,,Agent:Instrument,CASE RELATIONS,example,
+9,10,violinist,violin,,,Agent:Instrument,CASE RELATIONS,example,
+9,10,nurse,syringe,patient,syringe,Agent:Instrument,CASE RELATIONS,probe,2.0
+10,7,pensive,reflection,,,Agent Attribute:State,ATTRIBUTE,example,
+10,7,peaceful,serenity,,,Agent Attribute:State,ATTRIBUTE,example,
+10,7,embarrassed,shame,,,Agent Attribute:State,ATTRIBUTE,example,
+10,7,lazy,indolence,,,Agent Attribute:State,ATTRIBUTE,example,
+10,7,bored,tedium,apathy,tedium,Agent Attribute:State,ATTRIBUTE,probe,2.0
+11,-1,baseline,baseline,,,baseline,baseline,baseline,
+12,42,rainbow,colors,,,Mass:Potion,PART-WHOLE,example,
+12,42,pizza,slice,,,Mass:Potion,PART-WHOLE,example,
+12,42,staircase,steps,,,Mass:Potion,PART-WHOLE,example,
+12,42,choir,singers,,,Mass:Potion,PART-WHOLE,example,
+12,42,deck,cards,deals,cards,Mass:Potion,PART-WHOLE,probe,2.0
+13,3,cure,sick,,,Action:Object Attribute,ATTRIBUTE,example,
+13,3,sharpen,dull,,,Action:Object Attribute,ATTRIBUTE,example,
+13,3,clarify,unclear,,,Action:Object Attribute,ATTRIBUTE,example,
+13,3,calm,agitated,,,Action:Object Attribute,ATTRIBUTE,example,
+13,3,open,closed,closed,sealed,Action:Object Attribute,ATTRIBUTE,probe,1.0
+14,-1,baseline,baseline,,,baseline,baseline,baseline,
+15,10,jockey,whip,,,Agent:Instrument,CASE RELATIONS,example,
+15,10,housekeeper,broom,,,Agent:Instrument,CASE RELATIONS,example,
+15,10,navigator,map,,,Agent:Instrument,CASE RELATIONS,example,
+15,10,catcher,mitt,,,Agent:Instrument,CASE RELATIONS,example,
+15,10,driver,car,license,car,Agent:Instrument,CASE RELATIONS,probe,2.0
+16,3,heal,injured,,,Action:Object Attribute,ATTRIBUTE,example,
+16,3,unload,loaded,,,Action:Object Attribute,ATTRIBUTE,example,
+16,3,dilute,concentrated,,,Action:Object Attribute,ATTRIBUTE,example,
+16,3,simplify,complex,,,Action:Object Attribute,ATTRIBUTE,example,
+16,3,unwrap,wrapped,birthday,wrapped,Action:Object Attribute,ATTRIBUTE,probe,2.0
+17,42,continent,countries,,,Mass:Potion,PART-WHOLE,example,
+17,42,decade,years,,,Mass:Potion,PART-WHOLE,example,
+17,42,chain,link,,,Mass:Potion,PART-WHOLE,example,
+17,42,orchestra,musicians,,,Mass:Potion,PART-WHOLE,example,
+17,42,wall,bricks,bricks,paint,Mass:Potion,PART-WHOLE,probe,1.0
+18,10,surgeon,scalpel,,,Agent:Instrument,CASE RELATIONS,example,
+18,10,bowler,ball,,,Agent:Instrument,CASE RELATIONS,example,
+18,10,hunter,rifle,,,Agent:Instrument,CASE RELATIONS,example,
+18,10,electrician,pliers,,,Agent:Instrument,CASE RELATIONS,example,
+18,10,mechanic,tools,tools,cars,Agent:Instrument,CASE RELATIONS,probe,1.0
+19,7,tired,exhaustion,,,Agent Attribute:State,ATTRIBUTE,example,
+19,7,parched,thirst,,,Agent Attribute:State,ATTRIBUTE,example,
+19,7,hopeful,optimism,,,Agent Attribute:State,ATTRIBUTE,example,
+19,7,frantic,desperation,,,Agent Attribute:State,ATTRIBUTE,example,
+19,7,ambitious,determination,drive,determination,Agent Attribute:State,ATTRIBUTE,probe,2.0
+20,3,soothe,upset,,,Action:Object Attribute,ATTRIBUTE,example,
+20,3,shorten,long,,,Action:Object Attribute,ATTRIBUTE,example,
+20,3,polish,tarnished,,,Action:Object Attribute,ATTRIBUTE,example,
+20,3,smooth,bumpy,,,Action:Object Attribute,ATTRIBUTE,example,
+20,3,drop,slippery,heavy,slippery,Action:Object Attribute,ATTRIBUTE,probe,2.0
+21,42,cup,tablespoons,,,Mass:Potion,PART-WHOLE,example,
+21,42,body,cell,,,Mass:Potion,PART-WHOLE,example,
+21,42,chapter,page,,,Mass:Potion,PART-WHOLE,example,
+21,42,gallon,quart,,,Mass:Potion,PART-WHOLE,example,
+21,42,play,acts,acts,minutes,Mass:Potion,PART-WHOLE,probe,1.0
+22,-1,baseline,baseline,,,baseline,baseline,baseline,
+23,7,attentive,alertness,,,Agent Attribute:State,ATTRIBUTE,example,
+23,7,miserable,despair,,,Agent Attribute:State,ATTRIBUTE,example,
+23,7,heartbroken,sorrow,,,Agent Attribute:State,ATTRIBUTE,example,
+23,7,content,satisfaction,,,Agent Attribute:State,ATTRIBUTE,example,
+23,7,impatient,frustration,tapping,frustration,Agent Attribute:State,ATTRIBUTE,probe,2.0
+24,10,doctor,stethoscope,,,Agent:Instrument,CASE RELATIONS,example,
+24,10,fairy,wand,,,Agent:Instrument,CASE RELATIONS,example,
+24,10,policeman,handcuffs,,,Agent:Instrument,CASE RELATIONS,example,
+24,10,barber,scissors,,,Agent:Instrument,CASE RELATIONS,example,
+24,10,lumberjack,axe,axe,forest,Agent:Instrument,CASE RELATIONS,probe,1.0
+25,3,reward,deserving,,,Action:Object Attribute,ATTRIBUTE,example,
+25,3,reassure,anxious,,,Action:Object Attribute,ATTRIBUTE,example,
+25,3,brighten,dim,,,Action:Object Attribute,ATTRIBUTE,example,
+25,3,drain,flooded,,,Action:Object Attribute,ATTRIBUTE,example,
+25,3,eat,delicious,hot,delicious,Action:Object Attribute,ATTRIBUTE,probe,2.0

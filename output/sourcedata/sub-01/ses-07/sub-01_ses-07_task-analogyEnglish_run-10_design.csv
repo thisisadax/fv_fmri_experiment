@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,40,playground,swinging,,,Location:Action/Activity,SPACE-TIME,example,
+1,40,beach,sunbathing,,,Location:Action/Activity,SPACE-TIME,example,
+1,40,rink,skating,,,Location:Action/Activity,SPACE-TIME,example,
+1,40,school,learning,,,Location:Action/Activity,SPACE-TIME,example,
+1,40,laboratory,experimenting,beakers,experimenting,Location:Action/Activity,SPACE-TIME,probe,2.0
+2,25,tear,pantyhose,,,Defective,CONTRAST,example,
+2,25,depression,mind,,,Defective,CONTRAST,example,
+2,25,dandruff,scalp,,,Defective,CONTRAST,example,
+2,25,discoloration,wall,,,Defective,CONTRAST,example,
+2,25,bug,program,program,crash,Defective,CONTRAST,probe,1.0
+3,33,barrier,fence,,,Functional,CLASS-INCLUSION,example,
+3,33,restraint,leash,,,Functional,CLASS-INCLUSION,example,
+3,33,container,bucket,,,Functional,CLASS-INCLUSION,example,
+3,33,clothing,shirt,,,Functional,CLASS-INCLUSION,example,
+3,33,grain,wheat,wheat,field,Functional,CLASS-INCLUSION,probe,1.0
+4,-1,baseline,baseline,,,baseline,baseline,baseline,
+5,25,paralysis,limb,,,Defective,CONTRAST,example,
+5,25,corruption,government,,,Defective,CONTRAST,example,
+5,25,error,calculation,,,Defective,CONTRAST,example,
+5,25,wart,hand,,,Defective,CONTRAST,example,
+5,25,nick,blade,blade,shaving,Defective,CONTRAST,probe,1.0
+6,40,bathroom,bathing,,,Location:Action/Activity,SPACE-TIME,example,
+6,40,operating room,surgery,,,Location:Action/Activity,SPACE-TIME,example,
+6,40,driveway,parking,,,Location:Action/Activity,SPACE-TIME,example,
+6,40,highway,driving,,,Location:Action/Activity,SPACE-TIME,example,
+6,40,clinic,treating,clipboard,treating,Location:Action/Activity,SPACE-TIME,probe,2.0
+7,45,blackout,electricity,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+7,45,traitor,loyalty,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+7,45,cruelty,mercy,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+7,45,sorrow,happiness,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+7,45,prisoner,freedom,captivity,freedom,Object:Nonstate (noun:noun),NON-ATTRIBUTE,probe,2.0
+8,25,leak,roof,,,Defective,CONTRAST,example,
+8,25,wobble,wheel,,,Defective,CONTRAST,example,
+8,25,bunion,foot,,,Defective,CONTRAST,example,
+8,25,arrhythmia,heartbeat,,,Defective,CONTRAST,example,
+8,25,lump,mattress,mattress,spring,Defective,CONTRAST,probe,1.0
+9,40,park,playing,,,Location:Action/Activity,SPACE-TIME,example,
+9,40,patio,lounging,,,Location:Action/Activity,SPACE-TIME,example,
+9,40,forest,camping,,,Location:Action/Activity,SPACE-TIME,example,
+9,40,mountain,climbing,,,Location:Action/Activity,SPACE-TIME,example,
+9,40,bakery,baking,baking,frosting,Location:Action/Activity,SPACE-TIME,probe,1.0
+10,33,lubricant,oil,,,Functional,CLASS-INCLUSION,example,
+10,33,beverage,juice,,,Functional,CLASS-INCLUSION,example,
+10,33,seat,chair,,,Functional,CLASS-INCLUSION,example,
+10,33,fertilizer,compost,,,Functional,CLASS-INCLUSION,example,
+10,33,jewelry,bracelet,bracelet,wrist,Functional,CLASS-INCLUSION,probe,1.0
+11,45,deafness,hearing,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+11,45,novice,experience,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+11,45,drought,water,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+11,45,baldness,hair,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+11,45,war,tranquility,tranquility,invade,Object:Nonstate (noun:noun),NON-ATTRIBUTE,probe,1.0
+12,-1,baseline,baseline,,,baseline,baseline,baseline,
+13,33,cushion,pillow,,,Functional,CLASS-INCLUSION,example,
+13,33,lever,crowbar,,,Functional,CLASS-INCLUSION,example,
+13,33,insulation,foam,,,Functional,CLASS-INCLUSION,example,
+13,33,bedding,blanket,,,Functional,CLASS-INCLUSION,example,
+13,33,light,candle,wick,candle,Functional,CLASS-INCLUSION,probe,2.0
+14,45,grief,solace,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+14,45,amnesia,memory,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+14,45,snow,warmth,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+14,45,tundra,trees,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+14,45,dance,silence,move,silence,Object:Nonstate (noun:noun),NON-ATTRIBUTE,probe,2.0
+15,-1,baseline,baseline,,,baseline,baseline,baseline,
+16,25,amnesia,memory,,,Defective,CONTRAST,example,
+16,25,fallacy,argument,,,Defective,CONTRAST,example,
+16,25,hangnail,fingertip,,,Defective,CONTRAST,example,
+16,25,scratch,cd,,,Defective,CONTRAST,example,
+16,25,tumor,body,immune system,body,Defective,CONTRAST,probe,2.0
+17,33,footwear,boot,,,Functional,CLASS-INCLUSION,example,
+17,33,instrument,clarinet,,,Functional,CLASS-INCLUSION,example,
+17,33,transportation,bicycle,,,Functional,CLASS-INCLUSION,example,
+17,33,toy,doll,,,Functional,CLASS-INCLUSION,example,
+17,33,bandage,gauze,gauze,wound,Functional,CLASS-INCLUSION,probe,1.0
+18,40,arcade,gaming,,,Location:Action/Activity,SPACE-TIME,example,
+18,40,slope,skiing,,,Location:Action/Activity,SPACE-TIME,example,
+18,40,greenhouse,cultivating,,,Location:Action/Activity,SPACE-TIME,example,
+18,40,garden,gardening,,,Location:Action/Activity,SPACE-TIME,example,
+18,40,sidewalk,strolling,strolling,jogging,Location:Action/Activity,SPACE-TIME,probe,1.0
+19,-1,baseline,baseline,,,baseline,baseline,baseline,
+20,45,miser,generosity,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+20,45,night,light,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+20,45,chaos,order,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+20,45,boredom,stimulation,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+20,45,wasteland,vegetation,vegetation,erode,Object:Nonstate (noun:noun),NON-ATTRIBUTE,probe,1.0
+21,25,blindness,vision,,,Defective,CONTRAST,example,
+21,25,ding,bumper,,,Defective,CONTRAST,example,
+21,25,weakness,structure,,,Defective,CONTRAST,example,
+21,25,clog,drain,,,Defective,CONTRAST,example,
+21,25,stain,teeth,coffee,teeth,Defective,CONTRAST,probe,2.0
+22,-1,baseline,baseline,,,baseline,baseline,baseline,
+23,40,golf course,golfing,,,Location:Action/Activity,SPACE-TIME,example,
+23,40,field,plowing,,,Location:Action/Activity,SPACE-TIME,example,
+23,40,cinema,watching,,,Location:Action/Activity,SPACE-TIME,example,
+23,40,reef,diving,,,Location:Action/Activity,SPACE-TIME,example,
+23,40,voting booth,voting,voting,ballot,Location:Action/Activity,SPACE-TIME,probe,1.0
+24,33,dairy,cheese,,,Functional,CLASS-INCLUSION,example,
+24,33,appliance,oven,,,Functional,CLASS-INCLUSION,example,
+24,33,adhesive,tape,,,Functional,CLASS-INCLUSION,example,
+24,33,storage,closet,,,Functional,CLASS-INCLUSION,example,
+24,33,fabric,silk,pattern,silk,Functional,CLASS-INCLUSION,probe,2.0
+25,45,glutton,moderation,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+25,45,beggar,wealth,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+25,45,villain,virtue,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+25,45,dictator,democracy,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+25,45,tyranny,freedom,freedom,prison,Object:Nonstate (noun:noun),NON-ATTRIBUTE,probe,1.0

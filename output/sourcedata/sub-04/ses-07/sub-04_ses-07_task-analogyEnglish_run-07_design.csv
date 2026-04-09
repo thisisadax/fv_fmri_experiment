@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,1,rest,restorative,,,Action:Action Attribute,ATTRIBUTE,example,
+1,1,sulk,resentful,,,Action:Action Attribute,ATTRIBUTE,example,
+1,1,shout,loud,,,Action:Action Attribute,ATTRIBUTE,example,
+1,1,argue,confrontational,,,Action:Action Attribute,ATTRIBUTE,example,
+1,1,mock,cruel,cruel,sarcastic,Action:Action Attribute,ATTRIBUTE,probe,1.0
+2,14,horn,bull,,,Attachment,SPACE-TIME,example,
+2,14,case,phone,,,Attachment,SPACE-TIME,example,
+2,14,collar,dog,,,Attachment,SPACE-TIME,example,
+2,14,helmet,head,,,Attachment,SPACE-TIME,example,
+2,14,tire,car,car,rubber,Attachment,SPACE-TIME,probe,1.0
+3,-1,baseline,baseline,,,baseline,baseline,baseline,
+4,39,linguistics,languages,,,Knowledge,REFERENCE,example,
+4,39,cosmology,universe,,,Knowledge,REFERENCE,example,
+4,39,pulmonology,lungs,,,Knowledge,REFERENCE,example,
+4,39,astronomy,stars,,,Knowledge,REFERENCE,example,
+4,39,robotics,robots,sensors,robots,Knowledge,REFERENCE,probe,2.0
+5,1,preach,righteous,,,Action:Action Attribute,ATTRIBUTE,example,
+5,1,compliment,kind,,,Action:Action Attribute,ATTRIBUTE,example,
+5,1,rescue,heroic,,,Action:Action Attribute,ATTRIBUTE,example,
+5,1,hit,aggressive,,,Action:Action Attribute,ATTRIBUTE,example,
+5,1,tackle,rough,rough,field,Action:Action Attribute,ATTRIBUTE,probe,1.0
+6,-1,baseline,baseline,,,baseline,baseline,baseline,
+7,51,cactus,wilt,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+7,51,vegetarian,hunt,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+7,51,billionaire,beg,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+7,51,hermit,socialize,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+7,51,nomad,settle,travel,settle,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,probe,2.0
+8,14,handle,mug,,,Attachment,SPACE-TIME,example,
+8,14,belt,waist,,,Attachment,SPACE-TIME,example,
+8,14,railing,balcony,,,Attachment,SPACE-TIME,example,
+8,14,leaf,stem,,,Attachment,SPACE-TIME,example,
+8,14,ribbon,gift,card,gift,Attachment,SPACE-TIME,probe,2.0
+9,39,musicology,music,,,Knowledge,REFERENCE,example,
+9,39,chemistry,elements,,,Knowledge,REFERENCE,example,
+9,39,computer science,computation,,,Knowledge,REFERENCE,example,
+9,39,forensics,evidence,,,Knowledge,REFERENCE,example,
+9,39,geometry,shapes,shapes,compass,Knowledge,REFERENCE,probe,1.0
+10,-1,baseline,baseline,,,baseline,baseline,baseline,
+11,51,mute,speak,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+11,51,diplomat,insult,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+11,51,sloth,sprint,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+11,51,teetotaler,drink,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+11,51,athlete,forfeit,train,forfeit,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,probe,2.0
+12,1,drift,passive,,,Action:Action Attribute,ATTRIBUTE,example,
+12,1,laugh,happy,,,Action:Action Attribute,ATTRIBUTE,example,
+12,1,worship,reverent,,,Action:Action Attribute,ATTRIBUTE,example,
+12,1,nurture,caring,,,Action:Action Attribute,ATTRIBUTE,example,
+12,1,grovel,submissive,submissive,apologetic,Action:Action Attribute,ATTRIBUTE,probe,1.0
+13,14,wick,candle,,,Attachment,SPACE-TIME,example,
+13,14,magnet,refrigerator,,,Attachment,SPACE-TIME,example,
+13,14,ring,finger,,,Attachment,SPACE-TIME,example,
+13,14,tail,horse,,,Attachment,SPACE-TIME,example,
+13,14,stamp,letter,letter,mailbox,Attachment,SPACE-TIME,probe,1.0
+14,51,librarian,shout,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+14,51,policeman,steal,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+14,51,anarchist,obey,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+14,51,skeptic,believe,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+14,51,pessimist,hope,hope,fear,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,probe,1.0
+15,39,demography,populations,,,Knowledge,REFERENCE,example,
+15,39,rhetoric,persuasion,,,Knowledge,REFERENCE,example,
+15,39,sociology,society,,,Knowledge,REFERENCE,example,
+15,39,hematology,blood,,,Knowledge,REFERENCE,example,
+15,39,agriculture,farming,barn,farming,Knowledge,REFERENCE,probe,2.0
+16,1,cower,fearful,,,Action:Action Attribute,ATTRIBUTE,example,
+16,1,run,fast,,,Action:Action Attribute,ATTRIBUTE,example,
+16,1,celebrate,joyful,,,Action:Action Attribute,ATTRIBUTE,example,
+16,1,apologize,humble,,,Action:Action Attribute,ATTRIBUTE,example,
+16,1,hug,affectionate,warm,affectionate,Action:Action Attribute,ATTRIBUTE,probe,2.0
+17,51,dictator,resign,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+17,51,tyrant,forgive,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+17,51,cat,bark,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+17,51,nun,date,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+17,51,dog,purr,purr,pant,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,probe,1.0
+18,-1,baseline,baseline,,,baseline,baseline,baseline,
+19,14,hair,scalp,,,Attachment,SPACE-TIME,example,
+19,14,sidecar,motorcycle,,,Attachment,SPACE-TIME,example,
+19,14,clasp,purse,,,Attachment,SPACE-TIME,example,
+19,14,cushion,chair,,,Attachment,SPACE-TIME,example,
+19,14,pendant,chain,chain,box,Attachment,SPACE-TIME,probe,1.0
+20,39,botany,plants,,,Knowledge,REFERENCE,example,
+20,39,history,past,,,Knowledge,REFERENCE,example,
+20,39,archaeology,artifacts,,,Knowledge,REFERENCE,example,
+20,39,forestry,forests,,,Knowledge,REFERENCE,example,
+20,39,dermatology,skin,skin,clinic,Knowledge,REFERENCE,probe,1.0
+21,51,baby,dance,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+21,51,recluse,mingle,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+21,51,firefighter,abandon,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+21,51,friend,betray,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+21,51,stoic,complain,complain,withstand,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,probe,1.0
+22,14,grape,vine,,,Attachment,SPACE-TIME,example,
+22,14,knocker,door,,,Attachment,SPACE-TIME,example,
+22,14,patch,jacket,,,Attachment,SPACE-TIME,example,
+22,14,berry,bush,,,Attachment,SPACE-TIME,example,
+22,14,tag,garment,price,garment,Attachment,SPACE-TIME,probe,2.0
+23,-1,baseline,baseline,,,baseline,baseline,baseline,
+24,1,boast,arrogant,,,Action:Action Attribute,ATTRIBUTE,example,
+24,1,pamper,indulgent,,,Action:Action Attribute,ATTRIBUTE,example,
+24,1,snore,noisy,,,Action:Action Attribute,ATTRIBUTE,example,
+24,1,sing,musical,,,Action:Action Attribute,ATTRIBUTE,example,
+24,1,lounge,lazy,sofa,lazy,Action:Action Attribute,ATTRIBUTE,probe,2.0
+25,39,optometry,vision,,,Knowledge,REFERENCE,example,
+25,39,anatomy,body,,,Knowledge,REFERENCE,example,
+25,39,genealogy,family,,,Knowledge,REFERENCE,example,
+25,39,geography,places,,,Knowledge,REFERENCE,example,
+25,39,paleontology,fossils,fossils,caves,Knowledge,REFERENCE,probe,1.0

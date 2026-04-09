@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,29,하네스,낙하산,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+1,29,배터리,휴대폰,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+1,29,큐,당구,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+1,29,바람,풍차,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+1,29,얼음,스케이트,스케이트,링크장,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,probe,1.0
+2,46,바통,주자,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+2,46,부케,신부들러리,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+2,46,수료증,교사,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+2,46,공,리시버,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+2,46,지시사항,연수생,교사,연수생,Object:Recipient (Korean Localized),CASE RELATIONS,probe,2.0
+3,59,카펫,양탄자,,,Synonymity (Korean Localized),SIMILAR,example,
+3,59,화장실,토일렛,,,Synonymity (Korean Localized),SIMILAR,example,
+3,59,영화,필름,,,Synonymity (Korean Localized),SIMILAR,example,
+3,59,만들다,제조하다,,,Synonymity (Korean Localized),SIMILAR,example,
+3,59,길,경로,방향,경로,Synonymity (Korean Localized),SIMILAR,probe,2.0
+4,1,뚫어지게 쳐다보다,가끔씩,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+4,1,쉬다,격렬하게,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+4,1,모욕하다,친절하게,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+4,1,뛰어들다,조심스레,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+4,1,부정행위하다,공정하게,공정하게,몰래,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,probe,1.0
+5,-1,baseline,baseline,,,baseline,baseline,baseline,
+6,59,숲,삼림,,,Synonymity (Korean Localized),SIMILAR,example,
+6,59,아이,어린이,,,Synonymity (Korean Localized),SIMILAR,example,
+6,59,가을,가을철,,,Synonymity (Korean Localized),SIMILAR,example,
+6,59,성숙하다,원숙하다,,,Synonymity (Korean Localized),SIMILAR,example,
+6,59,방,룸,홀,룸,Synonymity (Korean Localized),SIMILAR,probe,2.0
+7,1,불쑥 말하다,신중하게,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+7,1,금지하다,부추기듯,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+7,1,엉망으로 하다,완벽하게,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+7,1,꾸물거리다,빠르게,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+7,1,눈을 가늘게 뜨다,크게,크게,꽉,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,probe,1.0
+8,46,배급품,군인,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+8,46,표,후보,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+8,46,판매수당,판매원,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+8,46,장학금,신입생,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+8,46,판결,피고인,기소,피고인,Object:Recipient (Korean Localized),CASE RELATIONS,probe,2.0
+9,-1,baseline,baseline,,,baseline,baseline,baseline,
+10,29,자석,나침반,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+10,29,불,바비큐,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+10,29,비밀번호,계정,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+10,29,휘발유,오토바이,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+10,29,항공권,비행기,여권,비행기,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,probe,2.0
+11,46,비자,여행자,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+11,46,성적,학생,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+11,46,복지급여,수급자,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+11,46,왕관,왕,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+11,46,투구,타자,타자,투수,Object:Recipient (Korean Localized),CASE RELATIONS,probe,1.0
+12,-1,baseline,baseline,,,baseline,baseline,baseline,
+13,1,거드름 피우며 걷다,수줍게,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+13,1,돌격하다,머뭇거리며,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+13,1,찡그리다,행복하게,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+13,1,껴안다,거리를 두고,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+13,1,자랑하다,겸손하게,자랑하다,겸손하게,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,probe,2.0
+14,29,차키,자동차,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+14,29,장작,벽난로,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+14,29,기름,오일램프,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+14,29,선로,기차,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+14,29,가스,보일러,보일러,배관,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,probe,1.0
+15,-1,baseline,baseline,,,baseline,baseline,baseline,
+16,59,못생기다,흉측하다,,,Synonymity (Korean Localized),SIMILAR,example,
+16,59,슬픔,비탄,,,Synonymity (Korean Localized),SIMILAR,example,
+16,59,이상하다,별나다,,,Synonymity (Korean Localized),SIMILAR,example,
+16,59,크다,커다랗다,,,Synonymity (Korean Localized),SIMILAR,example,
+16,59,사탕,캔디,초콜릿,캔디,Synonymity (Korean Localized),SIMILAR,probe,2.0
+17,46,알림,구독자,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+17,46,청구서,소비자,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+17,46,조공,황제,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+17,46,사면,수감자,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+17,46,훈장,영웅,장군,영웅,Object:Recipient (Korean Localized),CASE RELATIONS,probe,2.0
+18,1,속삭이다,큰 소리로,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+18,1,움켜쥐다,헐겁게,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+18,1,협력하다,반항적으로,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+18,1,터벅터벅 걷다,활기차게,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+18,1,노려보다,상냥하게,응시하다,상냥하게,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,probe,2.0
+19,29,공기,타이어,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+19,29,동전,주차미터기,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+19,29,줄,기타,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+19,29,세제,식기세척기,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+19,29,화약,폭죽,축제,폭죽,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,probe,2.0
+20,59,슬프다,불행하다,,,Synonymity (Korean Localized),SIMILAR,example,
+20,59,허락하다,승인하다,,,Synonymity (Korean Localized),SIMILAR,example,
+20,59,옵션,선택지,,,Synonymity (Korean Localized),SIMILAR,example,
+20,59,중앙,가운데,,,Synonymity (Korean Localized),SIMILAR,example,
+20,59,고치다,수리하다,수리하다,사용설명서,Synonymity (Korean Localized),SIMILAR,probe,1.0
+21,46,명령,부하,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+21,46,환불금,구매자,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+21,46,여권,신청자,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+21,46,용돈,청소년,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+21,46,사례금,발견자,발견자,공지,Object:Recipient (Korean Localized),CASE RELATIONS,probe,1.0
+22,-1,baseline,baseline,,,baseline,baseline,baseline,
+23,1,속도를 내다,천천히,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+23,1,횡설수설하다,조리 있게,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+23,1,실패하다,성공적으로,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+23,1,반항하다,순종적으로,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+23,1,빌다,거만하게,겸손하게,거만하게,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,probe,2.0
+24,29,경유,발전기,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+24,29,드럼스틱,드럼,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+24,29,열쇠,자물쇠,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+24,29,분필,칠판,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+24,29,여과기,수족관,조류,수족관,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,probe,2.0
+25,59,가르치다,지도하다,,,Synonymity (Korean Localized),SIMILAR,example,
+25,59,여행,여정,,,Synonymity (Korean Localized),SIMILAR,example,
+25,59,말하다,이야기하다,,,Synonymity (Korean Localized),SIMILAR,example,
+25,59,똑똑하다,영리하다,,,Synonymity (Korean Localized),SIMILAR,example,
+25,59,잡다,붙잡다,붙잡다,당기다,Synonymity (Korean Localized),SIMILAR,probe,1.0

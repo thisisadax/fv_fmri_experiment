@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,37,병원,병동,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+1,37,책,책등,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+1,37,손,손바닥,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+1,37,동굴,입구,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+1,37,원피스,밑단,밑단,결혼식,Item:Topological Part (Korean Localized),PART-WHOLE,probe,1.0
+2,18,나무,참나무,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+2,18,여왕,엘리자베스 2세,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+2,18,항공사,델타항공,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+2,18,산,에베레스트산,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+2,18,여신,아테나,아테나,제우스,ClassIndividual (Korean Localized),CLASS-INCLUSION,probe,1.0
+3,51,불면증환자,잠자다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+3,51,물고기,날다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+3,51,대식가,단식하다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+3,51,충성파,변절하다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+3,51,거북이,질주하다,느릿느릿걷다,질주하다,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,probe,2.0
+4,58,빨간불,정지,,,Sign:Significant (Korean Localized),REFERENCE,example,
+4,58,발진,알레르기,,,Sign:Significant (Korean Localized),REFERENCE,example,
+4,58,눈물,슬픔,,,Sign:Significant (Korean Localized),REFERENCE,example,
+4,58,결로,습기,,,Sign:Significant (Korean Localized),REFERENCE,example,
+4,58,경례,존경,제스처,존경,Sign:Significant (Korean Localized),REFERENCE,probe,2.0
+5,18,도구,망치,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+5,18,영웅,슈퍼맨,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+5,18,언어,스페인어,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+5,18,미국 주,텍사스주,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+5,18,금속,금,금,반짝이다,ClassIndividual (Korean Localized),CLASS-INCLUSION,probe,1.0
+6,-1,baseline,baseline,,,baseline,baseline,baseline,
+7,37,병,목,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+7,37,농장,닭장,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+7,37,컴퓨터,화면,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+7,37,펜,펜촉,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+7,37,학교,교실,숙제,교실,Item:Topological Part (Korean Localized),PART-WHOLE,probe,2.0
+8,58,홍조,당황,,,Sign:Significant (Korean Localized),REFERENCE,example,
+8,58,골골거림,만족,,,Sign:Significant (Korean Localized),REFERENCE,example,
+8,58,별점,우수함,,,Sign:Significant (Korean Localized),REFERENCE,example,
+8,58,잔물결,교란,,,Sign:Significant (Korean Localized),REFERENCE,example,
+8,58,기침,질병,알레르기,질병,Sign:Significant (Korean Localized),REFERENCE,probe,2.0
+9,-1,baseline,baseline,,,baseline,baseline,baseline,
+10,37,자동차,보닛,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+10,37,의자,다리,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+10,37,비행기,날개,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+10,37,램프,갓,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+10,37,절벽,끝,바위,끝,Item:Topological Part (Korean Localized),PART-WHOLE,probe,2.0
+11,58,흉터,상처,,,Sign:Significant (Korean Localized),REFERENCE,example,
+11,58,한숨,좌절,,,Sign:Significant (Korean Localized),REFERENCE,example,
+11,58,초록불,진행,,,Sign:Significant (Korean Localized),REFERENCE,example,
+11,58,비명,공황,,,Sign:Significant (Korean Localized),REFERENCE,example,
+11,58,일몰,저녁,서쪽,저녁,Sign:Significant (Korean Localized),REFERENCE,probe,2.0
+12,-1,baseline,baseline,,,baseline,baseline,baseline,
+13,51,사서,소리치다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+13,51,유령,먹다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+13,51,중재자,도발하다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+13,51,닻,표류하다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+13,51,양치기,흩뜨리다,흩뜨리다,인도하다,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,probe,1.0
+14,18,왕자,찰스,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+14,18,채소,당근,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+14,18,오토바이,할리데이비슨,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+14,18,바다,태평양,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+14,18,원소,산소,공기,산소,ClassIndividual (Korean Localized),CLASS-INCLUSION,probe,2.0
+15,37,집,현관,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+15,37,얼굴,이마,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+15,37,나무,가지,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+15,37,팔,팔꿈치,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+15,37,언덕,정상,정상,산맥,Item:Topological Part (Korean Localized),PART-WHOLE,probe,1.0
+16,-1,baseline,baseline,,,baseline,baseline,baseline,
+17,51,미니멀리스트,수집하다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+17,51,판사,거짓말하다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+17,51,재소자,모범적으로행동하다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+17,51,운동선수,기권하다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+17,51,신사,트림하다,돕다,트림하다,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,probe,2.0
+18,18,직물,비단,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+18,18,파스타,스파게티,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+18,18,향신료,계피,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+18,18,치즈,체더치즈,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+18,18,텔레비전,소니,거실,소니,ClassIndividual (Korean Localized),CLASS-INCLUSION,probe,2.0
+19,58,트로피,승리,,,Sign:Significant (Korean Localized),REFERENCE,example,
+19,58,녹,방치,,,Sign:Significant (Korean Localized),REFERENCE,example,
+19,58,낙서,기물파손,,,Sign:Significant (Korean Localized),REFERENCE,example,
+19,58,경고,문제,,,Sign:Significant (Korean Localized),REFERENCE,example,
+19,58,미세진동,지진,지진,화산,Sign:Significant (Korean Localized),REFERENCE,probe,1.0
+20,37,교회,첨탑,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+20,37,경기장,필드,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+20,37,침대,머리판,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+20,37,마트,통로,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+20,37,계단,계단참,엘리베이터,계단참,Item:Topological Part (Korean Localized),PART-WHOLE,probe,2.0
+21,51,멘토,오도하다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+21,51,고양이,짖다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+21,51,무언증환자,말하다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+21,51,동상,구부러지다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+21,51,인어,걷다,헤엄치다,걷다,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,probe,2.0
+22,-1,baseline,baseline,,,baseline,baseline,baseline,
+23,18,보석,다이아몬드,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+23,18,나라,일본,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+23,18,시리얼,첵스초코,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+23,18,영장류,고릴라,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+23,18,차량,트럭,트레일러,트럭,ClassIndividual (Korean Localized),CLASS-INCLUSION,probe,2.0
+24,58,미소,행복,,,Sign:Significant (Korean Localized),REFERENCE,example,
+24,58,일그러진표정,고통,,,Sign:Significant (Korean Localized),REFERENCE,example,
+24,58,으르렁거림,공격성,,,Sign:Significant (Korean Localized),REFERENCE,example,
+24,58,교회첨탑,교회,,,Sign:Significant (Korean Localized),REFERENCE,example,
+24,58,경보,위험,위험,기상,Sign:Significant (Korean Localized),REFERENCE,probe,1.0
+25,51,회의론자,믿다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+25,51,억만장자,구걸하다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+25,51,인명구조원,익사하다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+25,51,성자,저주하다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+25,51,나무,걷다,걷다,그늘지다,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,probe,1.0

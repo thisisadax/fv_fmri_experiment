@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,48,군인,행군하다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+1,48,부엉이,부엉부엉울다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+1,48,물고기,헤엄치다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+1,48,컴퓨터,계산하다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+1,48,늑대,울부짖다,달,울부짖다,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,probe,2.0
+2,0,쫓다,끈질기다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+2,0,모욕하다,무례하다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+2,0,거들먹거리다,우쭐하다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+2,0,태클하다,거칠다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+2,0,꼭껴안다,포근하다,포근하다,담요,Action:Action Attribute (Korean Localized),ATTRIBUTE,probe,1.0
+3,-1,baseline,baseline,,,baseline,baseline,baseline,
+4,48,불,타다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+4,48,운전사,운전하다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+4,48,정원사,심다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+4,48,망치,두드리다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+4,48,학생,배우다,숙제,배우다,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,probe,2.0
+5,0,자다,편안하다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+5,0,위로하다,따뜻하다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+5,0,오열하다,감정적이다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+5,0,잔소리하다,성가시다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+5,0,애도하다,침울하다,침울하다,공손하다,Action:Action Attribute (Korean Localized),ATTRIBUTE,probe,1.0
+6,-1,baseline,baseline,,,baseline,baseline,baseline,
+7,20,거즈,흉터,,,Concealment (Korean Localized),REFERENCE,example,
+7,20,겉모습,감정,,,Concealment (Korean Localized),REFERENCE,example,
+7,20,사물함,소지품,,,Concealment (Korean Localized),REFERENCE,example,
+7,20,포스터,구멍,,,Concealment (Korean Localized),REFERENCE,example,
+7,20,부인,수치심,상담,수치심,Concealment (Korean Localized),REFERENCE,probe,2.0
+8,0,설교하다,도덕적이다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+8,0,움츠리다,두렵다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+8,0,뒷담화하다,치졸하다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+8,0,조롱하다,잔인하다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+8,0,주먹질하다,폭력적이다,폭력적이다,공격적이다,Action:Action Attribute (Korean Localized),ATTRIBUTE,probe,1.0
+9,-1,baseline,baseline,,,baseline,baseline,baseline,
+10,29,체인,체인톱,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+10,29,비,농작물,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+10,29,펌프,분수,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+10,29,비밀번호,계정,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+10,29,선로,기차,기차,표,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,probe,1.0
+11,48,고양이,골골거리다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+11,48,꽃,피다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+11,48,다이너마이트,폭발하다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+11,48,벌,윙윙거리다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+11,48,심장,뛰다,뛰다,두근거리다,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,probe,1.0
+12,-1,baseline,baseline,,,baseline,baseline,baseline,
+13,29,산탄총 탄환,산탄총,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+13,29,활대,바이올린,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+13,29,증기,증기기관,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+13,29,동전,주차미터기,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+13,29,흙,정원,멀치,정원,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,probe,2.0
+14,48,오븐,가열하다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+14,48,음악가,연주하다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+14,48,해,빛나다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+14,48,캥거루,점프하다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+14,48,돌고래,뛰어오르다,뛰어오르다,첨벙거리다,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,probe,1.0
+15,20,러그,얼룩,,,Concealment (Korean Localized),REFERENCE,example,
+15,20,침착함,불안,,,Concealment (Korean Localized),REFERENCE,example,
+15,20,재킷,총집,,,Concealment (Korean Localized),REFERENCE,example,
+15,20,구름,해,,,Concealment (Korean Localized),REFERENCE,example,
+15,20,앞치마,옷,옷,벨트,Concealment (Korean Localized),REFERENCE,probe,1.0
+16,0,걷다,느리다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+16,0,오르다,힘들다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+16,0,때리다,공격적이다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+16,0,흘러가다,소극적이다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+16,0,전력질주하다,재빠르다,짧다,재빠르다,Action:Action Attribute (Korean Localized),ATTRIBUTE,probe,2.0
+17,48,주전자,끓다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+17,48,별,반짝이다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+17,48,삽,파다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+17,48,무용수,춤추다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+17,48,새,날다,날다,지저귀다,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,probe,1.0
+18,29,붓,페인트,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+18,29,리드,색소폰,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+18,29,물,관개,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+18,29,도화선,다이너마이트,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+18,29,분필,칠판,칠판,지우개,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,probe,1.0
+19,20,페인트,낙서,,,Concealment (Korean Localized),REFERENCE,example,
+19,20,화장,잡티,,,Concealment (Korean Localized),REFERENCE,example,
+19,20,수풀,동물,,,Concealment (Korean Localized),REFERENCE,example,
+19,20,모자,머리카락,,,Concealment (Korean Localized),REFERENCE,example,
+19,20,포장지,선물,선물,생일,Concealment (Korean Localized),REFERENCE,probe,1.0
+20,-1,baseline,baseline,,,baseline,baseline,baseline,
+21,29,댐,저수지,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+21,29,총알,총,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+21,29,패들,카누,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+21,29,모터,선풍기,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+21,29,열,사우나,증기,사우나,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,probe,2.0
+22,20,블라인드,실내,,,Concealment (Korean Localized),REFERENCE,example,
+22,20,알리바이,유죄,,,Concealment (Korean Localized),REFERENCE,example,
+22,20,암호,메시지,,,Concealment (Korean Localized),REFERENCE,example,
+22,20,허세,약점,,,Concealment (Korean Localized),REFERENCE,example,
+22,20,나무상자,화물,화물,트럭,Concealment (Korean Localized),REFERENCE,probe,1.0
+23,0,물러서다,소심하다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+23,0,행진하다,규율있다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+23,0,간청하다,간절하다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+23,0,돌보다,자상하다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+23,0,빌다,절박하다,거리,절박하다,Action:Action Attribute (Korean Localized),ATTRIBUTE,probe,2.0
+24,29,날,톱,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+24,29,기름,오일램프,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+24,29,마커,화이트보드,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+24,29,숯,그릴,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+24,29,산소,불,불,불꽃,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,probe,1.0
+25,20,연막,후퇴,,,Concealment (Korean Localized),REFERENCE,example,
+25,20,부츠,발,,,Concealment (Korean Localized),REFERENCE,example,
+25,20,함정문,출입구,,,Concealment (Korean Localized),REFERENCE,example,
+25,20,껍질,견과,,,Concealment (Korean Localized),REFERENCE,example,
+25,20,외투,무기,주머니,무기,Concealment (Korean Localized),REFERENCE,probe,2.0

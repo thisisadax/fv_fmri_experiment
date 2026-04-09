@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,62,wartime,rations,,,Time Associated Item,SPACE-TIME,example,
+1,62,tax season,receipts,,,Time Associated Item,SPACE-TIME,example,
+1,62,rush hour,traffic,,,Time Associated Item,SPACE-TIME,example,
+1,62,Christmas,presents,,,Time Associated Item,SPACE-TIME,example,
+1,62,night,stars,sun,stars,Time Associated Item,SPACE-TIME,probe,2.0
+2,20,locker,belongings,,,Concealment,REFERENCE,example,
+2,20,trapdoor,entrance,,,Concealment,REFERENCE,example,
+2,20,darkness,intruder,,,Concealment,REFERENCE,example,
+2,20,patch,tear,,,Concealment,REFERENCE,example,
+2,20,clothes,body,body,cold,Concealment,REFERENCE,probe,1.0
+3,13,excellent,mediocre,,,Asymmetric Contrary,CONTRAST,example,
+3,13,freezing,warm,,,Asymmetric Contrary,CONTRAST,example,
+3,13,earsplitting,quiet,,,Asymmetric Contrary,CONTRAST,example,
+3,13,minuscule,big,,,Asymmetric Contrary,CONTRAST,example,
+3,13,agonizing,pleasant,pleasant,painful,Asymmetric Contrary,CONTRAST,probe,1.0
+4,-1,baseline,baseline,,,baseline,baseline,baseline,
+5,20,hedge,garden,,,Concealment,REFERENCE,example,
+5,20,beard,chin,,,Concealment,REFERENCE,example,
+5,20,panel,wiring,,,Concealment,REFERENCE,example,
+5,20,rug,stain,,,Concealment,REFERENCE,example,
+5,20,wig,hair,hair,age,Concealment,REFERENCE,probe,1.0
+6,13,tasty,bland,,,Asymmetric Contrary,CONTRAST,example,
+6,13,stuffed,hungry,,,Asymmetric Contrary,CONTRAST,example,
+6,13,hideous,attractive,,,Asymmetric Contrary,CONTRAST,example,
+6,13,remote,nearby,,,Asymmetric Contrary,CONTRAST,example,
+6,13,starving,satisfied,satisfied,meal,Asymmetric Contrary,CONTRAST,probe,1.0
+7,35,airplane,fly,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+7,35,hammer,pound,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+7,35,whisk,whip,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+7,35,megaphone,amplify,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+7,35,binoculars,magnify,stadium,magnify,Instrument:Intended Action,CAUSE-PURPOSE,probe,2.0
+8,-1,baseline,baseline,,,baseline,baseline,baseline,
+9,20,veil,face,,,Concealment,REFERENCE,example,
+9,20,politeness,anger,,,Concealment,REFERENCE,example,
+9,20,crate,cargo,,,Concealment,REFERENCE,example,
+9,20,cloak,figure,,,Concealment,REFERENCE,example,
+9,20,apron,clothes,pocket,clothes,Concealment,REFERENCE,probe,2.0
+10,62,halftime,snacks,,,Time Associated Item,SPACE-TIME,example,
+10,62,spring,flowers,,,Time Associated Item,SPACE-TIME,example,
+10,62,Thanksgiving,turkey,,,Time Associated Item,SPACE-TIME,example,
+10,62,college,degree,,,Time Associated Item,SPACE-TIME,example,
+10,62,middle age,gray hair,pacifier,gray hair,Time Associated Item,SPACE-TIME,probe,2.0
+11,35,scale,weigh,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+11,35,scissors,cut,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+11,35,ax,chop,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+11,35,oven,bake,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+11,35,flashlight,illuminate,aim,illuminate,Instrument:Intended Action,CAUSE-PURPOSE,probe,2.0
+12,13,arrogant,humble,,,Asymmetric Contrary,CONTRAST,example,
+12,13,exhilarated,somber,,,Asymmetric Contrary,CONTRAST,example,
+12,13,feeble,strong,,,Asymmetric Contrary,CONTRAST,example,
+12,13,sickly,healthy,,,Asymmetric Contrary,CONTRAST,example,
+12,13,murky,clear,muddy,clear,Asymmetric Contrary,CONTRAST,probe,2.0
+13,-1,baseline,baseline,,,baseline,baseline,baseline,
+14,20,bunker,troops,,,Concealment,REFERENCE,example,
+14,20,plaster,crack,,,Concealment,REFERENCE,example,
+14,20,lampshade,bulb,,,Concealment,REFERENCE,example,
+14,20,husk,corn,,,Concealment,REFERENCE,example,
+14,20,facade,feelings,building,feelings,Concealment,REFERENCE,probe,2.0
+15,35,toothbrush,brush,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+15,35,tweezers,pluck,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+15,35,spoon,stir,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+15,35,broom,sweep,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+15,35,cigarette,smoke,inhale,smoke,Instrument:Intended Action,CAUSE-PURPOSE,probe,2.0
+16,62,summer,sunscreen,,,Time Associated Item,SPACE-TIME,example,
+16,62,vacation,suitcase,,,Time Associated Item,SPACE-TIME,example,
+16,62,childhood,crayon,,,Time Associated Item,SPACE-TIME,example,
+16,62,naptime,blanket,,,Time Associated Item,SPACE-TIME,example,
+16,62,girlhood,dolls,retirement card,dolls,Time Associated Item,SPACE-TIME,probe,2.0
+17,-1,baseline,baseline,,,baseline,baseline,baseline,
+18,35,freezer,freeze,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+18,35,crowbar,pry,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+18,35,helmet,protect,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+18,35,surfboard,surf,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+18,35,plow,till,till,field,Instrument:Intended Action,CAUSE-PURPOSE,probe,1.0
+19,20,ivy,wall,,,Concealment,REFERENCE,example,
+19,20,smile,unhappiness,,,Concealment,REFERENCE,example,
+19,20,flattery,contempt,,,Concealment,REFERENCE,example,
+19,20,drawer,contents,,,Concealment,REFERENCE,example,
+19,20,alibi,guilt,excuse,guilt,Concealment,REFERENCE,probe,2.0
+20,13,effortless,challenging,,,Asymmetric Contrary,CONTRAST,example,
+20,13,hostile,friendly,,,Asymmetric Contrary,CONTRAST,example,
+20,13,revolting,appetizing,,,Asymmetric Contrary,CONTRAST,example,
+20,13,undeniable,questionable,,,Asymmetric Contrary,CONTRAST,example,
+20,13,radiant,gloomy,summer,gloomy,Asymmetric Contrary,CONTRAST,probe,2.0
+21,62,twilight,bats,,,Time Associated Item,SPACE-TIME,example,
+21,62,parenthood,sleeplessness,,,Time Associated Item,SPACE-TIME,example,
+21,62,lunchtime,sandwich,,,Time Associated Item,SPACE-TIME,example,
+21,62,election day,ballot,,,Time Associated Item,SPACE-TIME,example,
+21,62,fall,pumpkins,pumpkins,sparklers,Time Associated Item,SPACE-TIME,probe,1.0
+22,-1,baseline,baseline,,,baseline,baseline,baseline,
+23,13,blinding,dim,,,Asymmetric Contrary,CONTRAST,example,
+23,13,desolate,lively,,,Asymmetric Contrary,CONTRAST,example,
+23,13,immaculate,messy,,,Asymmetric Contrary,CONTRAST,example,
+23,13,riveting,dull,,,Asymmetric Contrary,CONTRAST,example,
+23,13,cramped,spacious,tight,spacious,Asymmetric Contrary,CONTRAST,probe,2.0
+24,35,corkscrew,uncork,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+24,35,razor,shave,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+24,35,key,unlock,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+24,35,ladder,climb,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+24,35,paintbrush,paint,paint,stroke,Instrument:Intended Action,CAUSE-PURPOSE,probe,1.0
+25,62,Halloween,candy,,,Time Associated Item,SPACE-TIME,example,
+25,62,funeral,wreath,,,Time Associated Item,SPACE-TIME,example,
+25,62,Hanukkah,menorah,,,Time Associated Item,SPACE-TIME,example,
+25,62,bathtime,bubbles,,,Time Associated Item,SPACE-TIME,example,
+25,62,toddler,tantrums,tantrums,homework,Time Associated Item,SPACE-TIME,probe,1.0

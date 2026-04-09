@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,32,slouch,laziness,,,Expression,REFERENCE,example,
+1,32,whistle,cheerfulness,,,Expression,REFERENCE,example,
+1,32,weep,mourning,,,Expression,REFERENCE,example,
+1,32,moan,suffering,,,Expression,REFERENCE,example,
+1,32,murmur,discontent,discontent,tiredness,Expression,REFERENCE,probe,1.0
+2,48,sun,shine,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+2,48,shovel,dig,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+2,48,bee,buzz,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+2,48,chef,cook,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+2,48,snake,slither,hiss,slither,Object:Typical Action (noun.verb),ATTRIBUTE,probe,2.0
+3,17,thin,paint,,,Change,SIMILAR,example,
+3,17,darken,color,,,Change,SIMILAR,example,
+3,17,magnify,image,,,Change,SIMILAR,example,
+3,17,lessen,impact,,,Change,SIMILAR,example,
+3,17,expand,territory,territory,army,Change,SIMILAR,probe,1.0
+4,-1,baseline,baseline,,,baseline,baseline,baseline,
+5,53,vegetables,carrots,,,Plural Collective,CLASS-INCLUSION,example,
+5,53,fabrics,silk,,,Plural Collective,CLASS-INCLUSION,example,
+5,53,animals,dogs,,,Plural Collective,CLASS-INCLUSION,example,
+5,53,condiments,ketchup,,,Plural Collective,CLASS-INCLUSION,example,
+5,53,clothing,shirts,fabric,shirts,Plural Collective,CLASS-INCLUSION,probe,2.0
+6,48,duck,quack,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+6,48,cat,purr,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+6,48,thunder,rumble,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+6,48,dog,bark,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+6,48,pilot,fly,navigate,fly,Object:Typical Action (noun.verb),ATTRIBUTE,probe,2.0
+7,-1,baseline,baseline,,,baseline,baseline,baseline,
+8,32,whimper,distress,,,Expression,REFERENCE,example,
+8,32,slam,rage,,,Expression,REFERENCE,example,
+8,32,laughter,amusement,,,Expression,REFERENCE,example,
+8,32,cling,insecurity,,,Expression,REFERENCE,example,
+8,32,sob,grief,tears,grief,Expression,REFERENCE,probe,2.0
+9,17,dim,light,,,Change,SIMILAR,example,
+9,17,inflate,balloon,,,Change,SIMILAR,example,
+9,17,lower,volume,,,Change,SIMILAR,example,
+9,17,surplus,inventory,,,Change,SIMILAR,example,
+9,17,dull,edge,edge,sharpener,Change,SIMILAR,probe,1.0
+10,-1,baseline,baseline,,,baseline,baseline,baseline,
+11,32,compliment,admiration,,,Expression,REFERENCE,example,
+11,32,blush,embarrassment,,,Expression,REFERENCE,example,
+11,32,tears,sorrow,,,Expression,REFERENCE,example,
+11,32,beg,desperation,,,Expression,REFERENCE,example,
+11,32,smirk,smugness,smugness,mirror,Expression,REFERENCE,probe,1.0
+12,17,stretch,fabric,,,Change,SIMILAR,example,
+12,17,shortage,supply,,,Change,SIMILAR,example,
+12,17,deposit,balance,,,Change,SIMILAR,example,
+12,17,muffle,sound,,,Change,SIMILAR,example,
+12,17,heat,temperature,fire,temperature,Change,SIMILAR,probe,2.0
+13,-1,baseline,baseline,,,baseline,baseline,baseline,
+14,53,makeup,eyeshadow,,,Plural Collective,CLASS-INCLUSION,example,
+14,53,literature,novels,,,Plural Collective,CLASS-INCLUSION,example,
+14,53,languages,spanish,,,Plural Collective,CLASS-INCLUSION,example,
+14,53,vehicles,trucks,,,Plural Collective,CLASS-INCLUSION,example,
+14,53,music,jazz,jazz,radio,Plural Collective,CLASS-INCLUSION,probe,1.0
+15,17,surge,demand,,,Change,SIMILAR,example,
+15,17,deepen,flavor,,,Change,SIMILAR,example,
+15,17,cut,budget,,,Change,SIMILAR,example,
+15,17,narrow,road,,,Change,SIMILAR,example,
+15,17,lengthen,rope,pulley,rope,Change,SIMILAR,probe,2.0
+16,-1,baseline,baseline,,,baseline,baseline,baseline,
+17,32,squeal,excitement,,,Expression,REFERENCE,example,
+17,32,gape,astonishment,,,Expression,REFERENCE,example,
+17,32,tremble,fear,,,Expression,REFERENCE,example,
+17,32,cackle,glee,,,Expression,REFERENCE,example,
+17,32,stare,curiosity,hostility,curiosity,Expression,REFERENCE,probe,2.0
+18,48,guard,protect,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+18,48,ice,melt,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+18,48,housekeeper,clean,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+18,48,water,flow,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+18,48,pastor,preach,sermon,preach,Object:Typical Action (noun.verb),ATTRIBUTE,probe,2.0
+19,53,meat,steak,,,Plural Collective,CLASS-INCLUSION,example,
+19,53,money,dime,,,Plural Collective,CLASS-INCLUSION,example,
+19,53,hats,sombreros,,,Plural Collective,CLASS-INCLUSION,example,
+19,53,snacks,chips,,,Plural Collective,CLASS-INCLUSION,example,
+19,53,dogs,collies,herding,collies,Plural Collective,CLASS-INCLUSION,probe,2.0
+20,17,death,population,,,Change,SIMILAR,example,
+20,17,erosion,shoreline,,,Change,SIMILAR,example,
+20,17,trim,tree,,,Change,SIMILAR,example,
+20,17,heighten,awareness,,,Change,SIMILAR,example,
+20,17,lighten,load,shoulders,load,Change,SIMILAR,probe,2.0
+21,48,educator,teach,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+21,48,owl,hoot,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+21,48,alarm,blare,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+21,48,stomach,digest,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+21,48,snow,fall,fall,winter,Object:Typical Action (noun.verb),ATTRIBUTE,probe,1.0
+22,53,metals,gold,,,Plural Collective,CLASS-INCLUSION,example,
+22,53,shapes,circles,,,Plural Collective,CLASS-INCLUSION,example,
+22,53,tools,hammers,,,Plural Collective,CLASS-INCLUSION,example,
+22,53,flowers,roses,,,Plural Collective,CLASS-INCLUSION,example,
+22,53,beverages,sodas,bottle,sodas,Plural Collective,CLASS-INCLUSION,probe,2.0
+23,32,strut,confidence,,,Expression,REFERENCE,example,
+23,32,snarl,anger,,,Expression,REFERENCE,example,
+23,32,sneer,contempt,,,Expression,REFERENCE,example,
+23,32,lie,dishonesty,,,Expression,REFERENCE,example,
+23,32,mope,melancholy,loneliness,melancholy,Expression,REFERENCE,probe,2.0
+24,48,heart,beat,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+24,48,bread,rise,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+24,48,star,twinkle,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+24,48,tailor,sew,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+24,48,thief,steal,steal,lie,Object:Typical Action (noun.verb),ATTRIBUTE,probe,1.0
+25,53,dances,waltz,,,Plural Collective,CLASS-INCLUSION,example,
+25,53,nuts,cashews,,,Plural Collective,CLASS-INCLUSION,example,
+25,53,gemstones,diamonds,,,Plural Collective,CLASS-INCLUSION,example,
+25,53,sports,tennis,,,Plural Collective,CLASS-INCLUSION,example,
+25,53,grains,wheat,wheat,harvest,Plural Collective,CLASS-INCLUSION,probe,1.0

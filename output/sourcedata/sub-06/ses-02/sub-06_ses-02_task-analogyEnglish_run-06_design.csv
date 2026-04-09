@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,55,scholar,fellowship,,,Recipient:Instrument,CASE RELATIONS,example,
+1,55,taxpayer,refund,,,Recipient:Instrument,CASE RELATIONS,example,
+1,55,hunter,permit,,,Recipient:Instrument,CASE RELATIONS,example,
+1,55,visitor,pass,,,Recipient:Instrument,CASE RELATIONS,example,
+1,55,owner,deed,house keys,deed,Recipient:Instrument,CASE RELATIONS,probe,2.0
+2,16,guilt,confess,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+2,16,loss,mourn,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+2,16,frustration,complain,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+2,16,damage,repair,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+2,16,rip,mend,mend,needle,Cause:Compensatory Action,CAUSE-PURPOSE,probe,1.0
+3,39,dermatology,skin,,,Knowledge,REFERENCE,example,
+3,39,cartography,maps,,,Knowledge,REFERENCE,example,
+3,39,philosophy,ideas,,,Knowledge,REFERENCE,example,
+3,39,toxicology,poisons,,,Knowledge,REFERENCE,example,
+3,39,psychiatry,mental illness,therapy,mental illness,Knowledge,REFERENCE,probe,2.0
+4,28,love,adore,,,Dimensional Similarity,SIMILAR,example,
+4,28,bee,wasp,,,Dimensional Similarity,SIMILAR,example,
+4,28,crimson,scarlet,,,Dimensional Similarity,SIMILAR,example,
+4,28,turtle,tortoise,,,Dimensional Similarity,SIMILAR,example,
+4,28,house,cottage,cottage,neighborhood,Dimensional Similarity,SIMILAR,probe,1.0
+5,-1,baseline,baseline,,,baseline,baseline,baseline,
+6,55,passenger,ticket,,,Recipient:Instrument,CASE RELATIONS,example,
+6,55,professor,tenure,,,Recipient:Instrument,CASE RELATIONS,example,
+6,55,citizen,passport,,,Recipient:Instrument,CASE RELATIONS,example,
+6,55,researcher,grant,,,Recipient:Instrument,CASE RELATIONS,example,
+6,55,artist,commission,royalty,commission,Recipient:Instrument,CASE RELATIONS,probe,2.0
+7,28,blanket,quilt,,,Dimensional Similarity,SIMILAR,example,
+7,28,roast,char,,,Dimensional Similarity,SIMILAR,example,
+7,28,forest,woods,,,Dimensional Similarity,SIMILAR,example,
+7,28,violin,cello,,,Dimensional Similarity,SIMILAR,example,
+7,28,affection,love,hug,love,Dimensional Similarity,SIMILAR,probe,2.0
+8,-1,baseline,baseline,,,baseline,baseline,baseline,
+9,55,traveler,visa,,,Recipient:Instrument,CASE RELATIONS,example,
+9,55,child,allowance,,,Recipient:Instrument,CASE RELATIONS,example,
+9,55,refugee,asylum,,,Recipient:Instrument,CASE RELATIONS,example,
+9,55,doctor,license,,,Recipient:Instrument,CASE RELATIONS,example,
+9,55,survivor,aid,shelter,aid,Recipient:Instrument,CASE RELATIONS,probe,2.0
+10,39,oceanography,oceans,,,Knowledge,REFERENCE,example,
+10,39,anatomy,body,,,Knowledge,REFERENCE,example,
+10,39,epidemiology,epidemics,,,Knowledge,REFERENCE,example,
+10,39,seismology,earthquakes,,,Knowledge,REFERENCE,example,
+10,39,optometry,vision,vision,contacts,Knowledge,REFERENCE,probe,1.0
+11,16,danger,flee,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+11,16,error,correct,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+11,16,stain,scrub,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+11,16,leak,fix,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+11,16,emptiness,fill,fill,cover,Cause:Compensatory Action,CAUSE-PURPOSE,probe,1.0
+12,-1,baseline,baseline,,,baseline,baseline,baseline,
+13,39,history,past,,,Knowledge,REFERENCE,example,
+13,39,pediatrics,children,,,Knowledge,REFERENCE,example,
+13,39,linguistics,languages,,,Knowledge,REFERENCE,example,
+13,39,pathology,disease,,,Knowledge,REFERENCE,example,
+13,39,microbiology,microbes,incubators,microbes,Knowledge,REFERENCE,probe,2.0
+14,16,nostalgia,reminisce,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+14,16,confusion,ask,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+14,16,obesity,exercise,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+14,16,regret,apologize,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+14,16,sadness,cry,tears,cry,Cause:Compensatory Action,CAUSE-PURPOSE,probe,2.0
+15,55,client,voucher,,,Recipient:Instrument,CASE RELATIONS,example,
+15,55,employee,paycheck,,,Recipient:Instrument,CASE RELATIONS,example,
+15,55,groom,ring,,,Recipient:Instrument,CASE RELATIONS,example,
+15,55,tenant,key,,,Recipient:Instrument,CASE RELATIONS,example,
+15,55,inmate,parole,parole,cell,Recipient:Instrument,CASE RELATIONS,probe,1.0
+16,28,small,tiny,,,Dimensional Similarity,SIMILAR,example,
+16,28,rabbit,hare,,,Dimensional Similarity,SIMILAR,example,
+16,28,boat,ship,,,Dimensional Similarity,SIMILAR,example,
+16,28,lion,tiger,,,Dimensional Similarity,SIMILAR,example,
+16,28,shove,push,push,pull,Dimensional Similarity,SIMILAR,probe,1.0
+17,-1,baseline,baseline,,,baseline,baseline,baseline,
+18,16,spill,wipe,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+18,16,suspicion,question,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+18,16,mess,clean,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+18,16,embarrassment,blush,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+18,16,failure,retry,practice,retry,Cause:Compensatory Action,CAUSE-PURPOSE,probe,2.0
+19,28,dolphin,porpoise,,,Dimensional Similarity,SIMILAR,example,
+19,28,pots,pans,,,Dimensional Similarity,SIMILAR,example,
+19,28,sword,dagger,,,Dimensional Similarity,SIMILAR,example,
+19,28,clever,ingenious,,,Dimensional Similarity,SIMILAR,example,
+19,28,oak,maple,hardwood,maple,Dimensional Similarity,SIMILAR,probe,2.0
+20,55,charity,donations,,,Recipient:Instrument,CASE RELATIONS,example,
+20,55,intern,stipend,,,Recipient:Instrument,CASE RELATIONS,example,
+20,55,voter,ballot,,,Recipient:Instrument,CASE RELATIONS,example,
+20,55,wife,ring,,,Recipient:Instrument,CASE RELATIONS,example,
+20,55,heir,trust,trust,estate,Recipient:Instrument,CASE RELATIONS,probe,1.0
+21,39,forensics,evidence,,,Knowledge,REFERENCE,example,
+21,39,pharmacology,drugs,,,Knowledge,REFERENCE,example,
+21,39,political science,government,,,Knowledge,REFERENCE,example,
+21,39,genealogy,family,,,Knowledge,REFERENCE,example,
+21,39,pulmonology,lungs,ventilator,lungs,Knowledge,REFERENCE,probe,2.0
+22,-1,baseline,baseline,,,baseline,baseline,baseline,
+23,16,alarm,wake,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+23,16,threat,defend,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+23,16,nervousness,fidget,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+23,16,clumsiness,practice,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+23,16,desperation,beg,last chance,beg,Cause:Compensatory Action,CAUSE-PURPOSE,probe,2.0
+24,28,tree,sapling,,,Dimensional Similarity,SIMILAR,example,
+24,28,marble,granite,,,Dimensional Similarity,SIMILAR,example,
+24,28,painting,drawing,,,Dimensional Similarity,SIMILAR,example,
+24,28,coffee,tea,,,Dimensional Similarity,SIMILAR,example,
+24,28,giggle,laugh,joke,laugh,Dimensional Similarity,SIMILAR,probe,2.0
+25,39,geology,earth,,,Knowledge,REFERENCE,example,
+25,39,cosmology,universe,,,Knowledge,REFERENCE,example,
+25,39,paleontology,fossils,,,Knowledge,REFERENCE,example,
+25,39,astronomy,stars,,,Knowledge,REFERENCE,example,
+25,39,architecture,buildings,buildings,rooms,Knowledge,REFERENCE,probe,1.0

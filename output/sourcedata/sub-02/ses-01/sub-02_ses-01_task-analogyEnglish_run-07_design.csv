@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,47,fence,boards,,,Object:Stuff,PART-WHOLE,example,
+1,47,table,wood,,,Object:Stuff,PART-WHOLE,example,
+1,47,paint,pigment,,,Object:Stuff,PART-WHOLE,example,
+1,47,book,pages,,,Object:Stuff,PART-WHOLE,example,
+1,47,skeleton,bones,x-ray,bones,Object:Stuff,PART-WHOLE,probe,2.0
+2,9,spy,information,,,Agent:Goal,CAUSE-PURPOSE,example,
+2,9,miner,ore,,,Agent:Goal,CAUSE-PURPOSE,example,
+2,9,gambler,millionaire,,,Agent:Goal,CAUSE-PURPOSE,example,
+2,9,fisherman,catch,,,Agent:Goal,CAUSE-PURPOSE,example,
+2,9,negotiator,agreement,agreement,notes,Agent:Goal,CAUSE-PURPOSE,probe,1.0
+3,28,road,highway,,,Dimensional Similarity,SIMILAR,example,
+3,28,roast,char,,,Dimensional Similarity,SIMILAR,example,
+3,28,lamp,lantern,,,Dimensional Similarity,SIMILAR,example,
+3,28,worry,anxiety,,,Dimensional Similarity,SIMILAR,example,
+3,28,clever,ingenious,curious,ingenious,Dimensional Similarity,SIMILAR,probe,2.0
+4,-1,baseline,baseline,,,baseline,baseline,baseline,
+5,47,ice,water,,,Object:Stuff,PART-WHOLE,example,
+5,47,wig,hair,,,Object:Stuff,PART-WHOLE,example,
+5,47,jury,jurors,,,Object:Stuff,PART-WHOLE,example,
+5,47,constellation,stars,,,Object:Stuff,PART-WHOLE,example,
+5,47,clothing,thread,thread,pattern,Object:Stuff,PART-WHOLE,probe,1.0
+6,28,cold,frigid,,,Dimensional Similarity,SIMILAR,example,
+6,28,hat,cap,,,Dimensional Similarity,SIMILAR,example,
+6,28,beer,wine,,,Dimensional Similarity,SIMILAR,example,
+6,28,toss,throw,,,Dimensional Similarity,SIMILAR,example,
+6,28,pour,shower,shower,bucket,Dimensional Similarity,SIMILAR,probe,1.0
+7,27,encourage,pressure,,,Dimensional Naughty,SIMILAR,example,
+7,27,smile,sneer,,,Dimensional Naughty,SIMILAR,example,
+7,27,convince,brainwash,,,Dimensional Naughty,SIMILAR,example,
+7,27,observe,spy,,,Dimensional Naughty,SIMILAR,example,
+7,27,spend,squander,squander,splurge,Dimensional Naughty,SIMILAR,probe,1.0
+8,-1,baseline,baseline,,,baseline,baseline,baseline,
+9,9,hedonist,pleasure,,,Agent:Goal,CAUSE-PURPOSE,example,
+9,9,immigrant,citizenship,,,Agent:Goal,CAUSE-PURPOSE,example,
+9,9,actor,oscar,,,Agent:Goal,CAUSE-PURPOSE,example,
+9,9,athlete,medal,,,Agent:Goal,CAUSE-PURPOSE,example,
+9,9,researcher,knowledge,knowledge,notebook,Agent:Goal,CAUSE-PURPOSE,probe,1.0
+10,27,correct,berate,,,Dimensional Naughty,SIMILAR,example,
+10,27,look,glare,,,Dimensional Naughty,SIMILAR,example,
+10,27,trade,swindle,,,Dimensional Naughty,SIMILAR,example,
+10,27,drink,slurp,,,Dimensional Naughty,SIMILAR,example,
+10,27,speak,scream,scream,microphone,Dimensional Naughty,SIMILAR,probe,1.0
+11,-1,baseline,baseline,,,baseline,baseline,baseline,
+12,9,weaver,cloth,,,Agent:Goal,CAUSE-PURPOSE,example,
+12,9,castaway,rescue,,,Agent:Goal,CAUSE-PURPOSE,example,
+12,9,worker,salary,,,Agent:Goal,CAUSE-PURPOSE,example,
+12,9,tailor,suit,,,Agent:Goal,CAUSE-PURPOSE,example,
+12,9,salesperson,sale,sale,client,Agent:Goal,CAUSE-PURPOSE,probe,1.0
+13,28,dolphin,porpoise,,,Dimensional Similarity,SIMILAR,example,
+13,28,whisper,murmur,,,Dimensional Similarity,SIMILAR,example,
+13,28,silver,gold,,,Dimensional Similarity,SIMILAR,example,
+13,28,rug,carpet,,,Dimensional Similarity,SIMILAR,example,
+13,28,tree,sapling,trunk,sapling,Dimensional Similarity,SIMILAR,probe,2.0
+14,27,fight,attack,,,Dimensional Naughty,SIMILAR,example,
+14,27,ask,interrogate,,,Dimensional Naughty,SIMILAR,example,
+14,27,sell,scam,,,Dimensional Naughty,SIMILAR,example,
+14,27,tease,ridicule,,,Dimensional Naughty,SIMILAR,example,
+14,27,joke,mock,tease,mock,Dimensional Naughty,SIMILAR,probe,2.0
+15,47,bell,brass,,,Object:Stuff,PART-WHOLE,example,
+15,47,sandcastle,sand,,,Object:Stuff,PART-WHOLE,example,
+15,47,ocean,water,,,Object:Stuff,PART-WHOLE,example,
+15,47,scarf,silk,,,Object:Stuff,PART-WHOLE,example,
+15,47,flock,birds,sky,birds,Object:Stuff,PART-WHOLE,probe,2.0
+16,9,soldier,victory,,,Agent:Goal,CAUSE-PURPOSE,example,
+16,9,student,degree,,,Agent:Goal,CAUSE-PURPOSE,example,
+16,9,inventor,patent,,,Agent:Goal,CAUSE-PURPOSE,example,
+16,9,miser,wealth,,,Agent:Goal,CAUSE-PURPOSE,example,
+16,9,mediator,reconciliation,talks,reconciliation,Agent:Goal,CAUSE-PURPOSE,probe,2.0
+17,-1,baseline,baseline,,,baseline,baseline,baseline,
+18,28,hate,detest,,,Dimensional Similarity,SIMILAR,example,
+18,28,small,tiny,,,Dimensional Similarity,SIMILAR,example,
+18,28,toast,bake,,,Dimensional Similarity,SIMILAR,example,
+18,28,painting,drawing,,,Dimensional Similarity,SIMILAR,example,
+18,28,guitar,banjo,banjo,pick,Dimensional Similarity,SIMILAR,probe,1.0
+19,27,keep,withhold,,,Dimensional Naughty,SIMILAR,example,
+19,27,watch,peep,,,Dimensional Naughty,SIMILAR,example,
+19,27,care,coddle,,,Dimensional Naughty,SIMILAR,example,
+19,27,employ,enslave,,,Dimensional Naughty,SIMILAR,example,
+19,27,visit,stalk,guest,stalk,Dimensional Naughty,SIMILAR,probe,2.0
+20,47,library,books,,,Object:Stuff,PART-WHOLE,example,
+20,47,meal,courses,,,Object:Stuff,PART-WHOLE,example,
+20,47,anthology,stories,,,Object:Stuff,PART-WHOLE,example,
+20,47,wall,bricks,,,Object:Stuff,PART-WHOLE,example,
+20,47,novel,chapters,chapters,author,Object:Stuff,PART-WHOLE,probe,1.0
+21,28,bicycle,motorcycle,,,Dimensional Similarity,SIMILAR,example,
+21,28,plane,jet,,,Dimensional Similarity,SIMILAR,example,
+21,28,crimson,scarlet,,,Dimensional Similarity,SIMILAR,example,
+21,28,horse,pony,,,Dimensional Similarity,SIMILAR,example,
+21,28,cake,pie,pie,candle,Dimensional Similarity,SIMILAR,probe,1.0
+22,-1,baseline,baseline,,,baseline,baseline,baseline,
+23,27,push,shove,,,Dimensional Naughty,SIMILAR,example,
+23,27,sign,forge,,,Dimensional Naughty,SIMILAR,example,
+23,27,admire,obsess,,,Dimensional Naughty,SIMILAR,example,
+23,27,promote,spam,,,Dimensional Naughty,SIMILAR,example,
+23,27,request,beg,beg,office,Dimensional Naughty,SIMILAR,probe,1.0
+24,9,arsonist,fire,,,Agent:Goal,CAUSE-PURPOSE,example,
+24,9,architect,building,,,Agent:Goal,CAUSE-PURPOSE,example,
+24,9,recruiter,hire,,,Agent:Goal,CAUSE-PURPOSE,example,
+24,9,refugee,asylum,,,Agent:Goal,CAUSE-PURPOSE,example,
+24,9,therapist,healing,session,healing,Agent:Goal,CAUSE-PURPOSE,probe,2.0
+25,47,adobe,mud,,,Object:Stuff,PART-WHOLE,example,
+25,47,boots,leather,,,Object:Stuff,PART-WHOLE,example,
+25,47,tent,canvas,,,Object:Stuff,PART-WHOLE,example,
+25,47,window,glass,,,Object:Stuff,PART-WHOLE,example,
+25,47,stew,meat,meat,bowl,Object:Stuff,PART-WHOLE,probe,1.0

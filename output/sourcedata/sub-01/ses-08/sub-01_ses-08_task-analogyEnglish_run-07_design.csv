@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,37,automobile,trunk,,,Item:Topological Part,PART-WHOLE,example,
+1,37,chair,leg,,,Item:Topological Part,PART-WHOLE,example,
+1,37,foot,heel,,,Item:Topological Part,PART-WHOLE,example,
+1,37,mountain,base,,,Item:Topological Part,PART-WHOLE,example,
+1,37,hotel,lobby,check-in,lobby,Item:Topological Part,PART-WHOLE,probe,2.0
+2,9,prospector,gold,,,Agent:Goal,CAUSE-PURPOSE,example,
+2,9,masochist,suffering,,,Agent:Goal,CAUSE-PURPOSE,example,
+2,9,gardener,bloom,,,Agent:Goal,CAUSE-PURPOSE,example,
+2,9,immigrant,citizenship,,,Agent:Goal,CAUSE-PURPOSE,example,
+2,9,singer,contract,contract,microphone,Agent:Goal,CAUSE-PURPOSE,probe,1.0
+3,62,Fourth of July,sparklers,,,Time Associated Item,SPACE-TIME,example,
+3,62,vacation,suitcase,,,Time Associated Item,SPACE-TIME,example,
+3,62,fall,leaves,,,Time Associated Item,SPACE-TIME,example,
+3,62,Christmas,presents,,,Time Associated Item,SPACE-TIME,example,
+3,62,dawn,rooster,streetlights,rooster,Time Associated Item,SPACE-TIME,probe,2.0
+4,37,church,sanctuary,,,Item:Topological Part,PART-WHOLE,example,
+4,37,house,roof,,,Item:Topological Part,PART-WHOLE,example,
+4,37,boat,hull,,,Item:Topological Part,PART-WHOLE,example,
+4,37,lamp,shade,,,Item:Topological Part,PART-WHOLE,example,
+4,37,backyard,patio,patio,grill,Item:Topological Part,PART-WHOLE,probe,1.0
+5,-1,baseline,baseline,,,baseline,baseline,baseline,
+6,9,baker,bread,,,Agent:Goal,CAUSE-PURPOSE,example,
+6,9,team,trophy,,,Agent:Goal,CAUSE-PURPOSE,example,
+6,9,tailor,suit,,,Agent:Goal,CAUSE-PURPOSE,example,
+6,9,boxer,knockout,,,Agent:Goal,CAUSE-PURPOSE,example,
+6,9,refugee,asylum,asylum,journey,Agent:Goal,CAUSE-PURPOSE,probe,1.0
+7,6,frying,cooking,,,Activity:Stage,PART-WHOLE,example,
+7,6,sanding,woodworking,,,Activity:Stage,PART-WHOLE,example,
+7,6,loading,moving,,,Activity:Stage,PART-WHOLE,example,
+7,6,tilling,farming,,,Activity:Stage,PART-WHOLE,example,
+7,6,packing,moving,moving,mailing,Activity:Stage,PART-WHOLE,probe,1.0
+8,-1,baseline,baseline,,,baseline,baseline,baseline,
+9,62,graduation,cap,,,Time Associated Item,SPACE-TIME,example,
+9,62,bedtime,pajamas,,,Time Associated Item,SPACE-TIME,example,
+9,62,Easter,eggs,,,Time Associated Item,SPACE-TIME,example,
+9,62,blizzard,shovel,,,Time Associated Item,SPACE-TIME,example,
+9,62,college,textbook,locker,textbook,Time Associated Item,SPACE-TIME,probe,2.0
+10,37,window,sill,,,Item:Topological Part,PART-WHOLE,example,
+10,37,table,top,,,Item:Topological Part,PART-WHOLE,example,
+10,37,island,coast,,,Item:Topological Part,PART-WHOLE,example,
+10,37,flower,stem,,,Item:Topological Part,PART-WHOLE,example,
+10,37,hand,palm,ring,palm,Item:Topological Part,PART-WHOLE,probe,2.0
+11,6,sketching,painting,,,Activity:Stage,PART-WHOLE,example,
+11,6,dealing,poker,,,Activity:Stage,PART-WHOLE,example,
+11,6,volleying,tennis,,,Activity:Stage,PART-WHOLE,example,
+11,6,paying,shopping,,,Activity:Stage,PART-WHOLE,example,
+11,6,meditating,yoga,yoga,mat,Activity:Stage,PART-WHOLE,probe,1.0
+12,62,toddler,tantrums,,,Time Associated Item,SPACE-TIME,example,
+12,62,naptime,blanket,,,Time Associated Item,SPACE-TIME,example,
+12,62,Valentine's Day,chocolate,,,Time Associated Item,SPACE-TIME,example,
+12,62,adulthood,independence,,,Time Associated Item,SPACE-TIME,example,
+12,62,baby shower,rattle,rattle,turkey,Time Associated Item,SPACE-TIME,probe,1.0
+13,-1,baseline,baseline,,,baseline,baseline,baseline,
+14,6,dribbling,basketball,,,Activity:Stage,PART-WHOLE,example,
+14,6,editing,filmmaking,,,Activity:Stage,PART-WHOLE,example,
+14,6,purling,knitting,,,Activity:Stage,PART-WHOLE,example,
+14,6,examining,diagnosing,,,Activity:Stage,PART-WHOLE,example,
+14,6,chewing,eating,eating,talking,Activity:Stage,PART-WHOLE,probe,1.0
+15,9,miner,ore,,,Agent:Goal,CAUSE-PURPOSE,example,
+15,9,lawyer,justice,,,Agent:Goal,CAUSE-PURPOSE,example,
+15,9,preacher,salvation,,,Agent:Goal,CAUSE-PURPOSE,example,
+15,9,patient,health,,,Agent:Goal,CAUSE-PURPOSE,example,
+15,9,lobbyist,legislation,lawmaker,legislation,Agent:Goal,CAUSE-PURPOSE,probe,2.0
+16,37,garden,path,,,Item:Topological Part,PART-WHOLE,example,
+16,37,canyon,rim,,,Item:Topological Part,PART-WHOLE,example,
+16,37,jacket,pocket,,,Item:Topological Part,PART-WHOLE,example,
+16,37,cup,rim,,,Item:Topological Part,PART-WHOLE,example,
+16,37,face,forehead,forehead,hair,Item:Topological Part,PART-WHOLE,probe,1.0
+17,-1,baseline,baseline,,,baseline,baseline,baseline,
+18,9,traveler,destination,,,Agent:Goal,CAUSE-PURPOSE,example,
+18,9,brewer,beer,,,Agent:Goal,CAUSE-PURPOSE,example,
+18,9,sculptor,statue,,,Agent:Goal,CAUSE-PURPOSE,example,
+18,9,investor,return,,,Agent:Goal,CAUSE-PURPOSE,example,
+18,9,salesperson,sale,sale,client,Agent:Goal,CAUSE-PURPOSE,probe,1.0
+19,62,happy hour,cocktails,,,Time Associated Item,SPACE-TIME,example,
+19,62,election day,ballot,,,Time Associated Item,SPACE-TIME,example,
+19,62,Labor Day,barbecue,,,Time Associated Item,SPACE-TIME,example,
+19,62,Thanksgiving,turkey,,,Time Associated Item,SPACE-TIME,example,
+19,62,flu season,tissues,tissues,sunglasses,Time Associated Item,SPACE-TIME,probe,1.0
+20,6,shampooing,bathing,,,Activity:Stage,PART-WHOLE,example,
+20,6,exhaling,breathing,,,Activity:Stage,PART-WHOLE,example,
+20,6,lathering,shaving,,,Activity:Stage,PART-WHOLE,example,
+20,6,studying,learning,,,Activity:Stage,PART-WHOLE,example,
+20,6,stretching,exercising,flexibility,exercising,Activity:Stage,PART-WHOLE,probe,2.0
+21,-1,baseline,baseline,,,baseline,baseline,baseline,
+22,37,shoe,sole,,,Item:Topological Part,PART-WHOLE,example,
+22,37,prison,cell,,,Item:Topological Part,PART-WHOLE,example,
+22,37,barnyard,henhouse,,,Item:Topological Part,PART-WHOLE,example,
+22,37,ship,deck,,,Item:Topological Part,PART-WHOLE,example,
+22,37,car,hood,hood,driver,Item:Topological Part,PART-WHOLE,probe,1.0
+23,6,coding,programming,,,Activity:Stage,PART-WHOLE,example,
+23,6,rinsing,dishwashing,,,Activity:Stage,PART-WHOLE,example,
+23,6,kneading,baking,,,Activity:Stage,PART-WHOLE,example,
+23,6,fermenting,brewing,,,Activity:Stage,PART-WHOLE,example,
+23,6,browsing,shopping,comparing,shopping,Activity:Stage,PART-WHOLE,probe,2.0
+24,9,architect,building,,,Agent:Goal,CAUSE-PURPOSE,example,
+24,9,recruiter,hire,,,Agent:Goal,CAUSE-PURPOSE,example,
+24,9,plumber,repair,,,Agent:Goal,CAUSE-PURPOSE,example,
+24,9,gambler,millionaire,,,Agent:Goal,CAUSE-PURPOSE,example,
+24,9,christian,heaven,bible,heaven,Agent:Goal,CAUSE-PURPOSE,probe,2.0
+25,62,afternoon,nap,,,Time Associated Item,SPACE-TIME,example,
+25,62,promotion,raise,,,Time Associated Item,SPACE-TIME,example,
+25,62,dusk,crickets,,,Time Associated Item,SPACE-TIME,example,
+25,62,harvest,scarecrow,,,Time Associated Item,SPACE-TIME,example,
+25,62,honeymoon,beach,beach,report card,Time Associated Item,SPACE-TIME,probe,1.0

@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,0,spy,inform,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+1,0,advertise,promote,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+1,0,bid,acquire,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+1,0,rehearse,prepare,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+1,0,medicate,heal,heal,pill,Action/Activity:Goal,CAUSE-PURPOSE,probe,1.0
+2,62,naptime,blanket,,,Time Associated Item,SPACE-TIME,example,
+2,62,summer,swimsuit,,,Time Associated Item,SPACE-TIME,example,
+2,62,adolescence,acne,,,Time Associated Item,SPACE-TIME,example,
+2,62,childhood,crayon,,,Time Associated Item,SPACE-TIME,example,
+2,62,adulthood,independence,homework,independence,Time Associated Item,SPACE-TIME,probe,2.0
+3,22,sap,syrup,,,Conversion,SIMILAR,example,
+3,22,wax,candle,,,Conversion,SIMILAR,example,
+3,22,grape,raisin,,,Conversion,SIMILAR,example,
+3,22,iron,steel,,,Conversion,SIMILAR,example,
+3,22,stranger,friend,friend,neighbor,Conversion,SIMILAR,probe,1.0
+4,-1,baseline,baseline,,,baseline,baseline,baseline,
+5,52,draft,speech,,,Plan,REFERENCE,example,
+5,52,proposal,research,,,Plan,REFERENCE,example,
+5,52,recipe,meal,,,Plan,REFERENCE,example,
+5,52,constitution,government,,,Plan,REFERENCE,example,
+5,52,outline,composition,desk,composition,Plan,REFERENCE,probe,2.0
+6,0,wash,clean,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+6,0,shoot,kill,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+6,0,sing,entertain,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+6,0,ambush,capture,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+6,0,debate,persuade,persuade,topic,Action/Activity:Goal,CAUSE-PURPOSE,probe,1.0
+7,62,storytime,book,,,Time Associated Item,SPACE-TIME,example,
+7,62,morning,sunrise,,,Time Associated Item,SPACE-TIME,example,
+7,62,halftime,snacks,,,Time Associated Item,SPACE-TIME,example,
+7,62,winter,snow,,,Time Associated Item,SPACE-TIME,example,
+7,62,evening,sunset,dawn,sunset,Time Associated Item,SPACE-TIME,probe,2.0
+8,52,schematic,circuit,,,Plan,REFERENCE,example,
+8,52,playbook,football,,,Plan,REFERENCE,example,
+8,52,score,symphony,,,Plan,REFERENCE,example,
+8,52,scheme,heist,,,Plan,REFERENCE,example,
+8,52,prospectus,investment,investment,retirement,Plan,REFERENCE,probe,1.0
+9,-1,baseline,baseline,,,baseline,baseline,baseline,
+10,22,cream,butter,,,Conversion,SIMILAR,example,
+10,22,infant,toddler,,,Conversion,SIMILAR,example,
+10,22,student,graduate,,,Conversion,SIMILAR,example,
+10,22,yarn,sweater,,,Conversion,SIMILAR,example,
+10,22,girlfriend,wife,wife,dinner,Conversion,SIMILAR,probe,1.0
+11,0,stretch,relax,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+11,0,fight,defend,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+11,0,sharpen,cut,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+11,0,save,afford,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+11,0,compliment,please,please,admire,Action/Activity:Goal,CAUSE-PURPOSE,probe,1.0
+12,-1,baseline,baseline,,,baseline,baseline,baseline,
+13,62,election day,ballot,,,Time Associated Item,SPACE-TIME,example,
+13,62,drought,dust,,,Time Associated Item,SPACE-TIME,example,
+13,62,toddler,tantrums,,,Time Associated Item,SPACE-TIME,example,
+13,62,Mardi Gras,beads,,,Time Associated Item,SPACE-TIME,example,
+13,62,wartime,rations,rations,beads,Time Associated Item,SPACE-TIME,probe,1.0
+14,52,itinerary,trip,,,Plan,REFERENCE,example,
+14,52,script,movie,,,Plan,REFERENCE,example,
+14,52,manual,assembly,,,Plan,REFERENCE,example,
+14,52,wireframe,website,,,Plan,REFERENCE,example,
+14,52,route,delivery,map,delivery,Plan,REFERENCE,probe,2.0
+15,22,boy,man,,,Conversion,SIMILAR,example,
+15,22,caterpillar,butterfly,,,Conversion,SIMILAR,example,
+15,22,draft,essay,,,Conversion,SIMILAR,example,
+15,22,associate,partner,,,Conversion,SIMILAR,example,
+15,22,cotton,fabric,needle,fabric,Conversion,SIMILAR,probe,2.0
+16,-1,baseline,baseline,,,baseline,baseline,baseline,
+17,52,sketch,painting,,,Plan,REFERENCE,example,
+17,52,design,building,,,Plan,REFERENCE,example,
+17,52,mockup,design,,,Plan,REFERENCE,example,
+17,52,plan,development,,,Plan,REFERENCE,example,
+17,52,blueprint,bridge,bridge,tunnel,Plan,REFERENCE,probe,1.0
+18,62,pregnancy,ultrasound,,,Time Associated Item,SPACE-TIME,example,
+18,62,elderly,cane,,,Time Associated Item,SPACE-TIME,example,
+18,62,twilight,bats,,,Time Associated Item,SPACE-TIME,example,
+18,62,parenthood,diapers,,,Time Associated Item,SPACE-TIME,example,
+18,62,dusk,crickets,crickets,pajamas,Time Associated Item,SPACE-TIME,probe,1.0
+19,-1,baseline,baseline,,,baseline,baseline,baseline,
+20,0,flirt,seduce,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+20,0,borrow,use,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+20,0,argue,convince,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+20,0,retreat,survive,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+20,0,invite,gather,ask,gather,Action/Activity:Goal,CAUSE-PURPOSE,probe,2.0
+21,22,gosling,goose,,,Conversion,SIMILAR,example,
+21,22,seed,plant,,,Conversion,SIMILAR,example,
+21,22,ore,metal,,,Conversion,SIMILAR,example,
+21,22,prototype,product,,,Conversion,SIMILAR,example,
+21,22,maggot,fly,gnat,fly,Conversion,SIMILAR,probe,2.0
+22,52,scenario,drill,,,Plan,REFERENCE,example,
+22,52,mold,casting,,,Plan,REFERENCE,example,
+22,52,prescription,medication,,,Plan,REFERENCE,example,
+22,52,list,groceries,,,Plan,REFERENCE,example,
+22,52,directions,route,route,destination,Plan,REFERENCE,probe,1.0
+23,0,brake,stop,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+23,0,listen,hear,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+23,0,patrol,guard,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+23,0,shop,purchase,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+23,0,negotiate,agree,bargain,agree,Action/Activity:Goal,CAUSE-PURPOSE,probe,2.0
+24,22,piglet,pig,,,Conversion,SIMILAR,example,
+24,22,boyfriend,husband,,,Conversion,SIMILAR,example,
+24,22,sketch,painting,,,Conversion,SIMILAR,example,
+24,22,duckling,duck,,,Conversion,SIMILAR,example,
+24,22,petroleum,plastic,plastic,refinery,Conversion,SIMILAR,probe,1.0
+25,62,dawn,rooster,,,Time Associated Item,SPACE-TIME,example,
+25,62,student,dorm,,,Time Associated Item,SPACE-TIME,example,
+25,62,rainy day,umbrella,,,Time Associated Item,SPACE-TIME,example,
+25,62,honeymoon,beach,,,Time Associated Item,SPACE-TIME,example,
+25,62,rush hour,traffic,traffic,lunch,Time Associated Item,SPACE-TIME,probe,1.0

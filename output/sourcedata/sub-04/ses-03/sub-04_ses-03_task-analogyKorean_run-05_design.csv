@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,9,정직하다,거짓말하다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+1,9,겸손하다,자랑하다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+1,9,혼란스럽다,명확히하다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+1,9,회의적이다,믿다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+1,9,헌신적이다,한눈팔다,한눈팔다,서약,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,probe,1.0
+2,61,아침,아침식사,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+2,61,가을,철새이동,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+2,61,수확철,추수,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+2,61,은퇴,여행,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+2,61,캠핑,하이킹,마시멜로,하이킹,Time Action/Activity (Korean Localized),SPACE-TIME,probe,2.0
+3,-1,baseline,baseline,,,baseline,baseline,baseline,
+4,20,웃음,긴장,,,Concealment (Korean Localized),REFERENCE,example,
+4,20,미소,슬픔,,,Concealment (Korean Localized),REFERENCE,example,
+4,20,블라인드,실내,,,Concealment (Korean Localized),REFERENCE,example,
+4,20,칼집,칼날,,,Concealment (Korean Localized),REFERENCE,example,
+4,20,알리바이,유죄,유죄,시간,Concealment (Korean Localized),REFERENCE,probe,1.0
+5,61,유년기,놀이,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+5,61,전시,배급,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+5,61,면접,질문,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+5,61,하프타임,휴식,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+5,61,시험,평가,오엠알카드,평가,Time Action/Activity (Korean Localized),SPACE-TIME,probe,2.0
+6,3,읽다,책,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+6,3,닦다,구두,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+6,3,타다,말,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+6,3,밀다,카트,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+6,3,연출하다,영화,영화,촬영장,Action:Object (Korean Localized),CASE RELATIONS,probe,1.0
+7,20,가명,신분,,,Concealment (Korean Localized),REFERENCE,example,
+7,20,벙커,병사,,,Concealment (Korean Localized),REFERENCE,example,
+7,20,목도리,목,,,Concealment (Korean Localized),REFERENCE,example,
+7,20,사물함,소지품,,,Concealment (Korean Localized),REFERENCE,example,
+7,20,선글라스,눈,얼굴,눈,Concealment (Korean Localized),REFERENCE,probe,2.0
+8,-1,baseline,baseline,,,baseline,baseline,baseline,
+9,3,썰다,채소,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+9,3,켜다,양초,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+9,3,사냥하다,사슴,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+9,3,치다,텐트,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+9,3,작곡하다,교향곡,교향곡,스튜디오,Action:Object (Korean Localized),CASE RELATIONS,probe,1.0
+10,9,침착하다,비명지르다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+10,9,거만하다,겸손해지다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+10,9,신중하다,서두르다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+10,9,건강하다,헐떡거리다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+10,9,참을성있다,압박하다,줄,압박하다,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,probe,2.0
+11,20,크림,케이크,,,Concealment (Korean Localized),REFERENCE,example,
+11,20,암호화,데이터,,,Concealment (Korean Localized),REFERENCE,example,
+11,20,침착함,불안,,,Concealment (Korean Localized),REFERENCE,example,
+11,20,어둠,침입자,,,Concealment (Korean Localized),REFERENCE,example,
+11,20,거즈,흉터,테이프,흉터,Concealment (Korean Localized),REFERENCE,probe,2.0
+12,3,발사하다,로켓,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+12,3,배우다,기술,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+12,3,개다,빨래,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+12,3,굽다,케이크,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+12,3,실꿰다,바늘,실타래,바늘,Action:Object (Korean Localized),CASE RELATIONS,probe,2.0
+13,9,용기있다,도망치다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+13,9,얼어붙다,흐르다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+13,9,무기력하다,달리다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+13,9,안절부절못하다,느긋해지다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+13,9,알뜰하다,낭비하다,저축하다,낭비하다,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,probe,2.0
+14,20,안개,도로,,,Concealment (Korean Localized),REFERENCE,example,
+14,20,소매,팔,,,Concealment (Korean Localized),REFERENCE,example,
+14,20,장갑,손,,,Concealment (Korean Localized),REFERENCE,example,
+14,20,아부,경멸,,,Concealment (Korean Localized),REFERENCE,example,
+14,20,함정문,출입구,출입구,러그,Concealment (Korean Localized),REFERENCE,probe,1.0
+15,-1,baseline,baseline,,,baseline,baseline,baseline,
+16,3,올리다,깃발,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+16,3,노젓다,배,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+16,3,나르다,짐,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+16,3,물주다,식물,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+16,3,잡다,물고기,호수,물고기,Action:Object (Korean Localized),CASE RELATIONS,probe,2.0
+17,9,무모하다,준비하다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+17,9,고집세다,주저하다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+17,9,관용적이다,보복하다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+17,9,방수되다,새다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+17,9,금욕적이다,성관계하다,기도하다,성관계하다,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,probe,2.0
+18,61,저녁,일몰,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+18,61,중간휴식,스트레칭,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+18,61,기근,기아,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+18,61,학기,공부,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+18,61,취침시간,잠자기,잠옷,잠자기,Time Action/Activity (Korean Localized),SPACE-TIME,probe,2.0
+19,-1,baseline,baseline,,,baseline,baseline,baseline,
+20,3,묶다,매듭,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+20,3,내리다,닻,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+20,3,붙잡다,악당,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+20,3,청소하다,집,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+20,3,제출하다,보고서,마감,보고서,Action:Object (Korean Localized),CASE RELATIONS,probe,2.0
+21,61,크리스마스,캐럴부르기,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+21,61,생일,파티,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+21,61,팬데믹,격리,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+21,61,금주법,밀주제조,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+21,61,주말,휴식,휴식,그릴,Time Action/Activity (Korean Localized),SPACE-TIME,probe,1.0
+22,-1,baseline,baseline,,,baseline,baseline,baseline,
+23,20,옥수수껍질,옥수수알,,,Concealment (Korean Localized),REFERENCE,example,
+23,20,서랍,내용물,,,Concealment (Korean Localized),REFERENCE,example,
+23,20,패치,찢어진부분,,,Concealment (Korean Localized),REFERENCE,example,
+23,20,포장지,선물,,,Concealment (Korean Localized),REFERENCE,example,
+23,20,덤불,함정,공원,함정,Concealment (Korean Localized),REFERENCE,probe,2.0
+24,9,친절하다,괴롭히다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+24,9,근엄하다,놀리다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+24,9,예의바르다,끼어들다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+24,9,투명하다,숨기다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+24,9,부지런하다,미루다,미루다,부지런하다,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,probe,1.0
+25,61,결혼식,결혼,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+25,61,선거,투표,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+25,61,축제,불꽃놀이,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+25,61,청소년기,사춘기,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+25,61,수업,학습,학습,교사,Time Action/Activity (Korean Localized),SPACE-TIME,probe,1.0

@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,50,베테랑,경험,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+1,50,피난처,안전,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+1,50,폐허,쇠퇴,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+1,50,낙원,환희,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+1,50,생존자,회복력,지구력,회복력,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,probe,2.0
+2,27,고통,극심한고통,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+2,27,빠르다,재빠르다,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+2,27,늑대,코요테,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+2,27,나비,나방,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+2,27,영화,필름,필름,보다,Dimensional Similarity (Korean Localized),SIMILAR,probe,1.0
+3,-1,baseline,baseline,,,baseline,baseline,baseline,
+4,12,따개비,배,,,Attachment (Korean Localized),SPACE-TIME,example,
+4,12,브로치,블라우스,,,Attachment (Korean Localized),SPACE-TIME,example,
+4,12,팔찌,손목,,,Attachment (Korean Localized),SPACE-TIME,example,
+4,12,프로펠러,비행기,,,Attachment (Korean Localized),SPACE-TIME,example,
+4,12,스트랩,시계,시계,주머니,Attachment (Korean Localized),SPACE-TIME,probe,1.0
+5,57,어린이집,유치원,,,Sequence (Korean Localized),SPACE-TIME,example,
+5,57,설계도,건설,,,Sequence (Korean Localized),SPACE-TIME,example,
+5,57,지원서,면접,,,Sequence (Korean Localized),SPACE-TIME,example,
+5,57,출발,도착,,,Sequence (Korean Localized),SPACE-TIME,example,
+5,57,비,무지개,구름,무지개,Sequence (Korean Localized),SPACE-TIME,probe,2.0
+6,50,학자,지성,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+6,50,백만장자,부,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+6,50,거짓말쟁이,기만,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+6,50,잠자는사람,휴식,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+6,50,바보,무지,의상,무지,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,probe,2.0
+7,-1,baseline,baseline,,,baseline,baseline,baseline,
+8,27,바라보다,응시하다,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+8,27,도약하다,점프하다,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+8,27,깔깔웃다,웃다,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+8,27,잡지,신문,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+8,27,미워하다,혐오하다,말다툼,혐오하다,Dimensional Similarity (Korean Localized),SIMILAR,probe,2.0
+9,57,스케치,회화,,,Sequence (Korean Localized),SPACE-TIME,example,
+9,57,새벽,해질녘,,,Sequence (Korean Localized),SPACE-TIME,example,
+9,57,씨앗,꽃,,,Sequence (Korean Localized),SPACE-TIME,example,
+9,57,초안,수정,,,Sequence (Korean Localized),SPACE-TIME,example,
+9,57,선거,취임,토론,취임,Sequence (Korean Localized),SPACE-TIME,probe,2.0
+10,-1,baseline,baseline,,,baseline,baseline,baseline,
+11,50,추방자,추방,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+11,50,천재,총명함,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+11,50,안개,흐릿함,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+11,50,구두쇠,탐욕,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+11,50,진공,텅빔,흡입,텅빔,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,probe,2.0
+12,57,시작,끝,,,Sequence (Korean Localized),SPACE-TIME,example,
+12,57,뻗다,만지다,,,Sequence (Korean Localized),SPACE-TIME,example,
+12,57,초대장,파티,,,Sequence (Korean Localized),SPACE-TIME,example,
+12,57,오디션,캐스팅,,,Sequence (Korean Localized),SPACE-TIME,example,
+12,57,워밍업,경기,경기,스트레칭,Sequence (Korean Localized),SPACE-TIME,probe,1.0
+13,27,벌,말벌,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+13,27,기타,밴조,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+13,27,은,금,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+13,27,램프,랜턴,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+13,27,소파,카우치,카우치,쿠션,Dimensional Similarity (Korean Localized),SIMILAR,probe,1.0
+14,12,화장,얼굴,,,Attachment (Korean Localized),SPACE-TIME,example,
+14,12,난간,발코니,,,Attachment (Korean Localized),SPACE-TIME,example,
+14,12,뚜껑,단지,,,Attachment (Korean Localized),SPACE-TIME,example,
+14,12,마개,병,,,Attachment (Korean Localized),SPACE-TIME,example,
+14,12,붕대,상처,상처,흉터,Attachment (Korean Localized),SPACE-TIME,probe,1.0
+15,50,칩거자,고립,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+15,50,거지,가난,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+15,50,수감자,처벌,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+15,50,황무지,황폐함,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+15,50,챔피언,승리,승리,군중,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,probe,1.0
+16,-1,baseline,baseline,,,baseline,baseline,baseline,
+17,27,보트,배,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+17,27,바이올린,첼로,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+17,27,행복,기쁨,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+17,27,굽다,태우다,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+17,27,흐느끼다,울다,눈물,울다,Dimensional Similarity (Korean Localized),SIMILAR,probe,2.0
+18,12,타이어,자동차,,,Attachment (Korean Localized),SPACE-TIME,example,
+18,12,모니터,컴퓨터,,,Attachment (Korean Localized),SPACE-TIME,example,
+18,12,도토리,참나무,,,Attachment (Korean Localized),SPACE-TIME,example,
+18,12,포도,덩굴,,,Attachment (Korean Localized),SPACE-TIME,example,
+18,12,담쟁이덩굴,격자울타리,마당,격자울타리,Attachment (Korean Localized),SPACE-TIME,probe,2.0
+19,57,판결,형선고,,,Sequence (Korean Localized),SPACE-TIME,example,
+19,57,출생,죽음,,,Sequence (Korean Localized),SPACE-TIME,example,
+19,57,발사,반동,,,Sequence (Korean Localized),SPACE-TIME,example,
+19,57,질병,회복,,,Sequence (Korean Localized),SPACE-TIME,example,
+19,57,체포,재판,경찰,재판,Sequence (Korean Localized),SPACE-TIME,probe,2.0
+20,27,돌고래,쇠돌고래,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+20,27,킥킥거리다,껄껄웃다,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+20,27,슬픔,비통함,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+20,27,걷다,산책하다,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+20,27,대리석,화강암,조리대,화강암,Dimensional Similarity (Korean Localized),SIMILAR,probe,2.0
+21,12,펜던트,체인,,,Attachment (Korean Localized),SPACE-TIME,example,
+21,12,실,연,,,Attachment (Korean Localized),SPACE-TIME,example,
+21,12,돛,돛대,,,Attachment (Korean Localized),SPACE-TIME,example,
+21,12,리테이너,치아,,,Attachment (Korean Localized),SPACE-TIME,example,
+21,12,문두드리개,문,종,문,Attachment (Korean Localized),SPACE-TIME,probe,2.0
+22,50,초안,개발과정,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+22,50,채무자,빚,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+22,50,시신,죽음,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+22,50,연인,열정,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+22,50,기사,명예,명예,말,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,probe,1.0
+23,-1,baseline,baseline,,,baseline,baseline,baseline,
+24,57,아침,오후,,,Sequence (Korean Localized),SPACE-TIME,example,
+24,57,일학년,이학년,,,Sequence (Korean Localized),SPACE-TIME,example,
+24,57,집필,편집,,,Sequence (Korean Localized),SPACE-TIME,example,
+24,57,설계,제조,,,Sequence (Korean Localized),SPACE-TIME,example,
+24,57,연습,대회,대회,훈련,Sequence (Korean Localized),SPACE-TIME,probe,1.0
+25,12,문,문틀,,,Attachment (Korean Localized),SPACE-TIME,example,
+25,12,심지,양초,,,Attachment (Korean Localized),SPACE-TIME,example,
+25,12,반지,손가락,,,Attachment (Korean Localized),SPACE-TIME,example,
+25,12,목줄,개,,,Attachment (Korean Localized),SPACE-TIME,example,
+25,12,버클,끈,레이스,끈,Attachment (Korean Localized),SPACE-TIME,probe,2.0

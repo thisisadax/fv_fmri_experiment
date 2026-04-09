@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,2,squint,widely,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+1,2,cheat,fairly,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+1,2,deliberate,impulsively,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+1,2,squander,thriftily,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+1,2,frown,happily,happily,slightly,Action:Action Nonattribute,NON-ATTRIBUTE,probe,1.0
+2,0,beg,receive,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+2,0,argue,convince,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+2,0,fight,win,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+2,0,sow,harvest,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+2,0,protest,reform,reform,march,Action/Activity:Goal,CAUSE-PURPOSE,probe,1.0
+3,28,boat,ship,,,Dimensional Similarity,SIMILAR,example,
+3,28,canoe,kayak,,,Dimensional Similarity,SIMILAR,example,
+3,28,clever,ingenious,,,Dimensional Similarity,SIMILAR,example,
+3,28,soup,stew,,,Dimensional Similarity,SIMILAR,example,
+3,28,guitar,banjo,acoustic,banjo,Dimensional Similarity,SIMILAR,probe,2.0
+4,2,abstain,indulgently,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+4,2,gawk,discreetly,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+4,2,rush,patiently,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+4,2,rebel,obediently,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+4,2,slur,precisely,precisely,speech,Action:Action Nonattribute,NON-ATTRIBUTE,probe,1.0
+5,-1,baseline,baseline,,,baseline,baseline,baseline,
+6,28,pain,agony,,,Dimensional Similarity,SIMILAR,example,
+6,28,aversion,hatred,,,Dimensional Similarity,SIMILAR,example,
+6,28,road,highway,,,Dimensional Similarity,SIMILAR,example,
+6,28,butterfly,moth,,,Dimensional Similarity,SIMILAR,example,
+6,28,bee,wasp,wasp,hive,Dimensional Similarity,SIMILAR,probe,1.0
+7,56,civilization,ruins,,,Representation,REFERENCE,example,
+7,56,celebration,fireworks,,,Representation,REFERENCE,example,
+7,56,peace,dove,,,Representation,REFERENCE,example,
+7,56,system,diagram,,,Representation,REFERENCE,example,
+7,56,night,moon,darkness,moon,Representation,REFERENCE,probe,2.0
+8,-1,baseline,baseline,,,baseline,baseline,baseline,
+9,28,house,cottage,,,Dimensional Similarity,SIMILAR,example,
+9,28,fire,flame,,,Dimensional Similarity,SIMILAR,example,
+9,28,sofa,couch,,,Dimensional Similarity,SIMILAR,example,
+9,28,happiness,joy,,,Dimensional Similarity,SIMILAR,example,
+9,28,creek,stream,bridge,stream,Dimensional Similarity,SIMILAR,probe,2.0
+10,56,wealth,gold,,,Representation,REFERENCE,example,
+10,56,history,account,,,Representation,REFERENCE,example,
+10,56,devotion,prayer,,,Representation,REFERENCE,example,
+10,56,graduation,cap,,,Representation,REFERENCE,example,
+10,56,performance,grade,class,grade,Representation,REFERENCE,probe,2.0
+11,0,vote,elect,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+11,0,dance,celebrate,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+11,0,bid,acquire,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+11,0,observe,understand,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+11,0,flirt,seduce,seduce,bar,Action/Activity:Goal,CAUSE-PURPOSE,probe,1.0
+12,2,saunter,hurriedly,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+12,2,panic,calmly,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+12,2,procrastinate,urgently,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+12,2,swagger,timidly,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+12,2,idle,productively,aimlessly,productively,Action:Action Nonattribute,NON-ATTRIBUTE,probe,2.0
+13,28,dolphin,porpoise,,,Dimensional Similarity,SIMILAR,example,
+13,28,fast,quick,,,Dimensional Similarity,SIMILAR,example,
+13,28,worry,anxiety,,,Dimensional Similarity,SIMILAR,example,
+13,28,hill,mountain,,,Dimensional Similarity,SIMILAR,example,
+13,28,affection,love,love,gift,Dimensional Similarity,SIMILAR,probe,1.0
+14,0,medicate,heal,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+14,0,reach,hold,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+14,0,flee,escape,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+14,0,market,sell,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+14,0,sleep,rest,rest,snore,Action/Activity:Goal,CAUSE-PURPOSE,probe,1.0
+15,-1,baseline,baseline,,,baseline,baseline,baseline,
+16,2,whisper,loudly,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+16,2,laze,briskly,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+16,2,grovel,boldly,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+16,2,dance,motionlessly,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+16,2,forbid,encouragingly,encouragingly,rule,Action:Action Nonattribute,NON-ATTRIBUTE,probe,1.0
+17,56,king,crown,,,Representation,REFERENCE,example,
+17,56,approval,seal,,,Representation,REFERENCE,example,
+17,56,person,sculpture,,,Representation,REFERENCE,example,
+17,56,team,mascot,,,Representation,REFERENCE,example,
+17,56,emotion,song,song,tears,Representation,REFERENCE,probe,1.0
+18,-1,baseline,baseline,,,baseline,baseline,baseline,
+19,0,breathe,live,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+19,0,stretch,relax,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+19,0,run,exercise,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+19,0,testify,prove,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+19,0,plow,cultivate,tractor,cultivate,Action/Activity:Goal,CAUSE-PURPOSE,probe,2.0
+20,2,surprise,gradually,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+20,2,babble,coherently,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+20,2,demolish,delicately,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+20,2,shatter,gently,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+20,2,mumble,clearly,quietly,clearly,Action:Action Nonattribute,NON-ATTRIBUTE,probe,2.0
+21,-1,baseline,baseline,,,baseline,baseline,baseline,
+22,56,city,postcard,,,Representation,REFERENCE,example,
+22,56,scene,painting,,,Representation,REFERENCE,example,
+22,56,company,trademark,,,Representation,REFERENCE,example,
+22,56,molecule,formula,,,Representation,REFERENCE,example,
+22,56,rebellion,fist,fist,street,Representation,REFERENCE,probe,1.0
+23,28,roast,char,,,Dimensional Similarity,SIMILAR,example,
+23,28,painting,drawing,,,Dimensional Similarity,SIMILAR,example,
+23,28,jog,run,,,Dimensional Similarity,SIMILAR,example,
+23,28,pond,lake,,,Dimensional Similarity,SIMILAR,example,
+23,28,sorrow,grief,grief,black,Dimensional Similarity,SIMILAR,probe,1.0
+24,0,brake,stop,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+24,0,read,learn,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+24,0,steal,gain,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+24,0,wash,clean,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+24,0,ambush,capture,delay,capture,Action/Activity:Goal,CAUSE-PURPOSE,probe,2.0
+25,56,meeting,minutes,,,Representation,REFERENCE,example,
+25,56,mood,emoji,,,Representation,REFERENCE,example,
+25,56,country,flag,,,Representation,REFERENCE,example,
+25,56,population,census,,,Representation,REFERENCE,example,
+25,56,opinion,vote,vote,election day,Representation,REFERENCE,probe,1.0

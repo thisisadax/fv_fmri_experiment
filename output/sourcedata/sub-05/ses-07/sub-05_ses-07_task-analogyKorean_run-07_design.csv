@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,11,희망적이다,낙관,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+1,11,긴장하다,불안,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+1,11,조급하다,답답함,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+1,11,낙담하다,절망감,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+1,11,격노하다,분노,쾅닫기,분노,Agent Attribute:State (Korean Localized),ATTRIBUTE,probe,2.0
+2,4,끄다,타다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+2,4,듣다,들리다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+2,4,갈다,무디다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+2,4,녹이다,고체이다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+2,4,조이다,헐겁다,헐겁다,흔들리다,Action:Object Attribute (Korean Localized),ATTRIBUTE,probe,1.0
+3,41,바,생맥주탭,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+3,41,사무실,책상,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+3,41,도서관,책,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+3,41,서커스,공중그네,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+3,41,미식축구장,골포스트,태클,골포스트,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,probe,2.0
+4,11,외롭다,고립감,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+4,11,피곤하다,탈진,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+4,11,명랑하다,흥겨움,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+4,11,공감하다,공감,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+4,11,무기력하다,피로,소파,피로,Agent Attribute:State (Korean Localized),ATTRIBUTE,probe,2.0
+5,-1,baseline,baseline,,,baseline,baseline,baseline,
+6,4,말리다,젖다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+6,4,단순화하다,복잡하다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+6,4,풀다,엉키다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+6,4,먹이다,배고프다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+6,4,매끈하게 하다,거칠다,거칠다,도로,Action:Object Attribute (Korean Localized),ATTRIBUTE,probe,1.0
+7,41,텃밭,괭이,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+7,41,작업실,톱,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+7,41,선착장,닻,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+7,41,욕실,수건,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+7,41,우체국,우표,우표,직원,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,probe,1.0
+8,11,불안하다,걱정,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+8,11,슬퍼하다,애도,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+8,11,무덤덤하다,무관심,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+8,11,화나다,분노,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+8,11,골똘하다,성찰,응시,성찰,Agent Attribute:State (Korean Localized),ATTRIBUTE,probe,2.0
+9,-1,baseline,baseline,,,baseline,baseline,baseline,
+10,10,국립공원 관리원,등산객,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+10,10,바리스타,고객,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+10,10,이모,조카,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+10,10,식료품점주인,구매자,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+10,10,제조사,소비자,소비자,공장,Agent:Recipient (Korean Localized),CASE RELATIONS,probe,1.0
+11,4,채우다,비다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+11,4,먹다,맛있다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+11,4,열다,닫히다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+11,4,비우다,가득하다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+11,4,압축하다,부피가 크다,부풀다,부피가 크다,Action:Object Attribute (Korean Localized),ATTRIBUTE,probe,2.0
+12,-1,baseline,baseline,,,baseline,baseline,baseline,
+13,41,들판,트랙터,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+13,41,당구장,큐,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+13,41,빵집,밀대,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+13,41,목장,올가미,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+13,41,농구장,골대,심판,골대,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,probe,2.0
+14,10,부모,자녀,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+14,10,멘토,멘티,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+14,10,지휘자,오케스트라,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+14,10,정원사,집주인,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+14,10,아버지,아들,조언,아들,Agent:Recipient (Korean Localized),CASE RELATIONS,probe,2.0
+15,11,허둥대다,절박함,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+15,11,압도되다,스트레스,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+15,11,떨다,긴장감,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+15,11,사려깊다,숙고,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+15,11,스트레스받다,긴장,긴장,압박,Agent Attribute:State (Korean Localized),ATTRIBUTE,probe,1.0
+16,4,희석하다,진하다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+16,4,감탄하다,아름답다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+16,4,잠금해제하다,잠기다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+16,4,청소하다,더럽다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+16,4,평평하게 하다,울퉁불퉁하다,경사지다,울퉁불퉁하다,Action:Object Attribute (Korean Localized),ATTRIBUTE,probe,2.0
+17,10,판매자,구매자,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+17,10,조종사,승객,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+17,10,고용주,노동자,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+17,10,조산사,산모,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+17,10,은행원,고객,창구직원,고객,Agent:Recipient (Korean Localized),CASE RELATIONS,probe,2.0
+18,41,아이스링크,스케이트,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+18,41,해변,서핑보드,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+18,41,경마장,안장,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+18,41,거실,소파,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+18,41,볼링장,볼링핀,스포츠,볼링핀,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,probe,2.0
+19,-1,baseline,baseline,,,baseline,baseline,baseline,
+20,10,재단사,고객,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+20,10,음악가,청취자,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+20,10,목사,교인,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+20,10,하사,신병,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+20,10,연설가,청중,청중,패널,Agent:Recipient (Korean Localized),CASE RELATIONS,probe,1.0
+21,11,꼼지락거리다,안절부절,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+21,11,목마르다,갈증,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+21,11,의심스럽다,불신,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+21,11,얼굴붉히다,당혹감,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+21,11,겸손하다,겸손,겸손,감사,Agent Attribute:State (Korean Localized),ATTRIBUTE,probe,1.0
+22,-1,baseline,baseline,,,baseline,baseline,baseline,
+23,41,호텔,침대,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+23,41,공사장,크레인,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+23,41,패밀리레스토랑,부스석,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+23,41,공장,컨베이어벨트,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+23,41,교회,예배의자,예배의자,종교,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,probe,1.0
+24,4,포장을 풀다,포장되다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+24,4,격려하다,낙담하다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+24,4,명확히 하다,불분명하다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+24,4,토론하다,논란이 많다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+24,4,식히다,뜨겁다,따뜻하다,뜨겁다,Action:Object Attribute (Korean Localized),ATTRIBUTE,probe,2.0
+25,10,장군,병사,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+25,10,강사,연수생,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+25,10,상사,직원,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+25,10,우편배달부,주민,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+25,10,후원자,수혜자,재단,수혜자,Agent:Recipient (Korean Localized),CASE RELATIONS,probe,2.0

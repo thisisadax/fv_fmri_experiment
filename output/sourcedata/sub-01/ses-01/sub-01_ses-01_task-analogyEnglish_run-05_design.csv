@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,54,preparation,disaster,,,Prevention,CAUSE-PURPOSE,example,
+1,54,training,incompetence,,,Prevention,CAUSE-PURPOSE,example,
+1,54,law,crime,,,Prevention,CAUSE-PURPOSE,example,
+1,54,diplomacy,war,,,Prevention,CAUSE-PURPOSE,example,
+1,54,savings,bankruptcy,account,bankruptcy,Prevention,CAUSE-PURPOSE,probe,2.0
+2,36,stray,owner,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+2,36,apostate,faith,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+2,36,retiree,job,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+2,36,monk,possessions,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+2,36,amnesiac,memories,hospital,memories,Item:Ex-part/Ex-possession,PART-WHOLE,probe,2.0
+3,19,vocabulary,word,,,Collection:Member,PART-WHOLE,example,
+3,19,deck,card,,,Collection:Member,PART-WHOLE,example,
+3,19,cast,actor,,,Collection:Member,PART-WHOLE,example,
+3,19,reef,coral,,,Collection:Member,PART-WHOLE,example,
+3,19,pride,lion,lion,roar,Collection:Member,PART-WHOLE,probe,1.0
+4,54,planning,confusion,,,Prevention,CAUSE-PURPOSE,example,
+4,54,camera,vandalism,,,Prevention,CAUSE-PURPOSE,example,
+4,54,caution,accidents,,,Prevention,CAUSE-PURPOSE,example,
+4,54,supervision,misbehavior,,,Prevention,CAUSE-PURPOSE,example,
+4,54,lifejacket,drowning,harbor,drowning,Prevention,CAUSE-PURPOSE,probe,2.0
+5,26,hunger,starvation,,,Dimensional Excessive,SIMILAR,example,
+5,26,wiping,scrubbing,,,Dimensional Excessive,SIMILAR,example,
+5,26,laughter,hysterics,,,Dimensional Excessive,SIMILAR,example,
+5,26,desire,greed,,,Dimensional Excessive,SIMILAR,example,
+5,26,caring,overbearing,overbearing,nursing,Dimensional Excessive,SIMILAR,probe,1.0
+6,19,dictionary,entry,,,Collection:Member,PART-WHOLE,example,
+6,19,calendar,event,,,Collection:Member,PART-WHOLE,example,
+6,19,portfolio,investment,,,Collection:Member,PART-WHOLE,example,
+6,19,constellation,star,,,Collection:Member,PART-WHOLE,example,
+6,19,scale,note,note,melody,Collection:Member,PART-WHOLE,probe,1.0
+7,-1,baseline,baseline,,,baseline,baseline,baseline,
+8,36,drought,rain,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+8,36,alcoholic,sobriety,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+8,36,debtor,solvency,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+8,36,widow,husband,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+8,36,fossil,life,museum,life,Item:Ex-part/Ex-possession,PART-WHOLE,probe,2.0
+9,19,curriculum,course,,,Collection:Member,PART-WHOLE,example,
+9,19,stanza,line,,,Collection:Member,PART-WHOLE,example,
+9,19,faculty,professor,,,Collection:Member,PART-WHOLE,example,
+9,19,convoy,truck,,,Collection:Member,PART-WHOLE,example,
+9,19,league,team,team,commissioner,Collection:Member,PART-WHOLE,probe,1.0
+10,-1,baseline,baseline,,,baseline,baseline,baseline,
+11,26,cracking,shattering,,,Dimensional Excessive,SIMILAR,example,
+11,26,tall,towering,,,Dimensional Excessive,SIMILAR,example,
+11,26,fear,panic,,,Dimensional Excessive,SIMILAR,example,
+11,26,walking,stomping,,,Dimensional Excessive,SIMILAR,example,
+11,26,thirsty,parched,parched,water bottle,Dimensional Excessive,SIMILAR,probe,1.0
+12,54,fungicide,mold,,,Prevention,CAUSE-PURPOSE,example,
+12,54,firewall,hacking,,,Prevention,CAUSE-PURPOSE,example,
+12,54,lubricant,friction,,,Prevention,CAUSE-PURPOSE,example,
+12,54,rules,disorder,,,Prevention,CAUSE-PURPOSE,example,
+12,54,password,intrusion,intrusion,privacy,Prevention,CAUSE-PURPOSE,probe,1.0
+13,-1,baseline,baseline,,,baseline,baseline,baseline,
+14,26,skeptical,cynical,,,Dimensional Excessive,SIMILAR,example,
+14,26,thin,emaciated,,,Dimensional Excessive,SIMILAR,example,
+14,26,drinking,guzzling,,,Dimensional Excessive,SIMILAR,example,
+14,26,cautious,paranoid,,,Dimensional Excessive,SIMILAR,example,
+14,26,surprised,shocked,shocked,gasp,Dimensional Excessive,SIMILAR,probe,1.0
+15,36,corpse,life,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+15,36,runaway,guardian,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+15,36,man,boyhood,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+15,36,recluse,companionship,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+15,36,chick,eggshell,eggshell,coop,Item:Ex-part/Ex-possession,PART-WHOLE,probe,1.0
+16,54,immunization,disease,,,Prevention,CAUSE-PURPOSE,example,
+16,54,money,poverty,,,Prevention,CAUSE-PURPOSE,example,
+16,54,soap,germs,,,Prevention,CAUSE-PURPOSE,example,
+16,54,education,ignorance,,,Prevention,CAUSE-PURPOSE,example,
+16,54,encryption,breach,breach,code,Prevention,CAUSE-PURPOSE,probe,1.0
+17,-1,baseline,baseline,,,baseline,baseline,baseline,
+18,36,defector,allegiance,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+18,36,scar,wound,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+18,36,refugee,home,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+18,36,junk,value,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+18,36,parolee,confinement,confinement,ankle monitor,Item:Ex-part/Ex-possession,PART-WHOLE,probe,1.0
+19,19,team,player,,,Collection:Member,PART-WHOLE,example,
+19,19,band,musician,,,Collection:Member,PART-WHOLE,example,
+19,19,crew,sailor,,,Collection:Member,PART-WHOLE,example,
+19,19,garden,plant,,,Collection:Member,PART-WHOLE,example,
+19,19,gallery,painting,frame,painting,Collection:Member,PART-WHOLE,probe,2.0
+20,54,diet,malnutrition,,,Prevention,CAUSE-PURPOSE,example,
+20,54,rest,exhaustion,,,Prevention,CAUSE-PURPOSE,example,
+20,54,repellent,mosquitoes,,,Prevention,CAUSE-PURPOSE,example,
+20,54,negotiation,strike,,,Prevention,CAUSE-PURPOSE,example,
+20,54,leash,escape,escape,barking,Prevention,CAUSE-PURPOSE,probe,1.0
+21,26,talking,ranting,,,Dimensional Excessive,SIMILAR,example,
+21,26,interest,obsession,,,Dimensional Excessive,SIMILAR,example,
+21,26,eager,desperate,,,Dimensional Excessive,SIMILAR,example,
+21,26,hot,burning,,,Dimensional Excessive,SIMILAR,example,
+21,26,fat,obese,fatter,obese,Dimensional Excessive,SIMILAR,probe,2.0
+22,-1,baseline,baseline,,,baseline,baseline,baseline,
+23,19,colony,ant,,,Collection:Member,PART-WHOLE,example,
+23,19,schedule,appointment,,,Collection:Member,PART-WHOLE,example,
+23,19,zoo,animal,,,Collection:Member,PART-WHOLE,example,
+23,19,army,soldier,,,Collection:Member,PART-WHOLE,example,
+23,19,arsenal,weapon,guard,weapon,Collection:Member,PART-WHOLE,probe,2.0
+24,36,ember,flame,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+24,36,hermit,society,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+24,36,graduate,homework,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+24,36,doctor,residency,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+24,36,ghost,body,body,house,Item:Ex-part/Ex-possession,PART-WHOLE,probe,1.0
+25,26,warm,sweltering,,,Dimensional Excessive,SIMILAR,example,
+25,26,drizzle,downpour,,,Dimensional Excessive,SIMILAR,example,
+25,26,devoted,fanatical,,,Dimensional Excessive,SIMILAR,example,
+25,26,pain,agony,,,Dimensional Excessive,SIMILAR,example,
+25,26,bold,reckless,daring,reckless,Dimensional Excessive,SIMILAR,probe,2.0

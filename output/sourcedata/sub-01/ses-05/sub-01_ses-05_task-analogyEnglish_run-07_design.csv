@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,0,protest,reform,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+1,0,search,find,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+1,0,fast,cleanse,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+1,0,fish,catch,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+1,0,buy,own,own,pay,Action/Activity:Goal,CAUSE-PURPOSE,probe,1.0
+2,40,warehouse,storing,,,Location:Action/Activity,SPACE-TIME,example,
+2,40,mountain,climbing,,,Location:Action/Activity,SPACE-TIME,example,
+2,40,dojo,training,,,Location:Action/Activity,SPACE-TIME,example,
+2,40,laundromat,washing,,,Location:Action/Activity,SPACE-TIME,example,
+2,40,pasture,grazing,grass,grazing,Location:Action/Activity,SPACE-TIME,probe,2.0
+3,18,language,Spanish,,,ClassIndividual,CLASS-INCLUSION,example,
+3,18,princess,Diana,,,ClassIndividual,CLASS-INCLUSION,example,
+3,18,continent,Africa,,,ClassIndividual,CLASS-INCLUSION,example,
+3,18,dance,Waltz,,,ClassIndividual,CLASS-INCLUSION,example,
+3,18,scientist,Einstein,theory,einstein,ClassIndividual,CLASS-INCLUSION,probe,2.0
+4,-1,baseline,baseline,,,baseline,baseline,baseline,
+5,40,bar,drinking,,,Location:Action/Activity,SPACE-TIME,example,
+5,40,farm,growing,,,Location:Action/Activity,SPACE-TIME,example,
+5,40,store,shopping,,,Location:Action/Activity,SPACE-TIME,example,
+5,40,library,reading,,,Location:Action/Activity,SPACE-TIME,example,
+5,40,golf course,golfing,putting,golfing,Location:Action/Activity,SPACE-TIME,probe,2.0
+6,15,satiated,hunger,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+6,15,strong,weakness,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+6,15,famous,obscurity,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+6,15,humble,arrogance,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+6,15,old,youth,youth,grandchildren,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,probe,1.0
+7,-1,baseline,baseline,,,baseline,baseline,baseline,
+8,0,sing,entertain,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+8,0,shop,purchase,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+8,0,play,enjoy,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+8,0,freeze,preserve,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+8,0,wave,greet,greet,cheer,Action/Activity:Goal,CAUSE-PURPOSE,probe,1.0
+9,15,ignorant,knowledge,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+9,15,careless,diligence,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+9,15,calm,agitation,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+9,15,deaf,hearing,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+9,15,energetic,fatigue,boredom,fatigue,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,probe,2.0
+10,40,trail,hiking,,,Location:Action/Activity,SPACE-TIME,example,
+10,40,temple,meditating,,,Location:Action/Activity,SPACE-TIME,example,
+10,40,house,living,,,Location:Action/Activity,SPACE-TIME,example,
+10,40,clinic,treating,,,Location:Action/Activity,SPACE-TIME,example,
+10,40,auction house,bidding,bidding,selling,Location:Action/Activity,SPACE-TIME,probe,1.0
+11,0,whisper,conceal,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+11,0,read,learn,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+11,0,listen,enjoy,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+11,0,practice,master,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+11,0,rest,recover,weekend,recover,Action/Activity:Goal,CAUSE-PURPOSE,probe,2.0
+12,18,president,Lincoln,,,ClassIndividual,CLASS-INCLUSION,example,
+12,18,television,Sony,,,ClassIndividual,CLASS-INCLUSION,example,
+12,18,city,Dallas,,,ClassIndividual,CLASS-INCLUSION,example,
+12,18,king,Arthur,,,ClassIndividual,CLASS-INCLUSION,example,
+12,18,constellation,Orion,orion,night,ClassIndividual,CLASS-INCLUSION,probe,1.0
+13,-1,baseline,baseline,,,baseline,baseline,baseline,
+14,15,awake,sleep,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+14,15,blind,sight,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+14,15,kind,cruelty,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+14,15,loyal,treachery,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+14,15,dark,brightness,night,brightness,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,probe,2.0
+15,18,state,Virginia,,,ClassIndividual,CLASS-INCLUSION,example,
+15,18,explorer,Columbus,,,ClassIndividual,CLASS-INCLUSION,example,
+15,18,soda,Pepsi,,,ClassIndividual,CLASS-INCLUSION,example,
+15,18,element,Oxygen,,,ClassIndividual,CLASS-INCLUSION,example,
+15,18,cereal,Cheerios,oats,cheerios,ClassIndividual,CLASS-INCLUSION,probe,2.0
+16,-1,baseline,baseline,,,baseline,baseline,baseline,
+17,40,driveway,parking,,,Location:Action/Activity,SPACE-TIME,example,
+17,40,vineyard,harvesting,,,Location:Action/Activity,SPACE-TIME,example,
+17,40,forest,camping,,,Location:Action/Activity,SPACE-TIME,example,
+17,40,marina,sailing,,,Location:Action/Activity,SPACE-TIME,example,
+17,40,backyard,barbecuing,playing,barbecuing,Location:Action/Activity,SPACE-TIME,probe,2.0
+18,0,speak,express,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+18,0,negotiate,agree,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+18,0,lock,secure,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+18,0,study,learn,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+18,0,sail,explore,ship,explore,Action/Activity:Goal,CAUSE-PURPOSE,probe,2.0
+19,15,jealous,contentment,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+19,15,mute,speech,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+19,15,free,captivity,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+19,15,restless,tranquility,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+19,15,trustworthy,deception,deception,reputation,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,probe,1.0
+20,18,pasta,Spaghetti,,,ClassIndividual,CLASS-INCLUSION,example,
+20,18,planet,Earth,,,ClassIndividual,CLASS-INCLUSION,example,
+20,18,month,January,,,ClassIndividual,CLASS-INCLUSION,example,
+20,18,ocean,Atlantic,,,ClassIndividual,CLASS-INCLUSION,example,
+20,18,instrument,Guitar,chord,guitar,ClassIndividual,CLASS-INCLUSION,probe,2.0
+21,0,trim,shorten,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+21,0,invest,profit,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+21,0,bid,acquire,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+21,0,steer,navigate,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+21,0,flee,escape,run,escape,Action/Activity:Goal,CAUSE-PURPOSE,probe,2.0
+22,-1,baseline,baseline,,,baseline,baseline,baseline,
+23,15,oblivious,awareness,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+23,15,wild,tameness,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+23,15,brave,cowardice,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+23,15,empty,fullness,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+23,15,safe,danger,injury,danger,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,probe,2.0
+24,40,casino,gambling,,,Location:Action/Activity,SPACE-TIME,example,
+24,40,auditorium,lecturing,,,Location:Action/Activity,SPACE-TIME,example,
+24,40,park,playing,,,Location:Action/Activity,SPACE-TIME,example,
+24,40,operating room,surgery,,,Location:Action/Activity,SPACE-TIME,example,
+24,40,observatory,stargazing,stargazing,dome,Location:Action/Activity,SPACE-TIME,probe,1.0
+25,18,fruit,Banana,,,ClassIndividual,CLASS-INCLUSION,example,
+25,18,candy,Snickers,,,ClassIndividual,CLASS-INCLUSION,example,
+25,18,composer,Mozart,,,ClassIndividual,CLASS-INCLUSION,example,
+25,18,flower,Rose,,,ClassIndividual,CLASS-INCLUSION,example,
+25,18,primate,Gorilla,gorilla,panda,ClassIndividual,CLASS-INCLUSION,probe,1.0

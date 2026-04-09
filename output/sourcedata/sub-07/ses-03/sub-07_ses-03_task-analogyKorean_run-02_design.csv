@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,2,싸우다,방어하다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+1,2,자다,쉬다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+1,2,마시다,수분보충하다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+1,2,첩보활동하다,보고하다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+1,2,관찰하다,이해하다,이해하다,측정하다,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,probe,1.0
+2,37,학교,교실,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+2,37,손,손바닥,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+2,37,재킷,주머니,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+2,37,농장,닭장,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+2,37,사막,오아시스,태양,오아시스,Item:Topological Part (Korean Localized),PART-WHOLE,probe,2.0
+3,31,낑낑거리기,괴로움,,,Expression (Korean Localized),REFERENCE,example,
+3,31,거짓말하기,부정직,,,Expression (Korean Localized),REFERENCE,example,
+3,31,야유하기,냉소,,,Expression (Korean Localized),REFERENCE,example,
+3,31,킥킥대기,조롱,,,Expression (Korean Localized),REFERENCE,example,
+3,31,헐떡거리기,과로,과로,흥분,Expression (Korean Localized),REFERENCE,probe,1.0
+4,55,실력,성적,,,Representation (Korean Localized),REFERENCE,example,
+4,55,할로윈,호박등,,,Representation (Korean Localized),REFERENCE,example,
+4,55,비전,시제품,,,Representation (Korean Localized),REFERENCE,example,
+4,55,지구,지구본,,,Representation (Korean Localized),REFERENCE,example,
+4,55,가문,가문문장,가문문장,친척들,Representation (Korean Localized),REFERENCE,probe,1.0
+5,37,산,기슭,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+5,37,얼굴,이마,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+5,37,호텔,로비,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+5,37,화산,분화구,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+5,37,교도소,감방,교도관,감방,Item:Topological Part (Korean Localized),PART-WHOLE,probe,2.0
+6,31,어깨으쓱이기,무관심,,,Expression (Korean Localized),REFERENCE,example,
+6,31,망설이기,의문,,,Expression (Korean Localized),REFERENCE,example,
+6,31,인상찌푸리기,슬픔,,,Expression (Korean Localized),REFERENCE,example,
+6,31,낄낄대기,신남,,,Expression (Korean Localized),REFERENCE,example,
+6,31,고백하기,죄책감,죄책감,신부,Expression (Korean Localized),REFERENCE,probe,1.0
+7,55,인물,배우,,,Representation (Korean Localized),REFERENCE,example,
+7,55,업적,트로피,,,Representation (Korean Localized),REFERENCE,example,
+7,55,역사,기록,,,Representation (Korean Localized),REFERENCE,example,
+7,55,시간,모래시계,,,Representation (Korean Localized),REFERENCE,example,
+7,55,봄,꽃,소풍,꽃,Representation (Korean Localized),REFERENCE,probe,2.0
+8,-1,baseline,baseline,,,baseline,baseline,baseline,
+9,31,무릎꿇기,경건함,,,Expression (Korean Localized),REFERENCE,example,
+9,31,입벌리기,경악,,,Expression (Korean Localized),REFERENCE,example,
+9,31,문쾅닫기,격분,,,Expression (Korean Localized),REFERENCE,example,
+9,31,서성이기,걱정,,,Expression (Korean Localized),REFERENCE,example,
+9,31,신음하기,고통,고통,통증,Expression (Korean Localized),REFERENCE,probe,1.0
+10,2,심다,키우다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+10,2,밭갈다,경작하다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+10,2,리허설하다,준비하다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+10,2,훔치다,얻다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+10,2,투자하다,수익내다,수익내다,성장하다,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,probe,1.0
+11,-1,baseline,baseline,,,baseline,baseline,baseline,
+12,55,물체,그림자,,,Representation (Korean Localized),REFERENCE,example,
+12,55,영웅심,기념비,,,Representation (Korean Localized),REFERENCE,example,
+12,55,단어,약어,,,Representation (Korean Localized),REFERENCE,example,
+12,55,인구,인구조사,,,Representation (Korean Localized),REFERENCE,example,
+12,55,계급,계급장,명령,계급장,Representation (Korean Localized),REFERENCE,probe,2.0
+13,31,까치발로걷기,조심,,,Expression (Korean Localized),REFERENCE,example,
+13,31,이빨드러내기,분노,,,Expression (Korean Localized),REFERENCE,example,
+13,31,박수,찬성,,,Expression (Korean Localized),REFERENCE,example,
+13,31,휘파람,명랑함,,,Expression (Korean Localized),REFERENCE,example,
+13,31,미소,기쁨,만족,기쁨,Expression (Korean Localized),REFERENCE,probe,2.0
+14,-1,baseline,baseline,,,baseline,baseline,baseline,
+15,37,바다,해안,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+15,37,경기장,필드,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+15,37,탁자,다리,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+15,37,호수,수면,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+15,37,발,뒤꿈치,뒤꿈치,발차기,Item:Topological Part (Korean Localized),PART-WHOLE,probe,1.0
+16,2,냉동하다,보존하다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+16,2,수색하다,찾다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+16,2,비행하다,여행하다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+16,2,단식하다,해독하다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+16,2,체벌하다,벌주다,벌주다,부모,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,probe,1.0
+17,55,정보,인포그래픽,,,Representation (Korean Localized),REFERENCE,example,
+17,55,사랑,하트,,,Representation (Korean Localized),REFERENCE,example,
+17,55,지혜,부엉이,,,Representation (Korean Localized),REFERENCE,example,
+17,55,권위,배지,,,Representation (Korean Localized),REFERENCE,example,
+17,55,사건,사진,사진,티켓,Representation (Korean Localized),REFERENCE,probe,1.0
+18,31,콧노래,만족,,,Expression (Korean Localized),REFERENCE,example,
+18,31,건들거리기,오만,,,Expression (Korean Localized),REFERENCE,example,
+18,31,속삭이기,비밀,,,Expression (Korean Localized),REFERENCE,example,
+18,31,포옹,애정,,,Expression (Korean Localized),REFERENCE,example,
+18,31,찌푸린얼굴,불쾌,교통체증,불쾌,Expression (Korean Localized),REFERENCE,probe,2.0
+19,-1,baseline,baseline,,,baseline,baseline,baseline,
+20,2,잠그다,보호하다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+20,2,협상하다,합의하다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+20,2,점등하다,밝히다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+20,2,말하다,소통하다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+20,2,투약하다,치유하다,의사,치유하다,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,probe,2.0
+21,37,절벽,끝,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+21,37,교회,예배당,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+21,37,나무,가지,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+21,37,비행기,조종석,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+21,37,배,갑판,갑판,선원,Item:Topological Part (Korean Localized),PART-WHOLE,probe,1.0
+22,-1,baseline,baseline,,,baseline,baseline,baseline,
+23,2,속삭이다,숨기다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+23,2,광고하다,홍보하다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+23,2,사과하다,화해하다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+23,2,쏘다,죽이다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+23,2,일하다,벌다,수행하다,벌다,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,probe,2.0
+24,55,바다,바다풍경화,,,Representation (Korean Localized),REFERENCE,example,
+24,55,승리,메달,,,Representation (Korean Localized),REFERENCE,example,
+24,55,밤,달,,,Representation (Korean Localized),REFERENCE,example,
+24,55,헌신,기도,,,Representation (Korean Localized),REFERENCE,example,
+24,55,시스템,도식,도식,구조,Representation (Korean Localized),REFERENCE,probe,1.0
+25,37,도로,갓길,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+25,37,극장,무대,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+25,37,자동차,트렁크,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+25,37,협곡,가장자리,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+25,37,대양,해저,해저,산호초,Item:Topological Part (Korean Localized),PART-WHOLE,probe,1.0

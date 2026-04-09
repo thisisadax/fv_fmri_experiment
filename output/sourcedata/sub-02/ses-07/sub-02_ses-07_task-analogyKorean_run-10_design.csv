@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,10,재단사,고객,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+1,10,비서,임원,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+1,10,점원,고객,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+1,10,안내데스크직원,방문객,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+1,10,안내가이드,관광객,관광객,여행일정,Agent:Recipient (Korean Localized),CASE RELATIONS,probe,1.0
+2,47,스무디,과일,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+2,47,창문,유리,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+2,47,합창단,단원,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+2,47,알파벳,글자,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+2,47,종이,펄프,펄프,프린터,Object:Stuff (Korean Localized),PART-WHOLE,probe,1.0
+3,56,모으다,흩뜨리다,,,Reverse (Korean Localized),CONTRAST,example,
+3,56,사랑하다,미워하다,,,Reverse (Korean Localized),CONTRAST,example,
+3,56,얼다,녹다,,,Reverse (Korean Localized),CONTRAST,example,
+3,56,순하다,야생적이다,,,Reverse (Korean Localized),CONTRAST,example,
+3,56,뜨겁다,차갑다,여름,차갑다,Reverse (Korean Localized),CONTRAST,probe,2.0
+4,16,혹한,동상,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+4,16,유머,웃음,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+4,16,난방기,따뜻함,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+4,16,카페인,각성,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+4,16,운동,체력,체력,스트레칭,Cause:Effect (Korean Localized),CAUSE-PURPOSE,probe,1.0
+5,-1,baseline,baseline,,,baseline,baseline,baseline,
+6,10,코치,선수,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+6,10,대부,대자,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+6,10,보모,아이,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+6,10,배관공,집주인,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+6,10,인테리어디자이너,집주인,집주인,시공업자,Agent:Recipient (Korean Localized),CASE RELATIONS,probe,1.0
+7,56,상승하다,하락하다,,,Reverse (Korean Localized),CONTRAST,example,
+7,56,출생,죽음,,,Reverse (Korean Localized),CONTRAST,example,
+7,56,가깝다,멀다,,,Reverse (Korean Localized),CONTRAST,example,
+7,56,격려하다,낙담시키다,,,Reverse (Korean Localized),CONTRAST,example,
+7,56,좁다,넓다,넓다,얇다,Reverse (Korean Localized),CONTRAST,probe,1.0
+8,-1,baseline,baseline,,,baseline,baseline,baseline,
+9,47,맥주,곡물,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+9,47,베개,깃털,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+9,47,팀,선수,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+9,47,교회,신자,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+9,47,동상,청동,관광객,청동,Object:Stuff (Korean Localized),PART-WHOLE,probe,2.0
+10,56,고대,현대,,,Reverse (Korean Localized),CONTRAST,example,
+10,56,부유하다,가난하다,,,Reverse (Korean Localized),CONTRAST,example,
+10,56,이기다,지다,,,Reverse (Korean Localized),CONTRAST,example,
+10,56,상냥하다,잔인하다,,,Reverse (Korean Localized),CONTRAST,example,
+10,56,버리다,보듬다,약속,보듬다,Reverse (Korean Localized),CONTRAST,probe,2.0
+11,-1,baseline,baseline,,,baseline,baseline,baseline,
+12,10,택배기사,수령인,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+12,10,고용주,노동자,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+12,10,약사,고객,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+12,10,집주인,세입자,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+12,10,변호사,의뢰인,의뢰인,소송,Agent:Recipient (Korean Localized),CASE RELATIONS,probe,1.0
+13,47,잔디밭,잔디,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+13,47,옷,실,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+13,47,컵,도자기,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+13,47,스카프,비단,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+13,47,도서관,책,열람실,책,Object:Stuff (Korean Localized),PART-WHOLE,probe,2.0
+14,16,번개,천둥,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+14,16,세균,감염,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+14,16,부주의,재난,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+14,16,불,화상,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+14,16,부끄러움,얼굴붉어짐,사과,얼굴붉어짐,Cause:Effect (Korean Localized),CAUSE-PURPOSE,probe,2.0
+15,-1,baseline,baseline,,,baseline,baseline,baseline,
+16,56,거짓말하다,자백하다,,,Reverse (Korean Localized),CONTRAST,example,
+16,56,복종하다,거역하다,,,Reverse (Korean Localized),CONTRAST,example,
+16,56,딱딱하다,부드럽다,,,Reverse (Korean Localized),CONTRAST,example,
+16,56,고치다,부수다,,,Reverse (Korean Localized),CONTRAST,example,
+16,56,끌어당기다,밀어내다,밀어내다,초대하다,Reverse (Korean Localized),CONTRAST,probe,1.0
+17,10,공급업체,제조업체,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+17,10,편집자,저자,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+17,10,국립공원 관리원,등산객,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+17,10,식료품점주인,구매자,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+17,10,이모,조카,사촌,조카,Agent:Recipient (Korean Localized),CASE RELATIONS,probe,2.0
+18,-1,baseline,baseline,,,baseline,baseline,baseline,
+19,16,무례,갈등,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+19,16,교육,전문성,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+19,16,습기,녹슬음,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+19,16,중력,낙하,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+19,16,경험,자신감,세월,자신감,Cause:Effect (Korean Localized),CAUSE-PURPOSE,probe,2.0
+20,47,코스요리,요리,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+20,47,소떼,소,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+20,47,숲,나무,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+20,47,담요,플리스,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+20,47,초콜릿,코코아,코코아,사탕,Object:Stuff (Korean Localized),PART-WHOLE,probe,1.0
+21,56,심다,뽑다,,,Reverse (Korean Localized),CONTRAST,example,
+21,56,젊다,늙다,,,Reverse (Korean Localized),CONTRAST,example,
+21,56,두껍다,얇다,,,Reverse (Korean Localized),CONTRAST,example,
+21,56,사다,팔다,,,Reverse (Korean Localized),CONTRAST,example,
+21,56,더럽다,깨끗하다,깨끗하다,얼룩지다,Reverse (Korean Localized),CONTRAST,probe,1.0
+22,16,공부,학습,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+22,16,상실,슬픔,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+22,16,빈곤,굶주림,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+22,16,의견다툼,분노,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+22,16,성관계,임신,임신,침실,Cause:Effect (Korean Localized),CAUSE-PURPOSE,probe,1.0
+23,10,교사,학생,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+23,10,지휘자,오케스트라,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+23,10,조종사,승객,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+23,10,작가,독자,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+23,10,꽃집주인,고객,배달기사,고객,Agent:Recipient (Korean Localized),CASE RELATIONS,probe,2.0
+24,47,밧줄,나일론,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+24,47,묘비,대리석,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+24,47,콜라주,이미지,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+24,47,오케스트라,연주자,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+24,47,사슬,고리,고리,자물쇠,Object:Stuff (Korean Localized),PART-WHOLE,probe,1.0
+25,16,연습,향상,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+25,16,탈진,쓰러짐,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+25,16,질병,불편함,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+25,16,놀람,충격,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+25,16,예방접종,면역,면역,주사바늘,Cause:Effect (Korean Localized),CAUSE-PURPOSE,probe,1.0

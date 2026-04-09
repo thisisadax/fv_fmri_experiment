@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,58,꼼지락거림,긴장,,,Sign:Significant (Korean Localized),REFERENCE,example,
+1,58,영수증,구매,,,Sign:Significant (Korean Localized),REFERENCE,example,
+1,58,기침,질병,,,Sign:Significant (Korean Localized),REFERENCE,example,
+1,58,절뚝거림,부상,,,Sign:Significant (Korean Localized),REFERENCE,example,
+1,58,땀,운동,더위,운동,Sign:Significant (Korean Localized),REFERENCE,probe,2.0
+2,45,비관론자,낙관,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+2,45,낯선사람,친숙함,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+2,45,대머리,머리카락,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+2,45,슬픔,행복,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+2,45,현자,무지,무지,지혜,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,probe,1.0
+3,-1,baseline,baseline,,,baseline,baseline,baseline,
+4,49,이해불가하다,이해되다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+4,49,포기할수없다,포기하다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+4,49,무한하다,고갈되다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+4,49,불에타지않다,타다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+4,49,끝없다,끝나다,끝나다,멈추다,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,probe,1.0
+5,45,은둔인,사회,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+5,45,낮,어둠,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+5,45,나약함,힘,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+5,45,잔인함,자비,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+5,45,기근,음식,음식,배급,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,probe,1.0
+6,60,디저트,케이크,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+6,60,허브,바질,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+6,60,모자,베레모,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+6,60,항공기,헬리콥터,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+6,60,뱀,코브라,바구니,코브라,Taxonomic (Korean Localized),CLASS-INCLUSION,probe,2.0
+7,-1,baseline,baseline,,,baseline,baseline,baseline,
+8,58,발진,알레르기,,,Sign:Significant (Korean Localized),REFERENCE,example,
+8,58,트로피,승리,,,Sign:Significant (Korean Localized),REFERENCE,example,
+8,58,국기,국가,,,Sign:Significant (Korean Localized),REFERENCE,example,
+8,58,사이렌,비상상황,,,Sign:Significant (Korean Localized),REFERENCE,example,
+8,58,손흔들기,인사,주의,인사,Sign:Significant (Korean Localized),REFERENCE,probe,2.0
+9,60,반려동물,개,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+9,60,포유류,돌고래,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+9,60,해산물,새우,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+9,60,나무,소나무,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+9,60,보석,다이아몬드,반짝임,다이아몬드,Taxonomic (Korean Localized),CLASS-INCLUSION,probe,2.0
+10,49,되돌릴수없다,되돌리다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+10,49,틀림없다,오인되다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+10,49,녹슬지않다,녹슬다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+10,49,지치지않다,지치다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+10,49,도달할수없다,도달하다,도달하다,접근하다,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,probe,1.0
+11,45,비탄,위로,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+11,45,분노,침착함,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+11,45,늪지,건조함,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+11,45,침묵,소리,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+11,45,오지,문명,문명,야생동물,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,probe,1.0
+12,58,폐허,파괴,,,Sign:Significant (Korean Localized),REFERENCE,example,
+12,58,흉터,상처,,,Sign:Significant (Korean Localized),REFERENCE,example,
+12,58,경보,위험,,,Sign:Significant (Korean Localized),REFERENCE,example,
+12,58,유니폼,소속,,,Sign:Significant (Korean Localized),REFERENCE,example,
+12,58,물웅덩이,비,비,물,Sign:Significant (Korean Localized),REFERENCE,probe,1.0
+13,49,실패불가하다,실패하다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+13,49,반박할수없다,반박되다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+13,49,불연성이다,불붙다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+13,49,나눌수없다,나뉘다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+13,49,무취이다,냄새나다,냄새나다,중립적이다,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,probe,1.0
+14,45,결혼식,비탄,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+14,45,바보,지혜,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+14,45,밤,빛,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+14,45,청결,더러움,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+14,45,굶주림,영양,갈비뼈,영양,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,probe,2.0
+15,60,고기,소고기,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+15,60,통화,원,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+15,60,상어,귀상어,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+15,60,도형,삼각형,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+15,60,음악,재즈,재즈,클럽,Taxonomic (Korean Localized),CLASS-INCLUSION,probe,1.0
+16,-1,baseline,baseline,,,baseline,baseline,baseline,
+17,58,발렌타인데이,사랑,,,Sign:Significant (Korean Localized),REFERENCE,example,
+17,58,메달,업적,,,Sign:Significant (Korean Localized),REFERENCE,example,
+17,58,일몰,저녁,,,Sign:Significant (Korean Localized),REFERENCE,example,
+17,58,사투리,출신지,,,Sign:Significant (Korean Localized),REFERENCE,example,
+17,58,해골,죽음,죽음,뼈,Sign:Significant (Korean Localized),REFERENCE,probe,1.0
+18,60,무기,검,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+18,60,과일,포도,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+18,60,향신료,계피,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+18,60,빵,사워도우빵,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+18,60,계절,겨울,겨울,추위,Taxonomic (Korean Localized),CLASS-INCLUSION,probe,1.0
+19,-1,baseline,baseline,,,baseline,baseline,baseline,
+20,49,조작불가능하다,변조되다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+20,49,경직되다,구부러지다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+20,49,움직이지않다,흔들리다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+20,49,끄떡없다,당황하다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+20,49,만족할수없다,만족하다,먹이다,만족하다,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,probe,2.0
+21,58,체크표시,정답,,,Sign:Significant (Korean Localized),REFERENCE,example,
+21,58,으르렁거림,공격성,,,Sign:Significant (Korean Localized),REFERENCE,example,
+21,58,왕관,왕실,,,Sign:Significant (Korean Localized),REFERENCE,example,
+21,58,해골표시,독,,,Sign:Significant (Korean Localized),REFERENCE,example,
+21,58,찌그러짐,충돌,충돌,펜더,Sign:Significant (Korean Localized),REFERENCE,probe,1.0
+22,-1,baseline,baseline,,,baseline,baseline,baseline,
+23,45,황무지,초목,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+23,45,불량배,친절,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+23,45,고아,부모,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+23,45,툰드라,나무,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+23,45,편견,관용,편견,관용,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,probe,2.0
+24,49,저항할수없다,버티다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+24,49,가라앉지않다,가라앉다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+24,49,의심할수없다,의심하다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+24,49,산산조각나지않다,산산조각나다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+24,49,잊을수없다,잊히다,간과되다,잊히다,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,probe,2.0
+25,60,예술가,화가,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+25,60,관목,철쭉,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+25,60,운동선수,수영선수,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+25,60,차,캐모마일차,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+25,60,가구,소파,소파,낮잠,Taxonomic (Korean Localized),CLASS-INCLUSION,probe,1.0

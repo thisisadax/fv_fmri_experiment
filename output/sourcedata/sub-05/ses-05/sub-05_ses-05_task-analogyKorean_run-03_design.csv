@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,28,처음,마지막,,,Directional (Korean Localized),CONTRAST,example,
+1,28,팽창하다,수축하다,,,Directional (Korean Localized),CONTRAST,example,
+1,28,과거,미래,,,Directional (Korean Localized),CONTRAST,example,
+1,28,도착하다,출발하다,,,Directional (Korean Localized),CONTRAST,example,
+1,28,산봉우리,계곡,계곡,오르다,Directional (Korean Localized),CONTRAST,probe,1.0
+2,47,함대,배,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+2,47,교회,신자,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+2,47,군대,군인,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+2,47,꽃병,도자기,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+2,47,재킷,데님,스타일,데님,Object:Stuff (Korean Localized),PART-WHOLE,probe,2.0
+3,0,둘러보다,가볍다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+3,0,잔소리하다,성가시다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+3,0,곰곰이생각하다,사려깊다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+3,0,다투다,대립적이다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+3,0,훔치다,부정직하다,부정직하다,지갑,Action:Action Attribute (Korean Localized),ATTRIBUTE,probe,1.0
+4,28,내측,외측,,,Directional (Korean Localized),CONTRAST,example,
+4,28,입력,출력,,,Directional (Korean Localized),CONTRAST,example,
+4,28,승선하다,하선하다,,,Directional (Korean Localized),CONTRAST,example,
+4,28,접다,펴다,,,Directional (Korean Localized),CONTRAST,example,
+4,28,북동,남서,모서리,남서,Directional (Korean Localized),CONTRAST,probe,2.0
+5,54,환자,진료의뢰서,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+5,54,수형자,가석방,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+5,54,유권자,투표용지,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+5,54,아기,젖병,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+5,54,회사,투자금,매출,투자금,Recipient:Instrument (Korean Localized),CASE RELATIONS,probe,2.0
+6,-1,baseline,baseline,,,baseline,baseline,baseline,
+7,47,대양,물,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+7,47,카드덱,카드,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+7,47,동상,청동,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+7,47,팀,선수,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+7,47,얼음,물,얼음큐브,물,Object:Stuff (Korean Localized),PART-WHOLE,probe,2.0
+8,0,노래하다,음악적이다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+8,0,달래다,부드럽다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+8,0,모욕하다,무례하다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+8,0,달리다,빠르다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+8,0,속삭이다,조용하다,조용하다,숨,Action:Action Attribute (Korean Localized),ATTRIBUTE,probe,1.0
+9,28,북쪽행,남쪽행,,,Directional (Korean Localized),CONTRAST,example,
+9,28,연안,원해,,,Directional (Korean Localized),CONTRAST,example,
+9,28,주입하다,추출하다,,,Directional (Korean Localized),CONTRAST,example,
+9,28,동쪽행,서쪽행,,,Directional (Korean Localized),CONTRAST,example,
+9,28,안,밖,밖,안쪽,Directional (Korean Localized),CONTRAST,probe,1.0
+10,-1,baseline,baseline,,,baseline,baseline,baseline,
+11,47,벌떼,벌,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+11,47,몸,살,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+11,47,상자,골판지,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+11,47,종이,펄프,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+11,47,동전,구리,자판기,구리,Object:Stuff (Korean Localized),PART-WHOLE,probe,2.0
+12,0,과하게챙겨주다,과보호적이다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+12,0,꼭껴안다,포근하다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+12,0,방황하다,목적없다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+12,0,물러서다,소심하다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+12,0,몰래들어가다,비밀스럽다,조심스럽다,비밀스럽다,Action:Action Attribute (Korean Localized),ATTRIBUTE,probe,2.0
+13,-1,baseline,baseline,,,baseline,baseline,baseline,
+14,54,직원,급여명세서,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+14,54,운전자,운전면허증,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+14,54,세입자,열쇠,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+14,54,자선단체,기부금,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+14,54,아이,용돈,집안일,용돈,Recipient:Instrument (Korean Localized),CASE RELATIONS,probe,2.0
+15,47,아보카도딥,아보카도,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+15,47,눈사람,눈,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+15,47,지붕,기와,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+15,47,부츠,가죽,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+15,47,스튜,고기,고기,저녁식사,Object:Stuff (Korean Localized),PART-WHOLE,probe,1.0
+16,28,앞,뒤,,,Directional (Korean Localized),CONTRAST,example,
+16,28,출발지,도착지,,,Directional (Korean Localized),CONTRAST,example,
+16,28,내향,외향,,,Directional (Korean Localized),CONTRAST,example,
+16,28,수입,수출,,,Directional (Korean Localized),CONTRAST,example,
+16,28,주다,가져가다,증정품,가져가다,Directional (Korean Localized),CONTRAST,probe,2.0
+17,0,그림그리다,예술적이다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+17,0,애도하다,침울하다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+17,0,쾅닫다,세차다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+17,0,까치발로걷다,은밀하다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+17,0,위로하다,따뜻하다,지지적이다,따뜻하다,Action:Action Attribute (Korean Localized),ATTRIBUTE,probe,2.0
+18,47,도서관,책,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+18,47,퀼트,천조각,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+18,47,초콜릿,코코아,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+18,47,울타리,나무판자,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+18,47,소설,장,장,등장인물,Object:Stuff (Korean Localized),PART-WHOLE,probe,1.0
+19,54,작가,인세,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+19,54,선수,계약서,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+19,54,참가자,상금,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+19,54,복권당첨자,복권,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+19,54,연구자,연구비,계약서,연구비,Recipient:Instrument (Korean Localized),CASE RELATIONS,probe,2.0
+20,-1,baseline,baseline,,,baseline,baseline,baseline,
+21,28,다가오다,떠나다,,,Directional (Korean Localized),CONTRAST,example,
+21,28,밀어내다,끌어당기다,,,Directional (Korean Localized),CONTRAST,example,
+21,28,상단,하단,,,Directional (Korean Localized),CONTRAST,example,
+21,28,전진하다,후퇴하다,,,Directional (Korean Localized),CONTRAST,example,
+21,28,발사,착륙,이륙,착륙,Directional (Korean Localized),CONTRAST,probe,2.0
+22,54,소비자,캐시백,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+22,54,우승자,트로피,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+22,54,납세자,환급금,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+22,54,교수,정년보장,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+22,54,근로자,임금,임금,급여,Recipient:Instrument (Korean Localized),CASE RELATIONS,probe,1.0
+23,-1,baseline,baseline,,,baseline,baseline,baseline,
+24,0,착취하다,이기적이다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+24,0,명상하다,차분하다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+24,0,굽실거리다,굴종적이다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+24,0,비틀거리다,서툴다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+24,0,사과하다,겸손하다,후회,겸손하다,Action:Action Attribute (Korean Localized),ATTRIBUTE,probe,2.0
+25,54,교사,교원자격증,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+25,54,차용인,대출,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+25,54,여행자,비자,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+25,54,투자자,배당금,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+25,54,상속인,신탁,신탁,유산,Recipient:Instrument (Korean Localized),CASE RELATIONS,probe,1.0

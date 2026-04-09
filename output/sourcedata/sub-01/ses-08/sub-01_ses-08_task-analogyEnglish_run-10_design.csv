@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,46,royalty,author,,,Object:Recipient,CASE RELATIONS,example,
+1,46,salary,worker,,,Object:Recipient,CASE RELATIONS,example,
+1,46,notification,subscriber,,,Object:Recipient,CASE RELATIONS,example,
+1,46,passport,applicant,,,Object:Recipient,CASE RELATIONS,example,
+1,46,baton,runner,runner,coach,Object:Recipient,CASE RELATIONS,probe,1.0
+2,42,pack,wolves,,,Mass:Potion,PART-WHOLE,example,
+2,42,album,tracks,,,Mass:Potion,PART-WHOLE,example,
+2,42,page,paragraph,,,Mass:Potion,PART-WHOLE,example,
+2,42,minute,seconds,,,Mass:Potion,PART-WHOLE,example,
+2,42,country,states,states,flag,Mass:Potion,PART-WHOLE,probe,1.0
+3,54,sealant,leakage,,,Prevention,CAUSE-PURPOSE,example,
+3,54,maintenance,breakdown,,,Prevention,CAUSE-PURPOSE,example,
+3,54,warmth,frostbite,,,Prevention,CAUSE-PURPOSE,example,
+3,54,repellent,mosquitoes,,,Prevention,CAUSE-PURPOSE,example,
+3,54,camera,vandalism,ceiling,vandalism,Prevention,CAUSE-PURPOSE,probe,2.0
+4,46,dowry,groom,,,Object:Recipient,CASE RELATIONS,example,
+4,46,badge,scout,,,Object:Recipient,CASE RELATIONS,example,
+4,46,gift,recipient,,,Object:Recipient,CASE RELATIONS,example,
+4,46,bouquet,bridesmaid,,,Object:Recipient,CASE RELATIONS,example,
+4,46,visa,traveler,passport,traveler,Object:Recipient,CASE RELATIONS,probe,2.0
+5,-1,baseline,baseline,,,baseline,baseline,baseline,
+6,60,help,assist,,,Synonymity,SIMILAR,example,
+6,60,skinny,thin,,,Synonymity,SIMILAR,example,
+6,60,old,mature,,,Synonymity,SIMILAR,example,
+6,60,scare,frighten,,,Synonymity,SIMILAR,example,
+6,60,cozy,snug,snug,soft,Synonymity,SIMILAR,probe,1.0
+7,42,bouquet,flowers,,,Mass:Potion,PART-WHOLE,example,
+7,42,tree,branches,,,Mass:Potion,PART-WHOLE,example,
+7,42,skeleton,bones,,,Mass:Potion,PART-WHOLE,example,
+7,42,rope,strands,,,Mass:Potion,PART-WHOLE,example,
+7,42,year,months,months,semesters,Mass:Potion,PART-WHOLE,probe,1.0
+8,54,brushing,cavities,,,Prevention,CAUSE-PURPOSE,example,
+8,54,rules,disorder,,,Prevention,CAUSE-PURPOSE,example,
+8,54,soap,germs,,,Prevention,CAUSE-PURPOSE,example,
+8,54,moderation,excess,,,Prevention,CAUSE-PURPOSE,example,
+8,54,vaccine,virus,immunity,virus,Prevention,CAUSE-PURPOSE,probe,2.0
+9,60,pretty,beautiful,,,Synonymity,SIMILAR,example,
+9,60,lawyer,attorney,,,Synonymity,SIMILAR,example,
+9,60,tedious,monotonous,,,Synonymity,SIMILAR,example,
+9,60,fast,quick,,,Synonymity,SIMILAR,example,
+9,60,throw,toss,drop,toss,Synonymity,SIMILAR,probe,2.0
+10,42,puzzle,pieces,,,Mass:Potion,PART-WHOLE,example,
+10,42,continent,countries,,,Mass:Potion,PART-WHOLE,example,
+10,42,hand,fingers,,,Mass:Potion,PART-WHOLE,example,
+10,42,dollar,cents,,,Mass:Potion,PART-WHOLE,example,
+10,42,pizza,slice,slice,cheese,Mass:Potion,PART-WHOLE,probe,1.0
+11,-1,baseline,baseline,,,baseline,baseline,baseline,
+12,60,cute,adorable,,,Synonymity,SIMILAR,example,
+12,60,silent,quiet,,,Synonymity,SIMILAR,example,
+12,60,brave,courageous,,,Synonymity,SIMILAR,example,
+12,60,glad,pleased,,,Synonymity,SIMILAR,example,
+12,60,room,chamber,office,chamber,Synonymity,SIMILAR,probe,2.0
+13,54,antibiotic,infection,,,Prevention,CAUSE-PURPOSE,example,
+13,54,encryption,breach,,,Prevention,CAUSE-PURPOSE,example,
+13,54,umbrella,wetness,,,Prevention,CAUSE-PURPOSE,example,
+13,54,activity,boredom,,,Prevention,CAUSE-PURPOSE,example,
+13,54,supervision,misbehavior,misbehavior,camera,Prevention,CAUSE-PURPOSE,probe,1.0
+14,-1,baseline,baseline,,,baseline,baseline,baseline,
+15,46,dividend,shareholder,,,Object:Recipient,CASE RELATIONS,example,
+15,46,citizenship,immigrant,,,Object:Recipient,CASE RELATIONS,example,
+15,46,update,user,,,Object:Recipient,CASE RELATIONS,example,
+15,46,check,employee,,,Object:Recipient,CASE RELATIONS,example,
+15,46,resume,recruiter,recruiter,cover letter,Object:Recipient,CASE RELATIONS,probe,1.0
+16,42,rainbow,colors,,,Mass:Potion,PART-WHOLE,example,
+16,42,soup,spoonful,,,Mass:Potion,PART-WHOLE,example,
+16,42,necklace,beads,,,Mass:Potion,PART-WHOLE,example,
+16,42,hive,bee,,,Mass:Potion,PART-WHOLE,example,
+16,42,play,acts,minutes,acts,Mass:Potion,PART-WHOLE,probe,2.0
+17,-1,baseline,baseline,,,baseline,baseline,baseline,
+18,60,error,mistake,,,Synonymity,SIMILAR,example,
+18,60,creek,stream,,,Synonymity,SIMILAR,example,
+18,60,shop,store,,,Synonymity,SIMILAR,example,
+18,60,talk,speak,,,Synonymity,SIMILAR,example,
+18,60,house,dwelling,dwelling,mortgage,Synonymity,SIMILAR,probe,1.0
+19,46,package,homeowner,,,Object:Recipient,CASE RELATIONS,example,
+19,46,directions,tourist,,,Object:Recipient,CASE RELATIONS,example,
+19,46,ball,receiver,,,Object:Recipient,CASE RELATIONS,example,
+19,46,license,driver,,,Object:Recipient,CASE RELATIONS,example,
+19,46,welfare,beneficiary,beneficiary,government,Object:Recipient,CASE RELATIONS,probe,1.0
+20,54,education,ignorance,,,Prevention,CAUSE-PURPOSE,example,
+20,54,sunglasses,glare,,,Prevention,CAUSE-PURPOSE,example,
+20,54,refrigeration,spoilage,,,Prevention,CAUSE-PURPOSE,example,
+20,54,sunscreen,sunburn,,,Prevention,CAUSE-PURPOSE,example,
+20,54,lifejacket,drowning,drowning,boat,Prevention,CAUSE-PURPOSE,probe,1.0
+21,-1,baseline,baseline,,,baseline,baseline,baseline,
+22,60,sick,ill,,,Synonymity,SIMILAR,example,
+22,60,sleep,doze,,,Synonymity,SIMILAR,example,
+22,60,raise,elevate,,,Synonymity,SIMILAR,example,
+22,60,angry,mad,,,Synonymity,SIMILAR,example,
+22,60,infant,baby,baby,fetus,Synonymity,SIMILAR,probe,1.0
+23,54,caution,accidents,,,Prevention,CAUSE-PURPOSE,example,
+23,54,oxygen,suffocation,,,Prevention,CAUSE-PURPOSE,example,
+23,54,fence,trespassing,,,Prevention,CAUSE-PURPOSE,example,
+23,54,coating,rust,,,Prevention,CAUSE-PURPOSE,example,
+23,54,vitamins,deficiency,deficiency,nutrition,Prevention,CAUSE-PURPOSE,probe,1.0
+24,46,grade,pupil,,,Object:Recipient,CASE RELATIONS,example,
+24,46,certificate,teacher,,,Object:Recipient,CASE RELATIONS,example,
+24,46,blessing,congregation,,,Object:Recipient,CASE RELATIONS,example,
+24,46,donation,charity,,,Object:Recipient,CASE RELATIONS,example,
+24,46,fastball,catcher,glove,catcher,Object:Recipient,CASE RELATIONS,probe,2.0
+25,42,word,letters,,,Mass:Potion,PART-WHOLE,example,
+25,42,earthworm,segment,,,Mass:Potion,PART-WHOLE,example,
+25,42,constellation,stars,,,Mass:Potion,PART-WHOLE,example,
+25,42,garlic,cloves,,,Mass:Potion,PART-WHOLE,example,
+25,42,keyboard,keys,switches,keys,Mass:Potion,PART-WHOLE,probe,2.0

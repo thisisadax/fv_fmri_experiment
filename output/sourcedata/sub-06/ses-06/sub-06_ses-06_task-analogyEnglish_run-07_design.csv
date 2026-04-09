@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,27,govern,oppress,,,Dimensional Naughty,SIMILAR,example,
+1,27,laugh,jeer,,,Dimensional Naughty,SIMILAR,example,
+1,27,share,expose,,,Dimensional Naughty,SIMILAR,example,
+1,27,manage,micromanage,,,Dimensional Naughty,SIMILAR,example,
+1,27,joke,mock,mock,kid,Dimensional Naughty,SIMILAR,probe,1.0
+2,-1,baseline,baseline,,,baseline,baseline,baseline,
+3,22,kitten,cat,,,Conversion,SIMILAR,example,
+3,22,colt,horse,,,Conversion,SIMILAR,example,
+3,22,orange,juice,,,Conversion,SIMILAR,example,
+3,22,caterpillar,butterfly,,,Conversion,SIMILAR,example,
+3,22,manuscript,book,book,article,Conversion,SIMILAR,probe,1.0
+4,27,protest,riot,,,Dimensional Naughty,SIMILAR,example,
+4,27,collect,hoard,,,Dimensional Naughty,SIMILAR,example,
+4,27,observe,spy,,,Dimensional Naughty,SIMILAR,example,
+4,27,pat,slap,,,Dimensional Naughty,SIMILAR,example,
+4,27,discuss,rant,talk,rant,Dimensional Naughty,SIMILAR,probe,2.0
+5,38,whisper,quiet,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+5,38,car,fast,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+5,38,thunder,loud,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+5,38,boulder,heavy,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+5,38,kitten,playful,curious,playful,ItemAttribute(noun:adjective),ATTRIBUTE,probe,2.0
+6,51,firefighter,abandon,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+6,51,prisoner,roam,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+6,51,introvert,host,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+6,51,desert,flood,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+6,51,cynic,trust,mock,trust,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,probe,2.0
+7,-1,baseline,baseline,,,baseline,baseline,baseline,
+8,38,sky,blue,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+8,38,winter,frigid,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+8,38,vinegar,acidic,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+8,38,mouse,tiny,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+8,38,beach,sandy,sandy,waves,ItemAttribute(noun:adjective),ATTRIBUTE,probe,1.0
+9,22,sugarcane,sugar,,,Conversion,SIMILAR,example,
+9,22,olive,oil,,,Conversion,SIMILAR,example,
+9,22,seedling,tree,,,Conversion,SIMILAR,example,
+9,22,cocoa,chocolate,,,Conversion,SIMILAR,example,
+9,22,child,adult,adult,toy,Conversion,SIMILAR,probe,1.0
+10,51,anchor,drift,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+10,51,penguin,fly,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+10,51,hero,cower,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+10,51,friend,betray,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+10,51,bully,apologize,push,apologize,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,probe,2.0
+11,38,jungle,dense,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+11,38,plain,flat,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+11,38,athlete,fit,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+11,38,snow,cold,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+11,38,sandpaper,rough,workshop,rough,ItemAttribute(noun:adjective),ATTRIBUTE,probe,2.0
+12,-1,baseline,baseline,,,baseline,baseline,baseline,
+13,51,coward,volunteer,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+13,51,stone,float,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+13,51,glutton,fast,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+13,51,hermit,socialize,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+13,51,gentleman,belch,belch,assist,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,probe,1.0
+14,27,fight,attack,,,Dimensional Naughty,SIMILAR,example,
+14,27,push,shove,,,Dimensional Naughty,SIMILAR,example,
+14,27,give,bribe,,,Dimensional Naughty,SIMILAR,example,
+14,27,care,coddle,,,Dimensional Naughty,SIMILAR,example,
+14,27,drive,speed,speed,rush,Dimensional Naughty,SIMILAR,probe,1.0
+15,38,desert,dry,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+15,38,coffee,bitter,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+15,38,elephant,huge,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+15,38,cotton,fluffy,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+15,38,whale,enormous,enormous,ocean,ItemAttribute(noun:adjective),ATTRIBUTE,probe,1.0
+16,51,billionaire,beg,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+16,51,teetotaler,drink,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+16,51,policeman,steal,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+16,51,saint,curse,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+16,51,whale,climb,climb,surface,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,probe,1.0
+17,27,gaze,leer,,,Dimensional Naughty,SIMILAR,example,
+17,27,charge,gouge,,,Dimensional Naughty,SIMILAR,example,
+17,27,feed,poison,,,Dimensional Naughty,SIMILAR,example,
+17,27,compete,cheat,,,Dimensional Naughty,SIMILAR,example,
+17,27,guide,control,control,map,Dimensional Naughty,SIMILAR,probe,1.0
+18,22,tree,paper,,,Conversion,SIMILAR,example,
+18,22,iron,steel,,,Conversion,SIMILAR,example,
+18,22,egg,chick,,,Conversion,SIMILAR,example,
+18,22,grape,wine,,,Conversion,SIMILAR,example,
+18,22,stranger,friend,friend,greeting,Conversion,SIMILAR,probe,1.0
+19,-1,baseline,baseline,,,baseline,baseline,baseline,
+20,51,bodyguard,flee,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+20,51,sloth,sprint,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+20,51,anarchist,obey,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+20,51,protector,neglect,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+20,51,nurse,injure,injure,treat,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,probe,1.0
+21,22,tadpole,frog,,,Conversion,SIMILAR,example,
+21,22,girl,woman,,,Conversion,SIMILAR,example,
+21,22,amateur,professional,,,Conversion,SIMILAR,example,
+21,22,cream,butter,,,Conversion,SIMILAR,example,
+21,22,hide,leather,fur,leather,Conversion,SIMILAR,probe,2.0
+22,-1,baseline,baseline,,,baseline,baseline,baseline,
+23,27,sip,guzzle,,,Dimensional Naughty,SIMILAR,example,
+23,27,help,interfere,,,Dimensional Naughty,SIMILAR,example,
+23,27,offer,impose,,,Dimensional Naughty,SIMILAR,example,
+23,27,punish,torture,,,Dimensional Naughty,SIMILAR,example,
+23,27,remind,pester,prompt,pester,Dimensional Naughty,SIMILAR,probe,2.0
+24,38,turtle,slow,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+24,38,mountain,massive,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+24,38,baby,bald,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+24,38,priest,holy,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+24,38,lamb,gentle,gentle,soft,ItemAttribute(noun:adjective),ATTRIBUTE,probe,1.0
+25,22,duckling,duck,,,Conversion,SIMILAR,example,
+25,22,stone,statue,,,Conversion,SIMILAR,example,
+25,22,prince,king,,,Conversion,SIMILAR,example,
+25,22,student,graduate,,,Conversion,SIMILAR,example,
+25,22,princess,queen,empress,queen,Conversion,SIMILAR,probe,2.0

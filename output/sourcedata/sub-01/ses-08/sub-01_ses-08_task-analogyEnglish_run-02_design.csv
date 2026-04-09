@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,16,loneliness,socialize,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+1,16,laziness,procrastinate,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+1,16,tension,stretch,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+1,16,stain,scrub,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+1,16,nausea,vomit,vomit,sickness,Cause:Compensatory Action,CAUSE-PURPOSE,probe,1.0
+2,47,bread,flour,,,Object:Stuff,PART-WHOLE,example,
+2,47,atmosphere,gas,,,Object:Stuff,PART-WHOLE,example,
+2,47,rope,nylon,,,Object:Stuff,PART-WHOLE,example,
+2,47,cup,ceramic,,,Object:Stuff,PART-WHOLE,example,
+2,47,butter,cream,churn,cream,Object:Stuff,PART-WHOLE,probe,2.0
+3,-1,baseline,baseline,,,baseline,baseline,baseline,
+4,14,grape,vine,,,Attachment,SPACE-TIME,example,
+4,14,string,kite,,,Attachment,SPACE-TIME,example,
+4,14,hook,wall,,,Attachment,SPACE-TIME,example,
+4,14,acorn,oak,,,Attachment,SPACE-TIME,example,
+4,14,retainer,teeth,teeth,mouth,Attachment,SPACE-TIME,probe,1.0
+5,52,layout,magazine,,,Plan,REFERENCE,example,
+5,52,playbook,football,,,Plan,REFERENCE,example,
+5,52,diagram,wiring,,,Plan,REFERENCE,example,
+5,52,score,ballet,,,Plan,REFERENCE,example,
+5,52,scheme,heist,con,heist,Plan,REFERENCE,probe,2.0
+6,-1,baseline,baseline,,,baseline,baseline,baseline,
+7,14,awning,storefront,,,Attachment,SPACE-TIME,example,
+7,14,horn,bull,,,Attachment,SPACE-TIME,example,
+7,14,door,frame,,,Attachment,SPACE-TIME,example,
+7,14,feather,bird,,,Attachment,SPACE-TIME,example,
+7,14,ivy,trellis,trellis,pot,Attachment,SPACE-TIME,probe,1.0
+8,16,inspiration,create,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+8,16,dust,sneeze,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+8,16,nostalgia,reminisce,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+8,16,shortage,ration,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+8,16,disgust,grimace,grimace,avoid,Cause:Compensatory Action,CAUSE-PURPOSE,probe,1.0
+9,47,pasta,wheat,,,Object:Stuff,PART-WHOLE,example,
+9,47,shirt,cotton,,,Object:Stuff,PART-WHOLE,example,
+9,47,paint,pigment,,,Object:Stuff,PART-WHOLE,example,
+9,47,ring,gold,,,Object:Stuff,PART-WHOLE,example,
+9,47,concrete,cement,driveway,cement,Object:Stuff,PART-WHOLE,probe,2.0
+10,52,formation,offense,,,Plan,REFERENCE,example,
+10,52,strategy,attack,,,Plan,REFERENCE,example,
+10,52,menu,dinner,,,Plan,REFERENCE,example,
+10,52,rules,game,,,Plan,REFERENCE,example,
+10,52,budget,expenses,spending,expenses,Plan,REFERENCE,probe,2.0
+11,14,hair,scalp,,,Attachment,SPACE-TIME,example,
+11,14,bracelet,wrist,,,Attachment,SPACE-TIME,example,
+11,14,fur,cat,,,Attachment,SPACE-TIME,example,
+11,14,nail,board,,,Attachment,SPACE-TIME,example,
+11,14,wick,candle,candle,holder,Attachment,SPACE-TIME,probe,1.0
+12,47,puzzle,pieces,,,Object:Stuff,PART-WHOLE,example,
+12,47,paper,pulp,,,Object:Stuff,PART-WHOLE,example,
+12,47,library,books,,,Object:Stuff,PART-WHOLE,example,
+12,47,meal,courses,,,Object:Stuff,PART-WHOLE,example,
+12,47,collage,images,images,magazine,Object:Stuff,PART-WHOLE,probe,1.0
+13,-1,baseline,baseline,,,baseline,baseline,baseline,
+14,52,route,delivery,,,Plan,REFERENCE,example,
+14,52,storyboard,animation,,,Plan,REFERENCE,example,
+14,52,instructions,model,,,Plan,REFERENCE,example,
+14,52,treaty,peace,,,Plan,REFERENCE,example,
+14,52,scenario,drill,drill,test,Plan,REFERENCE,probe,1.0
+15,16,poverty,work,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+15,16,alarm,wake,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+15,16,storm,shelter,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+15,16,thirst,drink,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+15,16,brightness,squint,squint,sunlight,Cause:Compensatory Action,CAUSE-PURPOSE,probe,1.0
+16,14,curtain,window,,,Attachment,SPACE-TIME,example,
+16,14,bark,trunk,,,Attachment,SPACE-TIME,example,
+16,14,cap,bottle,,,Attachment,SPACE-TIME,example,
+16,14,tail,horse,,,Attachment,SPACE-TIME,example,
+16,14,sidecar,motorcycle,passenger,motorcycle,Attachment,SPACE-TIME,probe,2.0
+17,-1,baseline,baseline,,,baseline,baseline,baseline,
+18,16,injustice,protest,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+18,16,shame,hide,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+18,16,coldness,shiver,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+18,16,spill,wipe,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+18,16,obesity,exercise,calories,exercise,Cause:Compensatory Action,CAUSE-PURPOSE,probe,2.0
+19,52,outline,composition,,,Plan,REFERENCE,example,
+19,52,curriculum,education,,,Plan,REFERENCE,example,
+19,52,itinerary,trip,,,Plan,REFERENCE,example,
+19,52,proof,publication,,,Plan,REFERENCE,example,
+19,52,sketch,sculpture,sculpture,outline,Plan,REFERENCE,probe,1.0
+20,47,chain,links,,,Object:Stuff,PART-WHOLE,example,
+20,47,wire,metal,,,Object:Stuff,PART-WHOLE,example,
+20,47,candle,wax,,,Object:Stuff,PART-WHOLE,example,
+20,47,crowd,people,,,Object:Stuff,PART-WHOLE,example,
+20,47,pillow,feathers,feathers,sleep,Object:Stuff,PART-WHOLE,probe,1.0
+21,14,scale,fish,,,Attachment,SPACE-TIME,example,
+21,14,apple,tree,,,Attachment,SPACE-TIME,example,
+21,14,knocker,door,,,Attachment,SPACE-TIME,example,
+21,14,wheel,axle,,,Attachment,SPACE-TIME,example,
+21,14,lens,camera,flash,camera,Attachment,SPACE-TIME,probe,2.0
+22,-1,baseline,baseline,,,baseline,baseline,baseline,
+23,47,anthology,stories,,,Object:Stuff,PART-WHOLE,example,
+23,47,ocean,water,,,Object:Stuff,PART-WHOLE,example,
+23,47,adobe,mud,,,Object:Stuff,PART-WHOLE,example,
+23,47,jacket,denim,,,Object:Stuff,PART-WHOLE,example,
+23,47,boots,leather,leather,hiking,Object:Stuff,PART-WHOLE,probe,1.0
+24,16,mess,clean,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+24,16,emptiness,fill,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+24,16,boredom,yawn,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+24,16,pain,wince,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+24,16,clumsiness,practice,shoelace,practice,Cause:Compensatory Action,CAUSE-PURPOSE,probe,2.0
+25,52,specification,software,,,Plan,REFERENCE,example,
+25,52,formula,compound,,,Plan,REFERENCE,example,
+25,52,program,ceremony,,,Plan,REFERENCE,example,
+25,52,proposal,research,,,Plan,REFERENCE,example,
+25,52,regimen,fitness,fitness,workout,Plan,REFERENCE,probe,1.0

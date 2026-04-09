@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,8,정육사,고기,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+1,8,정원사,삽,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+1,8,건축가,도면,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+1,8,플로리스트,꽃,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+1,8,요리사,오븐,오븐,주방,Agent:Object (Korean Localized),CASE RELATIONS,probe,1.0
+2,18,왕,헨리 8세,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+2,18,춤,왈츠,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+2,18,요일,월요일,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+2,18,바다,태평양,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+2,18,나라,아일랜드,더블린,아일랜드,ClassIndividual (Korean Localized),CLASS-INCLUSION,probe,2.0
+3,2,첩보활동하다,보고하다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+3,2,춤추다,축하하다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+3,2,조타하다,항해하다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+3,2,운전하다,도착하다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+3,2,연습하다,숙달하다,숙달하다,반복하다,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,probe,1.0
+4,-1,baseline,baseline,,,baseline,baseline,baseline,
+5,36,다이아몬드,부드럽다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+5,36,그림자,밝다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+5,36,전쟁,평화롭다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+5,36,영원,짧다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+5,36,젊음,늙다,희망적이다,늙다,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,probe,2.0
+6,8,극작가,희곡,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+6,8,작곡가,곡,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+6,8,일러스트레이터,일러스트,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+6,8,예술가,걸작,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+6,8,배관공,파이프,지하실,파이프,Agent:Object (Korean Localized),CASE RELATIONS,probe,2.0
+7,2,쇼핑하다,구매하다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+7,2,예방접종하다,예방하다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+7,2,수색하다,찾다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+7,2,다듬다,짧게하다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+7,2,공부하다,배우다,배우다,교실,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,probe,1.0
+8,-1,baseline,baseline,,,baseline,baseline,baseline,
+9,36,황홀함,슬프다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+9,36,깃털,무겁다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+9,36,얼음,뜨겁다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+9,36,목소리,벙어리다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+9,36,실패,성공적이다,고통스럽다,성공적이다,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,probe,2.0
+10,2,저축하다,감당하다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+10,2,배급하다,절약하다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+10,2,일하다,벌다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+10,2,싸우다,방어하다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+10,2,마케팅하다,판매하다,광고하다,판매하다,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,probe,2.0
+11,18,공주,다이애나,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+11,18,텔레비전,소니,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+11,18,꽃,장미,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+11,18,채소,당근,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+11,18,화가,피카소,캔버스,피카소,ClassIndividual (Korean Localized),CLASS-INCLUSION,probe,2.0
+12,36,죽음,살아있다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+12,36,잉여,부족하다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+12,36,악몽,쾌적하다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+12,36,가뭄,축축하다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+12,36,겁쟁이,용감하다,겁많다,용감하다,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,probe,2.0
+13,2,구걸하다,받다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+13,2,밭갈다,경작하다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+13,2,입찰하다,획득하다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+13,2,파다,드러내다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+13,2,사냥하다,먹다,추적하다,먹다,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,probe,2.0
+14,-1,baseline,baseline,,,baseline,baseline,baseline,
+15,8,목수,가구,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+15,8,직조공,천,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+15,8,안무가,안무,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+15,8,양조가,맥주,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+15,8,기타리스트,기타,기타,밴드,Agent:Object (Korean Localized),CASE RELATIONS,probe,1.0
+16,36,게으름,부지런하다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+16,36,거짓말,참이다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+16,36,정직함,기만적이다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+16,36,침묵,시끄럽다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+16,36,결백,유죄이다,유죄이다,맑다,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,probe,1.0
+17,-1,baseline,baseline,,,baseline,baseline,baseline,
+18,18,호수,이리호,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+18,18,달,일월,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+18,18,베리류,딸기,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+18,18,항공사,델타항공,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+18,18,대통령,링컨,링컨,해방,ClassIndividual (Korean Localized),CLASS-INCLUSION,probe,1.0
+19,2,투표하다,선출하다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+19,2,훈련하다,향상하다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+19,2,마시다,수분보충하다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+19,2,쏘다,죽이다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+19,2,읽다,배우다,도서관,배우다,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,probe,2.0
+20,8,재봉사,드레스,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+20,8,작가,이야기,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+20,8,피아니스트,피아노,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+20,8,뜨개공,스웨터,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+20,8,광부,곡괭이,동굴,곡괭이,Agent:Object (Korean Localized),CASE RELATIONS,probe,2.0
+21,-1,baseline,baseline,,,baseline,baseline,baseline,
+22,18,견과,아몬드,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+22,18,새,독수리,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+22,18,과일,바나나,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+22,18,화산,베수비오 화산,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+22,18,여왕,엘리자베스 2세,엘리자베스 2세,왕관,ClassIndividual (Korean Localized),CLASS-INCLUSION,probe,1.0
+23,36,비명,조용하다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+23,36,무한,유한하다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+23,36,굶주림,영양이충분하다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+23,36,지루함,짜릿하다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+23,36,확신,의심스럽다,의심스럽다,확고하다,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,probe,1.0
+24,8,제빵사,빵,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+24,8,전기기사,전선,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+24,8,목공,수납장,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+24,8,구두수선공,구두,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+24,8,용접공,용접토치,철골,용접토치,Agent:Object (Korean Localized),CASE RELATIONS,probe,2.0
+25,18,작곡가,모차르트,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+25,18,도시,멤피스,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+25,18,가수,마돈나,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+25,18,컴퓨터,델,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+25,18,행성,지구,달,지구,ClassIndividual (Korean Localized),CLASS-INCLUSION,probe,2.0

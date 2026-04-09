@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,22,princess,queen,,,Conversion,SIMILAR,example,
+1,22,associate,partner,,,Conversion,SIMILAR,example,
+1,22,seed,plant,,,Conversion,SIMILAR,example,
+1,22,barley,beer,,,Conversion,SIMILAR,example,
+1,22,prince,king,crown,king,Conversion,SIMILAR,probe,2.0
+2,-1,baseline,baseline,,,baseline,baseline,baseline,
+3,18,color,Red,,,ClassIndividual,CLASS-INCLUSION,example,
+3,18,state,Texas,,,ClassIndividual,CLASS-INCLUSION,example,
+3,18,singer,Madonna,,,ClassIndividual,CLASS-INCLUSION,example,
+3,18,candy,Snickers,,,ClassIndividual,CLASS-INCLUSION,example,
+3,18,river,Nile,nile,delta,ClassIndividual,CLASS-INCLUSION,probe,1.0
+4,2,glare,nicely,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+4,2,sprint,slowly,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+4,2,cheat,fairly,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+4,2,rebel,obediently,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+4,2,plod,swiftly,swiftly,trudge,Action:Action Nonattribute,NON-ATTRIBUTE,probe,1.0
+5,-1,baseline,baseline,,,baseline,baseline,baseline,
+6,22,cream,butter,,,Conversion,SIMILAR,example,
+6,22,yarn,sweater,,,Conversion,SIMILAR,example,
+6,22,water,ice,,,Conversion,SIMILAR,example,
+6,22,tree,paper,,,Conversion,SIMILAR,example,
+6,22,bill,law,capitol,law,Conversion,SIMILAR,probe,2.0
+7,16,panic,run,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+7,16,loss,mourn,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+7,16,thirst,drink,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+7,16,desperation,beg,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+7,16,obesity,exercise,exercise,sweat,Cause:Compensatory Action,CAUSE-PURPOSE,probe,1.0
+8,2,idle,productively,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+8,2,cower,confidently,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+8,2,squander,thriftily,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+8,2,hoard,generously,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+8,2,loiter,hastily,hastily,casually,Action:Action Nonattribute,NON-ATTRIBUTE,probe,1.0
+9,18,painter,Picasso,,,ClassIndividual,CLASS-INCLUSION,example,
+9,18,team,Rangers,,,ClassIndividual,CLASS-INCLUSION,example,
+9,18,queen,Elizabeth,,,ClassIndividual,CLASS-INCLUSION,example,
+9,18,reptile,Iguana,,,ClassIndividual,CLASS-INCLUSION,example,
+9,18,month,January,winter,january,ClassIndividual,CLASS-INCLUSION,probe,2.0
+10,-1,baseline,baseline,,,baseline,baseline,baseline,
+11,16,happiness,smile,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+11,16,deadline,rush,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+11,16,alarm,wake,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+11,16,stress,relax,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+11,16,gratitude,thank,thank,gift,Cause:Compensatory Action,CAUSE-PURPOSE,probe,1.0
+12,22,ore,metal,,,Conversion,SIMILAR,example,
+12,22,tomato,ketchup,,,Conversion,SIMILAR,example,
+12,22,dough,bread,,,Conversion,SIMILAR,example,
+12,22,wheat,flour,,,Conversion,SIMILAR,example,
+12,22,grape,raisin,raisin,vine,Conversion,SIMILAR,probe,1.0
+13,-1,baseline,baseline,,,baseline,baseline,baseline,
+14,16,impatience,hurry,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+14,16,surprise,gasp,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+14,16,stain,scrub,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+14,16,spill,wipe,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+14,16,nostalgia,reminisce,collect,reminisce,Cause:Compensatory Action,CAUSE-PURPOSE,probe,2.0
+15,18,day,Monday,,,ClassIndividual,CLASS-INCLUSION,example,
+15,18,dinosaur,Triceratops,,,ClassIndividual,CLASS-INCLUSION,example,
+15,18,computer,Dell,,,ClassIndividual,CLASS-INCLUSION,example,
+15,18,berry,Strawberry,,,ClassIndividual,CLASS-INCLUSION,example,
+15,18,dog,Poodle,leash,poodle,ClassIndividual,CLASS-INCLUSION,probe,2.0
+16,2,whisper,loudly,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+16,2,fail,successfully,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+16,2,scatter,neatly,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+16,2,dance,motionlessly,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+16,2,rest,vigorously,vigorously,peacefully,Action:Action Nonattribute,NON-ATTRIBUTE,probe,1.0
+17,16,clumsiness,practice,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+17,16,craving,indulge,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+17,16,damage,repair,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+17,16,homesickness,return,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+17,16,curiosity,investigate,investigate,guess,Cause:Compensatory Action,CAUSE-PURPOSE,probe,1.0
+18,22,stone,statue,,,Conversion,SIMILAR,example,
+18,22,student,graduate,,,Conversion,SIMILAR,example,
+18,22,fawn,deer,,,Conversion,SIMILAR,example,
+18,22,intern,employee,,,Conversion,SIMILAR,example,
+18,22,wax,candle,candle,plastic,Conversion,SIMILAR,probe,1.0
+19,2,brag,humbly,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+19,2,fling,meticulously,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+19,2,babble,coherently,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+19,2,feast,sparingly,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+19,2,clutch,loosely,tightly,loosely,Action:Action Nonattribute,NON-ATTRIBUTE,probe,2.0
+20,18,car,Camaro,,,ClassIndividual,CLASS-INCLUSION,example,
+20,18,country,Japan,,,ClassIndividual,CLASS-INCLUSION,example,
+20,18,constellation,Orion,,,ClassIndividual,CLASS-INCLUSION,example,
+20,18,bird,Eagle,,,ClassIndividual,CLASS-INCLUSION,example,
+20,18,villain,Joker,joker,clown,ClassIndividual,CLASS-INCLUSION,probe,1.0
+21,16,boredom,yawn,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+21,16,dirtiness,bathe,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+21,16,failure,retry,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+21,16,laziness,procrastinate,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+21,16,hunger,eat,cook,eat,Cause:Compensatory Action,CAUSE-PURPOSE,probe,2.0
+22,22,recruit,soldier,,,Conversion,SIMILAR,example,
+22,22,puppy,dog,,,Conversion,SIMILAR,example,
+22,22,cotton,fabric,,,Conversion,SIMILAR,example,
+22,22,gosling,goose,,,Conversion,SIMILAR,example,
+22,22,colt,horse,horse,saddle,Conversion,SIMILAR,probe,1.0
+23,2,beg,arrogantly,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+23,2,devour,daintily,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+23,2,stall,promptly,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+23,2,plunge,tentatively,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+23,2,dawdle,quickly,delay,quickly,Action:Action Nonattribute,NON-ATTRIBUTE,probe,2.0
+24,-1,baseline,baseline,,,baseline,baseline,baseline,
+25,18,fabric,Silk,,,ClassIndividual,CLASS-INCLUSION,example,
+25,18,king,Arthur,,,ClassIndividual,CLASS-INCLUSION,example,
+25,18,tool,Hammer,,,ClassIndividual,CLASS-INCLUSION,example,
+25,18,motorcycle,Harley,,,ClassIndividual,CLASS-INCLUSION,example,
+25,18,dance,Waltz,waltz,music,ClassIndividual,CLASS-INCLUSION,probe,1.0

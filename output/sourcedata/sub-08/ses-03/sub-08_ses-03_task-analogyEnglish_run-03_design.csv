@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,20,bushes,trap,,,Concealment,REFERENCE,example,
+1,20,trapdoor,entrance,,,Concealment,REFERENCE,example,
+1,20,flattery,contempt,,,Concealment,REFERENCE,example,
+1,20,ivy,wall,,,Concealment,REFERENCE,example,
+1,20,bunker,troops,tank,troops,Concealment,REFERENCE,probe,2.0
+2,46,award,winner,,,Object:Recipient,CASE RELATIONS,example,
+2,46,flowers,widow,,,Object:Recipient,CASE RELATIONS,example,
+2,46,dowry,groom,,,Object:Recipient,CASE RELATIONS,example,
+2,46,alimony,spouse,,,Object:Recipient,CASE RELATIONS,example,
+2,46,encore,audience,theater,audience,Object:Recipient,CASE RELATIONS,probe,2.0
+3,4,vacuum,carpet,,,Action:Object,CASE RELATIONS,example,
+3,4,hunt,deer,,,Action:Object,CASE RELATIONS,example,
+3,4,shear,sheep,,,Action:Object,CASE RELATIONS,example,
+3,4,push,cart,,,Action:Object,CASE RELATIONS,example,
+3,4,act,scene,scene,costume,Action:Object,CASE RELATIONS,probe,1.0
+4,-1,baseline,baseline,,,baseline,baseline,baseline,
+5,7,trembling,nervousness,,,Agent Attribute:State,ATTRIBUTE,example,
+5,7,attentive,alertness,,,Agent Attribute:State,ATTRIBUTE,example,
+5,7,ecstatic,bliss,,,Agent Attribute:State,ATTRIBUTE,example,
+5,7,devoted,dedication,,,Agent Attribute:State,ATTRIBUTE,example,
+5,7,irritable,annoyance,annoyance,stress,Agent Attribute:State,ATTRIBUTE,probe,1.0
+6,4,pitch,tent,,,Action:Object,CASE RELATIONS,example,
+6,4,paint,picture,,,Action:Object,CASE RELATIONS,example,
+6,4,operate,machine,,,Action:Object,CASE RELATIONS,example,
+6,4,milk,cow,,,Action:Object,CASE RELATIONS,example,
+6,4,compose,symphony,symphony,piano,Action:Object,CASE RELATIONS,probe,1.0
+7,46,tribute,emperor,,,Object:Recipient,CASE RELATIONS,example,
+7,46,royalty,author,,,Object:Recipient,CASE RELATIONS,example,
+7,46,treatment,patient,,,Object:Recipient,CASE RELATIONS,example,
+7,46,bonus,executive,,,Object:Recipient,CASE RELATIONS,example,
+7,46,baton,runner,runner,coach,Object:Recipient,CASE RELATIONS,probe,1.0
+8,-1,baseline,baseline,,,baseline,baseline,baseline,
+9,4,bake,cake,,,Action:Object,CASE RELATIONS,example,
+9,4,brew,coffee,,,Action:Object,CASE RELATIONS,example,
+9,4,solve,puzzle,,,Action:Object,CASE RELATIONS,example,
+9,4,mend,clothing,,,Action:Object,CASE RELATIONS,example,
+9,4,fly,airplane,airplane,cockpit,Action:Object,CASE RELATIONS,probe,1.0
+10,46,resume,recruiter,,,Object:Recipient,CASE RELATIONS,example,
+10,46,allowance,teenager,,,Object:Recipient,CASE RELATIONS,example,
+10,46,medal,hero,,,Object:Recipient,CASE RELATIONS,example,
+10,46,instructions,trainee,,,Object:Recipient,CASE RELATIONS,example,
+10,46,directions,tourist,sightseeing,tourist,Object:Recipient,CASE RELATIONS,probe,2.0
+11,-1,baseline,baseline,,,baseline,baseline,baseline,
+12,7,weary,weariness,,,Agent Attribute:State,ATTRIBUTE,example,
+12,7,crying,grief,,,Agent Attribute:State,ATTRIBUTE,example,
+12,7,brooding,melancholy,,,Agent Attribute:State,ATTRIBUTE,example,
+12,7,disgusted,revulsion,,,Agent Attribute:State,ATTRIBUTE,example,
+12,7,bored,tedium,tedium,lecture,Agent Attribute:State,ATTRIBUTE,probe,1.0
+13,20,gauze,scar,,,Concealment,REFERENCE,example,
+13,20,sunglasses,eyes,,,Concealment,REFERENCE,example,
+13,20,redaction,text,,,Concealment,REFERENCE,example,
+13,20,encryption,data,,,Concealment,REFERENCE,example,
+13,20,foliage,nest,fence,nest,Concealment,REFERENCE,probe,2.0
+14,4,water,plants,,,Action:Object,CASE RELATIONS,example,
+14,4,knit,scarf,,,Action:Object,CASE RELATIONS,example,
+14,4,build,fence,,,Action:Object,CASE RELATIONS,example,
+14,4,sharpen,knife,,,Action:Object,CASE RELATIONS,example,
+14,4,carve,turkey,gravy,turkey,Action:Object,CASE RELATIONS,probe,2.0
+15,7,blushing,embarrassment,,,Agent Attribute:State,ATTRIBUTE,example,
+15,7,drunk,intoxication,,,Agent Attribute:State,ATTRIBUTE,example,
+15,7,despondent,hopelessness,,,Agent Attribute:State,ATTRIBUTE,example,
+15,7,lonely,isolation,,,Agent Attribute:State,ATTRIBUTE,example,
+15,7,anxious,worry,worry,stress,Agent Attribute:State,ATTRIBUTE,probe,1.0
+16,20,overcoat,weapon,,,Concealment,REFERENCE,example,
+16,20,hat,hair,,,Concealment,REFERENCE,example,
+16,20,composure,anxiety,,,Concealment,REFERENCE,example,
+16,20,fog,road,,,Concealment,REFERENCE,example,
+16,20,makeup,blemishes,blemishes,skin,Concealment,REFERENCE,probe,1.0
+17,-1,baseline,baseline,,,baseline,baseline,baseline,
+18,46,passport,applicant,,,Object:Recipient,CASE RELATIONS,example,
+18,46,license,driver,,,Object:Recipient,CASE RELATIONS,example,
+18,46,trophy,champion,,,Object:Recipient,CASE RELATIONS,example,
+18,46,invitation,guest,,,Object:Recipient,CASE RELATIONS,example,
+18,46,grade,pupil,pupil,parent,Object:Recipient,CASE RELATIONS,probe,1.0
+19,20,alibi,guilt,,,Concealment,REFERENCE,example,
+19,20,scarf,neck,,,Concealment,REFERENCE,example,
+19,20,denial,shame,,,Concealment,REFERENCE,example,
+19,20,blanket,mattress,,,Concealment,REFERENCE,example,
+19,20,poster,hole,hole,tape,Concealment,REFERENCE,probe,1.0
+20,-1,baseline,baseline,,,baseline,baseline,baseline,
+21,7,sympathetic,empathy,,,Agent Attribute:State,ATTRIBUTE,example,
+21,7,laughing,amusement,,,Agent Attribute:State,ATTRIBUTE,example,
+21,7,thoughtful,contemplation,,,Agent Attribute:State,ATTRIBUTE,example,
+21,7,peaceful,serenity,,,Agent Attribute:State,ATTRIBUTE,example,
+21,7,alarmed,fright,jumping,fright,Agent Attribute:State,ATTRIBUTE,probe,2.0
+22,4,plant,flower,,,Action:Object,CASE RELATIONS,example,
+22,4,draft,letter,,,Action:Object,CASE RELATIONS,example,
+22,4,capture,villain,,,Action:Object,CASE RELATIONS,example,
+22,4,set,table,,,Action:Object,CASE RELATIONS,example,
+22,4,deliver,package,truck,package,Action:Object,CASE RELATIONS,probe,2.0
+23,20,tablecloth,table,,,Concealment,REFERENCE,example,
+23,20,rug,stain,,,Concealment,REFERENCE,example,
+23,20,apron,clothes,,,Concealment,REFERENCE,example,
+23,20,patch,tear,,,Concealment,REFERENCE,example,
+23,20,politeness,anger,anger,kindness,Concealment,REFERENCE,probe,1.0
+24,7,giddy,happiness,,,Agent Attribute:State,ATTRIBUTE,example,
+24,7,outraged,fury,,,Agent Attribute:State,ATTRIBUTE,example,
+24,7,hopeful,optimism,,,Agent Attribute:State,ATTRIBUTE,example,
+24,7,forlorn,desolation,,,Agent Attribute:State,ATTRIBUTE,example,
+24,7,stressed,tension,rushing,tension,Agent Attribute:State,ATTRIBUTE,probe,2.0
+25,46,ring,bride,,,Object:Recipient,CASE RELATIONS,example,
+25,46,sentence,criminal,,,Object:Recipient,CASE RELATIONS,example,
+25,46,receipt,customer,,,Object:Recipient,CASE RELATIONS,example,
+25,46,dividend,shareholder,,,Object:Recipient,CASE RELATIONS,example,
+25,46,update,user,user,patch,Object:Recipient,CASE RELATIONS,probe,1.0

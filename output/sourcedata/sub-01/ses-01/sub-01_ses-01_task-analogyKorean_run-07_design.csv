@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,46,편지,수신인,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+1,46,장학금,신입생,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+1,46,지참금,신랑,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+1,46,훈장,영웅,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+1,46,면허증,운전자,지갑,운전자,Object:Recipient (Korean Localized),CASE RELATIONS,probe,2.0
+2,-1,baseline,baseline,,,baseline,baseline,baseline,
+3,48,거북이,기어가다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+3,48,음악가,연주하다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+3,48,거울,비추다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+3,48,운전사,운전하다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+3,48,번개,치다,벼락,치다,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,probe,2.0
+4,3,굽다,케이크,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+4,3,잡다,물고기,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+4,3,무찌르다,용,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+4,3,던지다,동전,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+4,3,당기다,레버,레버,조작판,Action:Object (Korean Localized),CASE RELATIONS,probe,1.0
+5,21,날카롭다,무디다,,,Contradictory (Korean Localized),CONTRAST,example,
+5,21,소음,정적,,,Contradictory (Korean Localized),CONTRAST,example,
+5,21,시끄럽다,조용하다,,,Contradictory (Korean Localized),CONTRAST,example,
+5,21,있다,없다,,,Contradictory (Korean Localized),CONTRAST,example,
+5,21,유연하다,경직되다,경직되다,구부리다,Contradictory (Korean Localized),CONTRAST,probe,1.0
+6,-1,baseline,baseline,,,baseline,baseline,baseline,
+7,46,공,리시버,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+7,46,몸값,납치범,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+7,46,배지,스카우트,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+7,46,꽃,미망인,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+7,46,트로피,챔피언,진행자,챔피언,Object:Recipient (Korean Localized),CASE RELATIONS,probe,2.0
+8,3,읽다,책,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+8,3,먹다,음식,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+8,3,갈다,칼,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+8,3,켜다,양초,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+8,3,발사하다,대포,대포,전장,Action:Object (Korean Localized),CASE RELATIONS,probe,1.0
+9,21,뜨겁다,차갑다,,,Contradictory (Korean Localized),CONTRAST,example,
+9,21,느리다,빠르다,,,Contradictory (Korean Localized),CONTRAST,example,
+9,21,가깝다,멀다,,,Contradictory (Korean Localized),CONTRAST,example,
+9,21,왼쪽,오른쪽,,,Contradictory (Korean Localized),CONTRAST,example,
+9,21,공개,비공개,공유되다,비공개,Contradictory (Korean Localized),CONTRAST,probe,2.0
+10,48,진자,흔들리다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+10,48,오븐,가열하다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+10,48,판사,판결하다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+10,48,늑대,울부짖다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+10,48,시계,똑딱거리다,벽,똑딱거리다,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,probe,2.0
+11,46,범칙금통지서,운전자,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+11,46,부양비,배우자,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+11,46,조언,의뢰인,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+11,46,축복,회중,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+11,46,연구비,과학자,과학자,기관,Object:Recipient (Korean Localized),CASE RELATIONS,probe,1.0
+12,3,용서하다,죄,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+12,3,암송하다,기도문,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+12,3,내리다,닻,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+12,3,포장하다,선물,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+12,3,타다,말,안장,말,Action:Object (Korean Localized),CASE RELATIONS,probe,2.0
+13,-1,baseline,baseline,,,baseline,baseline,baseline,
+14,46,불만,관리자,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+14,46,업데이트,사용자,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+14,46,표,후보,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+14,46,진급,장교,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+14,46,여권,신청자,신청자,도장,Object:Recipient (Korean Localized),CASE RELATIONS,probe,1.0
+15,48,빗자루,쓸다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+15,48,배우,연기하다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+15,48,지진,흔들리다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+15,48,지우개,지우다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+15,48,제빵사,굽다,팔다,굽다,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,probe,2.0
+16,-1,baseline,baseline,,,baseline,baseline,baseline,
+17,3,노젓다,배,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+17,3,청소하다,집,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+17,3,올리다,깃발,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+17,3,썰다,구운고기,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+17,3,숙달하다,기술,도구,기술,Action:Object (Korean Localized),CASE RELATIONS,probe,2.0
+18,21,매끄럽다,거칠다,,,Contradictory (Korean Localized),CONTRAST,example,
+18,21,익힌음식,생음식,,,Contradictory (Korean Localized),CONTRAST,example,
+18,21,깊다,얕다,,,Contradictory (Korean Localized),CONTRAST,example,
+18,21,뚱뚱하다,마르다,,,Contradictory (Korean Localized),CONTRAST,example,
+18,21,단단하다,부드럽다,쉽다,부드럽다,Contradictory (Korean Localized),CONTRAST,probe,2.0
+19,-1,baseline,baseline,,,baseline,baseline,baseline,
+20,48,가수,노래하다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+20,48,새,날다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+20,48,경비원,지키다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+20,48,학생,배우다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+20,48,말,질주하다,질주하다,히힝울다,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,probe,1.0
+21,46,길안내,관광객,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+21,46,반지,신부,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+21,46,지시사항,연수생,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+21,46,직구,포수,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+21,46,급여수표,간호사,근무,간호사,Object:Recipient (Korean Localized),CASE RELATIONS,probe,2.0
+22,21,하얗다,검다,,,Contradictory (Korean Localized),CONTRAST,example,
+22,21,고의적이다,우발적이다,,,Contradictory (Korean Localized),CONTRAST,example,
+22,21,밝다,어둡다,,,Contradictory (Korean Localized),CONTRAST,example,
+22,21,기체,고체,,,Contradictory (Korean Localized),CONTRAST,example,
+22,21,긍정적이다,부정적이다,부정적이다,플러스,Contradictory (Korean Localized),CONTRAST,probe,1.0
+23,3,연기하다,장면,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+23,3,망치질하다,못,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+23,3,다듬다,관목,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+23,3,수선하다,옷,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+23,3,진공청소하다,카펫,전선,카펫,Action:Object (Korean Localized),CASE RELATIONS,probe,2.0
+24,48,스위치,전환되다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+24,48,부엉이,부엉부엉울다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+24,48,전등,빛나다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+24,48,빵,부풀다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+24,48,무용수,춤추다,춤추다,빙글돌다,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,probe,1.0
+25,21,차분하다,불안하다,,,Contradictory (Korean Localized),CONTRAST,example,
+25,21,울퉁불퉁하다,평평하다,,,Contradictory (Korean Localized),CONTRAST,example,
+25,21,낙관적이다,비관적이다,,,Contradictory (Korean Localized),CONTRAST,example,
+25,21,받아들이다,거부하다,,,Contradictory (Korean Localized),CONTRAST,example,
+25,21,기혼,미혼,배우자,미혼,Contradictory (Korean Localized),CONTRAST,probe,2.0

@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,52,설계도,집,,,Plan (Korean Localized),REFERENCE,example,
+1,52,회로도,회로,,,Plan (Korean Localized),REFERENCE,example,
+1,52,화학식,화합물,,,Plan (Korean Localized),REFERENCE,example,
+1,52,명세서,소프트웨어,,,Plan (Korean Localized),REFERENCE,example,
+1,52,재단패턴,드레스,천,드레스,Plan (Korean Localized),REFERENCE,probe,2.0
+2,33,감옥,구금,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+2,33,양초,분위기,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+2,33,다리,통행,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+2,33,확성기,증폭,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+2,33,변장,기만,기만,가면,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,probe,1.0
+3,25,못생기다,흉측하다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+3,25,단단하다,딱딱하다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+3,25,검소하다,인색하다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+3,25,닦다,박박문지르다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+3,25,따뜻하다,무덥다,무덥다,덥다,Dimensional Excessive (Korean Localized),SIMILAR,probe,1.0
+4,52,템플릿,문서,,,Plan (Korean Localized),REFERENCE,example,
+4,52,지도,여정,,,Plan (Korean Localized),REFERENCE,example,
+4,52,헌법,정부,,,Plan (Korean Localized),REFERENCE,example,
+4,52,레시피,요리,,,Plan (Korean Localized),REFERENCE,example,
+4,52,예산,지출,지출,지출,Plan (Korean Localized),REFERENCE,probe,2.0
+5,18,악기,기타,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+5,18,가수,마돈나,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+5,18,직물,비단,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+5,18,행성,지구,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+5,18,채소,당근,당근,아삭하다,ClassIndividual (Korean Localized),CLASS-INCLUSION,probe,1.0
+6,-1,baseline,baseline,,,baseline,baseline,baseline,
+7,33,약,회복,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+7,33,불,온기,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+7,33,배터리,전력,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+7,33,꿀,단맛,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+7,33,스피커,소리,전선,소리,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,probe,2.0
+8,18,나무,참나무,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+8,18,보석,다이아몬드,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+8,18,강,나일강,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+8,18,자동차,혼다,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+8,18,물고기,연어,연어,산란,ClassIndividual (Korean Localized),CLASS-INCLUSION,probe,1.0
+9,25,화나다,격노하다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+9,25,젖다,흠뻑젖다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+9,25,바람,태풍,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+9,25,배고프다,굶주리다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+9,25,대담하다,무모하다,무모하다,묘기,Dimensional Excessive (Korean Localized),SIMILAR,probe,1.0
+10,-1,baseline,baseline,,,baseline,baseline,baseline,
+11,18,작곡가,모차르트,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+11,18,오토바이,할리데이비슨,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+11,18,공주,다이애나,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+11,18,도시,멤피스,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+11,18,나라,아일랜드,아일랜드,섬,ClassIndividual (Korean Localized),CLASS-INCLUSION,probe,1.0
+12,52,레이아웃,잡지,,,Plan (Korean Localized),REFERENCE,example,
+12,52,출연진목록,공연,,,Plan (Korean Localized),REFERENCE,example,
+12,52,회의안건,회의,,,Plan (Korean Localized),REFERENCE,example,
+12,52,정관,단체,,,Plan (Korean Localized),REFERENCE,example,
+12,52,규칙,게임,게임,점수,Plan (Korean Localized),REFERENCE,probe,1.0
+13,25,숨쉬다,과호흡하다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+13,25,마르다,수척하다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+13,25,친근하다,과하게달라붙다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+13,25,제안하다,요구하다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+13,25,웃음,웃음발작,킥킥웃음,웃음발작,Dimensional Excessive (Korean Localized),SIMILAR,probe,2.0
+14,18,바다,대서양,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+14,18,철학자,플라톤,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+14,18,왕,헨리 8세,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+14,18,과일,바나나,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+14,18,악당,조커,배트맨,조커,ClassIndividual (Korean Localized),CLASS-INCLUSION,probe,2.0
+15,-1,baseline,baseline,,,baseline,baseline,baseline,
+16,33,통금,안전,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+16,33,처벌,억제,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+16,33,헬멧,안전,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+16,33,음악,즐거움,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+16,33,카페인,각성,초조함,각성,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,probe,2.0
+17,25,밝다,눈부시다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+17,25,자신있다,오만하다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+17,25,눈,눈보라,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+17,25,살찌다,비만하다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+17,25,욕구,탐욕,탐욕,부탁하다,Dimensional Excessive (Korean Localized),SIMILAR,probe,1.0
+18,-1,baseline,baseline,,,baseline,baseline,baseline,
+19,33,표백제,하얘짐,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+19,33,포옹,위로,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+19,33,광고,욕구,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+19,33,스테로이드,근력,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+19,33,자외선차단제,피부보호,피부보호,태닝,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,probe,1.0
+20,52,내규,회사,,,Plan (Korean Localized),REFERENCE,example,
+20,52,메뉴,저녁식사,,,Plan (Korean Localized),REFERENCE,example,
+20,52,파일럿에피소드,드라마시리즈,,,Plan (Korean Localized),REFERENCE,example,
+20,52,셋리스트,콘서트,,,Plan (Korean Localized),REFERENCE,example,
+20,52,유언장,유산,유산,장례식,Plan (Korean Localized),REFERENCE,probe,1.0
+21,25,밀다,들이받다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+21,25,통증,격통,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+21,25,속상하다,망연자실하다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+21,25,배고픔,기아,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+21,25,걱정하다,전전긍긍하다,더걱정하다,전전긍긍하다,Dimensional Excessive (Korean Localized),SIMILAR,probe,2.0
+22,33,음식,영양,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+22,33,협상,합의,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+22,33,접착제,접착,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+22,33,선전,설득,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+22,33,마케팅,인지,인지,평판,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,probe,1.0
+23,-1,baseline,baseline,,,baseline,baseline,baseline,
+24,52,길안내,경로,,,Plan (Korean Localized),REFERENCE,example,
+24,52,강의계획서,강의,,,Plan (Korean Localized),REFERENCE,example,
+24,52,식순,행사,,,Plan (Korean Localized),REFERENCE,example,
+24,52,점검표,검사,,,Plan (Korean Localized),REFERENCE,example,
+24,52,일정표,여행,여행,투어,Plan (Korean Localized),REFERENCE,probe,1.0
+25,18,말,제주마,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+25,18,달,일월,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+25,18,작가,셰익스피어,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+25,18,계절,겨울,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+25,18,새,독수리,깃털,독수리,ClassIndividual (Korean Localized),CLASS-INCLUSION,probe,2.0

@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,36,corpse,life,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+1,36,wreckage,integrity,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+1,36,woman,girlhood,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+1,36,patient,health,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+1,36,amputee,limb,crutches,limb,Item:Ex-part/Ex-possession,PART-WHOLE,probe,2.0
+2,18,city,Memphis,,,ClassIndividual,CLASS-INCLUSION,example,
+2,18,fish,Salmon,,,ClassIndividual,CLASS-INCLUSION,example,
+2,18,king,Arthur,,,ClassIndividual,CLASS-INCLUSION,example,
+2,18,scientist,Einstein,,,ClassIndividual,CLASS-INCLUSION,example,
+2,18,university,Yale,yale,diploma,ClassIndividual,CLASS-INCLUSION,probe,1.0
+3,37,car,hood,,,Item:Topological Part,PART-WHOLE,example,
+3,37,tree,branch,,,Item:Topological Part,PART-WHOLE,example,
+3,37,finger,tip,,,Item:Topological Part,PART-WHOLE,example,
+3,37,bed,headboard,,,Item:Topological Part,PART-WHOLE,example,
+3,37,window,sill,view,sill,Item:Topological Part,PART-WHOLE,probe,2.0
+4,36,graduate,homework,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+4,36,traitor,loyalty,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+4,36,hermit,society,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+4,36,spendthrift,savings,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+4,36,cynic,innocence,news,innocence,Item:Ex-part/Ex-possession,PART-WHOLE,probe,2.0
+5,18,planet,Earth,,,ClassIndividual,CLASS-INCLUSION,example,
+5,18,dog,Poodle,,,ClassIndividual,CLASS-INCLUSION,example,
+5,18,vegetable,Carrot,,,ClassIndividual,CLASS-INCLUSION,example,
+5,18,motorcycle,Harley,,,ClassIndividual,CLASS-INCLUSION,example,
+5,18,candy,Snickers,snickers,wrapper,ClassIndividual,CLASS-INCLUSION,probe,1.0
+6,-1,baseline,baseline,,,baseline,baseline,baseline,
+7,36,ruin,grandeur,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+7,36,alcoholic,sobriety,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+7,36,convalescent,fever,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+7,36,relic,purpose,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+7,36,scar,wound,healing,wound,Item:Ex-part/Ex-possession,PART-WHOLE,probe,2.0
+8,27,gaze,leer,,,Dimensional Naughty,SIMILAR,example,
+8,27,smile,sneer,,,Dimensional Naughty,SIMILAR,example,
+8,27,speak,scream,,,Dimensional Naughty,SIMILAR,example,
+8,27,complain,whine,,,Dimensional Naughty,SIMILAR,example,
+8,27,guide,control,control,lead,Dimensional Naughty,SIMILAR,probe,1.0
+9,37,face,forehead,,,Item:Topological Part,PART-WHOLE,example,
+9,37,cliff,edge,,,Item:Topological Part,PART-WHOLE,example,
+9,37,boat,hull,,,Item:Topological Part,PART-WHOLE,example,
+9,37,pen,tip,,,Item:Topological Part,PART-WHOLE,example,
+9,37,stadium,field,ticket,field,Item:Topological Part,PART-WHOLE,probe,2.0
+10,-1,baseline,baseline,,,baseline,baseline,baseline,
+11,27,share,expose,,,Dimensional Naughty,SIMILAR,example,
+11,27,encourage,pressure,,,Dimensional Naughty,SIMILAR,example,
+11,27,copy,plagiarize,,,Dimensional Naughty,SIMILAR,example,
+11,27,spend,squander,,,Dimensional Naughty,SIMILAR,example,
+11,27,sip,guzzle,guzzle,drink,Dimensional Naughty,SIMILAR,probe,1.0
+12,37,theater,stage,,,Item:Topological Part,PART-WHOLE,example,
+12,37,bus,aisle,,,Item:Topological Part,PART-WHOLE,example,
+12,37,valley,floor,,,Item:Topological Part,PART-WHOLE,example,
+12,37,airplane,cockpit,,,Item:Topological Part,PART-WHOLE,example,
+12,37,cave,entrance,entrance,bat,Item:Topological Part,PART-WHOLE,probe,1.0
+13,18,hero,Superman,,,ClassIndividual,CLASS-INCLUSION,example,
+13,18,lake,Michigan,,,ClassIndividual,CLASS-INCLUSION,example,
+13,18,language,Spanish,,,ClassIndividual,CLASS-INCLUSION,example,
+13,18,prince,Charles,,,ClassIndividual,CLASS-INCLUSION,example,
+13,18,computer,Dell,desk,dell,ClassIndividual,CLASS-INCLUSION,probe,2.0
+14,-1,baseline,baseline,,,baseline,baseline,baseline,
+15,37,castle,tower,,,Item:Topological Part,PART-WHOLE,example,
+15,37,chair,back,,,Item:Topological Part,PART-WHOLE,example,
+15,37,mountain,base,,,Item:Topological Part,PART-WHOLE,example,
+15,37,backyard,patio,,,Item:Topological Part,PART-WHOLE,example,
+15,37,staircase,landing,elevator,landing,Item:Topological Part,PART-WHOLE,probe,2.0
+16,27,visit,stalk,,,Dimensional Naughty,SIMILAR,example,
+16,27,inform,snitch,,,Dimensional Naughty,SIMILAR,example,
+16,27,laugh,jeer,,,Dimensional Naughty,SIMILAR,example,
+16,27,keep,withhold,,,Dimensional Naughty,SIMILAR,example,
+16,27,fight,attack,spar,attack,Dimensional Naughty,SIMILAR,probe,2.0
+17,36,butterfly,cocoon,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+17,36,castaway,civilization,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+17,36,lunatic,sanity,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+17,36,rubble,structure,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+17,36,doctor,residency,residency,hospital,Item:Ex-part/Ex-possession,PART-WHOLE,probe,1.0
+18,-1,baseline,baseline,,,baseline,baseline,baseline,
+19,18,cereal,Cheerios,,,ClassIndividual,CLASS-INCLUSION,example,
+19,18,goddess,Athena,,,ClassIndividual,CLASS-INCLUSION,example,
+19,18,color,Red,,,ClassIndividual,CLASS-INCLUSION,example,
+19,18,philosopher,Plato,,,ClassIndividual,CLASS-INCLUSION,example,
+19,18,villain,Joker,crime,joker,ClassIndividual,CLASS-INCLUSION,probe,2.0
+20,27,debate,argue,,,Dimensional Naughty,SIMILAR,example,
+20,27,snack,binge,,,Dimensional Naughty,SIMILAR,example,
+20,27,hunt,poach,,,Dimensional Naughty,SIMILAR,example,
+20,27,promote,spam,,,Dimensional Naughty,SIMILAR,example,
+20,27,touch,grope,pat,grope,Dimensional Naughty,SIMILAR,probe,2.0
+21,37,state,city,,,Item:Topological Part,PART-WHOLE,example,
+21,37,mine,shaft,,,Item:Topological Part,PART-WHOLE,example,
+21,37,ship,deck,,,Item:Topological Part,PART-WHOLE,example,
+21,37,couch,arm,,,Item:Topological Part,PART-WHOLE,example,
+21,37,table,leg,leg,meal,Item:Topological Part,PART-WHOLE,probe,1.0
+22,-1,baseline,baseline,,,baseline,baseline,baseline,
+23,18,spice,Cinnamon,,,ClassIndividual,CLASS-INCLUSION,example,
+23,18,element,Oxygen,,,ClassIndividual,CLASS-INCLUSION,example,
+23,18,princess,Diana,,,ClassIndividual,CLASS-INCLUSION,example,
+23,18,airline,Delta,,,ClassIndividual,CLASS-INCLUSION,example,
+23,18,mountain,Everest,climber,everest,ClassIndividual,CLASS-INCLUSION,probe,2.0
+24,27,question,badger,,,Dimensional Naughty,SIMILAR,example,
+24,27,acquire,seize,,,Dimensional Naughty,SIMILAR,example,
+24,27,advise,nag,,,Dimensional Naughty,SIMILAR,example,
+24,27,use,exploit,,,Dimensional Naughty,SIMILAR,example,
+24,27,warn,threaten,notice,threaten,Dimensional Naughty,SIMILAR,probe,2.0
+25,36,drought,rain,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+25,36,pedestal,statue,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+25,36,frog,tail,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+25,36,refugee,home,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+25,36,widow,husband,husband,grief,Item:Ex-part/Ex-possession,PART-WHOLE,probe,1.0

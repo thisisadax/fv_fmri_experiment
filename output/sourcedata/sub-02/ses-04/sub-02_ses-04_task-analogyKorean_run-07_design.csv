@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,13,유명하다,무명,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+1,13,약하다,무적,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+1,13,유죄이다,무죄,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+1,13,행복하다,슬픔,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+1,13,순수하다,부패,부패,부패,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,probe,1.0
+2,28,얕다,깊다,,,Directional (Korean Localized),CONTRAST,example,
+2,28,주다,가져가다,,,Directional (Korean Localized),CONTRAST,example,
+2,28,전진,후진,,,Directional (Korean Localized),CONTRAST,example,
+2,28,가까이,멀리,,,Directional (Korean Localized),CONTRAST,example,
+2,28,업로드,다운로드,보내다,다운로드,Directional (Korean Localized),CONTRAST,probe,2.0
+3,-1,baseline,baseline,,,baseline,baseline,baseline,
+4,13,명랑하다,우울함,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+4,13,맨정신이다,취함,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+4,13,어둡다,밝음,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+4,13,화나다,평온,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+4,13,통통하다,마름,마름,체력,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,probe,1.0
+5,10,트레이너,운동선수,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+5,10,판매자,구매자,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+5,10,바텐더,손님,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+5,10,교사,학생,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+5,10,공급업체,제조업체,제조업체,시공업자,Agent:Recipient (Korean Localized),CASE RELATIONS,probe,1.0
+6,32,디저트,케이크,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+6,32,채소,시금치,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+6,32,구속도구,목줄,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+6,32,가구,책상,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+6,32,연료,석탄,배터리,석탄,Functional (Korean Localized),CLASS-INCLUSION,probe,2.0
+7,28,까지,부터,,,Directional (Korean Localized),CONTRAST,example,
+7,28,위,아래,,,Directional (Korean Localized),CONTRAST,example,
+7,28,내향,외향,,,Directional (Korean Localized),CONTRAST,example,
+7,28,일출,일몰,,,Directional (Korean Localized),CONTRAST,example,
+7,28,오르다,내리다,풍선,내리다,Directional (Korean Localized),CONTRAST,probe,2.0
+8,10,배관공,집주인,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+8,10,선장,승무원,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+8,10,목사,교인,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+8,10,요리사,손님,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+8,10,소방관,피해자,피해자,소방호스,Agent:Recipient (Korean Localized),CASE RELATIONS,probe,1.0
+9,13,깔끔하다,무질서,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+9,13,마르다,비만,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+9,13,미혼이다,결혼,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+9,13,배고프다,포만감,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+9,13,시끄럽다,침묵,침묵,스피커,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,probe,1.0
+10,-1,baseline,baseline,,,baseline,baseline,baseline,
+11,32,윤활유,엔진오일,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+11,32,덮개,방수포,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+11,32,악기,클라리넷,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+11,32,차량,트럭,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+11,32,의류,치마,치마,옷장,Functional (Korean Localized),CLASS-INCLUSION,probe,1.0
+12,10,안내가이드,관광객,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+12,10,인테리어디자이너,집주인,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+12,10,후원자,수혜자,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+12,10,수의사,동물,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+12,10,식료품점주인,구매자,구매자,농산물,Agent:Recipient (Korean Localized),CASE RELATIONS,probe,1.0
+13,-1,baseline,baseline,,,baseline,baseline,baseline,
+14,32,좌석,스툴,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+14,32,쉼터,텐트,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+14,32,허브,바질,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+14,32,표식,깃발,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+14,32,세정제,비누,스펀지,비누,Functional (Korean Localized),CLASS-INCLUSION,probe,2.0
+15,13,충성스럽다,배신,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+15,13,재직중이다,실업,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+15,13,비어있다,가득참,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+15,13,안절부절못하다,고요,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+15,13,깨어있다,수면,휴식,수면,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,probe,2.0
+16,10,운전기사,승객,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+16,10,아버지,아들,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+16,10,상사,직원,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+16,10,치과의사,환자,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+16,10,사진작가,고객,카메라,고객,Agent:Recipient (Korean Localized),CASE RELATIONS,probe,2.0
+17,32,쿠션,베개,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+17,32,용기,유리병,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+17,32,음료,물,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+17,32,가전제품,오븐,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+17,32,지레,쇠지레,쇠지레,못,Functional (Korean Localized),CLASS-INCLUSION,probe,1.0
+18,28,여기,저기,,,Directional (Korean Localized),CONTRAST,example,
+18,28,시작,끝,,,Directional (Korean Localized),CONTRAST,example,
+18,28,바람받이,바람그늘,,,Directional (Korean Localized),CONTRAST,example,
+18,28,처음,마지막,,,Directional (Korean Localized),CONTRAST,example,
+18,28,앞쪽,뒤쪽,뒤쪽,앞으로,Directional (Korean Localized),CONTRAST,probe,1.0
+19,-1,baseline,baseline,,,baseline,baseline,baseline,
+20,13,선하다,악함,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+20,13,부재하다,존재,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+20,13,야생적이다,길들여짐,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+20,13,무모하다,신중함,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+20,13,두렵다,용기,평정,용기,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,probe,2.0
+21,32,랜드마크,등대,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+21,32,신발,샌들,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+21,32,영양소,비타민,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+21,32,광택제,왁스,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+21,32,페이스트리,크루아상,크루아상,아침식사,Functional (Korean Localized),CLASS-INCLUSION,probe,1.0
+22,28,북동,남서,,,Directional (Korean Localized),CONTRAST,example,
+22,28,상류,하류,,,Directional (Korean Localized),CONTRAST,example,
+22,28,북서,남동,,,Directional (Korean Localized),CONTRAST,example,
+22,28,높다,낮다,,,Directional (Korean Localized),CONTRAST,example,
+22,28,밀다,당기다,당기다,누르다,Directional (Korean Localized),CONTRAST,probe,1.0
+23,-1,baseline,baseline,,,baseline,baseline,baseline,
+24,10,설교자,회중,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+24,10,과외선생,학생,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+24,10,의사,환자,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+24,10,이발사,손님,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+24,10,바리스타,고객,계산원,고객,Agent:Recipient (Korean Localized),CASE RELATIONS,probe,2.0
+25,28,오르막,내리막,,,Directional (Korean Localized),CONTRAST,example,
+25,28,다가가다,멀어지다,,,Directional (Korean Localized),CONTRAST,example,
+25,28,동틀녘,해질녘,,,Directional (Korean Localized),CONTRAST,example,
+25,28,출발지,도착지,,,Directional (Korean Localized),CONTRAST,example,
+25,28,최고점,최저점,최저점,정상,Directional (Korean Localized),CONTRAST,probe,1.0

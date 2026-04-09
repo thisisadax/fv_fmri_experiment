@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,2,shout,silently,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+1,2,brag,humbly,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+1,2,scream,quietly,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+1,2,cooperate,defiantly,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+1,2,abandon,loyally,loyally,suddenly,Action:Action Nonattribute,NON-ATTRIBUTE,probe,1.0
+2,14,propeller,airplane,,,Attachment,SPACE-TIME,example,
+2,14,bracelet,wrist,,,Attachment,SPACE-TIME,example,
+2,14,grape,vine,,,Attachment,SPACE-TIME,example,
+2,14,thorn,rose,,,Attachment,SPACE-TIME,example,
+2,14,moss,rock,leaf,rock,Attachment,SPACE-TIME,probe,2.0
+3,41,warehouse,storage,,,Location:Process/Product,SPACE-TIME,example,
+3,41,press,books,,,Location:Process/Product,SPACE-TIME,example,
+3,41,greenhouse,plants,,,Location:Process/Product,SPACE-TIME,example,
+3,41,dock,loading,,,Location:Process/Product,SPACE-TIME,example,
+3,41,mine,coal,dark,coal,Location:Process/Product,SPACE-TIME,probe,2.0
+4,-1,baseline,baseline,,,baseline,baseline,baseline,
+5,14,handlebar,bicycle,,,Attachment,SPACE-TIME,example,
+5,14,brooch,blouse,,,Attachment,SPACE-TIME,example,
+5,14,knob,drawer,,,Attachment,SPACE-TIME,example,
+5,14,zipper,coat,,,Attachment,SPACE-TIME,example,
+5,14,ivy,trellis,watering can,trellis,Attachment,SPACE-TIME,probe,2.0
+6,2,stumble,gracefully,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+6,2,grovel,boldly,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+6,2,speed,slowly,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+6,2,clutter,tidily,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+6,2,betray,faithfully,faithfully,secretly,Action:Action Nonattribute,NON-ATTRIBUTE,probe,1.0
+7,8,dead,rot,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+7,8,rotten,stink,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+7,8,golden,gleam,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+7,8,cowardly,surrender,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+7,8,luminous,glow,glow,bright,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,probe,1.0
+8,41,arena,contest,,,Location:Process/Product,SPACE-TIME,example,
+8,41,church,worship,,,Location:Process/Product,SPACE-TIME,example,
+8,41,ballroom,dancing,,,Location:Process/Product,SPACE-TIME,example,
+8,41,bakery,bread,,,Location:Process/Product,SPACE-TIME,example,
+8,41,hive,honey,buzzing,honey,Location:Process/Product,SPACE-TIME,probe,2.0
+9,14,seatbelt,seat,,,Attachment,SPACE-TIME,example,
+9,14,magnet,refrigerator,,,Attachment,SPACE-TIME,example,
+9,14,string,kite,,,Attachment,SPACE-TIME,example,
+9,14,wheel,axle,,,Attachment,SPACE-TIME,example,
+9,14,lid,jar,jar,cup,Attachment,SPACE-TIME,probe,1.0
+10,-1,baseline,baseline,,,baseline,baseline,baseline,
+11,8,optimistic,hope,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+11,8,sad,frown,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+11,8,adhesive,stick,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+11,8,taut,snap,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+11,8,malleable,bend,soft,bend,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,probe,2.0
+12,41,stage,performance,,,Location:Process/Product,SPACE-TIME,example,
+12,41,pasture,grazing,,,Location:Process/Product,SPACE-TIME,example,
+12,41,library,studying,,,Location:Process/Product,SPACE-TIME,example,
+12,41,sawmill,lumber,,,Location:Process/Product,SPACE-TIME,example,
+12,41,mint,coins,shiny,coins,Location:Process/Product,SPACE-TIME,probe,2.0
+13,-1,baseline,baseline,,,baseline,baseline,baseline,
+14,14,pendant,chain,,,Attachment,SPACE-TIME,example,
+14,14,bandage,wound,,,Attachment,SPACE-TIME,example,
+14,14,patch,jacket,,,Attachment,SPACE-TIME,example,
+14,14,leaf,stem,,,Attachment,SPACE-TIME,example,
+14,14,spur,boot,stirrup,boot,Attachment,SPACE-TIME,probe,2.0
+15,8,frightened,flee,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+15,8,bright,illuminate,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+15,8,falling,land,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+15,8,miserly,withhold,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+15,8,smooth,glide,slide,glide,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,probe,2.0
+16,2,procrastinate,urgently,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+16,2,fail,successfully,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+16,2,clutch,loosely,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+16,2,glare,nicely,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+16,2,flinch,smoothly,sharply,smoothly,Action:Action Nonattribute,NON-ATTRIBUTE,probe,2.0
+17,14,horn,bull,,,Attachment,SPACE-TIME,example,
+17,14,lens,camera,,,Attachment,SPACE-TIME,example,
+17,14,makeup,face,,,Attachment,SPACE-TIME,example,
+17,14,nail,board,,,Attachment,SPACE-TIME,example,
+17,14,retainer,teeth,teeth,gums,Attachment,SPACE-TIME,probe,1.0
+18,41,park,recreation,,,Location:Process/Product,SPACE-TIME,example,
+18,41,gym,muscles,,,Location:Process/Product,SPACE-TIME,example,
+18,41,hospital,surgery,,,Location:Process/Product,SPACE-TIME,example,
+18,41,dojo,karate,,,Location:Process/Product,SPACE-TIME,example,
+18,41,casino,gambling,gambling,risky,Location:Process/Product,SPACE-TIME,probe,1.0
+19,-1,baseline,baseline,,,baseline,baseline,baseline,
+20,8,jealous,resent,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+20,8,determined,persevere,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+20,8,rough,scratch,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+20,8,nosy,pry,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+20,8,fragile,break,break,glass,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,probe,1.0
+21,2,shatter,gently,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+21,2,abstain,indulgently,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+21,2,sob,joyfully,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+21,2,stutter,steadily,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+21,2,rush,patiently,deadline,patiently,Action:Action Nonattribute,NON-ATTRIBUTE,probe,2.0
+22,-1,baseline,baseline,,,baseline,baseline,baseline,
+23,8,generous,give,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+23,8,vengeful,retaliate,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+23,8,nervous,fidget,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+23,8,toxic,poison,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+23,8,acidic,corrode,fizz,corrode,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,probe,2.0
+24,41,foundry,steel,,,Location:Process/Product,SPACE-TIME,example,
+24,41,darkroom,photograph,,,Location:Process/Product,SPACE-TIME,example,
+24,41,slaughterhouse,meat,,,Location:Process/Product,SPACE-TIME,example,
+24,41,beach,surfing,,,Location:Process/Product,SPACE-TIME,example,
+24,41,dairy,milk,milk,cow,Location:Process/Product,SPACE-TIME,probe,1.0
+25,2,rebel,obediently,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+25,2,celebrate,mournfully,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+25,2,demolish,delicately,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+25,2,panic,calmly,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+25,2,bungle,expertly,project,expertly,Action:Action Nonattribute,NON-ATTRIBUTE,probe,2.0

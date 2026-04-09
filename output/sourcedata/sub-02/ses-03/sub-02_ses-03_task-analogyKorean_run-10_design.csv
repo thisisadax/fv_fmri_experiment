@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,40,작업장,제작하다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+1,40,사격장,사격하다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+1,40,시장,판매하다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+1,40,경매장,입찰하다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+1,40,바다,서핑하다,서핑하다,수영,Location:Action/Activity (Korean Localized),SPACE-TIME,probe,1.0
+2,0,돌진하다,대담하다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+2,0,비명을지르다,화나다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+2,0,소리치다,시끄럽다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+2,0,착취하다,이기적이다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+2,0,달래다,부드럽다,부드럽다,차분하다,Action:Action Attribute (Korean Localized),ATTRIBUTE,probe,1.0
+3,12,팔찌,손목,,,Attachment (Korean Localized),SPACE-TIME,example,
+3,12,방향타,배,,,Attachment (Korean Localized),SPACE-TIME,example,
+3,12,잠금장치,가방,,,Attachment (Korean Localized),SPACE-TIME,example,
+3,12,깃털,새,,,Attachment (Korean Localized),SPACE-TIME,example,
+3,12,가시,장미,꽃잎,장미,Attachment (Korean Localized),SPACE-TIME,probe,2.0
+4,40,경기장,경기하다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+4,40,바,술 마시다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+4,40,진입로,주차하다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+4,40,의원,진료받다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+4,40,침실,자다,옷 입기,자다,Location:Action/Activity (Korean Localized),SPACE-TIME,probe,2.0
+5,-1,baseline,baseline,,,baseline,baseline,baseline,
+6,6,우주비행사,우주,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+6,6,의사,건강증진,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+6,6,해적,보물,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+6,6,소방관,안전,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+6,6,재단사,정장,정장,줄자,Agent:Goal (Korean Localized),CAUSE-PURPOSE,probe,1.0
+7,12,마개,병,,,Attachment (Korean Localized),SPACE-TIME,example,
+7,12,단추,셔츠,,,Attachment (Korean Localized),SPACE-TIME,example,
+7,12,속눈썹,눈꺼풀,,,Attachment (Korean Localized),SPACE-TIME,example,
+7,12,화장,얼굴,,,Attachment (Korean Localized),SPACE-TIME,example,
+7,12,가지,나무,숲,나무,Attachment (Korean Localized),SPACE-TIME,probe,2.0
+8,40,트랙,달리다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+8,40,볼링장,볼링 치다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+8,40,둘레길,트레킹하다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+8,40,논밭,쟁기질하다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+8,40,공항,탑승하다,수하물,탑승하다,Location:Action/Activity (Korean Localized),SPACE-TIME,probe,2.0
+9,0,애도하다,침울하다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+9,0,물러서다,소심하다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+9,0,미소짓다,명랑하다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+9,0,웃다,행복하다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+9,0,아첨하다,가식적이다,가식적이다,상사,Action:Action Attribute (Korean Localized),ATTRIBUTE,probe,1.0
+10,-1,baseline,baseline,,,baseline,baseline,baseline,
+11,6,사진작가,사진,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+11,6,쇼핑객,할인상품,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+11,6,팀,우승트로피,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+11,6,감독,우승,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+11,6,철학자,지혜,질문,지혜,Agent:Goal (Korean Localized),CAUSE-PURPOSE,probe,2.0
+12,0,태클하다,거칠다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+12,0,간청하다,간절하다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+12,0,방황하다,목적없다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+12,0,산책하다,여유롭다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+12,0,조롱하다,잔인하다,잔인하다,운동장,Action:Action Attribute (Korean Localized),ATTRIBUTE,probe,1.0
+13,12,문,문틀,,,Attachment (Korean Localized),SPACE-TIME,example,
+13,12,라벨,포장,,,Attachment (Korean Localized),SPACE-TIME,example,
+13,12,잎,줄기,,,Attachment (Korean Localized),SPACE-TIME,example,
+13,12,케이스,휴대폰,,,Attachment (Korean Localized),SPACE-TIME,example,
+13,12,안테나,지붕,지붕,집,Attachment (Korean Localized),SPACE-TIME,probe,1.0
+14,40,미용실,머리하다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+14,40,천문대,천체 관측하다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+14,40,실험실,실험하다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+14,40,은행,입금하다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+14,40,부두,짐 싣다,짐 싣다,묶기,Location:Action/Activity (Korean Localized),SPACE-TIME,probe,1.0
+15,-1,baseline,baseline,,,baseline,baseline,baseline,
+16,12,심지,양초,,,Attachment (Korean Localized),SPACE-TIME,example,
+16,12,담쟁이덩굴,격자울타리,,,Attachment (Korean Localized),SPACE-TIME,example,
+16,12,목걸이,목,,,Attachment (Korean Localized),SPACE-TIME,example,
+16,12,머리카락,두피,,,Attachment (Korean Localized),SPACE-TIME,example,
+16,12,비늘,물고기,물고기,갈고리,Attachment (Korean Localized),SPACE-TIME,probe,1.0
+17,6,변호사,정의,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+17,6,제빵사,빵,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+17,6,기자,기사,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+17,6,요리사,식사,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+17,6,교사,교육,교육,교실,Agent:Goal (Korean Localized),CAUSE-PURPOSE,probe,1.0
+18,-1,baseline,baseline,,,baseline,baseline,baseline,
+19,12,우표,편지,,,Attachment (Korean Localized),SPACE-TIME,example,
+19,12,사과,나무,,,Attachment (Korean Localized),SPACE-TIME,example,
+19,12,경첩,대문,,,Attachment (Korean Localized),SPACE-TIME,example,
+19,12,패치,재킷,,,Attachment (Korean Localized),SPACE-TIME,example,
+19,12,샹들리에,천장,천장,식당,Attachment (Korean Localized),SPACE-TIME,probe,1.0
+20,0,덤벼들다,갑작스럽다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+20,0,떨다,불안하다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+20,0,저글링하다,능숙하다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+20,0,용서하다,자비롭다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+20,0,자다,편안하다,깊다,편안하다,Action:Action Attribute (Korean Localized),ATTRIBUTE,probe,2.0
+21,6,도박꾼,백만장자,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+21,6,난민,망명,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+21,6,작가,출판,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+21,6,중재자,화해,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+21,6,화가,초상화,초상화,붓,Agent:Goal (Korean Localized),CAUSE-PURPOSE,probe,1.0
+22,40,카지노,도박하다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+22,40,수영장,수영하다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+22,40,뒷마당,바비큐하다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+22,40,슬로프,스키 타다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+22,40,산호초,다이빙하다,다이빙하다,산호,Location:Action/Activity (Korean Localized),SPACE-TIME,probe,1.0
+23,-1,baseline,baseline,,,baseline,baseline,baseline,
+24,0,항의하다,반항적이다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+24,0,사재기하다,탐욕스럽다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+24,0,오르다,힘들다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+24,0,안절부절하다,초조하다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+24,0,속삭이다,조용하다,비밀,조용하다,Action:Action Attribute (Korean Localized),ATTRIBUTE,probe,2.0
+25,6,중독자,마약,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+25,6,연구자,지식,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+25,6,건축가,건물,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+25,6,학생,학위,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+25,6,과외교사,이해,책상,이해,Agent:Goal (Korean Localized),CAUSE-PURPOSE,probe,2.0

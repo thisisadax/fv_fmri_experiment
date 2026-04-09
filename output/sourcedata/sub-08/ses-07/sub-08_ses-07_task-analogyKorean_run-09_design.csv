@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,15,부당함,항의하다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+1,15,흥분,환호하다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+1,15,얼룩,문지르다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+1,15,영감,창작하다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+1,15,외로움,어울리다,고독,어울리다,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,probe,2.0
+2,55,범죄,사건보고서,,,Representation (Korean Localized),REFERENCE,example,
+2,55,추수,곡식바구니,,,Representation (Korean Localized),REFERENCE,example,
+2,55,지형,지도,,,Representation (Korean Localized),REFERENCE,example,
+2,55,삶,전기,,,Representation (Korean Localized),REFERENCE,example,
+2,55,민주주의,투표용지,자유,투표용지,Representation (Korean Localized),REFERENCE,probe,2.0
+3,-1,baseline,baseline,,,baseline,baseline,baseline,
+4,15,위협,방어하다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+4,15,알람소리,일어나다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+4,15,가려움,긁다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+4,15,놀람,헉하다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+4,15,긴장감,스트레칭하다,쉬다,스트레칭하다,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,probe,2.0
+5,7,도예가,물레,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+5,7,음악가,악기,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+5,7,치과의사,드릴,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+5,7,목수,망치,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+5,7,사냥꾼,소총,소총,사슴,Agent:Instrument (Korean Localized),CASE RELATIONS,probe,1.0
+6,0,굽실거리다,굴종적이다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+6,0,찡그리다,못마땅하다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+6,0,착취하다,이기적이다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+6,0,예배하다,경건하다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+6,0,미소짓다,명랑하다,명랑하다,활짝웃음,Action:Action Attribute (Korean Localized),ATTRIBUTE,probe,1.0
+7,55,책,요약,,,Representation (Korean Localized),REFERENCE,example,
+7,55,역사,기록,,,Representation (Korean Localized),REFERENCE,example,
+7,55,평화,비둘기,,,Representation (Korean Localized),REFERENCE,example,
+7,55,관계,방정식,,,Representation (Korean Localized),REFERENCE,example,
+7,55,사건,사진,티켓,사진,Representation (Korean Localized),REFERENCE,probe,2.0
+8,-1,baseline,baseline,,,baseline,baseline,baseline,
+9,15,패닉,달리다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+9,15,그리움,추억하다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+9,15,위험,도망치다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+9,15,안도,한숨쉬다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+9,15,조급함,서두르다,서두르다,기다림,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,probe,1.0
+10,55,할로윈,호박등,,,Representation (Korean Localized),REFERENCE,example,
+10,55,연설,녹취록,,,Representation (Korean Localized),REFERENCE,example,
+10,55,속도,치타,,,Representation (Korean Localized),REFERENCE,example,
+10,55,경력,이력서,,,Representation (Korean Localized),REFERENCE,example,
+10,55,시간,모래시계,마감일,모래시계,Representation (Korean Localized),REFERENCE,probe,2.0
+11,0,조롱하다,잔인하다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+11,0,오열하다,감정적이다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+11,0,사과하다,겸손하다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+11,0,둘러보다,가볍다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+11,0,물러서다,소심하다,소심하다,후퇴,Action:Action Attribute (Korean Localized),ATTRIBUTE,probe,1.0
+12,-1,baseline,baseline,,,baseline,baseline,baseline,
+13,7,대장장이,모루,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+13,7,플루티스트,플루트,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+13,7,정비사,도구,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+13,7,미화원,대걸레,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+13,7,애견훈련사,간식,복종훈련,간식,Agent:Instrument (Korean Localized),CASE RELATIONS,probe,2.0
+14,55,단어,약어,,,Representation (Korean Localized),REFERENCE,example,
+14,55,과정,순서도,,,Representation (Korean Localized),REFERENCE,example,
+14,55,계급,계급장,,,Representation (Korean Localized),REFERENCE,example,
+14,55,전쟁,다큐멘터리,,,Representation (Korean Localized),REFERENCE,example,
+14,55,나라,애국가,애국가,퍼레이드,Representation (Korean Localized),REFERENCE,probe,1.0
+15,-1,baseline,baseline,,,baseline,baseline,baseline,
+16,0,달리다,빠르다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+16,0,껴안다,다정하다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+16,0,덤벼들다,갑작스럽다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+16,0,과하게챙겨주다,과보호적이다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+16,0,아첨하다,가식적이다,공손하다,가식적이다,Action:Action Attribute (Korean Localized),ATTRIBUTE,probe,2.0
+17,7,기자,마이크,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+17,7,전기기사,펜치,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+17,7,학생,연필,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+17,7,달리기선수,운동화,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+17,7,중세기사,검,검,갑옷,Agent:Instrument (Korean Localized),CASE RELATIONS,probe,1.0
+18,15,먼지,재채기하다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+18,15,더러움,씻다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+18,15,실패,다시시도하다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+18,15,추위,오들오들떨다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+18,15,공포,비명지르다,공포,비명지르다,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,probe,2.0
+19,0,위로하다,따뜻하다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+19,0,축하하다,즐겁다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+19,0,키스하다,열정적이다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+19,0,걷다,느리다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+19,0,칭찬하다,상냥하다,칭찬,상냥하다,Action:Action Attribute (Korean Localized),ATTRIBUTE,probe,2.0
+20,-1,baseline,baseline,,,baseline,baseline,baseline,
+21,7,용접공,용접토치,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+21,7,투수,야구공,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+21,7,광부,곡괭이,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+21,7,계산원,계산대,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+21,7,골퍼,골프채,스윙,골프채,Agent:Instrument (Korean Localized),CASE RELATIONS,probe,2.0
+22,15,향수병,고향가다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+22,15,긴장,꼼지락거리다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+22,15,악취,구역질하다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+22,15,분노,소리지르다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+22,15,오류,고치다,고치다,빨간펜,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,probe,1.0
+23,55,이상향,동화,,,Representation (Korean Localized),REFERENCE,example,
+23,55,가문,가문문장,,,Representation (Korean Localized),REFERENCE,example,
+23,55,이야기,책,,,Representation (Korean Localized),REFERENCE,example,
+23,55,순수,어린양,,,Representation (Korean Localized),REFERENCE,example,
+23,55,회사,상표,상표,최고경영자,Representation (Korean Localized),REFERENCE,probe,1.0
+24,7,이발사,가위,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+24,7,판사,의사봉,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+24,7,조각가,끌,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+24,7,회계사,계산기,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+24,7,타이피스트,키보드,글자,키보드,Agent:Instrument (Korean Localized),CASE RELATIONS,probe,2.0
+25,0,속삭이다,조용하다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+25,0,설교하다,도덕적이다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+25,0,응시하다,강렬하다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+25,0,한숨쉬다,피곤하다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+25,0,간청하다,간절하다,호소,간절하다,Action:Action Attribute (Korean Localized),ATTRIBUTE,probe,2.0

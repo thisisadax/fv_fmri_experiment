@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,30,크리스마스,선물,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+1,30,놀이축제,놀이기구,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+1,30,생일파티,케이크,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+1,30,토너먼트,트로피,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+1,30,파티,손님,초대장,손님,Event:Feature (Korean Localized),PART-WHOLE,probe,2.0
+2,45,해로움,안전,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+2,45,바보,지혜,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+2,45,검열,표현,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+2,45,태양,추위,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+2,45,사막,습기,선인장,습기,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,probe,2.0
+3,-1,baseline,baseline,,,baseline,baseline,baseline,
+4,12,열매,덤불,,,Attachment (Korean Localized),SPACE-TIME,example,
+4,12,버클,끈,,,Attachment (Korean Localized),SPACE-TIME,example,
+4,12,돛,돛대,,,Attachment (Korean Localized),SPACE-TIME,example,
+4,12,쿠션,의자,,,Attachment (Korean Localized),SPACE-TIME,example,
+4,12,경첩,대문,대문,금속,Attachment (Korean Localized),SPACE-TIME,probe,1.0
+5,30,강의,교수,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+5,30,미술전시회,그림,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+5,30,조개구이,조개,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+5,30,복싱경기,글러브,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+5,30,시사회,레드카펫,예고편,레드카펫,Event:Feature (Korean Localized),PART-WHOLE,probe,2.0
+6,-1,baseline,baseline,,,baseline,baseline,baseline,
+7,12,잎,줄기,,,Attachment (Korean Localized),SPACE-TIME,example,
+7,12,이끼,바위,,,Attachment (Korean Localized),SPACE-TIME,example,
+7,12,등딱지,거북이,,,Attachment (Korean Localized),SPACE-TIME,example,
+7,12,렌즈,카메라,,,Attachment (Korean Localized),SPACE-TIME,example,
+7,12,사이드카,오토바이,오토바이,바퀴,Attachment (Korean Localized),SPACE-TIME,probe,1.0
+8,26,이끌다,명령하다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+8,26,보관하다,감추다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+8,26,노크하다,쿵쿵두드리다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+8,26,시위하다,폭동일으키다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+8,26,상기시키다,귀찮게하다,귀찮게하다,쿡찌르다,Dimensional Naughty (Korean Localized),SIMILAR,probe,1.0
+9,30,토론,단상,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+9,30,경주,결승선,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+9,30,경매,경매사,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+9,30,식사,음식,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+9,30,세미나,발표자,발표자,패널,Event:Feature (Korean Localized),PART-WHOLE,probe,1.0
+10,-1,baseline,baseline,,,baseline,baseline,baseline,
+11,45,묘지,삶,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+11,45,공허,물질,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+11,45,빈민가,번영,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+11,45,기근,음식,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+11,45,동굴,햇빛,횃불,햇빛,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,probe,2.0
+12,26,추근대다,희롱하다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+12,26,축하하다,잘난척하다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+12,26,존경하다,집착하다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+12,26,판매하다,사기치다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+12,26,먹다,게걸스럽게먹다,게걸스럽게먹다,게걸스럽게먹다,Dimensional Naughty (Korean Localized),SIMILAR,probe,2.0
+13,-1,baseline,baseline,,,baseline,baseline,baseline,
+14,30,파자마파티,잠옷,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+14,30,연회,와인,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+14,30,아이스하키경기,퍽,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+14,30,노래방,마이크,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+14,30,수확,농작물,모종,농작물,Event:Feature (Korean Localized),PART-WHOLE,probe,2.0
+15,45,청각상실,청력,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+15,45,악당,미덕,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+15,45,대머리,머리카락,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+15,45,마비,움직임,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+15,45,바다,땅,배,땅,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,probe,2.0
+16,-1,baseline,baseline,,,baseline,baseline,baseline,
+17,26,놀리다,조롱하다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+17,26,먹이다,강제로먹이다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+17,26,공유하다,폭로하다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+17,26,둘러보다,뒤지다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+17,26,문의하다,캐묻다,정보,캐묻다,Dimensional Naughty (Korean Localized),SIMILAR,probe,2.0
+18,12,걸쇠,여행가방,,,Attachment (Korean Localized),SPACE-TIME,example,
+18,12,헬멧,머리,,,Attachment (Korean Localized),SPACE-TIME,example,
+18,12,라벨,포장,,,Attachment (Korean Localized),SPACE-TIME,example,
+18,12,화장,얼굴,,,Attachment (Korean Localized),SPACE-TIME,example,
+18,12,도토리,참나무,모자,참나무,Attachment (Korean Localized),SPACE-TIME,probe,2.0
+19,45,폭정,자유,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+19,45,무지,지식,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+19,45,진공,공기,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+19,45,떼쓰기,인내심,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+19,45,우울,기쁨,기쁨,절망,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,probe,1.0
+20,30,추첨행사,응모권,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+20,30,오페라,성악가,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+20,30,경기응원,팬,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+20,30,승마대회,말,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+20,30,컨퍼런스,참석자,참석자,호텔예약,Event:Feature (Korean Localized),PART-WHOLE,probe,1.0
+21,26,사냥하다,밀렵하다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+21,26,듣다,엿듣다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+21,26,좌우하다,조종하다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+21,26,얻다,빼앗다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+21,26,거래하다,사기치다,사기치다,시장,Dimensional Naughty (Korean Localized),SIMILAR,probe,1.0
+22,12,리본,선물,,,Attachment (Korean Localized),SPACE-TIME,example,
+22,12,손잡이,서랍,,,Attachment (Korean Localized),SPACE-TIME,example,
+22,12,자물쇠,문,,,Attachment (Korean Localized),SPACE-TIME,example,
+22,12,잠금장치,가방,,,Attachment (Korean Localized),SPACE-TIME,example,
+22,12,못,나무판,차고,나무판,Attachment (Korean Localized),SPACE-TIME,probe,2.0
+23,45,불량배,친절,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+23,45,거짓말쟁이,정직,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+23,45,가뭄,물,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+23,45,늪지,건조함,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+23,45,얼음,열,열,서리,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,probe,1.0
+24,26,훈육하다,학대하다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+24,26,칭찬하다,아첨하다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+24,26,토론하다,언쟁하다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+24,26,제안하다,강요하다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+24,26,고용하다,노예로부리다,사무실,노예로부리다,Dimensional Naughty (Korean Localized),SIMILAR,probe,2.0
+25,12,붕대,상처,,,Attachment (Korean Localized),SPACE-TIME,example,
+25,12,패치,재킷,,,Attachment (Korean Localized),SPACE-TIME,example,
+25,12,핀,옷깃,,,Attachment (Korean Localized),SPACE-TIME,example,
+25,12,리테이너,치아,,,Attachment (Korean Localized),SPACE-TIME,example,
+25,12,문,문틀,손잡이,문틀,Attachment (Korean Localized),SPACE-TIME,probe,2.0

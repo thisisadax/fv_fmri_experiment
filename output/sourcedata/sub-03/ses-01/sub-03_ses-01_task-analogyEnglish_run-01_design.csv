@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,54,oxygen,suffocation,,,Prevention,CAUSE-PURPOSE,example,
+1,54,insecticide,bugs,,,Prevention,CAUSE-PURPOSE,example,
+1,54,diplomacy,war,,,Prevention,CAUSE-PURPOSE,example,
+1,54,brushing,cavities,,,Prevention,CAUSE-PURPOSE,example,
+1,54,firewall,hacking,internet,hacking,Prevention,CAUSE-PURPOSE,probe,2.0
+2,46,certificate,teacher,,,Object:Recipient,CASE RELATIONS,example,
+2,46,ball,receiver,,,Object:Recipient,CASE RELATIONS,example,
+2,46,pardon,prisoner,,,Object:Recipient,CASE RELATIONS,example,
+2,46,vote,candidate,,,Object:Recipient,CASE RELATIONS,example,
+2,46,mail,resident,resident,sender,Object:Recipient,CASE RELATIONS,probe,1.0
+3,42,word,letters,,,Mass:Potion,PART-WHOLE,example,
+3,42,army,soldiers,,,Mass:Potion,PART-WHOLE,example,
+3,42,tree,branches,,,Mass:Potion,PART-WHOLE,example,
+3,42,play,acts,,,Mass:Potion,PART-WHOLE,example,
+3,42,ton,pounds,pounds,weight,Mass:Potion,PART-WHOLE,probe,1.0
+4,-1,baseline,baseline,,,baseline,baseline,baseline,
+5,46,rations,soldier,,,Object:Recipient,CASE RELATIONS,example,
+5,46,refund,buyer,,,Object:Recipient,CASE RELATIONS,example,
+5,46,applause,performer,,,Object:Recipient,CASE RELATIONS,example,
+5,46,vaccine,infant,,,Object:Recipient,CASE RELATIONS,example,
+5,46,promotion,officer,officer,board,Object:Recipient,CASE RELATIONS,probe,1.0
+6,60,forest,woods,,,Synonymity,SIMILAR,example,
+6,60,creek,stream,,,Synonymity,SIMILAR,example,
+6,60,begin,start,,,Synonymity,SIMILAR,example,
+6,60,stone,rock,,,Synonymity,SIMILAR,example,
+6,60,grab,seize,bag,seize,Synonymity,SIMILAR,probe,2.0
+7,-1,baseline,baseline,,,baseline,baseline,baseline,
+8,54,levee,overflow,,,Prevention,CAUSE-PURPOSE,example,
+8,54,leash,escape,,,Prevention,CAUSE-PURPOSE,example,
+8,54,insurance,loss,,,Prevention,CAUSE-PURPOSE,example,
+8,54,preservatives,decay,,,Prevention,CAUSE-PURPOSE,example,
+8,54,repellent,mosquitoes,camping,mosquitoes,Prevention,CAUSE-PURPOSE,probe,2.0
+9,60,cry,weep,,,Synonymity,SIMILAR,example,
+9,60,seem,appear,,,Synonymity,SIMILAR,example,
+9,60,stick,attach,,,Synonymity,SIMILAR,example,
+9,60,hide,conceal,,,Synonymity,SIMILAR,example,
+9,60,house,abode,apartment,abode,Synonymity,SIMILAR,probe,2.0
+10,42,pomegranate,seeds,,,Mass:Potion,PART-WHOLE,example,
+10,42,necklace,beads,,,Mass:Potion,PART-WHOLE,example,
+10,42,orchestra,musicians,,,Mass:Potion,PART-WHOLE,example,
+10,42,ladder,rungs,,,Mass:Potion,PART-WHOLE,example,
+10,42,building,floors,floors,elevators,Mass:Potion,PART-WHOLE,probe,1.0
+11,54,proofreading,errors,,,Prevention,CAUSE-PURPOSE,example,
+11,54,umbrella,wetness,,,Prevention,CAUSE-PURPOSE,example,
+11,54,sunglasses,glare,,,Prevention,CAUSE-PURPOSE,example,
+11,54,training,incompetence,,,Prevention,CAUSE-PURPOSE,example,
+11,54,food,hunger,hunger,meal,Prevention,CAUSE-PURPOSE,probe,1.0
+12,46,notification,subscriber,,,Object:Recipient,CASE RELATIONS,example,
+12,46,invitation,guest,,,Object:Recipient,CASE RELATIONS,example,
+12,46,advice,client,,,Object:Recipient,CASE RELATIONS,example,
+12,46,pension,retiree,,,Object:Recipient,CASE RELATIONS,example,
+12,46,pitch,batter,batter,strike,Object:Recipient,CASE RELATIONS,probe,1.0
+13,60,talk,speak,,,Synonymity,SIMILAR,example,
+13,60,sleep,doze,,,Synonymity,SIMILAR,example,
+13,60,bucket,pail,,,Synonymity,SIMILAR,example,
+13,60,liberty,freedom,,,Synonymity,SIMILAR,example,
+13,60,tiny,small,small,short,Synonymity,SIMILAR,probe,1.0
+14,54,moisturizer,dryness,,,Prevention,CAUSE-PURPOSE,example,
+14,54,warmth,frostbite,,,Prevention,CAUSE-PURPOSE,example,
+14,54,supervision,misbehavior,,,Prevention,CAUSE-PURPOSE,example,
+14,54,watering,wilting,,,Prevention,CAUSE-PURPOSE,example,
+14,54,contraception,pregnancy,pregnancy,protection,Prevention,CAUSE-PURPOSE,probe,1.0
+15,42,constellation,stars,,,Mass:Potion,PART-WHOLE,example,
+15,42,hour,minutes,,,Mass:Potion,PART-WHOLE,example,
+15,42,library,books,,,Mass:Potion,PART-WHOLE,example,
+15,42,quarter,pennies,,,Mass:Potion,PART-WHOLE,example,
+15,42,gallon,quart,quart,liquid,Mass:Potion,PART-WHOLE,probe,1.0
+16,46,subpoena,witness,,,Object:Recipient,CASE RELATIONS,example,
+16,46,citizenship,immigrant,,,Object:Recipient,CASE RELATIONS,example,
+16,46,grant,scientist,,,Object:Recipient,CASE RELATIONS,example,
+16,46,ticket,speeder,,,Object:Recipient,CASE RELATIONS,example,
+16,46,degree,graduate,campus,graduate,Object:Recipient,CASE RELATIONS,probe,2.0
+17,-1,baseline,baseline,,,baseline,baseline,baseline,
+18,42,soup,spoonful,,,Mass:Potion,PART-WHOLE,example,
+18,42,decade,years,,,Mass:Potion,PART-WHOLE,example,
+18,42,quilt,squares,,,Mass:Potion,PART-WHOLE,example,
+18,42,hive,bee,,,Mass:Potion,PART-WHOLE,example,
+18,42,house,rooms,mortgage,rooms,Mass:Potion,PART-WHOLE,probe,2.0
+19,54,mediation,conflict,,,Prevention,CAUSE-PURPOSE,example,
+19,54,lubricant,friction,,,Prevention,CAUSE-PURPOSE,example,
+19,54,budgeting,debt,,,Prevention,CAUSE-PURPOSE,example,
+19,54,filter,impurities,,,Prevention,CAUSE-PURPOSE,example,
+19,54,helmet,concussion,concussion,strap,Prevention,CAUSE-PURPOSE,probe,1.0
+20,-1,baseline,baseline,,,baseline,baseline,baseline,
+21,46,scholarship,freshman,,,Object:Recipient,CASE RELATIONS,example,
+21,46,trophy,champion,,,Object:Recipient,CASE RELATIONS,example,
+21,46,package,homeowner,,,Object:Recipient,CASE RELATIONS,example,
+21,46,loan,borrower,,,Object:Recipient,CASE RELATIONS,example,
+21,46,dowry,groom,matchmaker,groom,Object:Recipient,CASE RELATIONS,probe,2.0
+22,60,need,require,,,Synonymity,SIMILAR,example,
+22,60,cellphone,mobile,,,Synonymity,SIMILAR,example,
+22,60,yell,shout,,,Synonymity,SIMILAR,example,
+22,60,sorrow,grief,,,Synonymity,SIMILAR,example,
+22,60,dad,father,father,stepfather,Synonymity,SIMILAR,probe,1.0
+23,42,air,puff,,,Mass:Potion,PART-WHOLE,example,
+23,42,flock,birds,,,Mass:Potion,PART-WHOLE,example,
+23,42,state,county,,,Mass:Potion,PART-WHOLE,example,
+23,42,movie,scene,,,Mass:Potion,PART-WHOLE,example,
+23,42,train,car,stations,car,Mass:Potion,PART-WHOLE,probe,2.0
+24,-1,baseline,baseline,,,baseline,baseline,baseline,
+25,60,run,sprint,,,Synonymity,SIMILAR,example,
+25,60,fast,quick,,,Synonymity,SIMILAR,example,
+25,60,happy,joyful,,,Synonymity,SIMILAR,example,
+25,60,throw,toss,,,Synonymity,SIMILAR,example,
+25,60,hurry,rush,rush,race,Synonymity,SIMILAR,probe,1.0

@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,41,볼링장,볼링핀,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+1,41,바,생맥주탭,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+1,41,아기방,요람,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+1,41,수족관,수조,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+1,41,선착장,닻,닻,하역,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,probe,1.0
+2,50,애도자,슬픔,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+2,50,학자,지성,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+2,50,불량배,공격성,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+2,50,생존자,회복력,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+2,50,초안,개발과정,수정,개발과정,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,probe,2.0
+3,-1,baseline,baseline,,,baseline,baseline,baseline,
+4,41,마구간,고삐,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+4,41,욕실,수건,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+4,41,콘서트홀,마이크,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+4,41,복싱링,글러브,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+4,41,세탁실,세탁기,세탁기,옷장,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,probe,1.0
+5,42,정유공장,휘발유,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+5,42,과수원,사과,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+5,42,은행,대출,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+5,42,인쇄소,책,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+5,42,트랙,경주,레인,경주,Location:Process/Product (Korean Localized),SPACE-TIME,probe,2.0
+6,9,인색하다,기부하다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+6,9,관용적이다,보복하다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+6,9,이기적이다,기부하다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+6,9,혼란스럽다,명확히하다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+6,9,무모하다,준비하다,준비하다,즉흥적으로하다,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,probe,1.0
+7,-1,baseline,baseline,,,baseline,baseline,baseline,
+8,50,수행자,금욕,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+8,50,순교자,희생,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+8,50,수녀,정결,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+8,50,채무자,빚,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+8,50,수호자,경계심,보호,경계심,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,probe,2.0
+9,42,채석장,돌,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+9,42,자궁,아기,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+9,42,복싱링,복싱,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+9,42,미용실,커트,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+9,42,부두,하역,하역,붐비다,Location:Process/Product (Korean Localized),SPACE-TIME,probe,1.0
+10,9,겸손하다,자랑하다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+10,9,의지가강하다,포기하다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+10,9,깨어있다,자다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+10,9,말주변없다,표현하다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+10,9,안정적이다,넘어지다,넘어지다,서다,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,probe,1.0
+11,41,와이너리,오크통,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+11,41,대장간,모루,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+11,41,헛간,건초,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+11,41,경마장,안장,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+11,41,캠핑장,텐트,텐트,캠핑,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,probe,1.0
+12,-1,baseline,baseline,,,baseline,baseline,baseline,
+13,42,조선소,선박,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+13,42,목화밭,목화,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+13,42,병원,수술,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+13,42,헬스장,근육,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+13,42,증류소,위스키,보리,위스키,Location:Process/Product (Korean Localized),SPACE-TIME,probe,2.0
+14,50,무법자,무법상태,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+14,50,환자,질병,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+14,50,낙원,환희,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+14,50,영웅,용맹,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+14,50,고아,상실,상실,고아원,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,probe,1.0
+15,41,농장,쟁기,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+15,41,부두,낚싯대,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+15,41,교도소,철창,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+15,41,구내식당,식판,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+15,41,미용실,드라이기,스파,드라이기,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,probe,2.0
+16,9,금욕적이다,성관계하다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+16,9,시끄럽다,달래다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+16,9,순종적이다,반항하다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+16,9,온화하다,때리다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+16,9,얼어붙다,흐르다,흐르다,녹이다,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,probe,1.0
+17,50,불,따뜻함,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+17,50,백만장자,부,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+17,50,난민,강제이주,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+17,50,베테랑,경험,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+17,50,전사,용기,용기,검,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,probe,1.0
+18,-1,baseline,baseline,,,baseline,baseline,baseline,
+19,9,검소하다,흥청망청쓰다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+19,9,자신있다,망설이다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+19,9,믿음직하다,소홀히하다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+19,9,정직하다,속이다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+19,9,고정되다,떠내려가다,항구,떠내려가다,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,probe,2.0
+20,41,텃밭,괭이,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+20,41,광산,곡괭이,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+20,41,차고,렌치,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+20,41,양궁장,활,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+20,41,공항,보안검색기,여행,보안검색기,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,probe,2.0
+21,42,사무실,업무,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+21,42,와인양조장,와인,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+21,42,공장,자동차,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+21,42,벌집,꿀,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+21,42,침실,수면,수면,베개,Location:Process/Product (Korean Localized),SPACE-TIME,probe,1.0
+22,50,비관론자,절망,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+22,50,폐허,쇠퇴,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+22,50,평화주의자,평화,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+22,50,전염병,대재앙,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+22,50,진공,텅빔,텅빔,공간,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,probe,1.0
+23,-1,baseline,baseline,,,baseline,baseline,baseline,
+24,9,게으르다,운동하다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+24,9,불연성이다,타다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+24,9,용감하다,후퇴하다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+24,9,관대하다,독차지하다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+24,9,내구성좋다,금이가다,지속되다,금이가다,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,probe,2.0
+25,42,목장,소,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+25,42,낙농장,우유,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+25,42,양조장,맥주,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+25,42,정비소,수리,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+25,42,우물,물,물,밧줄,Location:Process/Product (Korean Localized),SPACE-TIME,probe,1.0

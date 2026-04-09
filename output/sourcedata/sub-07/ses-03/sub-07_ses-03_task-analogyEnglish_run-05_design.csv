@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,29,here,there,,,Directional,CONTRAST,example,
+1,29,shallow,deep,,,Directional,CONTRAST,example,
+1,29,over,under,,,Directional,CONTRAST,example,
+1,29,inject,extract,,,Directional,CONTRAST,example,
+1,29,inflate,deflate,deflate,fill,Directional,CONTRAST,probe,1.0
+2,19,archipelago,island,,,Collection:Member,PART-WHOLE,example,
+2,19,arsenal,weapon,,,Collection:Member,PART-WHOLE,example,
+2,19,swarm,bee,,,Collection:Member,PART-WHOLE,example,
+2,19,litter,kitten,,,Collection:Member,PART-WHOLE,example,
+2,19,medley,tune,tune,singer,Collection:Member,PART-WHOLE,probe,1.0
+3,45,anarchy,governance,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+3,45,coward,courage,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+3,45,blackout,electricity,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+3,45,miser,generosity,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+3,45,monotony,excitement,routine,excitement,Object:Nonstate (noun:noun),NON-ATTRIBUTE,probe,2.0
+4,44,cheese,grater,,,Object:Instrument,CASE RELATIONS,example,
+4,44,nail,hammer,,,Object:Instrument,CASE RELATIONS,example,
+4,44,blackboard,chalk,,,Object:Instrument,CASE RELATIONS,example,
+4,44,chicken,marinade,,,Object:Instrument,CASE RELATIONS,example,
+4,44,potato,peeler,french fries,peeler,Object:Instrument,CASE RELATIONS,probe,2.0
+5,29,northwest,southeast,,,Directional,CONTRAST,example,
+5,29,enter,exit,,,Directional,CONTRAST,example,
+5,29,back,forth,,,Directional,CONTRAST,example,
+5,29,close,distant,,,Directional,CONTRAST,example,
+5,29,origin,destination,birth,destination,Directional,CONTRAST,probe,2.0
+6,-1,baseline,baseline,,,baseline,baseline,baseline,
+7,44,ice,scraper,,,Object:Instrument,CASE RELATIONS,example,
+7,44,soil,shovel,,,Object:Instrument,CASE RELATIONS,example,
+7,44,drum,drumstick,,,Object:Instrument,CASE RELATIONS,example,
+7,44,hands,soap,,,Object:Instrument,CASE RELATIONS,example,
+7,44,wire,pliers,copper,pliers,Object:Instrument,CASE RELATIONS,probe,2.0
+8,29,clockwise,counterclockwise,,,Directional,CONTRAST,example,
+8,29,inbound,outbound,,,Directional,CONTRAST,example,
+8,29,peak,valley,,,Directional,CONTRAST,example,
+8,29,rise,fall,,,Directional,CONTRAST,example,
+8,29,inward,outward,core,outward,Directional,CONTRAST,probe,2.0
+9,45,silence,sound,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+9,45,worry,satisfaction,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+9,45,weakness,strength,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+9,45,tyranny,freedom,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+9,45,deafness,hearing,silence,hearing,Object:Nonstate (noun:noun),NON-ATTRIBUTE,probe,2.0
+10,-1,baseline,baseline,,,baseline,baseline,baseline,
+11,44,hair,dryer,,,Object:Instrument,CASE RELATIONS,example,
+11,44,drawing,eraser,,,Object:Instrument,CASE RELATIONS,example,
+11,44,paper,pencil,,,Object:Instrument,CASE RELATIONS,example,
+11,44,nails,clippers,,,Object:Instrument,CASE RELATIONS,example,
+11,44,metal,file,file,factory,Object:Instrument,CASE RELATIONS,probe,1.0
+12,19,jury,juror,,,Collection:Member,PART-WHOLE,example,
+12,19,caravan,camel,,,Collection:Member,PART-WHOLE,example,
+12,19,pod,whale,,,Collection:Member,PART-WHOLE,example,
+12,19,squadron,aircraft,,,Collection:Member,PART-WHOLE,example,
+12,19,inventory,item,item,stockroom,Collection:Member,PART-WHOLE,probe,1.0
+13,45,beggar,wealth,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+13,45,slums,prosperity,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+13,45,oppression,justice,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+13,45,deceit,truth,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+13,45,glutton,moderation,binge,moderation,Object:Nonstate (noun:noun),NON-ATTRIBUTE,probe,2.0
+14,29,sunrise,sunset,,,Directional,CONTRAST,example,
+14,29,repel,attract,,,Directional,CONTRAST,example,
+14,29,advance,retreat,,,Directional,CONTRAST,example,
+14,29,above,below,,,Directional,CONTRAST,example,
+14,29,launch,land,land,runway,Directional,CONTRAST,probe,1.0
+15,-1,baseline,baseline,,,baseline,baseline,baseline,
+16,45,apathy,enthusiasm,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+16,45,cleanliness,dirt,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+16,45,swamp,dryness,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+16,45,void,matter,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+16,45,misery,pleasure,pleasure,rain,Object:Nonstate (noun:noun),NON-ATTRIBUTE,probe,1.0
+17,19,batch,cookie,,,Collection:Member,PART-WHOLE,example,
+17,19,cast,actor,,,Collection:Member,PART-WHOLE,example,
+17,19,schedule,appointment,,,Collection:Member,PART-WHOLE,example,
+17,19,dictionary,entry,,,Collection:Member,PART-WHOLE,example,
+17,19,library,book,card,book,Collection:Member,PART-WHOLE,probe,2.0
+18,44,turkey,baster,,,Object:Instrument,CASE RELATIONS,example,
+18,44,plant,fertilizer,,,Object:Instrument,CASE RELATIONS,example,
+18,44,lock,key,,,Object:Instrument,CASE RELATIONS,example,
+18,44,furniture,polish,,,Object:Instrument,CASE RELATIONS,example,
+18,44,fabric,scissors,seam,scissors,Object:Instrument,CASE RELATIONS,probe,2.0
+19,-1,baseline,baseline,,,baseline,baseline,baseline,
+20,29,onshore,offshore,,,Directional,CONTRAST,example,
+20,29,upwind,downwind,,,Directional,CONTRAST,example,
+20,29,incoming,outgoing,,,Directional,CONTRAST,example,
+20,29,lift,drop,,,Directional,CONTRAST,example,
+20,29,head,tail,skull,tail,Directional,CONTRAST,probe,2.0
+21,19,band,musician,,,Collection:Member,PART-WHOLE,example,
+21,19,quiver,arrow,,,Collection:Member,PART-WHOLE,example,
+21,19,crew,sailor,,,Collection:Member,PART-WHOLE,example,
+21,19,pride,lion,,,Collection:Member,PART-WHOLE,example,
+21,19,vocabulary,word,spelling,word,Collection:Member,PART-WHOLE,probe,2.0
+22,-1,baseline,baseline,,,baseline,baseline,baseline,
+23,45,amnesia,memory,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+23,45,cave,sunlight,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+23,45,novice,experience,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+23,45,traitor,loyalty,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+23,45,loneliness,friendship,friendship,isolation,Object:Nonstate (noun:noun),NON-ATTRIBUTE,probe,1.0
+24,44,lips,lipstick,,,Object:Instrument,CASE RELATIONS,example,
+24,44,gate,padlock,,,Object:Instrument,CASE RELATIONS,example,
+24,44,carpet,vacuum,,,Object:Instrument,CASE RELATIONS,example,
+24,44,envelope,stamp,,,Object:Instrument,CASE RELATIONS,example,
+24,44,cloth,needle,needle,laundry,Object:Instrument,CASE RELATIONS,probe,1.0
+25,19,crowd,person,,,Collection:Member,PART-WHOLE,example,
+25,19,book,chapter,,,Collection:Member,PART-WHOLE,example,
+25,19,gallery,painting,,,Collection:Member,PART-WHOLE,example,
+25,19,congregation,worshiper,,,Collection:Member,PART-WHOLE,example,
+25,19,bundle,stick,woodcutter,stick,Collection:Member,PART-WHOLE,probe,2.0

@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,34,curfew,safety,,,Instrument:Goal,CAUSE-PURPOSE,example,
+1,34,anesthesia,numbness,,,Instrument:Goal,CAUSE-PURPOSE,example,
+1,34,vacation,relaxation,,,Instrument:Goal,CAUSE-PURPOSE,example,
+1,34,prison,confinement,,,Instrument:Goal,CAUSE-PURPOSE,example,
+1,34,therapy,healing,healing,insight,Instrument:Goal,CAUSE-PURPOSE,probe,1.0
+2,41,bank,loans,,,Location:Process/Product,SPACE-TIME,example,
+2,41,smokehouse,jerky,,,Location:Process/Product,SPACE-TIME,example,
+2,41,beach,surfing,,,Location:Process/Product,SPACE-TIME,example,
+2,41,dock,loading,,,Location:Process/Product,SPACE-TIME,example,
+2,41,shipyard,ship,steel,ship,Location:Process/Product,SPACE-TIME,probe,2.0
+3,-1,baseline,baseline,,,baseline,baseline,baseline,
+4,13,emaciated,plump,,,Asymmetric Contrary,CONTRAST,example,
+4,13,volatile,steady,,,Asymmetric Contrary,CONTRAST,example,
+4,13,pristine,used,,,Asymmetric Contrary,CONTRAST,example,
+4,13,parched,moist,,,Asymmetric Contrary,CONTRAST,example,
+4,13,chaotic,orderly,orderly,confusion,Asymmetric Contrary,CONTRAST,probe,1.0
+5,34,helmet,safety,,,Instrument:Goal,CAUSE-PURPOSE,example,
+5,34,coat,warmth,,,Instrument:Goal,CAUSE-PURPOSE,example,
+5,34,lullaby,sleep,,,Instrument:Goal,CAUSE-PURPOSE,example,
+5,34,fan,cooling,,,Instrument:Goal,CAUSE-PURPOSE,example,
+5,34,umbrella,dryness,windbreak,dryness,Instrument:Goal,CAUSE-PURPOSE,probe,2.0
+6,10,catcher,mitt,,,Agent:Instrument,CASE RELATIONS,example,
+6,10,diver,fins,,,Agent:Instrument,CASE RELATIONS,example,
+6,10,quarterback,football,,,Agent:Instrument,CASE RELATIONS,example,
+6,10,batter,bat,,,Agent:Instrument,CASE RELATIONS,example,
+6,10,cashier,register,register,cash,Agent:Instrument,CASE RELATIONS,probe,1.0
+7,13,starving,satisfied,,,Asymmetric Contrary,CONTRAST,example,
+7,13,undeniable,questionable,,,Asymmetric Contrary,CONTRAST,example,
+7,13,feeble,strong,,,Asymmetric Contrary,CONTRAST,example,
+7,13,silent,loud,,,Asymmetric Contrary,CONTRAST,example,
+7,13,rigid,flexible,flexible,stiff,Asymmetric Contrary,CONTRAST,probe,1.0
+8,-1,baseline,baseline,,,baseline,baseline,baseline,
+9,34,map,guidance,,,Instrument:Goal,CAUSE-PURPOSE,example,
+9,34,threat,intimidation,,,Instrument:Goal,CAUSE-PURPOSE,example,
+9,34,siren,attention,,,Instrument:Goal,CAUSE-PURPOSE,example,
+9,34,research,discovery,,,Instrument:Goal,CAUSE-PURPOSE,example,
+9,34,punch,pain,bruises,pain,Instrument:Goal,CAUSE-PURPOSE,probe,2.0
+10,10,umpire,whistle,,,Agent:Instrument,CASE RELATIONS,example,
+10,10,trainer,treats,,,Agent:Instrument,CASE RELATIONS,example,
+10,10,chef,spatula,,,Agent:Instrument,CASE RELATIONS,example,
+10,10,gardener,shovel,,,Agent:Instrument,CASE RELATIONS,example,
+10,10,soldier,gun,gun,uniform,Agent:Instrument,CASE RELATIONS,probe,1.0
+11,41,classroom,lesson,,,Location:Process/Product,SPACE-TIME,example,
+11,41,tannery,leather,,,Location:Process/Product,SPACE-TIME,example,
+11,41,press,books,,,Location:Process/Product,SPACE-TIME,example,
+11,41,garden,vegetables,,,Location:Process/Product,SPACE-TIME,example,
+11,41,river,kayaking,canoe,kayaking,Location:Process/Product,SPACE-TIME,probe,2.0
+12,13,agonizing,pleasant,,,Asymmetric Contrary,CONTRAST,example,
+12,13,convoluted,straightforward,,,Asymmetric Contrary,CONTRAST,example,
+12,13,devastated,hopeful,,,Asymmetric Contrary,CONTRAST,example,
+12,13,dire,mild,,,Asymmetric Contrary,CONTRAST,example,
+12,13,worthless,useful,useless,useful,Asymmetric Contrary,CONTRAST,probe,2.0
+13,10,climber,rope,,,Agent:Instrument,CASE RELATIONS,example,
+13,10,drummer,sticks,,,Agent:Instrument,CASE RELATIONS,example,
+13,10,writer,pen,,,Agent:Instrument,CASE RELATIONS,example,
+13,10,seamstress,needle,,,Agent:Instrument,CASE RELATIONS,example,
+13,10,blacksmith,anvil,anvil,forge,Agent:Instrument,CASE RELATIONS,probe,1.0
+14,-1,baseline,baseline,,,baseline,baseline,baseline,
+15,41,quarry,stone,,,Location:Process/Product,SPACE-TIME,example,
+15,41,creamery,butter,,,Location:Process/Product,SPACE-TIME,example,
+15,41,library,studying,,,Location:Process/Product,SPACE-TIME,example,
+15,41,distillery,whiskey,,,Location:Process/Product,SPACE-TIME,example,
+15,41,vineyard,grapes,grapes,cellar,Location:Process/Product,SPACE-TIME,probe,1.0
+16,10,flutist,flute,,,Agent:Instrument,CASE RELATIONS,example,
+16,10,navigator,map,,,Agent:Instrument,CASE RELATIONS,example,
+16,10,hunter,rifle,,,Agent:Instrument,CASE RELATIONS,example,
+16,10,baker,oven,,,Agent:Instrument,CASE RELATIONS,example,
+16,10,cowboy,lasso,cattle,lasso,Agent:Instrument,CASE RELATIONS,probe,2.0
+17,34,battery,power,,,Instrument:Goal,CAUSE-PURPOSE,example,
+17,34,caffeine,alertness,,,Instrument:Goal,CAUSE-PURPOSE,example,
+17,34,joke,laughter,,,Instrument:Goal,CAUSE-PURPOSE,example,
+17,34,alcohol,drunkenness,,,Instrument:Goal,CAUSE-PURPOSE,example,
+17,34,reward,motivation,motivation,ceremony,Instrument:Goal,CAUSE-PURPOSE,probe,1.0
+18,13,vast,narrow,,,Asymmetric Contrary,CONTRAST,example,
+18,13,sterile,dirty,,,Asymmetric Contrary,CONTRAST,example,
+18,13,catastrophic,beneficial,,,Asymmetric Contrary,CONTRAST,example,
+18,13,intoxicated,sober,,,Asymmetric Contrary,CONTRAST,example,
+18,13,perfect,flawed,flawed,excellent,Asymmetric Contrary,CONTRAST,probe,1.0
+19,41,refinery,gasoline,,,Location:Process/Product,SPACE-TIME,example,
+19,41,office,work,,,Location:Process/Product,SPACE-TIME,example,
+19,41,darkroom,photograph,,,Location:Process/Product,SPACE-TIME,example,
+19,41,bakery,bread,,,Location:Process/Product,SPACE-TIME,example,
+19,41,clinic,treatment,treatment,sterile,Location:Process/Product,SPACE-TIME,probe,1.0
+20,-1,baseline,baseline,,,baseline,baseline,baseline,
+21,34,protest,change,,,Instrument:Goal,CAUSE-PURPOSE,example,
+21,34,discipline,obedience,,,Instrument:Goal,CAUSE-PURPOSE,example,
+21,34,refrigerator,preservation,,,Instrument:Goal,CAUSE-PURPOSE,example,
+21,34,propaganda,persuasion,,,Instrument:Goal,CAUSE-PURPOSE,example,
+21,34,sermon,faith,faith,pulpit,Instrument:Goal,CAUSE-PURPOSE,probe,1.0
+22,41,dairy,milk,,,Location:Process/Product,SPACE-TIME,example,
+22,41,mint,coins,,,Location:Process/Product,SPACE-TIME,example,
+22,41,stadium,game,,,Location:Process/Product,SPACE-TIME,example,
+22,41,range,shooting,,,Location:Process/Product,SPACE-TIME,example,
+22,41,bar,cocktail,cocktail,stool,Location:Process/Product,SPACE-TIME,probe,1.0
+23,-1,baseline,baseline,,,baseline,baseline,baseline,
+24,13,infantile,mature,,,Asymmetric Contrary,CONTRAST,example,
+24,13,rugged,smooth,,,Asymmetric Contrary,CONTRAST,example,
+24,13,blunt,pointed,,,Asymmetric Contrary,CONTRAST,example,
+24,13,invincible,vulnerable,,,Asymmetric Contrary,CONTRAST,example,
+24,13,hostile,friendly,aggressive,friendly,Asymmetric Contrary,CONTRAST,probe,2.0
+25,10,guitarist,guitar,,,Agent:Instrument,CASE RELATIONS,example,
+25,10,sculptor,chisel,,,Agent:Instrument,CASE RELATIONS,example,
+25,10,shepherd,crook,,,Agent:Instrument,CASE RELATIONS,example,
+25,10,musician,instrument,,,Agent:Instrument,CASE RELATIONS,example,
+25,10,fairy,wand,castle,wand,Agent:Instrument,CASE RELATIONS,probe,2.0

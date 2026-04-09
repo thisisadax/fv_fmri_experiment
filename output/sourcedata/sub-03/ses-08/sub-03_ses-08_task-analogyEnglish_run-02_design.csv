@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,32,snarl,anger,,,Expression,REFERENCE,example,
+1,32,stomp,frustration,,,Expression,REFERENCE,example,
+1,32,whistle,cheerfulness,,,Expression,REFERENCE,example,
+1,32,sneer,contempt,,,Expression,REFERENCE,example,
+1,32,weep,mourning,sadness,mourning,Expression,REFERENCE,probe,2.0
+2,10,umpire,whistle,,,Agent:Instrument,CASE RELATIONS,example,
+2,10,gardener,trowel,,,Agent:Instrument,CASE RELATIONS,example,
+2,10,cowboy,lasso,,,Agent:Instrument,CASE RELATIONS,example,
+2,10,mechanic,tools,,,Agent:Instrument,CASE RELATIONS,example,
+2,10,dentist,drill,drill,cavity,Agent:Instrument,CASE RELATIONS,probe,1.0
+3,57,wet,dry,,,Reverse,CONTRAST,example,
+3,57,familiar,strange,,,Reverse,CONTRAST,example,
+3,57,birth,death,,,Reverse,CONTRAST,example,
+3,57,add,subtract,,,Reverse,CONTRAST,example,
+3,57,inflate,deflate,deflate,balloon,Reverse,CONTRAST,probe,1.0
+4,19,pack,wolf,,,Collection:Member,PART-WHOLE,example,
+4,19,caravan,camel,,,Collection:Member,PART-WHOLE,example,
+4,19,scale,note,,,Collection:Member,PART-WHOLE,example,
+4,19,constellation,star,,,Collection:Member,PART-WHOLE,example,
+4,19,forest,tree,tree,canopy,Collection:Member,PART-WHOLE,probe,1.0
+5,10,tailor,thimble,,,Agent:Instrument,CASE RELATIONS,example,
+5,10,musician,instrument,,,Agent:Instrument,CASE RELATIONS,example,
+5,10,artist,paintbrush,,,Agent:Instrument,CASE RELATIONS,example,
+5,10,janitor,mop,,,Agent:Instrument,CASE RELATIONS,example,
+5,10,catcher,mitt,mitt,pitcher,Agent:Instrument,CASE RELATIONS,probe,1.0
+6,-1,baseline,baseline,,,baseline,baseline,baseline,
+7,32,murmur,discontent,,,Expression,REFERENCE,example,
+7,32,giggle,nervousness,,,Expression,REFERENCE,example,
+7,32,mope,melancholy,,,Expression,REFERENCE,example,
+7,32,sulk,resentment,,,Expression,REFERENCE,example,
+7,32,groan,pain,gym,pain,Expression,REFERENCE,probe,2.0
+8,19,bouquet,flower,,,Collection:Member,PART-WHOLE,example,
+8,19,portfolio,investment,,,Collection:Member,PART-WHOLE,example,
+8,19,wardrobe,garment,,,Collection:Member,PART-WHOLE,example,
+8,19,vocabulary,word,,,Collection:Member,PART-WHOLE,example,
+8,19,archive,document,document,historian,Collection:Member,PART-WHOLE,probe,1.0
+9,57,inhale,exhale,,,Reverse,CONTRAST,example,
+9,57,ancient,modern,,,Reverse,CONTRAST,example,
+9,57,alive,dead,,,Reverse,CONTRAST,example,
+9,57,remember,forget,,,Reverse,CONTRAST,example,
+9,57,deep,shallow,pool,shallow,Reverse,CONTRAST,probe,2.0
+10,10,housekeeper,broom,,,Agent:Instrument,CASE RELATIONS,example,
+10,10,butcher,cleaver,,,Agent:Instrument,CASE RELATIONS,example,
+10,10,writer,pen,,,Agent:Instrument,CASE RELATIONS,example,
+10,10,farmer,plow,,,Agent:Instrument,CASE RELATIONS,example,
+10,10,judge,gavel,gavel,verdict,Agent:Instrument,CASE RELATIONS,probe,1.0
+11,-1,baseline,baseline,,,baseline,baseline,baseline,
+12,57,save,spend,,,Reverse,CONTRAST,example,
+12,57,white,black,,,Reverse,CONTRAST,example,
+12,57,admit,deny,,,Reverse,CONTRAST,example,
+12,57,allow,forbid,,,Reverse,CONTRAST,example,
+12,57,tighten,loosen,bolt,loosen,Reverse,CONTRAST,probe,2.0
+13,19,herd,cattle,,,Collection:Member,PART-WHOLE,example,
+13,19,faculty,professor,,,Collection:Member,PART-WHOLE,example,
+13,19,chain,store,,,Collection:Member,PART-WHOLE,example,
+13,19,troop,monkey,,,Collection:Member,PART-WHOLE,example,
+13,19,senate,senator,chamber,senator,Collection:Member,PART-WHOLE,probe,2.0
+14,-1,baseline,baseline,,,baseline,baseline,baseline,
+15,32,shudder,horror,,,Expression,REFERENCE,example,
+15,32,cringe,shame,,,Expression,REFERENCE,example,
+15,32,kneel,reverence,,,Expression,REFERENCE,example,
+15,32,lie,dishonesty,,,Expression,REFERENCE,example,
+15,32,pout,disappointment,disappointment,toy,Expression,REFERENCE,probe,1.0
+16,57,appear,disappear,,,Reverse,CONTRAST,example,
+16,57,lock,unlock,,,Reverse,CONTRAST,example,
+16,57,open,close,,,Reverse,CONTRAST,example,
+16,57,hard,soft,,,Reverse,CONTRAST,example,
+16,57,guilty,innocent,innocent,ashamed,Reverse,CONTRAST,probe,1.0
+17,-1,baseline,baseline,,,baseline,baseline,baseline,
+18,10,cyclist,bicycle,,,Agent:Instrument,CASE RELATIONS,example,
+18,10,knight,sword,,,Agent:Instrument,CASE RELATIONS,example,
+18,10,conductor,baton,,,Agent:Instrument,CASE RELATIONS,example,
+18,10,blacksmith,anvil,,,Agent:Instrument,CASE RELATIONS,example,
+18,10,chemist,beaker,chemicals,beaker,Agent:Instrument,CASE RELATIONS,probe,2.0
+19,57,attract,repel,,,Reverse,CONTRAST,example,
+19,57,freeze,thaw,,,Reverse,CONTRAST,example,
+19,57,build,destroy,,,Reverse,CONTRAST,example,
+19,57,obey,defy,,,Reverse,CONTRAST,example,
+19,57,lie,confess,confess,apologize,Reverse,CONTRAST,probe,1.0
+20,-1,baseline,baseline,,,baseline,baseline,baseline,
+21,19,medley,tune,,,Collection:Member,PART-WHOLE,example,
+21,19,range,mountain,,,Collection:Member,PART-WHOLE,example,
+21,19,murder,crow,,,Collection:Member,PART-WHOLE,example,
+21,19,album,song,,,Collection:Member,PART-WHOLE,example,
+21,19,discography,album,release date,album,Collection:Member,PART-WHOLE,probe,2.0
+22,32,whine,dissatisfaction,,,Expression,REFERENCE,example,
+22,32,salute,deference,,,Expression,REFERENCE,example,
+22,32,pant,exertion,,,Expression,REFERENCE,example,
+22,32,tap,impatience,,,Expression,REFERENCE,example,
+22,32,cackle,glee,glee,laugh,Expression,REFERENCE,probe,1.0
+23,10,reporter,microphone,,,Agent:Instrument,CASE RELATIONS,example,
+23,10,weaver,loom,,,Agent:Instrument,CASE RELATIONS,example,
+23,10,quarterback,football,,,Agent:Instrument,CASE RELATIONS,example,
+23,10,skier,poles,,,Agent:Instrument,CASE RELATIONS,example,
+23,10,climber,rope,rock,rope,Agent:Instrument,CASE RELATIONS,probe,2.0
+24,19,quiver,arrow,,,Collection:Member,PART-WHOLE,example,
+24,19,squadron,aircraft,,,Collection:Member,PART-WHOLE,example,
+24,19,bundle,stick,,,Collection:Member,PART-WHOLE,example,
+24,19,library,book,,,Collection:Member,PART-WHOLE,example,
+24,19,colony,ant,ant,trail,Collection:Member,PART-WHOLE,probe,1.0
+25,32,howl,anguish,,,Expression,REFERENCE,example,
+25,32,gulp,nervousness,,,Expression,REFERENCE,example,
+25,32,confess,guilt,,,Expression,REFERENCE,example,
+25,32,embrace,affection,,,Expression,REFERENCE,example,
+25,32,frown,sadness,sadness,annoyance,Expression,REFERENCE,probe,1.0

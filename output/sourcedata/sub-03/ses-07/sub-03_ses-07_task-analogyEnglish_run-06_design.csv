@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,13,hideous,attractive,,,Asymmetric Contrary,CONTRAST,example,
+1,13,emaciated,plump,,,Asymmetric Contrary,CONTRAST,example,
+1,13,blinding,dim,,,Asymmetric Contrary,CONTRAST,example,
+1,13,detested,liked,,,Asymmetric Contrary,CONTRAST,example,
+1,13,hostile,friendly,friendly,attack,Asymmetric Contrary,CONTRAST,probe,1.0
+2,54,moisturizer,dryness,,,Prevention,CAUSE-PURPOSE,example,
+2,54,money,poverty,,,Prevention,CAUSE-PURPOSE,example,
+2,54,moderation,excess,,,Prevention,CAUSE-PURPOSE,example,
+2,54,dam,flooding,,,Prevention,CAUSE-PURPOSE,example,
+2,54,camera,vandalism,ceiling,vandalism,Prevention,CAUSE-PURPOSE,probe,2.0
+3,47,cocktail,alcohol,,,Object:Stuff,PART-WHOLE,example,
+3,47,bell,brass,,,Object:Stuff,PART-WHOLE,example,
+3,47,crowd,people,,,Object:Stuff,PART-WHOLE,example,
+3,47,herd,cattle,,,Object:Stuff,PART-WHOLE,example,
+3,47,fence,boards,neighbor,boards,Object:Stuff,PART-WHOLE,probe,2.0
+4,13,convoluted,straightforward,,,Asymmetric Contrary,CONTRAST,example,
+4,13,harmless,risky,,,Asymmetric Contrary,CONTRAST,example,
+4,13,defiant,cooperative,,,Asymmetric Contrary,CONTRAST,example,
+4,13,inept,capable,,,Asymmetric Contrary,CONTRAST,example,
+4,13,pure,tainted,white,tainted,Asymmetric Contrary,CONTRAST,probe,2.0
+5,6,paying,shopping,,,Activity:Stage,PART-WHOLE,example,
+5,6,loading,moving,,,Activity:Stage,PART-WHOLE,example,
+5,6,taping,wrapping,,,Activity:Stage,PART-WHOLE,example,
+5,6,brushing,grooming,,,Activity:Stage,PART-WHOLE,example,
+5,6,pitching,baseball,baseball,cricket,Activity:Stage,PART-WHOLE,probe,1.0
+6,-1,baseline,baseline,,,baseline,baseline,baseline,
+7,54,pruning,overgrowth,,,Prevention,CAUSE-PURPOSE,example,
+7,54,rest,exhaustion,,,Prevention,CAUSE-PURPOSE,example,
+7,54,leash,escape,,,Prevention,CAUSE-PURPOSE,example,
+7,54,soap,germs,,,Prevention,CAUSE-PURPOSE,example,
+7,54,lifejacket,drowning,boat,drowning,Prevention,CAUSE-PURPOSE,probe,2.0
+8,47,sandcastle,sand,,,Object:Stuff,PART-WHOLE,example,
+8,47,library,books,,,Object:Stuff,PART-WHOLE,example,
+8,47,body,flesh,,,Object:Stuff,PART-WHOLE,example,
+8,47,road,asphalt,,,Object:Stuff,PART-WHOLE,example,
+8,47,mosaic,tiles,wall,tiles,Object:Stuff,PART-WHOLE,probe,2.0
+9,-1,baseline,baseline,,,baseline,baseline,baseline,
+10,54,earplugs,deafness,,,Prevention,CAUSE-PURPOSE,example,
+10,54,planning,confusion,,,Prevention,CAUSE-PURPOSE,example,
+10,54,repellent,mosquitoes,,,Prevention,CAUSE-PURPOSE,example,
+10,54,warmth,frostbite,,,Prevention,CAUSE-PURPOSE,example,
+10,54,diversification,risk,risk,portfolio,Prevention,CAUSE-PURPOSE,probe,1.0
+11,6,chopping,cooking,,,Activity:Stage,PART-WHOLE,example,
+11,6,inhaling,breathing,,,Activity:Stage,PART-WHOLE,example,
+11,6,drilling,construction,,,Activity:Stage,PART-WHOLE,example,
+11,6,tilling,farming,,,Activity:Stage,PART-WHOLE,example,
+11,6,asking,negotiating,negotiating,arguing,Activity:Stage,PART-WHOLE,probe,1.0
+12,-1,baseline,baseline,,,baseline,baseline,baseline,
+13,47,blanket,fleece,,,Object:Stuff,PART-WHOLE,example,
+13,47,salsa,tomatoes,,,Object:Stuff,PART-WHOLE,example,
+13,47,snowman,snow,,,Object:Stuff,PART-WHOLE,example,
+13,47,scarf,silk,,,Object:Stuff,PART-WHOLE,example,
+13,47,meal,courses,dinner,courses,Object:Stuff,PART-WHOLE,probe,2.0
+14,54,diplomacy,war,,,Prevention,CAUSE-PURPOSE,example,
+14,54,helmet,concussion,,,Prevention,CAUSE-PURPOSE,example,
+14,54,password,intrusion,,,Prevention,CAUSE-PURPOSE,example,
+14,54,flossing,plaque,,,Prevention,CAUSE-PURPOSE,example,
+14,54,antivirus,malware,malware,phishing,Prevention,CAUSE-PURPOSE,probe,1.0
+15,13,dire,mild,,,Asymmetric Contrary,CONTRAST,example,
+15,13,beautiful,plain,,,Asymmetric Contrary,CONTRAST,example,
+15,13,perfect,flawed,,,Asymmetric Contrary,CONTRAST,example,
+15,13,devastated,hopeful,,,Asymmetric Contrary,CONTRAST,example,
+15,13,exhilarated,somber,elated,somber,Asymmetric Contrary,CONTRAST,probe,2.0
+16,6,sketching,painting,,,Activity:Stage,PART-WHOLE,example,
+16,6,shampooing,bathing,,,Activity:Stage,PART-WHOLE,example,
+16,6,editing,filmmaking,,,Activity:Stage,PART-WHOLE,example,
+16,6,glazing,pottery,,,Activity:Stage,PART-WHOLE,example,
+16,6,aiming,archery,target,archery,Activity:Stage,PART-WHOLE,probe,2.0
+17,54,locks,theft,,,Prevention,CAUSE-PURPOSE,example,
+17,54,water,thirst,,,Prevention,CAUSE-PURPOSE,example,
+17,54,insecticide,bugs,,,Prevention,CAUSE-PURPOSE,example,
+17,54,antibiotic,infection,,,Prevention,CAUSE-PURPOSE,example,
+17,54,fungicide,mold,treatment,mold,Prevention,CAUSE-PURPOSE,probe,2.0
+18,47,choir,singers,,,Object:Stuff,PART-WHOLE,example,
+18,47,flock,birds,,,Object:Stuff,PART-WHOLE,example,
+18,47,ring,gold,,,Object:Stuff,PART-WHOLE,example,
+18,47,puzzle,pieces,,,Object:Stuff,PART-WHOLE,example,
+18,47,reef,coral,coral,ocean,Object:Stuff,PART-WHOLE,probe,1.0
+19,-1,baseline,baseline,,,baseline,baseline,baseline,
+20,6,checking,hockey,,,Activity:Stage,PART-WHOLE,example,
+20,6,talking,therapy,,,Activity:Stage,PART-WHOLE,example,
+20,6,serving,tennis,,,Activity:Stage,PART-WHOLE,example,
+20,6,sprinting,racing,,,Activity:Stage,PART-WHOLE,example,
+20,6,dusting,cleaning,shelf,cleaning,Activity:Stage,PART-WHOLE,probe,2.0
+21,13,agonizing,pleasant,,,Asymmetric Contrary,CONTRAST,example,
+21,13,tasty,bland,,,Asymmetric Contrary,CONTRAST,example,
+21,13,hyperactive,lazy,,,Asymmetric Contrary,CONTRAST,example,
+21,13,cruel,kind,,,Asymmetric Contrary,CONTRAST,example,
+21,13,terrified,brave,brave,dark,Asymmetric Contrary,CONTRAST,probe,1.0
+22,-1,baseline,baseline,,,baseline,baseline,baseline,
+23,47,smoothie,fruit,,,Object:Stuff,PART-WHOLE,example,
+23,47,constellation,stars,,,Object:Stuff,PART-WHOLE,example,
+23,47,headstone,marble,,,Object:Stuff,PART-WHOLE,example,
+23,47,staircase,steps,,,Object:Stuff,PART-WHOLE,example,
+23,47,concrete,cement,cement,sidewalk,Object:Stuff,PART-WHOLE,probe,1.0
+24,13,towering,short,,,Asymmetric Contrary,CONTRAST,example,
+24,13,chaotic,orderly,,,Asymmetric Contrary,CONTRAST,example,
+24,13,impossible,easy,,,Asymmetric Contrary,CONTRAST,example,
+24,13,effortless,challenging,,,Asymmetric Contrary,CONTRAST,example,
+24,13,minuscule,big,speck,big,Asymmetric Contrary,CONTRAST,probe,2.0
+25,6,setting,volleyball,,,Activity:Stage,PART-WHOLE,example,
+25,6,hemming,tailoring,,,Activity:Stage,PART-WHOLE,example,
+25,6,debugging,programming,,,Activity:Stage,PART-WHOLE,example,
+25,6,driving,golf,,,Activity:Stage,PART-WHOLE,example,
+25,6,purling,knitting,scarf,knitting,Activity:Stage,PART-WHOLE,probe,2.0

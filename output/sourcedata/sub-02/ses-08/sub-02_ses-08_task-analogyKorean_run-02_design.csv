@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,17,부풀리다,풍선,,,Change (Korean Localized),SIMILAR,example,
+1,17,빨라지다,맥박,,,Change (Korean Localized),SIMILAR,example,
+1,17,약해지다,결심,,,Change (Korean Localized),SIMILAR,example,
+1,17,악화되다,상태,,,Change (Korean Localized),SIMILAR,example,
+1,17,인상하다,급여,급여,책상,Change (Korean Localized),SIMILAR,probe,1.0
+2,23,작가,원고,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+2,23,농부,작물,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+2,23,조종사,조종면허,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+2,23,과수원,과일,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+2,23,집,거주자,우편물,거주자,Creature:Possession (Korean Localized),PART-WHOLE,probe,2.0
+3,27,미사,퇴적물,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+3,27,고통,극심한고통,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+3,27,램프,랜턴,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+3,27,시기,질투,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+3,27,뜨겁다,따뜻하다,매운,따뜻하다,Dimensional Similarity (Korean Localized),SIMILAR,probe,2.0
+4,2,잠그다,보호하다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+4,2,가르치다,교육하다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+4,2,시위하다,개혁하다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+4,2,조타하다,항해하다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+4,2,수색하다,찾다,찾다,단서,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,probe,1.0
+5,23,정원,채소,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+5,23,의사,학위,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+5,23,식당,메뉴,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+5,23,물고기,비늘,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+5,23,박물관,전시품,카메라,전시품,Creature:Possession (Korean Localized),PART-WHOLE,probe,2.0
+6,-1,baseline,baseline,,,baseline,baseline,baseline,
+7,27,걱정,불안,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+7,27,두려움,공포,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+7,27,언덕,산,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+7,27,도약하다,점프하다,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+7,27,잡다,낚아채다,낚아채다,갑작스러운,Dimensional Similarity (Korean Localized),SIMILAR,probe,1.0
+8,17,바래다,사진,,,Change (Korean Localized),SIMILAR,example,
+8,17,가열,온도,,,Change (Korean Localized),SIMILAR,example,
+8,17,가지치기,나무,,,Change (Korean Localized),SIMILAR,example,
+8,17,줄이다,영향,,,Change (Korean Localized),SIMILAR,example,
+8,17,고갈,비축량,배송,비축량,Change (Korean Localized),SIMILAR,probe,2.0
+9,-1,baseline,baseline,,,baseline,baseline,baseline,
+10,23,학자,책,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+10,23,개,꼬리,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+10,23,새,날개,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+10,23,공구함,도구,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+10,23,단어,글자,글자,구두점,Creature:Possession (Korean Localized),PART-WHOLE,probe,1.0
+11,17,늘리다,밧줄,,,Change (Korean Localized),SIMILAR,example,
+11,17,강화하다,방어,,,Change (Korean Localized),SIMILAR,example,
+11,17,녹이다,얼음,,,Change (Korean Localized),SIMILAR,example,
+11,17,하강,고도,,,Change (Korean Localized),SIMILAR,example,
+11,17,호황,경제,경제,주식시장,Change (Korean Localized),SIMILAR,probe,1.0
+12,-1,baseline,baseline,,,baseline,baseline,baseline,
+13,2,기부하다,돕다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+13,2,브레이크밟다,멈추다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+13,2,속삭이다,숨기다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+13,2,숨쉬다,살다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+13,2,싸우다,이기다,이기다,몸싸움,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,probe,1.0
+14,23,포유류,털,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+14,23,변호사,의뢰인,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+14,23,수족관,물고기,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+14,23,가시돼지,가시,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+14,23,쇼핑몰,상점,상점,쇼핑객,Creature:Possession (Korean Localized),PART-WHOLE,probe,1.0
+15,17,성장,매출,,,Change (Korean Localized),SIMILAR,example,
+15,17,걸쭉해지다,소스,,,Change (Korean Localized),SIMILAR,example,
+15,17,밝히다,방,,,Change (Korean Localized),SIMILAR,example,
+15,17,희석하다,페인트,,,Change (Korean Localized),SIMILAR,example,
+15,17,꽉쥐다,손아귀,손아귀,손바닥,Change (Korean Localized),SIMILAR,probe,1.0
+16,-1,baseline,baseline,,,baseline,baseline,baseline,
+17,27,집,오두막,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+17,27,사자,호랑이,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+17,27,도로,고속도로,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+17,27,용감하다,대담하다,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+17,27,깔깔웃다,웃다,농담,웃다,Dimensional Similarity (Korean Localized),SIMILAR,probe,2.0
+18,2,훔치다,얻다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+18,2,씻다,깨끗하게하다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+18,2,매복하다,붙잡다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+18,2,마케팅하다,판매하다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+18,2,심다,키우다,키우다,흙,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,probe,1.0
+19,-1,baseline,baseline,,,baseline,baseline,baseline,
+20,27,분노,격분,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+20,27,비행기,제트기,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+20,27,애정,사랑,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+20,27,기타,밴조,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+20,27,밝다,눈부시다,눈부시다,어두운,Dimensional Similarity (Korean Localized),SIMILAR,probe,1.0
+21,2,사과하다,화해하다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+21,2,암호화하다,보호하다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+21,2,토론하다,설득하다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+21,2,점화하다,불타다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+21,2,파다,드러내다,구멍,드러내다,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,probe,2.0
+22,23,목장주,소,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+22,23,화가,그림,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+22,23,기타,줄,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+22,23,선장,선원,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+22,23,울타리,기둥,기둥,개,Creature:Possession (Korean Localized),PART-WHOLE,probe,1.0
+23,17,입금,잔액,,,Change (Korean Localized),SIMILAR,example,
+23,17,증가,숫자,,,Change (Korean Localized),SIMILAR,example,
+23,17,누그러뜨리다,목소리,,,Change (Korean Localized),SIMILAR,example,
+23,17,바람이 빠지다,타이어,,,Change (Korean Localized),SIMILAR,example,
+23,17,줄어들다,옷,옷걸이,옷,Change (Korean Localized),SIMILAR,probe,2.0
+24,27,참나무,단풍나무,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+24,27,춥다,한랭하다,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+24,27,혐오,증오,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+24,27,행복,기쁨,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+24,27,살금살금가다,기어가다,기어가다,숨다,Dimensional Similarity (Korean Localized),SIMILAR,probe,1.0
+25,2,단식하다,해독하다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+25,2,씨뿌리다,수확하다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+25,2,말하다,표현하다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+25,2,오르다,정복하다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+25,2,투표하다,선출하다,투표용지,선출하다,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,probe,2.0

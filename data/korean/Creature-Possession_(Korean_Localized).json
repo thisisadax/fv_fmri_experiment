@@ -1,0 +1,1265 @@
+{
+  "source_dataset": "SemEval-2012",
+  "relation_category": "PART-WHOLE",
+  "relation_name": "Creature:Possession (Korean Localized)",
+  "relation_source": "Creature:Possession",
+  "num_relations_per_source": 1,
+  "relation_index": 1,
+  "n_clean_pairs": 89,
+  "n_original_pairs": 41,
+  "relation_description": "The first item (X) possesses, owns, or has the second item (Y) as a belonging, content, or inherent part. (Korean localized examples)",
+  "relation_pairs": [
+    "정원:채소",
+    "학자:책",
+    "직원:일자리",
+    "전문가:경험",
+    "쇼핑몰:상점",
+    "도서관:책",
+    "교사:학생",
+    "의사:학위",
+    "변호사:의뢰인",
+    "새:깃털",
+    "투자자:투자",
+    "포유류:털",
+    "제빵사:빵",
+    "작사가:가사",
+    "음악가:음악",
+    "우유병:우유",
+    "은행:돈",
+    "정유공장:휘발유",
+    "사업주:직원",
+    "저택:방",
+    "집주인:집",
+    "대학:교수",
+    "새:날개",
+    "나무:나무껍질",
+    "집:거주자",
+    "어머니:자녀",
+    "농부:작물",
+    "단어:글자",
+    "물고기:비늘",
+    "거북이:등껍질",
+    "고양이:수염",
+    "개:꼬리",
+    "사자:갈기",
+    "가시돼지:가시",
+    "코끼리:코",
+    "사슴:뿔",
+    "거미:거미줄",
+    "바닷가재:집게발",
+    "토끼:털",
+    "부엉이:발톱",
+    "뱀:독니",
+    "박물관:전시품",
+    "병원:환자",
+    "학교:교실",
+    "호텔:투숙객",
+    "바다:파도",
+    "숲:나무",
+    "동물원:동물",
+    "교도소:수감자",
+    "극장:무대",
+    "식당:메뉴",
+    "식료품 저장실:음식",
+    "옷장:옷",
+    "공구함:도구",
+    "지갑:현금",
+    "과수원:과일",
+    "헛간:건초",
+    "수족관:물고기",
+    "주방:가전제품",
+    "경기장:좌석",
+    "자동차:엔진",
+    "시계:바늘",
+    "책:페이지",
+    "꽃:꽃잎",
+    "기타:줄",
+    "피아노:건반",
+    "자전거:바퀴",
+    "셔츠:단추",
+    "컴퓨터:화면",
+    "울타리:기둥",
+    "우산:손잡이",
+    "화가:그림",
+    "요리사:요리법",
+    "조종사:조종면허",
+    "작가:원고",
+    "판사:의사봉",
+    "양치기:양 떼",
+    "왕:왕좌",
+    "기마병:말",
+    "군인:군복",
+    "선장:선원",
+    "목장주:소",
+    "회사:제품",
+    "팀:선수",
+    "오케스트라:연주자",
+    "군대:군인",
+    "함대:배",
+    "나라:국민",
+    "가족:구성원"
+  ],
+  "distractors": [
+    [
+      "나비",
+      "물뿌리개",
+      "마당",
+      "햇빛"
+    ],
+    [
+      "강의",
+      "교실",
+      "세미나",
+      "토론"
+    ],
+    [
+      "상사",
+      "회사",
+      "통근",
+      "점심시간"
+    ],
+    [
+      "조언",
+      "청중",
+      "분야",
+      "학회"
+    ],
+    [
+      "쇼핑객",
+      "버스정류장",
+      "음식 냄새",
+      "주말 인파"
+    ],
+    [
+      "이용객",
+      "연체료",
+      "정숙",
+      "동화 읽기 시간"
+    ],
+    [
+      "부모",
+      "수업",
+      "숙제",
+      "종"
+    ],
+    [
+      "증상",
+      "수술",
+      "병원",
+      "대기실"
+    ],
+    [
+      "법정",
+      "판사",
+      "배심원",
+      "의사봉"
+    ],
+    [
+      "노래",
+      "비행",
+      "하늘",
+      "나무"
+    ],
+    [
+      "중개인",
+      "시장",
+      "위험",
+      "차트"
+    ],
+    [
+      "부리",
+      "아가미",
+      "서식지",
+      "숲"
+    ],
+    [
+      "손님",
+      "카운터",
+      "이른 아침",
+      "밀가루 가루"
+    ],
+    [
+      "콘서트",
+      "스튜디오",
+      "라디오 방송",
+      "관광버스"
+    ],
+    [
+      "관객",
+      "무대",
+      "투어",
+      "스포트라이트"
+    ],
+    [
+      "냉장고",
+      "유리컵",
+      "아침식사",
+      "시리얼"
+    ],
+    [
+      "고객",
+      "수표책",
+      "신용점수",
+      "급여"
+    ],
+    [
+      "연기",
+      "탱크로리",
+      "불길",
+      "해안선"
+    ],
+    [
+      "고객",
+      "공급업체",
+      "매출",
+      "광고"
+    ],
+    [
+      "손님",
+      "파티",
+      "케이터링",
+      "음악"
+    ],
+    [
+      "임대인",
+      "이사 트럭",
+      "동네",
+      "중고장터"
+    ],
+    [
+      "강의",
+      "교과서",
+      "입학",
+      "학교 자부심"
+    ],
+    [
+      "노래",
+      "비행",
+      "하늘",
+      "나뭇가지"
+    ],
+    [
+      "그늘",
+      "숲",
+      "새",
+      "다람쥐"
+    ],
+    [
+      "주인",
+      "이웃",
+      "우편물",
+      "거리"
+    ],
+    [
+      "남편",
+      "베이비시터",
+      "잠자리 동화",
+      "놀이터"
+    ],
+    [
+      "날씨",
+      "시장",
+      "추수 축제",
+      "트랙터 소리"
+    ],
+    [
+      "구두점",
+      "문장",
+      "알파벳",
+      "페이지"
+    ],
+    [
+      "물",
+      "낚싯바늘",
+      "산호초",
+      "미끼"
+    ],
+    [
+      "연못",
+      "모래",
+      "이끼",
+      "햇살"
+    ],
+    [
+      "골골거림",
+      "화장실 모래통",
+      "실",
+      "소파"
+    ],
+    [
+      "짖는 소리",
+      "목줄",
+      "공원",
+      "마당"
+    ],
+    [
+      "포효",
+      "동굴",
+      "사바나",
+      "동물원 사육사"
+    ],
+    [
+      "숲",
+      "나무껍질",
+      "밤",
+      "나뭇잎"
+    ],
+    [
+      "서커스",
+      "사파리",
+      "땅콩",
+      "물웅덩이"
+    ],
+    [
+      "숲",
+      "사냥꾼",
+      "초원",
+      "전조등"
+    ],
+    [
+      "구석",
+      "파리",
+      "천장",
+      "할로윈"
+    ],
+    [
+      "바다",
+      "덫",
+      "삶기",
+      "버터"
+    ],
+    [
+      "깡충깡충",
+      "정원",
+      "부활절",
+      "마술 모자"
+    ],
+    [
+      "밤",
+      "지혜",
+      "달",
+      "눈 덮인 숲"
+    ],
+    [
+      "미끄러짐",
+      "사막",
+      "풀",
+      "뱀 조련사"
+    ],
+    [
+      "관람객",
+      "카메라",
+      "현장학습",
+      "현장학습 버스"
+    ],
+    [
+      "질병",
+      "대기실",
+      "가족",
+      "응급실 방문"
+    ],
+    [
+      "버스정류장",
+      "시험",
+      "쉬는 시간",
+      "배낭"
+    ],
+    [
+      "짐",
+      "아침식사",
+      "체크인 시간",
+      "관광버스"
+    ],
+    [
+      "해변",
+      "배",
+      "갈매기",
+      "서핑보드"
+    ],
+    [
+      "산림경비원",
+      "캠핑객",
+      "비",
+      "배낭"
+    ],
+    [
+      "방문객",
+      "유모차",
+      "현장학습",
+      "동물 쇼"
+    ],
+    [
+      "면회객",
+      "변호사",
+      "재판 날짜",
+      "형량"
+    ],
+    [
+      "관객",
+      "개막 시간",
+      "공연 시간",
+      "레드카펫"
+    ],
+    [
+      "손님",
+      "대기 시간",
+      "냄새",
+      "푸드트럭"
+    ],
+    [
+      "나방",
+      "장보기 목록",
+      "주방",
+      "앞치마"
+    ],
+    [
+      "거울",
+      "침실",
+      "빨래하는 날",
+      "다락방"
+    ],
+    [
+      "차고",
+      "작업대",
+      "작업",
+      "먼지"
+    ],
+    [
+      "주머니",
+      "신용점수",
+      "카운터",
+      "쇼핑백"
+    ],
+    [
+      "수확 인부",
+      "수확철",
+      "벌",
+      "햇빛"
+    ],
+    [
+      "농장 일꾼",
+      "먼지",
+      "쥐",
+      "달빛"
+    ],
+    [
+      "관람객",
+      "안내원",
+      "거품",
+      "현장학습"
+    ],
+    [
+      "요리사",
+      "레시피",
+      "김",
+      "장바구니"
+    ],
+    [
+      "팬",
+      "환호",
+      "경기 전 파티",
+      "유니폼"
+    ],
+    [
+      "운전자",
+      "열쇠",
+      "차고",
+      "고속도로"
+    ],
+    [
+      "벽",
+      "시간",
+      "똑딱거림",
+      "자정"
+    ],
+    [
+      "작가",
+      "책장",
+      "책갈피",
+      "도서관"
+    ],
+    [
+      "벌",
+      "꽃병",
+      "정원",
+      "봄"
+    ],
+    [
+      "피크",
+      "앰프",
+      "노래",
+      "무대"
+    ],
+    [
+      "벤치",
+      "악보",
+      "연주회",
+      "조율기"
+    ],
+    [
+      "헬멧",
+      "자전거 타는 사람",
+      "도로",
+      "자전거 거치대"
+    ],
+    [
+      "옷걸이",
+      "다리미",
+      "세탁",
+      "옷장"
+    ],
+    [
+      "사용자",
+      "인터넷",
+      "책상",
+      "커피 머그"
+    ],
+    [
+      "마당",
+      "이웃",
+      "경계",
+      "개"
+    ],
+    [
+      "비",
+      "주머니",
+      "폭풍",
+      "코트"
+    ],
+    [
+      "갤러리",
+      "스튜디오",
+      "평론가",
+      "경매"
+    ],
+    [
+      "주방",
+      "손님",
+      "요리 프로그램",
+      "예약"
+    ],
+    [
+      "비행기",
+      "활주로",
+      "관제탑",
+      "구름"
+    ],
+    [
+      "출판사",
+      "북투어",
+      "타이핑",
+      "도서관"
+    ],
+    [
+      "벤치",
+      "배심원",
+      "판결",
+      "변호사"
+    ],
+    [
+      "목초지",
+      "언덕",
+      "날씨",
+      "모닥불"
+    ],
+    [
+      "여왕",
+      "대관식",
+      "왕명",
+      "퍼레이드"
+    ],
+    [
+      "목장",
+      "소 몰이",
+      "모닥불",
+      "먼지"
+    ],
+    [
+      "신병훈련소",
+      "병영",
+      "명령",
+      "전쟁터"
+    ],
+    [
+      "배",
+      "함교",
+      "나침반",
+      "항구"
+    ],
+    [
+      "초원",
+      "경매",
+      "먼지 폭풍",
+      "지역 축제"
+    ],
+    [
+      "고객",
+      "회의",
+      "마감",
+      "사무실 소문"
+    ],
+    [
+      "팬",
+      "훈련",
+      "응원 집회",
+      "경기장 조명"
+    ],
+    [
+      "관객",
+      "리허설",
+      "공연장",
+      "박수"
+    ],
+    [
+      "징병",
+      "훈련",
+      "명령",
+      "퍼레이드"
+    ],
+    [
+      "부두",
+      "바다",
+      "폭풍",
+      "항구 불빛"
+    ],
+    [
+      "관광객",
+      "이민자",
+      "난민",
+      "세계지도"
+    ],
+    [
+      "이웃",
+      "연휴",
+      "재회",
+      "휴가"
+    ]
+  ],
+  "english_pairs": [
+    "garden:vegetables",
+    "scholar:books",
+    "employee:job",
+    "expert:experience",
+    "mall:shops",
+    "library:books",
+    "teacher:students",
+    "doctor:degree",
+    "lawyer:clients",
+    "bird:feathers",
+    "investor:investments",
+    "mammal:hair",
+    "baker:bread",
+    "songwriter:lyrics",
+    "musician:music",
+    "milk bottle:milk",
+    "bank:money",
+    "refinery:gasoline",
+    "proprietor:employees",
+    "mansion:rooms",
+    "homeowner:home",
+    "college:professors",
+    "bird:wings",
+    "tree:bark",
+    "house:residents",
+    "mother:children",
+    "farmer:crops",
+    "word:letters",
+    "fish:scales",
+    "turtle:shell",
+    "cat:whiskers",
+    "dog:tail",
+    "lion:mane",
+    "porcupine:quills (APPROX.)",
+    "elephant:trunk",
+    "deer:antlers",
+    "spider:web",
+    "lobster:claws",
+    "rabbit:fur",
+    "owl:talons",
+    "snake:fangs",
+    "museum:exhibits",
+    "hospital:patients",
+    "school:classrooms",
+    "hotel:guests",
+    "ocean:waves",
+    "forest:trees",
+    "zoo:animals",
+    "prison:inmates",
+    "theater:stage",
+    "restaurant:menu",
+    "pantry:food",
+    "closet:clothes",
+    "toolbox:tools",
+    "wallet:cash",
+    "orchard:fruit",
+    "barn:hay",
+    "aquarium:fish",
+    "kitchen:appliances",
+    "stadium:seats",
+    "car:engine",
+    "clock:hands",
+    "book:pages",
+    "flower:petals",
+    "guitar:strings",
+    "piano:keys",
+    "bicycle:wheels",
+    "shirt:buttons",
+    "computer:screen",
+    "fence:posts",
+    "umbrella:handle",
+    "painter:paintings",
+    "chef:recipes",
+    "pilot:pilot license",
+    "author:manuscripts",
+    "judge:gavel",
+    "shepherd:flock",
+    "king:throne",
+    "cavalryman:horse",
+    "soldier:uniform",
+    "captain:crew",
+    "rancher:cattle",
+    "company:products",
+    "team:players",
+    "orchestra:musicians",
+    "army:soldiers",
+    "fleet:ships",
+    "country:citizens",
+    "family:members"
+  ],
+  "english_distractors": [
+    [
+      "Butterflies",
+      "Watering can",
+      "Yard",
+      "Sunlight"
+    ],
+    [
+      "Lectures",
+      "Classroom",
+      "Seminars",
+      "Debates"
+    ],
+    [
+      "Boss",
+      "Company",
+      "Commute",
+      "Lunch break"
+    ],
+    [
+      "Advice",
+      "Audience",
+      "Field",
+      "Conference"
+    ],
+    [
+      "Shoppers",
+      "Bus stop",
+      "Food smells",
+      "Weekend crowd"
+    ],
+    [
+      "Patrons",
+      "Late fees",
+      "Silence",
+      "Story time"
+    ],
+    [
+      "Parents",
+      "Lessons",
+      "Homework",
+      "Bell"
+    ],
+    [
+      "Symptoms",
+      "Surgeries",
+      "Hospital",
+      "Waiting room"
+    ],
+    [
+      "Courtroom",
+      "Judge",
+      "Jury",
+      "Gavel"
+    ],
+    [
+      "Song",
+      "Flight",
+      "Sky",
+      "Tree"
+    ],
+    [
+      "Broker",
+      "Market",
+      "Risk",
+      "Charts"
+    ],
+    [
+      "Beak",
+      "Gills",
+      "Habitat",
+      "Forest"
+    ],
+    [
+      "Customers",
+      "Counter",
+      "Early mornings",
+      "Flour dust"
+    ],
+    [
+      "Concerts",
+      "Studio",
+      "Radio play",
+      "Tour bus"
+    ],
+    [
+      "Audience",
+      "Stage",
+      "Tour",
+      "Spotlight"
+    ],
+    [
+      "Fridge",
+      "Glass",
+      "Breakfast",
+      "Cereal"
+    ],
+    [
+      "Customers",
+      "Checkbooks",
+      "Credit scores",
+      "Paychecks"
+    ],
+    [
+      "Smoke",
+      "Tanker trucks",
+      "Flames",
+      "Coastline"
+    ],
+    [
+      "Customers",
+      "Suppliers",
+      "Sales",
+      "Ads"
+    ],
+    [
+      "Guests",
+      "Parties",
+      "Caterers",
+      "Music"
+    ],
+    [
+      "Landlord",
+      "Moving truck",
+      "Neighborhood",
+      "Yard sale"
+    ],
+    [
+      "Lectures",
+      "Textbooks",
+      "Admissions",
+      "School spirit"
+    ],
+    [
+      "Song",
+      "Flight",
+      "Sky",
+      "Branch"
+    ],
+    [
+      "Shade",
+      "Forest",
+      "Birds",
+      "Squirrel"
+    ],
+    [
+      "Owners",
+      "Neighbors",
+      "Mail",
+      "Street"
+    ],
+    [
+      "Husband",
+      "Babysitter",
+      "Bedtime stories",
+      "Playground"
+    ],
+    [
+      "Weather",
+      "Market",
+      "Harvest festival",
+      "Tractor noise"
+    ],
+    [
+      "Punctuation",
+      "Sentence",
+      "Alphabet",
+      "Page"
+    ],
+    [
+      "Water",
+      "Hooks",
+      "Reef",
+      "Bait"
+    ],
+    [
+      "Pond",
+      "Sand",
+      "Algae",
+      "Sunbeam"
+    ],
+    [
+      "Purr",
+      "Litter box",
+      "Yarn",
+      "Sofa"
+    ],
+    [
+      "Bark",
+      "Leash",
+      "Park",
+      "Yard"
+    ],
+    [
+      "Roar",
+      "Cave",
+      "Savanna",
+      "Zookeeper"
+    ],
+    [
+      "Forest",
+      "Bark",
+      "Night",
+      "Leaves"
+    ],
+    [
+      "Circus",
+      "Safari",
+      "Peanuts",
+      "Watering hole"
+    ],
+    [
+      "Forest",
+      "Hunter",
+      "Meadow",
+      "Headlights"
+    ],
+    [
+      "Corner",
+      "Fly",
+      "Ceiling",
+      "Halloween"
+    ],
+    [
+      "Ocean",
+      "Trap",
+      "Boil",
+      "Butter"
+    ],
+    [
+      "Hopping",
+      "Garden",
+      "Easter",
+      "Magic hat"
+    ],
+    [
+      "Night",
+      "Wisdom",
+      "Moon",
+      "Snowy forest"
+    ],
+    [
+      "Slither",
+      "Desert",
+      "Grass",
+      "Charmer"
+    ],
+    [
+      "Visitors",
+      "Cameras",
+      "Field trips",
+      "Field trip bus"
+    ],
+    [
+      "Illness",
+      "Waiting room",
+      "Family members",
+      "ER visit"
+    ],
+    [
+      "Bus stop",
+      "Tests",
+      "Recess",
+      "Backpacks"
+    ],
+    [
+      "Luggage",
+      "Breakfast",
+      "Check-in time",
+      "Tour bus"
+    ],
+    [
+      "Shore",
+      "Boats",
+      "Seagulls",
+      "Surfboards"
+    ],
+    [
+      "Rangers",
+      "Campers",
+      "Rain",
+      "Backpacks"
+    ],
+    [
+      "Visitors",
+      "Baby strollers",
+      "Field trips",
+      "Animal shows"
+    ],
+    [
+      "Visitors",
+      "Lawyers",
+      "Court dates",
+      "Sentences"
+    ],
+    [
+      "Audience",
+      "Curtain time",
+      "Showtime",
+      "Red carpet"
+    ],
+    [
+      "Customers",
+      "Wait time",
+      "Smells",
+      "Food truck"
+    ],
+    [
+      "Moths",
+      "Shopping list",
+      "Kitchen",
+      "Apron"
+    ],
+    [
+      "Mirror",
+      "Bedroom",
+      "Laundry day",
+      "Attic"
+    ],
+    [
+      "Garage",
+      "Workbench",
+      "Projects",
+      "Dust"
+    ],
+    [
+      "Pocket",
+      "Credit score",
+      "Counter",
+      "Shopping bag"
+    ],
+    [
+      "Pickers",
+      "Harvest season",
+      "Bees",
+      "Sunshine"
+    ],
+    [
+      "Farmhands",
+      "Dust",
+      "Mice",
+      "Moonlight"
+    ],
+    [
+      "Visitors",
+      "Guides",
+      "Bubbles",
+      "Field trip"
+    ],
+    [
+      "Chef",
+      "Recipes",
+      "Steam",
+      "Grocery bags"
+    ],
+    [
+      "Fans",
+      "Cheers",
+      "Tailgate",
+      "Jerseys"
+    ],
+    [
+      "Driver",
+      "Keys",
+      "Garage",
+      "Highway"
+    ],
+    [
+      "Wall",
+      "Time",
+      "Tick",
+      "Midnight"
+    ],
+    [
+      "Author",
+      "Shelf",
+      "Bookmark",
+      "Library"
+    ],
+    [
+      "Bees",
+      "Vase",
+      "Garden",
+      "Spring"
+    ],
+    [
+      "Pick",
+      "Amp",
+      "Song",
+      "Stage"
+    ],
+    [
+      "Bench",
+      "Sheet music",
+      "Recital",
+      "Tuner"
+    ],
+    [
+      "Helmet",
+      "Rider",
+      "Road",
+      "Bike rack"
+    ],
+    [
+      "Hanger",
+      "Iron",
+      "Laundry",
+      "Closet"
+    ],
+    [
+      "User",
+      "Internet",
+      "Desk",
+      "Coffee mug"
+    ],
+    [
+      "Yard",
+      "Neighbor",
+      "Border",
+      "Dog"
+    ],
+    [
+      "Rain",
+      "Pocket",
+      "Storm",
+      "Coat"
+    ],
+    [
+      "Gallery",
+      "Studio",
+      "Critics",
+      "Auction"
+    ],
+    [
+      "Kitchen",
+      "Diners",
+      "Cooking show",
+      "Reservation"
+    ],
+    [
+      "Airplane",
+      "Runway",
+      "Control tower",
+      "Clouds"
+    ],
+    [
+      "Publisher",
+      "Book tour",
+      "Typing",
+      "Library"
+    ],
+    [
+      "Bench",
+      "Jury",
+      "Verdict",
+      "Lawyer"
+    ],
+    [
+      "Pasture",
+      "Hillside",
+      "Weather",
+      "Campfire"
+    ],
+    [
+      "Queen",
+      "Coronation",
+      "Royal decree",
+      "Parade"
+    ],
+    [
+      "Ranch",
+      "Cattle drive",
+      "Campfire",
+      "Dust"
+    ],
+    [
+      "Boot camp",
+      "Barracks",
+      "Orders",
+      "War zone"
+    ],
+    [
+      "Ship",
+      "Bridge",
+      "Compass",
+      "Harbor"
+    ],
+    [
+      "Prairie",
+      "Auction",
+      "Dust storms",
+      "County fair"
+    ],
+    [
+      "Customers",
+      "Meetings",
+      "Deadlines",
+      "Office gossip"
+    ],
+    [
+      "Fans",
+      "Practice",
+      "Pep rally",
+      "Stadium lights"
+    ],
+    [
+      "Audience",
+      "Rehearsal",
+      "Concert hall",
+      "Applause"
+    ],
+    [
+      "Draft",
+      "Training",
+      "Orders",
+      "Parade"
+    ],
+    [
+      "Dock",
+      "Ocean",
+      "Storms",
+      "Harbor lights"
+    ],
+    [
+      "Tourists",
+      "Immigrants",
+      "Refugees",
+      "World map"
+    ],
+    [
+      "Neighbors",
+      "Holidays",
+      "Reunion",
+      "Vacation"
+    ]
+  ]
+}

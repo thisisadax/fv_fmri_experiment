@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,3,가르치다,학생,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+1,3,붙잡다,악당,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+1,3,깎다,잔디,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+1,3,닫다,문,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+1,3,숙달하다,기술,기술,도구,Action:Object (Korean Localized),CASE RELATIONS,probe,1.0
+2,19,개미떼,개미,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+2,19,함대,배,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+2,19,꽃다발,꽃,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+2,19,고래떼,고래,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+2,19,체인점,매장,매장,프랜차이즈,Collection:Member (Korean Localized),PART-WHOLE,probe,1.0
+3,25,슬프다,절망하다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+3,25,걱정하다,전전긍긍하다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+3,25,과하게익다,타다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+3,25,눈,눈보라,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+3,25,이기적이다,자기애적이다,자아,자기애적이다,Dimensional Excessive (Korean Localized),SIMILAR,probe,2.0
+4,40,동물원,구경하다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+4,40,온실,재배하다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+4,40,숲,캠핑하다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+4,40,로비,기다리다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+4,40,욕실,목욕하다,양치,목욕하다,Location:Action/Activity (Korean Localized),SPACE-TIME,probe,2.0
+5,-1,baseline,baseline,,,baseline,baseline,baseline,
+6,19,군대,군인,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+6,19,달력,일정,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+6,19,사전,표제어,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+6,19,학급,학생,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+6,19,옷장,옷,재단사,옷,Collection:Member (Korean Localized),PART-WHOLE,probe,2.0
+7,25,밝다,눈부시다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+7,25,배고프다,굶주리다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+7,25,친근하다,과하게달라붙다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+7,25,불안,공포,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+7,25,조심스럽다,편집증적이다,편집증적이다,더조심스럽다,Dimensional Excessive (Korean Localized),SIMILAR,probe,1.0
+8,40,침실,자다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+8,40,경주장,경주하다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+8,40,병원,치료받다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+8,40,공원,놀다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+8,40,호텔,숙박하다,프런트,숙박하다,Location:Action/Activity (Korean Localized),SPACE-TIME,probe,2.0
+9,19,대표단,외교관,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+9,19,전문가패널,전문가,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+9,19,정원,식물,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+9,19,교수진,교수,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+9,19,선원단,선원,선원,닻,Collection:Member (Korean Localized),PART-WHOLE,probe,1.0
+10,-1,baseline,baseline,,,baseline,baseline,baseline,
+11,3,닦다,이,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+11,3,던지다,공,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+11,3,올리다,깃발,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+11,3,잡다,물고기,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+11,3,개다,빨래,빨래,옷걸이,Action:Object (Korean Localized),CASE RELATIONS,probe,1.0
+12,25,활발하다,과잉행동하다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+12,25,자랑스럽다,자만하다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+12,25,말하다,장광설늘어놓다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+12,25,시끄럽다,귀청이떨어지다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+12,25,보호심,소유욕,주시하다,소유욕,Dimensional Excessive (Korean Localized),SIMILAR,probe,2.0
+13,-1,baseline,baseline,,,baseline,baseline,baseline,
+14,40,시장,판매하다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+14,40,가게,물건 사다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+14,40,오락실,게임하다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+14,40,공장,제조하다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+14,40,골프장,골프 치다,골프 치다,카트,Location:Action/Activity (Korean Localized),SPACE-TIME,probe,1.0
+15,25,불꽃,불바다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+15,25,숨쉬다,과호흡하다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+15,25,싫어함,혐오,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+15,25,좋아하다,푹빠지다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+15,25,만족하다,감격하다,감격하다,끄덕이다,Dimensional Excessive (Korean Localized),SIMILAR,probe,1.0
+16,3,튕기다,기타,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+16,3,갈다,칼,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+16,3,그리다,그림,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+16,3,읽다,책,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+16,3,설거지하다,그릇,그릇,싱크대,Action:Object (Korean Localized),CASE RELATIONS,probe,1.0
+17,-1,baseline,baseline,,,baseline,baseline,baseline,
+18,19,박물관,유물,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+18,19,포도밭,포도나무,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+18,19,국회,국회의원,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+18,19,공구함,공구,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+18,19,소떼,소,소,목초지,Collection:Member (Korean Localized),PART-WHOLE,probe,1.0
+19,25,헌신적이다,광적이다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+19,25,욕구,탐욕,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+19,25,끌림,욕정,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+19,25,웃음,웃음발작,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+19,25,깨지다,산산조각나다,산산조각나다,갈라지다,Dimensional Excessive (Korean Localized),SIMILAR,probe,1.0
+20,40,천문대,천체 관측하다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+20,40,바,술 마시다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+20,40,부두,짐 싣다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+20,40,놀이터,그네 타다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+20,40,찜질방,땀 흘리다,땀 흘리다,증기,Location:Action/Activity (Korean Localized),SPACE-TIME,probe,1.0
+21,-1,baseline,baseline,,,baseline,baseline,baseline,
+22,3,내리다,닻,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+22,3,연주하다,악기,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+22,3,오르다,산,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+22,3,물주다,식물,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+22,3,조종하다,비행기,조종사,비행기,Action:Object (Korean Localized),CASE RELATIONS,probe,2.0
+23,19,비행대,항공기,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+23,19,낙타행렬,낙타,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+23,19,화살통,화살,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+23,19,음반목록,앨범,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+23,19,어휘,단어,철자,단어,Collection:Member (Korean Localized),PART-WHOLE,probe,2.0
+24,40,농장,재배하다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+24,40,극장,연기하다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+24,40,경매장,입찰하다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+24,40,강당,강연하다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+24,40,수술실,수술하다,수술하다,멸균,Location:Action/Activity (Korean Localized),SPACE-TIME,probe,1.0
+25,3,다리다,셔츠,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+25,3,무찌르다,용,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+25,3,사냥하다,사슴,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+25,3,진공청소하다,카펫,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+25,3,제출하다,보고서,컴퓨터,보고서,Action:Object (Korean Localized),CASE RELATIONS,probe,2.0

@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,48,refrigerator,cool,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+1,48,tailor,sew,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+1,48,sailor,sail,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+1,48,wave,crash,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+1,48,stomach,digest,digest,acid,Object:Typical Action (noun.verb),ATTRIBUTE,probe,1.0
+2,60,couch,sofa,,,Synonymity,SIMILAR,example,
+2,60,house,dwelling,,,Synonymity,SIMILAR,example,
+2,60,physician,doctor,,,Synonymity,SIMILAR,example,
+2,60,happy,joyful,,,Synonymity,SIMILAR,example,
+2,60,liberty,freedom,statue,freedom,Synonymity,SIMILAR,probe,2.0
+3,55,voter,ballot,,,Recipient:Instrument,CASE RELATIONS,example,
+3,55,addressee,letter,,,Recipient:Instrument,CASE RELATIONS,example,
+3,55,customer,warranty,,,Recipient:Instrument,CASE RELATIONS,example,
+3,55,builder,permit,,,Recipient:Instrument,CASE RELATIONS,example,
+3,55,teacher,certificate,certificate,classroom,Recipient:Instrument,CASE RELATIONS,probe,1.0
+4,-1,baseline,baseline,,,baseline,baseline,baseline,
+5,15,jealous,contentment,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+5,15,blind,sight,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+5,15,pure,corruption,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+5,15,proud,shame,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+5,15,strong,weakness,weakness,gym,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,probe,1.0
+6,55,heir,trust,,,Recipient:Instrument,CASE RELATIONS,example,
+6,55,student,scholarship,,,Recipient:Instrument,CASE RELATIONS,example,
+6,55,orphan,adoption,,,Recipient:Instrument,CASE RELATIONS,example,
+6,55,consumer,rebate,,,Recipient:Instrument,CASE RELATIONS,example,
+6,55,charity,donations,grant,donations,Recipient:Instrument,CASE RELATIONS,probe,2.0
+7,-1,baseline,baseline,,,baseline,baseline,baseline,
+8,15,angry,calmness,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+8,15,hostile,friendliness,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+8,15,timid,boldness,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+8,15,restless,tranquility,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+8,15,safe,danger,danger,seatbelt,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,probe,1.0
+9,48,duck,quack,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+9,48,earthquake,shake,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+9,48,oven,heat,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+9,48,driver,drive,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+9,48,chef,cook,cook,kitchen,Object:Typical Action (noun.verb),ATTRIBUTE,probe,1.0
+10,60,hide,conceal,,,Synonymity,SIMILAR,example,
+10,60,pants,trousers,,,Synonymity,SIMILAR,example,
+10,60,throw,toss,,,Synonymity,SIMILAR,example,
+10,60,stick,attach,,,Synonymity,SIMILAR,example,
+10,60,old,mature,grown,mature,Synonymity,SIMILAR,probe,2.0
+11,15,guilty,innocence,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+11,15,anxious,peace,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+11,15,clean,filth,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+11,15,poor,wealth,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+11,15,energetic,fatigue,fatigue,caffeine,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,probe,1.0
+12,55,graduate,diploma,,,Recipient:Instrument,CASE RELATIONS,example,
+12,55,beneficiary,will,,,Recipient:Instrument,CASE RELATIONS,example,
+12,55,parent,custody,,,Recipient:Instrument,CASE RELATIONS,example,
+12,55,donor,receipt,,,Recipient:Instrument,CASE RELATIONS,example,
+12,55,divorcee,decree,decree,agreement,Recipient:Instrument,CASE RELATIONS,probe,1.0
+13,48,magnet,attract,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+13,48,dancer,dance,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+13,48,educator,teach,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+13,48,guard,protect,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+13,48,bell,ring,vibrate,ring,Object:Typical Action (noun.verb),ATTRIBUTE,probe,2.0
+14,-1,baseline,baseline,,,baseline,baseline,baseline,
+15,60,candy,sweets,,,Synonymity,SIMILAR,example,
+15,60,shop,store,,,Synonymity,SIMILAR,example,
+15,60,mom,mother,,,Synonymity,SIMILAR,example,
+15,60,bucket,pail,,,Synonymity,SIMILAR,example,
+15,60,skinny,thin,thin,belt,Synonymity,SIMILAR,probe,1.0
+16,15,mute,speech,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+16,15,vacant,occupancy,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+16,15,virtuous,wickedness,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+16,15,single,marriage,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+16,15,wasteful,frugality,coupon,frugality,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,probe,2.0
+17,48,switch,flip,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+17,48,alarm,blare,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+17,48,volcano,erupt,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+17,48,fish,swim,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+17,48,rooster,crow,dawn,crow,Object:Typical Action (noun.verb),ATTRIBUTE,probe,2.0
+18,55,groom,ring,,,Recipient:Instrument,CASE RELATIONS,example,
+18,55,pensioner,pension,,,Recipient:Instrument,CASE RELATIONS,example,
+18,55,inmate,parole,,,Recipient:Instrument,CASE RELATIONS,example,
+18,55,bidder,auction,,,Recipient:Instrument,CASE RELATIONS,example,
+18,55,baby,bottle,rattle,bottle,Recipient:Instrument,CASE RELATIONS,probe,2.0
+19,-1,baseline,baseline,,,baseline,baseline,baseline,
+20,15,plump,thinness,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+20,15,confident,doubt,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+20,15,wet,dryness,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+20,15,thirsty,hydration,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+20,15,paralyzed,mobility,track,mobility,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,probe,2.0
+21,60,easy,simple,,,Synonymity,SIMILAR,example,
+21,60,lawyer,attorney,,,Synonymity,SIMILAR,example,
+21,60,smart,intelligent,,,Synonymity,SIMILAR,example,
+21,60,fix,repair,,,Synonymity,SIMILAR,example,
+21,60,silent,quiet,quiet,library,Synonymity,SIMILAR,probe,1.0
+22,-1,baseline,baseline,,,baseline,baseline,baseline,
+23,55,contestant,prize,,,Recipient:Instrument,CASE RELATIONS,example,
+23,55,investor,dividend,,,Recipient:Instrument,CASE RELATIONS,example,
+23,55,client,voucher,,,Recipient:Instrument,CASE RELATIONS,example,
+23,55,wife,ring,,,Recipient:Instrument,CASE RELATIONS,example,
+23,55,physician,degree,degree,stethoscope,Recipient:Instrument,CASE RELATIONS,probe,1.0
+24,60,cozy,snug,,,Synonymity,SIMILAR,example,
+24,60,begin,start,,,Synonymity,SIMILAR,example,
+24,60,tired,weary,,,Synonymity,SIMILAR,example,
+24,60,yell,shout,,,Synonymity,SIMILAR,example,
+24,60,eat,consume,consume,taste,Synonymity,SIMILAR,probe,1.0
+25,48,star,twinkle,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+25,48,lion,roar,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+25,48,writer,write,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+25,48,bread,rise,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+25,48,door,close,close,lock,Object:Typical Action (noun.verb),ATTRIBUTE,probe,1.0

@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,1,volunteer,selfless,,,Action:Action Attribute,ATTRIBUTE,example,
+1,1,vandalize,destructive,,,Action:Action Attribute,ATTRIBUTE,example,
+1,1,paint,artistic,,,Action:Action Attribute,ATTRIBUTE,example,
+1,1,protest,defiant,,,Action:Action Attribute,ATTRIBUTE,example,
+1,1,beg,desperate,desperate,needy,Action:Action Attribute,ATTRIBUTE,probe,1.0
+2,47,ocean,water,,,Object:Stuff,PART-WHOLE,example,
+2,47,window,glass,,,Object:Stuff,PART-WHOLE,example,
+2,47,box,cardboard,,,Object:Stuff,PART-WHOLE,example,
+2,47,garden,flowers,,,Object:Stuff,PART-WHOLE,example,
+2,47,candle,wax,wax,flame,Object:Stuff,PART-WHOLE,probe,1.0
+3,17,acceleration,speed,,,Change,SIMILAR,example,
+3,17,lessen,impact,,,Change,SIMILAR,example,
+3,17,heat,temperature,,,Change,SIMILAR,example,
+3,17,swell,river,,,Change,SIMILAR,example,
+3,17,blur,vision,vision,lens,Change,SIMILAR,probe,1.0
+4,-1,baseline,baseline,,,baseline,baseline,baseline,
+5,47,salad,vegetables,,,Object:Stuff,PART-WHOLE,example,
+5,47,chain,links,,,Object:Stuff,PART-WHOLE,example,
+5,47,adobe,mud,,,Object:Stuff,PART-WHOLE,example,
+5,47,mosaic,tiles,,,Object:Stuff,PART-WHOLE,example,
+5,47,team,players,stadium,players,Object:Stuff,PART-WHOLE,probe,2.0
+6,1,cuddle,cozy,,,Action:Action Attribute,ATTRIBUTE,example,
+6,1,grovel,submissive,,,Action:Action Attribute,ATTRIBUTE,example,
+6,1,punch,violent,,,Action:Action Attribute,ATTRIBUTE,example,
+6,1,betray,disloyal,,,Action:Action Attribute,ATTRIBUTE,example,
+6,1,strut,proud,proud,confident,Action:Action Attribute,ATTRIBUTE,probe,1.0
+7,23,brother,sister,,,Coordinates,SIMILAR,example,
+7,23,helicopter,airplane,,,Coordinates,SIMILAR,example,
+7,23,car,bus,,,Coordinates,SIMILAR,example,
+7,23,physics,chemistry,,,Coordinates,SIMILAR,example,
+7,23,son,daughter,family,daughter,Coordinates,SIMILAR,probe,2.0
+8,-1,baseline,baseline,,,baseline,baseline,baseline,
+9,47,yogurt,milk,,,Object:Stuff,PART-WHOLE,example,
+9,47,lemonade,lemons,,,Object:Stuff,PART-WHOLE,example,
+9,47,scarf,silk,,,Object:Stuff,PART-WHOLE,example,
+9,47,rope,nylon,,,Object:Stuff,PART-WHOLE,example,
+9,47,bread,flour,knife,flour,Object:Stuff,PART-WHOLE,probe,2.0
+10,23,circle,square,,,Coordinates,SIMILAR,example,
+10,23,painting,sculpture,,,Coordinates,SIMILAR,example,
+10,23,salt,pepper,,,Coordinates,SIMILAR,example,
+10,23,algebra,geometry,,,Coordinates,SIMILAR,example,
+10,23,cotton,silk,soft,silk,Coordinates,SIMILAR,probe,2.0
+11,1,argue,confrontational,,,Action:Action Attribute,ATTRIBUTE,example,
+11,1,slam,forceful,,,Action:Action Attribute,ATTRIBUTE,example,
+11,1,frown,disapproving,,,Action:Action Attribute,ATTRIBUTE,example,
+11,1,dance,graceful,,,Action:Action Attribute,ATTRIBUTE,example,
+11,1,nurture,caring,caring,growth,Action:Action Attribute,ATTRIBUTE,probe,1.0
+12,17,shrink,clothing,,,Change,SIMILAR,example,
+12,17,withdrawal,savings,,,Change,SIMILAR,example,
+12,17,enlarge,photo,,,Change,SIMILAR,example,
+12,17,brighten,room,,,Change,SIMILAR,example,
+12,17,stretch,fabric,fabric,laundry,Change,SIMILAR,probe,1.0
+13,47,sentence,words,,,Object:Stuff,PART-WHOLE,example,
+13,47,stew,meat,,,Object:Stuff,PART-WHOLE,example,
+13,47,quilt,patches,,,Object:Stuff,PART-WHOLE,example,
+13,47,jury,jurors,,,Object:Stuff,PART-WHOLE,example,
+13,47,novel,chapters,chapters,characters,Object:Stuff,PART-WHOLE,probe,1.0
+14,-1,baseline,baseline,,,baseline,baseline,baseline,
+15,17,inflate,balloon,,,Change,SIMILAR,example,
+15,17,increment,number,,,Change,SIMILAR,example,
+15,17,inflation,price,,,Change,SIMILAR,example,
+15,17,silence,noise,,,Change,SIMILAR,example,
+15,17,deplete,stockpile,warehouse,stockpile,Change,SIMILAR,probe,2.0
+16,1,ponder,thoughtful,,,Action:Action Attribute,ATTRIBUTE,example,
+16,1,forgive,merciful,,,Action:Action Attribute,ATTRIBUTE,example,
+16,1,apologize,humble,,,Action:Action Attribute,ATTRIBUTE,example,
+16,1,tremble,nervous,,,Action:Action Attribute,ATTRIBUTE,example,
+16,1,climb,strenuous,mountain,strenuous,Action:Action Attribute,ATTRIBUTE,probe,2.0
+17,23,gold,silver,,,Coordinates,SIMILAR,example,
+17,23,pants,shorts,,,Coordinates,SIMILAR,example,
+17,23,marble,granite,,,Coordinates,SIMILAR,example,
+17,23,butterfly,moth,,,Coordinates,SIMILAR,example,
+17,23,truck,van,van,highway,Coordinates,SIMILAR,probe,1.0
+18,-1,baseline,baseline,,,baseline,baseline,baseline,
+19,17,accumulate,dust,,,Change,SIMILAR,example,
+19,17,decline,health,,,Change,SIMILAR,example,
+19,17,sweeten,tea,,,Change,SIMILAR,example,
+19,17,expand,territory,,,Change,SIMILAR,example,
+19,17,worsen,condition,doctor,condition,Change,SIMILAR,probe,2.0
+20,23,ocean,sea,,,Coordinates,SIMILAR,example,
+20,23,oak,maple,,,Coordinates,SIMILAR,example,
+20,23,lettuce,spinach,,,Coordinates,SIMILAR,example,
+20,23,shirt,blouse,,,Coordinates,SIMILAR,example,
+20,23,book,magazine,magazine,novel,Coordinates,SIMILAR,probe,1.0
+21,47,reef,coral,,,Object:Stuff,PART-WHOLE,example,
+21,47,forest,trees,,,Object:Stuff,PART-WHOLE,example,
+21,47,boots,leather,,,Object:Stuff,PART-WHOLE,example,
+21,47,chocolate,cocoa,,,Object:Stuff,PART-WHOLE,example,
+21,47,alphabet,letters,letters,sounds,Object:Stuff,PART-WHOLE,probe,1.0
+22,-1,baseline,baseline,,,baseline,baseline,baseline,
+23,17,leak,fuel,,,Change,SIMILAR,example,
+23,17,drain,battery,,,Change,SIMILAR,example,
+23,17,erode,trust,,,Change,SIMILAR,example,
+23,17,melt,ice,,,Change,SIMILAR,example,
+23,17,surplus,inventory,inventory,shelf,Change,SIMILAR,probe,1.0
+24,1,sulk,resentful,,,Action:Action Attribute,ATTRIBUTE,example,
+24,1,stumble,clumsy,,,Action:Action Attribute,ATTRIBUTE,example,
+24,1,mourn,somber,,,Action:Action Attribute,ATTRIBUTE,example,
+24,1,run,fast,,,Action:Action Attribute,ATTRIBUTE,example,
+24,1,pamper,indulgent,gentle,indulgent,Action:Action Attribute,ATTRIBUTE,probe,2.0
+25,23,bicycle,motorcycle,,,Coordinates,SIMILAR,example,
+25,23,cake,pie,,,Coordinates,SIMILAR,example,
+25,23,broccoli,cauliflower,,,Coordinates,SIMILAR,example,
+25,23,flour,sugar,,,Coordinates,SIMILAR,example,
+25,23,trumpet,trombone,trombone,blow,Coordinates,SIMILAR,probe,1.0

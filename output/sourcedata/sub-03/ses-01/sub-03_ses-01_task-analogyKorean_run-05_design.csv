@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,14,빵,케이크,,,Attribute Similarity (Korean Localized),SIMILAR,example,
+1,14,비,폭포,,,Attribute Similarity (Korean Localized),SIMILAR,example,
+1,14,꽃,나무,,,Attribute Similarity (Korean Localized),SIMILAR,example,
+1,14,연필,펜,,,Attribute Similarity (Korean Localized),SIMILAR,example,
+1,14,화산,간헐천,간헐천,분화구,Attribute Similarity (Korean Localized),SIMILAR,probe,1.0
+2,57,오디션,캐스팅,,,Sequence (Korean Localized),SPACE-TIME,example,
+2,57,반죽하기,굽기,,,Sequence (Korean Localized),SPACE-TIME,example,
+2,57,연애,결혼,,,Sequence (Korean Localized),SPACE-TIME,example,
+2,57,집필,편집,,,Sequence (Korean Localized),SPACE-TIME,example,
+2,57,예식,피로연,주례,피로연,Sequence (Korean Localized),SPACE-TIME,probe,2.0
+3,39,법과학,증거,,,Knowledge (Korean Localized),REFERENCE,example,
+3,39,독성학,독,,,Knowledge (Korean Localized),REFERENCE,example,
+3,39,지리학,장소,,,Knowledge (Korean Localized),REFERENCE,example,
+3,39,가족학,가족,,,Knowledge (Korean Localized),REFERENCE,example,
+3,39,정형외과학,뼈,신경,뼈,Knowledge (Korean Localized),REFERENCE,probe,2.0
+4,-1,baseline,baseline,,,baseline,baseline,baseline,
+5,57,개점,폐점,,,Sequence (Korean Localized),SPACE-TIME,example,
+5,57,임신,출산,,,Sequence (Korean Localized),SPACE-TIME,example,
+5,57,증상,진단,,,Sequence (Korean Localized),SPACE-TIME,example,
+5,57,달걀,병아리,,,Sequence (Korean Localized),SPACE-TIME,example,
+5,57,선거,취임,의사당,취임,Sequence (Korean Localized),SPACE-TIME,probe,2.0
+6,25,마르다,수척하다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+6,25,자랑스럽다,자만하다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+6,25,덥다,작열하다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+6,25,과묵하다,은둔하다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+6,25,슬프다,절망하다,절망하다,비,Dimensional Excessive (Korean Localized),SIMILAR,probe,1.0
+7,14,못,나사,,,Attribute Similarity (Korean Localized),SIMILAR,example,
+7,14,모래,소금,,,Attribute Similarity (Korean Localized),SIMILAR,example,
+7,14,망원경,쌍안경,,,Attribute Similarity (Korean Localized),SIMILAR,example,
+7,14,동굴,터널,,,Attribute Similarity (Korean Localized),SIMILAR,example,
+7,14,바늘,핀,핀,실,Attribute Similarity (Korean Localized),SIMILAR,probe,1.0
+8,57,일학년,이학년,,,Sequence (Korean Localized),SPACE-TIME,example,
+8,57,파종,수확,,,Sequence (Korean Localized),SPACE-TIME,example,
+8,57,질병,회복,,,Sequence (Korean Localized),SPACE-TIME,example,
+8,57,올챙이,개구리,,,Sequence (Korean Localized),SPACE-TIME,example,
+8,57,워밍업,경기,경기,연습,Sequence (Korean Localized),SPACE-TIME,probe,1.0
+9,25,좋아하다,푹빠지다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+9,25,끈질기다,집요하다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+9,25,꼼꼼하다,사소한것까지따지다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+9,25,따뜻하다,무덥다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+9,25,젖다,흠뻑젖다,흠뻑젖다,비옷,Dimensional Excessive (Korean Localized),SIMILAR,probe,1.0
+10,-1,baseline,baseline,,,baseline,baseline,baseline,
+11,39,수사학,설득,,,Knowledge (Korean Localized),REFERENCE,example,
+11,39,피부과학,피부,,,Knowledge (Korean Localized),REFERENCE,example,
+11,39,컴퓨터과학,계산,,,Knowledge (Korean Localized),REFERENCE,example,
+11,39,심장학,심장,,,Knowledge (Korean Localized),REFERENCE,example,
+11,39,영양학,영양,영양,다이어트,Knowledge (Korean Localized),REFERENCE,probe,1.0
+12,14,종이,양피지,,,Attribute Similarity (Korean Localized),SIMILAR,example,
+12,14,밧줄,사슬,,,Attribute Similarity (Korean Localized),SIMILAR,example,
+12,14,거북이,달팽이,,,Attribute Similarity (Korean Localized),SIMILAR,example,
+12,14,문,대문,,,Attribute Similarity (Korean Localized),SIMILAR,example,
+12,14,검,칼,칼,숫돌,Attribute Similarity (Korean Localized),SIMILAR,probe,1.0
+13,-1,baseline,baseline,,,baseline,baseline,baseline,
+14,39,건축학,건물,,,Knowledge (Korean Localized),REFERENCE,example,
+14,39,고고학,유물,,,Knowledge (Korean Localized),REFERENCE,example,
+14,39,지도학,지도,,,Knowledge (Korean Localized),REFERENCE,example,
+14,39,화산학,화산,,,Knowledge (Korean Localized),REFERENCE,example,
+14,39,안과학,눈,대기실,눈,Knowledge (Korean Localized),REFERENCE,probe,2.0
+15,14,책,잡지,,,Attribute Similarity (Korean Localized),SIMILAR,example,
+15,14,구름,안개,,,Attribute Similarity (Korean Localized),SIMILAR,example,
+15,14,키보드,계산기,,,Attribute Similarity (Korean Localized),SIMILAR,example,
+15,14,짐마차,트레일러,,,Attribute Similarity (Korean Localized),SIMILAR,example,
+15,14,컵,머그컵,싱크대,머그컵,Attribute Similarity (Korean Localized),SIMILAR,probe,2.0
+16,25,의욕있다,절박하다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+16,25,잘믿다,잘속다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+16,25,군것질하다,폭식하다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+16,25,묻다,심문하다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+16,25,불안,공포,공포,서성거리다,Dimensional Excessive (Korean Localized),SIMILAR,probe,1.0
+17,-1,baseline,baseline,,,baseline,baseline,baseline,
+18,39,우주론,우주,,,Knowledge (Korean Localized),REFERENCE,example,
+18,39,항공학,비행,,,Knowledge (Korean Localized),REFERENCE,example,
+18,39,정신의학,정신질환,,,Knowledge (Korean Localized),REFERENCE,example,
+18,39,물리학,물질,,,Knowledge (Korean Localized),REFERENCE,example,
+18,39,음악학,음악,음악,작곡가,Knowledge (Korean Localized),REFERENCE,probe,1.0
+19,57,지원서,면접,,,Sequence (Korean Localized),SPACE-TIME,example,
+19,57,개요,에세이,,,Sequence (Korean Localized),SPACE-TIME,example,
+19,57,새벽,해질녘,,,Sequence (Korean Localized),SPACE-TIME,example,
+19,57,수정,출산,,,Sequence (Korean Localized),SPACE-TIME,example,
+19,57,주문,배송,배송,결제,Sequence (Korean Localized),SPACE-TIME,probe,1.0
+20,14,버터,마가린,,,Attribute Similarity (Korean Localized),SIMILAR,example,
+20,14,창문,천창,,,Attribute Similarity (Korean Localized),SIMILAR,example,
+20,14,붕대,삼각건,,,Attribute Similarity (Korean Localized),SIMILAR,example,
+20,14,벌,말벌,,,Attribute Similarity (Korean Localized),SIMILAR,example,
+20,14,꿀,시럽,벌,시럽,Attribute Similarity (Korean Localized),SIMILAR,probe,2.0
+21,25,말하다,장광설늘어놓다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+21,25,키크다,우뚝솟다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+21,25,똑똑떨어지다,콸콸쏟아지다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+21,25,경쟁적이다,살벌하다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+21,25,대담하다,무모하다,묘기,무모하다,Dimensional Excessive (Korean Localized),SIMILAR,probe,2.0
+22,-1,baseline,baseline,,,baseline,baseline,baseline,
+23,39,수학,숫자,,,Knowledge (Korean Localized),REFERENCE,example,
+23,39,미생물학,미생물,,,Knowledge (Korean Localized),REFERENCE,example,
+23,39,신화학,신화,,,Knowledge (Korean Localized),REFERENCE,example,
+23,39,혈액학,혈액,,,Knowledge (Korean Localized),REFERENCE,example,
+23,39,해양생물학,해양생물,해양생물,스쿠버장비,Knowledge (Korean Localized),REFERENCE,probe,1.0
+24,25,두려움,공황,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+24,25,만족하다,감격하다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+24,25,배고프다,굶주리다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+24,25,보다,뚫어지게보다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+24,25,친근하다,과하게달라붙다,파티,과하게달라붙다,Dimensional Excessive (Korean Localized),SIMILAR,probe,2.0
+25,57,제목,이야기,,,Sequence (Korean Localized),SPACE-TIME,example,
+25,57,뻗다,만지다,,,Sequence (Korean Localized),SPACE-TIME,example,
+25,57,설계도,건설,,,Sequence (Korean Localized),SPACE-TIME,example,
+25,57,아침,오후,,,Sequence (Korean Localized),SPACE-TIME,example,
+25,57,출발,도착,도착,탑승,Sequence (Korean Localized),SPACE-TIME,probe,1.0

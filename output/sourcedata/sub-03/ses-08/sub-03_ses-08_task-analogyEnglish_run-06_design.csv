@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,47,necklace,beads,,,Object:Stuff,PART-WHOLE,example,
+1,47,flock,birds,,,Object:Stuff,PART-WHOLE,example,
+1,47,bridge,steel,,,Object:Stuff,PART-WHOLE,example,
+1,47,constellation,stars,,,Object:Stuff,PART-WHOLE,example,
+1,47,swarm,bees,summer,bees,Object:Stuff,PART-WHOLE,probe,2.0
+2,46,aid,refugee,,,Object:Recipient,CASE RELATIONS,example,
+2,46,update,user,,,Object:Recipient,CASE RELATIONS,example,
+2,46,rations,soldier,,,Object:Recipient,CASE RELATIONS,example,
+2,46,subsidy,farmer,,,Object:Recipient,CASE RELATIONS,example,
+2,46,instructions,trainee,teacher,trainee,Object:Recipient,CASE RELATIONS,probe,2.0
+3,0,spy,inform,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+3,0,negotiate,agree,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+3,0,advertise,promote,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+3,0,train,improve,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+3,0,teach,educate,educate,classroom,Action/Activity:Goal,CAUSE-PURPOSE,probe,1.0
+4,21,wise,foolish,,,Contrary,CONTRAST,example,
+4,21,win,lose,,,Contrary,CONTRAST,example,
+4,21,salty,sweet,,,Contrary,CONTRAST,example,
+4,21,cheerful,gloomy,,,Contrary,CONTRAST,example,
+4,21,rural,urban,urban,farmland,Contrary,CONTRAST,probe,1.0
+5,46,coupon,shopper,,,Object:Recipient,CASE RELATIONS,example,
+5,46,orders,subordinate,,,Object:Recipient,CASE RELATIONS,example,
+5,46,reward,finder,,,Object:Recipient,CASE RELATIONS,example,
+5,46,bonus,executive,,,Object:Recipient,CASE RELATIONS,example,
+5,46,notice,tenant,lease,tenant,Object:Recipient,CASE RELATIONS,probe,2.0
+6,-1,baseline,baseline,,,baseline,baseline,baseline,
+7,0,protest,reform,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+7,0,invest,profit,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+7,0,retreat,survive,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+7,0,insulate,warm,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+7,0,save,afford,afford,budget,Action/Activity:Goal,CAUSE-PURPOSE,probe,1.0
+8,47,pillow,feathers,,,Object:Stuff,PART-WHOLE,example,
+8,47,scarf,silk,,,Object:Stuff,PART-WHOLE,example,
+8,47,garden,flowers,,,Object:Stuff,PART-WHOLE,example,
+8,47,paint,pigment,,,Object:Stuff,PART-WHOLE,example,
+8,47,sweater,wool,winter,wool,Object:Stuff,PART-WHOLE,probe,2.0
+9,-1,baseline,baseline,,,baseline,baseline,baseline,
+10,21,hungry,full,,,Contrary,CONTRAST,example,
+10,21,tame,wild,,,Contrary,CONTRAST,example,
+10,21,smart,stupid,,,Contrary,CONTRAST,example,
+10,21,young,old,,,Contrary,CONTRAST,example,
+10,21,innocent,guilty,blameless,guilty,Contrary,CONTRAST,probe,2.0
+11,46,scholarship,freshman,,,Object:Recipient,CASE RELATIONS,example,
+11,46,grant,scientist,,,Object:Recipient,CASE RELATIONS,example,
+11,46,crown,king,,,Object:Recipient,CASE RELATIONS,example,
+11,46,complaint,manager,,,Object:Recipient,CASE RELATIONS,example,
+11,46,bouquet,bridesmaid,bridesmaid,aisle,Object:Recipient,CASE RELATIONS,probe,1.0
+12,0,drive,arrive,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+12,0,run,exercise,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+12,0,fast,cleanse,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+12,0,sharpen,cut,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+12,0,rest,recover,sleep,recover,Action/Activity:Goal,CAUSE-PURPOSE,probe,2.0
+13,-1,baseline,baseline,,,baseline,baseline,baseline,
+14,47,quilt,patches,,,Object:Stuff,PART-WHOLE,example,
+14,47,wall,bricks,,,Object:Stuff,PART-WHOLE,example,
+14,47,atmosphere,gas,,,Object:Stuff,PART-WHOLE,example,
+14,47,salad,vegetables,,,Object:Stuff,PART-WHOLE,example,
+14,47,staircase,steps,steps,elevator,Object:Stuff,PART-WHOLE,probe,1.0
+15,0,observe,understand,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+15,0,cook,eat,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+15,0,encrypt,protect,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+15,0,argue,convince,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+15,0,lock,secure,door,secure,Action/Activity:Goal,CAUSE-PURPOSE,probe,2.0
+16,21,tight,loose,,,Contrary,CONTRAST,example,
+16,21,friend,enemy,,,Contrary,CONTRAST,example,
+16,21,start,finish,,,Contrary,CONTRAST,example,
+16,21,wide,narrow,,,Contrary,CONTRAST,example,
+16,21,come,go,go,invitation,Contrary,CONTRAST,probe,1.0
+17,-1,baseline,baseline,,,baseline,baseline,baseline,
+18,47,brick,clay,,,Object:Stuff,PART-WHOLE,example,
+18,47,ring,gold,,,Object:Stuff,PART-WHOLE,example,
+18,47,sentence,words,,,Object:Stuff,PART-WHOLE,example,
+18,47,lemonade,lemons,,,Object:Stuff,PART-WHOLE,example,
+18,47,shirt,cotton,dye,cotton,Object:Stuff,PART-WHOLE,probe,2.0
+19,21,arrive,depart,,,Contrary,CONTRAST,example,
+19,21,open,close,,,Contrary,CONTRAST,example,
+19,21,rise,fall,,,Contrary,CONTRAST,example,
+19,21,loyal,treacherous,,,Contrary,CONTRAST,example,
+19,21,success,failure,victory,failure,Contrary,CONTRAST,probe,2.0
+20,-1,baseline,baseline,,,baseline,baseline,baseline,
+21,46,bill,consumer,,,Object:Recipient,CASE RELATIONS,example,
+21,46,fine,offender,,,Object:Recipient,CASE RELATIONS,example,
+21,46,summons,juror,,,Object:Recipient,CASE RELATIONS,example,
+21,46,verdict,defendant,,,Object:Recipient,CASE RELATIONS,example,
+21,46,flowers,widow,funeral,widow,Object:Recipient,CASE RELATIONS,probe,2.0
+22,0,iron,smooth,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+22,0,sing,entertain,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+22,0,vaccinate,prevent,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+22,0,climb,conquer,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+22,0,plant,grow,water,grow,Action/Activity:Goal,CAUSE-PURPOSE,probe,2.0
+23,47,cup,ceramic,,,Object:Stuff,PART-WHOLE,example,
+23,47,herd,cattle,,,Object:Stuff,PART-WHOLE,example,
+23,47,chocolate,cocoa,,,Object:Stuff,PART-WHOLE,example,
+23,47,deck,cards,,,Object:Stuff,PART-WHOLE,example,
+23,47,sandcastle,sand,sand,water,Object:Stuff,PART-WHOLE,probe,1.0
+24,21,peace,war,,,Contrary,CONTRAST,example,
+24,21,excited,bored,,,Contrary,CONTRAST,example,
+24,21,give,take,,,Contrary,CONTRAST,example,
+24,21,wet,dry,,,Contrary,CONTRAST,example,
+24,21,bright,dark,lightbulb,dark,Contrary,CONTRAST,probe,2.0
+25,46,grade,pupil,,,Object:Recipient,CASE RELATIONS,example,
+25,46,ransom,kidnapper,,,Object:Recipient,CASE RELATIONS,example,
+25,46,resume,recruiter,,,Object:Recipient,CASE RELATIONS,example,
+25,46,trophy,champion,,,Object:Recipient,CASE RELATIONS,example,
+25,46,punishment,convict,convict,sentence,Object:Recipient,CASE RELATIONS,probe,1.0

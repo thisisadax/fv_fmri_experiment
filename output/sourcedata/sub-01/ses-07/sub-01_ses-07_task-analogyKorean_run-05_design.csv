@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,8,애니메이터,애니메이션,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+1,8,예술가,걸작,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+1,8,정원사,삽,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+1,8,일러스트레이터,일러스트,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+1,8,도예가,점토,점토,스튜디오,Agent:Object (Korean Localized),CASE RELATIONS,probe,1.0
+2,51,뱀,달리다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+2,51,도둑,돌려주다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+2,51,내향적인사람,주최하다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+2,51,비관론자,희망하다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+2,51,사서,소리치다,속삭이다,소리치다,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,probe,2.0
+3,46,유산,상속인,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+3,46,십일조,교회,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+3,46,판매수당,판매원,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+3,46,패스,팀원,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+3,46,여권,신청자,도장,신청자,Object:Recipient (Korean Localized),CASE RELATIONS,probe,2.0
+4,8,음악가,멜로디,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+4,8,배관공,파이프,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+4,8,목수,망치,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+4,8,만화가,만화,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+4,8,재봉사,드레스,드레스,피팅,Agent:Object (Korean Localized),CASE RELATIONS,probe,1.0
+5,-1,baseline,baseline,,,baseline,baseline,baseline,
+6,51,나무늘보,전력질주하다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+6,51,지렁이,뛰다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+6,51,친구,배신하다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+6,51,인어,걷다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+6,51,태양,얼다,타다,얼다,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,probe,2.0
+7,16,칭찬,행복,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+7,16,물주기,성장,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+7,16,불,화상,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+7,16,성관계,임신,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+7,16,땅파기,구덩이,구덩이,삽,Cause:Effect (Korean Localized),CAUSE-PURPOSE,probe,1.0
+8,-1,baseline,baseline,,,baseline,baseline,baseline,
+9,46,공,리시버,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+9,46,조공,황제,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+9,46,통지서,세입자,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+9,46,급여수표,간호사,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+9,46,치료,환자,환자,간호사,Object:Recipient (Korean Localized),CASE RELATIONS,probe,1.0
+10,8,재단사,정장,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+10,8,블렌더,슬러시,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+10,8,구두수선공,구두,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+10,8,피아니스트,피아노,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+10,8,극작가,희곡,희곡,관객,Agent:Object (Korean Localized),CASE RELATIONS,probe,1.0
+11,16,질투,원망,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+11,16,부상,통증,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+11,16,친절,감사,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+11,16,토네이도,잔해,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+11,16,스트레스,두통,두통,마감기한,Cause:Effect (Korean Localized),CAUSE-PURPOSE,probe,1.0
+12,46,기부금,자선단체,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+12,46,조언,의뢰인,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+12,46,벌금,위반자,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+12,46,백신,영아,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+12,46,꽃,미망인,성직자,미망인,Object:Recipient (Korean Localized),CASE RELATIONS,probe,2.0
+13,-1,baseline,baseline,,,baseline,baseline,baseline,
+14,16,독,사망,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+14,16,난방기,따뜻함,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+14,16,바람,침식,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+14,16,호기심,탐구,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+14,16,요리,향,향,향신료,Cause:Effect (Korean Localized),CAUSE-PURPOSE,probe,1.0
+15,51,냉소주의자,신뢰하다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+15,51,멘토,오도하다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+15,51,교사,속이다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+15,51,불면증환자,잠자다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+15,51,순교자,항복하다,항복하다,맞서다,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,probe,1.0
+16,8,뜨개공,스웨터,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+16,8,어부,그물,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+16,8,플로리스트,꽃,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+16,8,방적공,실,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+16,8,건축가,건물,크레인,건물,Agent:Object (Korean Localized),CASE RELATIONS,probe,2.0
+17,-1,baseline,baseline,,,baseline,baseline,baseline,
+18,51,학자,표절하다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+18,51,평화주의자,싸우다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+18,51,미니멀리스트,수집하다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+18,51,충성파,변절하다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+18,51,돌,뜨다,뜨다,쉬다,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,probe,1.0
+19,46,소포,집주인,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+19,46,성적,학생,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+19,46,청구서,소비자,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+19,46,비자,여행자,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+19,46,범칙금통지서,운전자,운전자,판사,Object:Recipient (Korean Localized),CASE RELATIONS,probe,1.0
+20,16,지진,파괴,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+20,16,거절,상심,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+20,16,발걸림,넘어짐,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+20,16,과식,비만,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+20,16,충돌,크레이터,망원경,크레이터,Cause:Effect (Korean Localized),CAUSE-PURPOSE,probe,2.0
+21,-1,baseline,baseline,,,baseline,baseline,baseline,
+22,8,조각가,끌,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+22,8,보석상,보석,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+22,8,대장장이,철,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+22,8,시인,단어,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+22,8,정비사,렌치,차고,렌치,Agent:Object (Korean Localized),CASE RELATIONS,probe,2.0
+23,16,알레르기,발진,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+23,16,가뭄,기근,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+23,16,의견다툼,분노,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+23,16,연습,향상,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+23,16,굶주림,무기력,식량부족,무기력,Cause:Effect (Korean Localized),CAUSE-PURPOSE,probe,2.0
+24,51,동맹,사보타주하다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+24,51,무정부주의자,복종하다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+24,51,닻,표류하다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+24,51,거짓말쟁이,자백하다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+24,51,아기,춤추다,춤추다,옹알이하다,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,probe,1.0
+25,46,젖병,아기,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+25,46,지시사항,연수생,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+25,46,졸업장,학생,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+25,46,시민권,이민자,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+25,46,소환장,증인,증인,재판,Object:Recipient (Korean Localized),CASE RELATIONS,probe,1.0

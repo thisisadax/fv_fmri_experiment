@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,27,exaggerate,lie,,,Dimensional Naughty,SIMILAR,example,
+1,27,sip,guzzle,,,Dimensional Naughty,SIMILAR,example,
+1,27,guide,control,,,Dimensional Naughty,SIMILAR,example,
+1,27,complain,whine,,,Dimensional Naughty,SIMILAR,example,
+1,27,watch,peep,peep,observe,Dimensional Naughty,SIMILAR,probe,1.0
+2,37,lake,surface,,,Item:Topological Part,PART-WHOLE,example,
+2,37,car,hood,,,Item:Topological Part,PART-WHOLE,example,
+2,37,foot,heel,,,Item:Topological Part,PART-WHOLE,example,
+2,37,castle,tower,,,Item:Topological Part,PART-WHOLE,example,
+2,37,house,bedroom,apartment,bedroom,Item:Topological Part,PART-WHOLE,probe,2.0
+3,36,stray,owner,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+3,36,amnesiac,memories,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+3,36,bankrupt,riches,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+3,36,addict,control,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+3,36,refugee,home,visa,home,Item:Ex-part/Ex-possession,PART-WHOLE,probe,2.0
+4,18,berry,Strawberry,,,ClassIndividual,CLASS-INCLUSION,example,
+4,18,river,Nile,,,ClassIndividual,CLASS-INCLUSION,example,
+4,18,continent,Africa,,,ClassIndividual,CLASS-INCLUSION,example,
+4,18,king,Henry,,,ClassIndividual,CLASS-INCLUSION,example,
+4,18,candy,Snickers,snickers,bar,ClassIndividual,CLASS-INCLUSION,probe,1.0
+5,-1,baseline,baseline,,,baseline,baseline,baseline,
+6,37,hill,top,,,Item:Topological Part,PART-WHOLE,example,
+6,37,ear,lobe,,,Item:Topological Part,PART-WHOLE,example,
+6,37,airport,terminal,,,Item:Topological Part,PART-WHOLE,example,
+6,37,chair,back,,,Item:Topological Part,PART-WHOLE,example,
+6,37,tree,branch,axe,branch,Item:Topological Part,PART-WHOLE,probe,2.0
+7,36,zombie,consciousness,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+7,36,rubble,structure,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+7,36,amputee,limb,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+7,36,pedestal,statue,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+7,36,ember,flame,campfire,flame,Item:Ex-part/Ex-possession,PART-WHOLE,probe,2.0
+8,27,help,interfere,,,Dimensional Naughty,SIMILAR,example,
+8,27,sign,forge,,,Dimensional Naughty,SIMILAR,example,
+8,27,compliment,flatter,,,Dimensional Naughty,SIMILAR,example,
+8,27,gaze,leer,,,Dimensional Naughty,SIMILAR,example,
+8,27,warn,threaten,sign,threaten,Dimensional Naughty,SIMILAR,probe,2.0
+9,-1,baseline,baseline,,,baseline,baseline,baseline,
+10,18,composer,Mozart,,,ClassIndividual,CLASS-INCLUSION,example,
+10,18,cat,Siamese,,,ClassIndividual,CLASS-INCLUSION,example,
+10,18,lake,Erie,,,ClassIndividual,CLASS-INCLUSION,example,
+10,18,ocean,Indian,,,ClassIndividual,CLASS-INCLUSION,example,
+10,18,prince,Charles,charles,palace,ClassIndividual,CLASS-INCLUSION,probe,1.0
+11,27,hunt,poach,,,Dimensional Naughty,SIMILAR,example,
+11,27,negotiate,blackmail,,,Dimensional Naughty,SIMILAR,example,
+11,27,observe,spy,,,Dimensional Naughty,SIMILAR,example,
+11,27,admire,obsess,,,Dimensional Naughty,SIMILAR,example,
+11,27,discuss,rant,rant,topic,Dimensional Naughty,SIMILAR,probe,1.0
+12,-1,baseline,baseline,,,baseline,baseline,baseline,
+13,36,graduate,homework,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+13,36,rebel,obedience,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+13,36,senior,vitality,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+13,36,traitor,loyalty,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+13,36,man,boyhood,strength,boyhood,Item:Ex-part/Ex-possession,PART-WHOLE,probe,2.0
+14,18,tool,Hammer,,,ClassIndividual,CLASS-INCLUSION,example,
+14,18,state,Texas,,,ClassIndividual,CLASS-INCLUSION,example,
+14,18,company,Apple,,,ClassIndividual,CLASS-INCLUSION,example,
+14,18,day,Monday,,,ClassIndividual,CLASS-INCLUSION,example,
+14,18,island,Madagascar,mozambique,madagascar,ClassIndividual,CLASS-INCLUSION,probe,2.0
+15,37,garden,path,,,Item:Topological Part,PART-WHOLE,example,
+15,37,ocean,floor,,,Item:Topological Part,PART-WHOLE,example,
+15,37,school,cafeteria,,,Item:Topological Part,PART-WHOLE,example,
+15,37,lamp,shade,,,Item:Topological Part,PART-WHOLE,example,
+15,37,ship,deck,anchor,deck,Item:Topological Part,PART-WHOLE,probe,2.0
+16,-1,baseline,baseline,,,baseline,baseline,baseline,
+17,36,recluse,companionship,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+17,36,mummy,organs,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+17,36,spendthrift,savings,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+17,36,wife,maidenhood,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+17,36,apostate,faith,faith,convert,Item:Ex-part/Ex-possession,PART-WHOLE,probe,1.0
+18,18,nut,Almond,,,ClassIndividual,CLASS-INCLUSION,example,
+18,18,dance,Waltz,,,ClassIndividual,CLASS-INCLUSION,example,
+18,18,motorcycle,Harley,,,ClassIndividual,CLASS-INCLUSION,example,
+18,18,dog,Poodle,,,ClassIndividual,CLASS-INCLUSION,example,
+18,18,snake,Cobra,lizard,cobra,ClassIndividual,CLASS-INCLUSION,probe,2.0
+19,37,hospital,wing,,,Item:Topological Part,PART-WHOLE,example,
+19,37,bus,aisle,,,Item:Topological Part,PART-WHOLE,example,
+19,37,table,leg,,,Item:Topological Part,PART-WHOLE,example,
+19,37,road,shoulder,,,Item:Topological Part,PART-WHOLE,example,
+19,37,church,steeple,steeple,choir,Item:Topological Part,PART-WHOLE,probe,1.0
+20,-1,baseline,baseline,,,baseline,baseline,baseline,
+21,36,orphan,parents,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+21,36,inmate,privacy,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+21,36,divorcee,marriage,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+21,36,veteran,service,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+21,36,debtor,solvency,solvency,collector,Item:Ex-part/Ex-possession,PART-WHOLE,probe,1.0
+22,27,edit,censor,,,Dimensional Naughty,SIMILAR,example,
+22,27,question,badger,,,Dimensional Naughty,SIMILAR,example,
+22,27,visit,stalk,,,Dimensional Naughty,SIMILAR,example,
+22,27,inquire,pry,,,Dimensional Naughty,SIMILAR,example,
+22,27,share,expose,reveal,expose,Dimensional Naughty,SIMILAR,probe,2.0
+23,37,theater,stage,,,Item:Topological Part,PART-WHOLE,example,
+23,37,leg,knee,,,Item:Topological Part,PART-WHOLE,example,
+23,37,river,bed,,,Item:Topological Part,PART-WHOLE,example,
+23,37,airplane,wing,,,Item:Topological Part,PART-WHOLE,example,
+23,37,book,spine,spine,author,Item:Topological Part,PART-WHOLE,probe,1.0
+24,18,sport,Baseball,,,ClassIndividual,CLASS-INCLUSION,example,
+24,18,soda,Pepsi,,,ClassIndividual,CLASS-INCLUSION,example,
+24,18,team,Rangers,,,ClassIndividual,CLASS-INCLUSION,example,
+24,18,author,Shakespeare,,,ClassIndividual,CLASS-INCLUSION,example,
+24,18,goddess,Athena,temple,athena,ClassIndividual,CLASS-INCLUSION,probe,2.0
+25,27,look,glare,,,Dimensional Naughty,SIMILAR,example,
+25,27,promote,spam,,,Dimensional Naughty,SIMILAR,example,
+25,27,keep,withhold,,,Dimensional Naughty,SIMILAR,example,
+25,27,trade,swindle,,,Dimensional Naughty,SIMILAR,example,
+25,27,spend,squander,splurge,squander,Dimensional Naughty,SIMILAR,probe,2.0

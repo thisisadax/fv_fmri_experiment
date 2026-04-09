@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,11,쓸쓸하다,공허함,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+1,11,그립다,그리움,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+1,11,신나다,열의,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+1,11,멍하다,혼동,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+1,11,평화롭다,고요함,고요함,안도감,Agent Attribute:State (Korean Localized),ATTRIBUTE,probe,1.0
+2,56,짓다,파괴하다,,,Reverse (Korean Localized),CONTRAST,example,
+2,56,상냥하다,잔인하다,,,Reverse (Korean Localized),CONTRAST,example,
+2,56,저축하다,소비하다,,,Reverse (Korean Localized),CONTRAST,example,
+2,56,얼다,녹다,,,Reverse (Korean Localized),CONTRAST,example,
+2,56,가라앉다,뜨다,배,뜨다,Reverse (Korean Localized),CONTRAST,probe,2.0
+3,55,분자,화학식,,,Representation (Korean Localized),REFERENCE,example,
+3,55,지형,지도,,,Representation (Korean Localized),REFERENCE,example,
+3,55,얼굴,옆모습,,,Representation (Korean Localized),REFERENCE,example,
+3,55,정의,저울,,,Representation (Korean Localized),REFERENCE,example,
+3,55,소리,녹음,소음,녹음,Representation (Korean Localized),REFERENCE,probe,2.0
+4,11,반항적이다,반항심,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+4,11,지치다,피로감,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+4,11,겁에질리다,공포,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+4,11,들뜨다,행복,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+4,11,떨다,긴장감,긴장감,무대,Agent Attribute:State (Korean Localized),ATTRIBUTE,probe,1.0
+5,-1,baseline,baseline,,,baseline,baseline,baseline,
+6,8,농부,작물,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+6,8,벽돌공,벽,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+6,8,조각가,조각품,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+6,8,건축가,도면,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+6,8,보석상,보석,보석,반지 상자,Agent:Object (Korean Localized),CASE RELATIONS,probe,1.0
+7,11,성내다,적개심,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+7,11,걱정하다,근심,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+7,11,감사하다,감사,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+7,11,피곤하다,탈진,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+7,11,지루하다,권태,강의,권태,Agent Attribute:State (Korean Localized),ATTRIBUTE,probe,2.0
+8,55,영웅심,기념비,,,Representation (Korean Localized),REFERENCE,example,
+8,55,사건,사진,,,Representation (Korean Localized),REFERENCE,example,
+8,55,과정,순서도,,,Representation (Korean Localized),REFERENCE,example,
+8,55,음악,악보,,,Representation (Korean Localized),REFERENCE,example,
+8,55,결혼,반지,부케,반지,Representation (Korean Localized),REFERENCE,probe,2.0
+9,-1,baseline,baseline,,,baseline,baseline,baseline,
+10,8,음악가,악기,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+10,8,양조가,맥주,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+10,8,타자수,키보드,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+10,8,시인,단어,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+10,8,기타리스트,기타,기타,밴드,Agent:Object (Korean Localized),CASE RELATIONS,probe,1.0
+11,56,익숙하다,낯설다,,,Reverse (Korean Localized),CONTRAST,example,
+11,56,대담하다,소심하다,,,Reverse (Korean Localized),CONTRAST,example,
+11,56,살아있다,죽다,,,Reverse (Korean Localized),CONTRAST,example,
+11,56,단순화하다,복잡하게하다,,,Reverse (Korean Localized),CONTRAST,example,
+11,56,들이마시다,내쉬다,킁킁거리다,내쉬다,Reverse (Korean Localized),CONTRAST,probe,2.0
+12,-1,baseline,baseline,,,baseline,baseline,baseline,
+13,8,화가,그림,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+13,8,정원사,삽,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+13,8,예술가,물감,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+13,8,유아,크레용,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+13,8,만화가,만화,신문,만화,Agent:Object (Korean Localized),CASE RELATIONS,probe,2.0
+14,55,삶,전기,,,Representation (Korean Localized),REFERENCE,example,
+14,55,죽음,해골,,,Representation (Korean Localized),REFERENCE,example,
+14,55,시스템,도식,,,Representation (Korean Localized),REFERENCE,example,
+14,55,계급,계급장,,,Representation (Korean Localized),REFERENCE,example,
+14,55,축하,불꽃놀이,색종이조각,불꽃놀이,Representation (Korean Localized),REFERENCE,probe,2.0
+15,56,가깝다,멀다,,,Reverse (Korean Localized),CONTRAST,example,
+15,56,허락하다,금지하다,,,Reverse (Korean Localized),CONTRAST,example,
+15,56,도착하다,출발하다,,,Reverse (Korean Localized),CONTRAST,example,
+15,56,희망,두려움,,,Reverse (Korean Localized),CONTRAST,example,
+15,56,외치다,속삭이다,말하다,속삭이다,Reverse (Korean Localized),CONTRAST,probe,2.0
+16,11,차분하다,평온,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+16,11,은둔하다,은둔,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+16,11,겸손하다,겸손,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+16,11,어수선하다,무질서,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+16,11,질투하다,질투,원망,질투,Agent Attribute:State (Korean Localized),ATTRIBUTE,probe,2.0
+17,-1,baseline,baseline,,,baseline,baseline,baseline,
+18,56,모으다,흩뜨리다,,,Reverse (Korean Localized),CONTRAST,example,
+18,56,통합하다,분열시키다,,,Reverse (Korean Localized),CONTRAST,example,
+18,56,자랑스럽다,부끄럽다,,,Reverse (Korean Localized),CONTRAST,example,
+18,56,유죄,무죄,,,Reverse (Korean Localized),CONTRAST,example,
+18,56,젖다,마르다,마르다,흠뻑젖다,Reverse (Korean Localized),CONTRAST,probe,1.0
+19,55,졸업,학사모,,,Representation (Korean Localized),REFERENCE,example,
+19,55,승리,메달,,,Representation (Korean Localized),REFERENCE,example,
+19,55,업적,트로피,,,Representation (Korean Localized),REFERENCE,example,
+19,55,실력,성적,,,Representation (Korean Localized),REFERENCE,example,
+19,55,권력,옥새,옥새,의식,Representation (Korean Localized),REFERENCE,probe,1.0
+20,11,허둥대다,절박함,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+20,11,풀이죽다,실망,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+20,11,침울하다,슬픔,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+20,11,속상하다,괴로움,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+20,11,화나다,분노,말다툼,분노,Agent Attribute:State (Korean Localized),ATTRIBUTE,probe,2.0
+21,8,교사,교과서,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+21,8,극작가,희곡,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+21,8,광부,곡괭이,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+21,8,목수,가구,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+21,8,전기기사,전선,허가증,전선,Agent:Object (Korean Localized),CASE RELATIONS,probe,2.0
+22,-1,baseline,baseline,,,baseline,baseline,baseline,
+23,56,밝다,어둡다,,,Reverse (Korean Localized),CONTRAST,example,
+23,56,늘이다,줄이다,,,Reverse (Korean Localized),CONTRAST,example,
+23,56,채우다,비우다,,,Reverse (Korean Localized),CONTRAST,example,
+23,56,심다,뽑다,,,Reverse (Korean Localized),CONTRAST,example,
+23,56,들어가다,나가다,나가다,오다,Reverse (Korean Localized),CONTRAST,probe,1.0
+24,55,일년,일기,,,Representation (Korean Localized),REFERENCE,example,
+24,55,추수,곡식바구니,,,Representation (Korean Localized),REFERENCE,example,
+24,55,헌신,기도,,,Representation (Korean Localized),REFERENCE,example,
+24,55,데이터,그래프,,,Representation (Korean Localized),REFERENCE,example,
+24,55,밤,달,달,램프,Representation (Korean Localized),REFERENCE,probe,1.0
+25,8,프로그래머,코드,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+25,8,제빵사,빵,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+25,8,블로거,게시글,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+25,8,학생,에세이,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+25,8,요리사,오븐,앞치마,오븐,Agent:Object (Korean Localized),CASE RELATIONS,probe,2.0

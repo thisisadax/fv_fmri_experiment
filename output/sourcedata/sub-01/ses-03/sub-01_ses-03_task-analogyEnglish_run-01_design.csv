@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,28,brave,courageous,,,Dimensional Similarity,SIMILAR,example,
+1,28,fear,terror,,,Dimensional Similarity,SIMILAR,example,
+1,28,bicycle,motorcycle,,,Dimensional Similarity,SIMILAR,example,
+1,28,violin,cello,,,Dimensional Similarity,SIMILAR,example,
+1,28,horse,pony,pony,gallop,Dimensional Similarity,SIMILAR,probe,1.0
+2,51,optimist,despair,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+2,51,immortal,die,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+2,51,athlete,forfeit,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+2,51,judge,lie,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+2,51,fish,fly,swim,fly,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,probe,2.0
+3,6,setting,volleyball,,,Activity:Stage,PART-WHOLE,example,
+3,6,measuring,carpentry,,,Activity:Stage,PART-WHOLE,example,
+3,6,exhaling,breathing,,,Activity:Stage,PART-WHOLE,example,
+3,6,pitching,baseball,,,Activity:Stage,PART-WHOLE,example,
+3,6,outlining,writing,writing,drawing,Activity:Stage,PART-WHOLE,probe,1.0
+4,-1,baseline,baseline,,,baseline,baseline,baseline,
+5,51,pessimist,hope,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+5,51,priest,fornicate,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+5,51,diplomat,insult,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+5,51,recluse,mingle,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+5,51,gentleman,belch,apologize,belch,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,probe,2.0
+6,28,toast,bake,,,Dimensional Similarity,SIMILAR,example,
+6,28,magazine,newspaper,,,Dimensional Similarity,SIMILAR,example,
+6,28,rug,carpet,,,Dimensional Similarity,SIMILAR,example,
+6,28,silt,sediment,,,Dimensional Similarity,SIMILAR,example,
+6,28,frog,toad,swamp,toad,Dimensional Similarity,SIMILAR,probe,2.0
+7,-1,baseline,baseline,,,baseline,baseline,baseline,
+8,63,pepper,red,,,things - color,Encyclopedic_semantics,example,
+8,63,mustard,yellow,,,things - color,Encyclopedic_semantics,example,
+8,63,celery,green,,,things - color,Encyclopedic_semantics,example,
+8,63,bruise,purple,,,things - color,Encyclopedic_semantics,example,
+8,63,strawberry,red,yellow,red,things - color,Encyclopedic_semantics,probe,2.0
+9,51,bully,apologize,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+9,51,child,work,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+9,51,dictator,resign,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+9,51,mountain,move,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+9,51,saint,curse,curse,comfort,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,probe,1.0
+10,-1,baseline,baseline,,,baseline,baseline,baseline,
+11,6,checking,hockey,,,Activity:Stage,PART-WHOLE,example,
+11,6,dealing,poker,,,Activity:Stage,PART-WHOLE,example,
+11,6,tilling,farming,,,Activity:Stage,PART-WHOLE,example,
+11,6,mopping,cleaning,,,Activity:Stage,PART-WHOLE,example,
+11,6,hammering,building,building,hard hat,Activity:Stage,PART-WHOLE,probe,1.0
+12,63,sunflower,yellow,,,things - color,Encyclopedic_semantics,example,
+12,63,ink,black,,,things - color,Encyclopedic_semantics,example,
+12,63,violet,purple,,,things - color,Encyclopedic_semantics,example,
+12,63,radish,red,,,things - color,Encyclopedic_semantics,example,
+12,63,cloud,white,white,black,things - color,Encyclopedic_semantics,probe,1.0
+13,-1,baseline,baseline,,,baseline,baseline,baseline,
+14,28,canoe,kayak,,,Dimensional Similarity,SIMILAR,example,
+14,28,thin,slender,,,Dimensional Similarity,SIMILAR,example,
+14,28,small,tiny,,,Dimensional Similarity,SIMILAR,example,
+14,28,blanket,quilt,,,Dimensional Similarity,SIMILAR,example,
+14,28,crimson,scarlet,scarlet,apple,Dimensional Similarity,SIMILAR,probe,1.0
+15,63,sky,blue,,,things - color,Encyclopedic_semantics,example,
+15,63,cucumber,green,,,things - color,Encyclopedic_semantics,example,
+15,63,blackboard,black,,,things - color,Encyclopedic_semantics,example,
+15,63,cream,white,,,things - color,Encyclopedic_semantics,example,
+15,63,ocean,blue,blue,brown,things - color,Encyclopedic_semantics,probe,1.0
+16,6,shaving,grooming,,,Activity:Stage,PART-WHOLE,example,
+16,6,paying,shopping,,,Activity:Stage,PART-WHOLE,example,
+16,6,kneading,baking,,,Activity:Stage,PART-WHOLE,example,
+16,6,interviewing,hiring,,,Activity:Stage,PART-WHOLE,example,
+16,6,boarding,flying,flying,gate,Activity:Stage,PART-WHOLE,probe,1.0
+17,51,penguin,fly,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+17,51,anarchist,obey,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+17,51,whale,climb,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+17,51,billionaire,beg,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+17,51,surgeon,tremble,tremble,stitch,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,probe,1.0
+18,28,chuckle,guffaw,,,Dimensional Similarity,SIMILAR,example,
+18,28,bright,brilliant,,,Dimensional Similarity,SIMILAR,example,
+18,28,love,adore,,,Dimensional Similarity,SIMILAR,example,
+18,28,pain,agony,,,Dimensional Similarity,SIMILAR,example,
+18,28,sadness,despair,despair,tears,Dimensional Similarity,SIMILAR,probe,1.0
+19,63,chalk,white,,,things - color,Encyclopedic_semantics,example,
+19,63,mango,yellow,,,things - color,Encyclopedic_semantics,example,
+19,63,amethyst,purple,,,things - color,Encyclopedic_semantics,example,
+19,63,honey,yellow,,,things - color,Encyclopedic_semantics,example,
+19,63,carrot,orange,red,orange,things - color,Encyclopedic_semantics,probe,2.0
+20,6,debugging,programming,,,Activity:Stage,PART-WHOLE,example,
+20,6,brushing,grooming,,,Activity:Stage,PART-WHOLE,example,
+20,6,marinating,grilling,,,Activity:Stage,PART-WHOLE,example,
+20,6,landing,flying,,,Activity:Stage,PART-WHOLE,example,
+20,6,writing,publishing,editing,publishing,Activity:Stage,PART-WHOLE,probe,2.0
+21,28,aversion,hatred,,,Dimensional Similarity,SIMILAR,example,
+21,28,leap,jump,,,Dimensional Similarity,SIMILAR,example,
+21,28,road,highway,,,Dimensional Similarity,SIMILAR,example,
+21,28,painting,drawing,,,Dimensional Similarity,SIMILAR,example,
+21,28,jog,run,stretch,run,Dimensional Similarity,SIMILAR,probe,2.0
+22,51,miser,squander,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+22,51,friend,betray,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+22,51,philanthropist,hoard,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+22,51,nun,date,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+22,51,convict,behave,behave,fight,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,probe,1.0
+23,-1,baseline,baseline,,,baseline,baseline,baseline,
+24,6,harvesting,farming,,,Activity:Stage,PART-WHOLE,example,
+24,6,frying,cooking,,,Activity:Stage,PART-WHOLE,example,
+24,6,asking,negotiating,,,Activity:Stage,PART-WHOLE,example,
+24,6,stitching,sewing,,,Activity:Stage,PART-WHOLE,example,
+24,6,stirring,cooking,spoon,cooking,Activity:Stage,PART-WHOLE,probe,2.0
+25,63,pearl,white,,,things - color,Encyclopedic_semantics,example,
+25,63,swan,white,,,things - color,Encyclopedic_semantics,example,
+25,63,fire,red,,,things - color,Encyclopedic_semantics,example,
+25,63,cherry,red,,,things - color,Encyclopedic_semantics,example,
+25,63,raven,black,black,white,things - color,Encyclopedic_semantics,probe,1.0

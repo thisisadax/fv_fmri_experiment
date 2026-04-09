@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,60,sleep,doze,,,Synonymity,SIMILAR,example,
+1,60,bathroom,lavatory,,,Synonymity,SIMILAR,example,
+1,60,autumn,fall,,,Synonymity,SIMILAR,example,
+1,60,shop,store,,,Synonymity,SIMILAR,example,
+1,60,tale,story,report,story,Synonymity,SIMILAR,probe,2.0
+2,40,bedroom,sleeping,,,Location:Action/Activity,SPACE-TIME,example,
+2,40,beach,sunbathing,,,Location:Action/Activity,SPACE-TIME,example,
+2,40,warehouse,storing,,,Location:Action/Activity,SPACE-TIME,example,
+2,40,farm,growing,,,Location:Action/Activity,SPACE-TIME,example,
+2,40,auction house,bidding,bidding,selling,Location:Action/Activity,SPACE-TIME,probe,1.0
+3,20,scarf,neck,,,Concealment,REFERENCE,example,
+3,20,glove,hand,,,Concealment,REFERENCE,example,
+3,20,clouds,sun,,,Concealment,REFERENCE,example,
+3,20,alias,identity,,,Concealment,REFERENCE,example,
+3,20,blanket,mattress,mattress,sheet,Concealment,REFERENCE,probe,1.0
+4,-1,baseline,baseline,,,baseline,baseline,baseline,
+5,60,soil,dirt,,,Synonymity,SIMILAR,example,
+5,60,careful,cautious,,,Synonymity,SIMILAR,example,
+5,60,teach,instruct,,,Synonymity,SIMILAR,example,
+5,60,bucket,pail,,,Synonymity,SIMILAR,example,
+5,60,huge,enormous,bulky,enormous,Synonymity,SIMILAR,probe,2.0
+6,11,locksmith,key,,,Agent:Object,CASE RELATIONS,example,
+6,11,brewer,beer,,,Agent:Object,CASE RELATIONS,example,
+6,11,fisherman,net,,,Agent:Object,CASE RELATIONS,example,
+6,11,spinner,yarn,,,Agent:Object,CASE RELATIONS,example,
+6,11,jeweler,gold,gold,customer,Agent:Object,CASE RELATIONS,probe,1.0
+7,-1,baseline,baseline,,,baseline,baseline,baseline,
+8,40,kitchen,cooking,,,Location:Action/Activity,SPACE-TIME,example,
+8,40,harbor,docking,,,Location:Action/Activity,SPACE-TIME,example,
+8,40,nightclub,dancing,,,Location:Action/Activity,SPACE-TIME,example,
+8,40,slope,skiing,,,Location:Action/Activity,SPACE-TIME,example,
+8,40,bar,drinking,socializing,drinking,Location:Action/Activity,SPACE-TIME,probe,2.0
+9,20,camouflage,soldier,,,Concealment,REFERENCE,example,
+9,20,lampshade,bulb,,,Concealment,REFERENCE,example,
+9,20,hood,head,,,Concealment,REFERENCE,example,
+9,20,carpet,floor,,,Concealment,REFERENCE,example,
+9,20,makeup,blemishes,blemishes,lips,Concealment,REFERENCE,probe,1.0
+10,-1,baseline,baseline,,,baseline,baseline,baseline,
+11,40,stadium,sports,,,Location:Action/Activity,SPACE-TIME,example,
+11,40,store,shopping,,,Location:Action/Activity,SPACE-TIME,example,
+11,40,classroom,teaching,,,Location:Action/Activity,SPACE-TIME,example,
+11,40,racetrack,racing,,,Location:Action/Activity,SPACE-TIME,example,
+11,40,sauna,sweating,sweating,towel,Location:Action/Activity,SPACE-TIME,probe,1.0
+12,11,woodworker,cabinet,,,Agent:Object,CASE RELATIONS,example,
+12,11,quilter,quilt,,,Agent:Object,CASE RELATIONS,example,
+12,11,actor,performance,,,Agent:Object,CASE RELATIONS,example,
+12,11,designer,fashions,,,Agent:Object,CASE RELATIONS,example,
+12,11,mason,trowel,trowel,helmet,Agent:Object,CASE RELATIONS,probe,1.0
+13,20,bluff,weakness,,,Concealment,REFERENCE,example,
+13,20,flattery,contempt,,,Concealment,REFERENCE,example,
+13,20,husk,corn,,,Concealment,REFERENCE,example,
+13,20,overcoat,weapon,,,Concealment,REFERENCE,example,
+13,20,gauze,scar,blood,scar,Concealment,REFERENCE,probe,2.0
+14,-1,baseline,baseline,,,baseline,baseline,baseline,
+15,11,potter,clay,,,Agent:Object,CASE RELATIONS,example,
+15,11,blogger,post,,,Agent:Object,CASE RELATIONS,example,
+15,11,songwriter,lyrics,,,Agent:Object,CASE RELATIONS,example,
+15,11,florist,flowers,,,Agent:Object,CASE RELATIONS,example,
+15,11,playwright,play,play,actor,Agent:Object,CASE RELATIONS,probe,1.0
+16,40,sidewalk,strolling,,,Location:Action/Activity,SPACE-TIME,example,
+16,40,salon,styling,,,Location:Action/Activity,SPACE-TIME,example,
+16,40,hospital,healing,,,Location:Action/Activity,SPACE-TIME,example,
+16,40,museum,viewing,,,Location:Action/Activity,SPACE-TIME,example,
+16,40,mall,shopping,stores,shopping,Location:Action/Activity,SPACE-TIME,probe,2.0
+17,60,eat,consume,,,Synonymity,SIMILAR,example,
+17,60,center,middle,,,Synonymity,SIMILAR,example,
+17,60,raise,elevate,,,Synonymity,SIMILAR,example,
+17,60,jump,leap,,,Synonymity,SIMILAR,example,
+17,60,easy,simple,simple,light,Synonymity,SIMILAR,probe,1.0
+18,-1,baseline,baseline,,,baseline,baseline,baseline,
+19,11,painter,brush,,,Agent:Object,CASE RELATIONS,example,
+19,11,mechanic,wrench,,,Agent:Object,CASE RELATIONS,example,
+19,11,glassblower,ornament,,,Agent:Object,CASE RELATIONS,example,
+19,11,vintner,wine,,,Agent:Object,CASE RELATIONS,example,
+19,11,welder,torch,workshop,torch,Agent:Object,CASE RELATIONS,probe,2.0
+20,20,tarp,car,,,Concealment,REFERENCE,example,
+20,20,mask,face,,,Concealment,REFERENCE,example,
+20,20,smile,unhappiness,,,Concealment,REFERENCE,example,
+20,20,poster,hole,,,Concealment,REFERENCE,example,
+20,20,rug,stain,stain,tile,Concealment,REFERENCE,probe,1.0
+21,60,flammable,inflammable,,,Synonymity,SIMILAR,example,
+21,60,end,finish,,,Synonymity,SIMILAR,example,
+21,60,ugly,hideous,,,Synonymity,SIMILAR,example,
+21,60,fast,quick,,,Synonymity,SIMILAR,example,
+21,60,sad,unhappy,unhappy,frown,Synonymity,SIMILAR,probe,1.0
+22,40,bathroom,bathing,,,Location:Action/Activity,SPACE-TIME,example,
+22,40,zoo,observing,,,Location:Action/Activity,SPACE-TIME,example,
+22,40,pasture,grazing,,,Location:Action/Activity,SPACE-TIME,example,
+22,40,field,plowing,,,Location:Action/Activity,SPACE-TIME,example,
+22,40,reef,diving,diving,snorkeling,Location:Action/Activity,SPACE-TIME,probe,1.0
+23,11,writer,pen,,,Agent:Object,CASE RELATIONS,example,
+23,11,artist,paint,,,Agent:Object,CASE RELATIONS,example,
+23,11,seamstress,dress,,,Agent:Object,CASE RELATIONS,example,
+23,11,sculptor,sculpture,,,Agent:Object,CASE RELATIONS,example,
+23,11,tailor,needle,fitting,needle,Agent:Object,CASE RELATIONS,probe,2.0
+24,20,curtain,window,,,Concealment,REFERENCE,example,
+24,20,humor,pain,,,Concealment,REFERENCE,example,
+24,20,plaster,crack,,,Concealment,REFERENCE,example,
+24,20,trapdoor,entrance,,,Concealment,REFERENCE,example,
+24,20,composure,anxiety,confidence,anxiety,Concealment,REFERENCE,probe,2.0
+25,60,help,assist,,,Synonymity,SIMILAR,example,
+25,60,grab,seize,,,Synonymity,SIMILAR,example,
+25,60,hide,conceal,,,Synonymity,SIMILAR,example,
+25,60,run,sprint,,,Synonymity,SIMILAR,example,
+25,60,glad,pleased,pleased,thankful,Synonymity,SIMILAR,probe,1.0

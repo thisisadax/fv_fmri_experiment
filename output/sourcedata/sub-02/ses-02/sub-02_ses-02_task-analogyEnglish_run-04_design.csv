@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,39,hematology,blood,,,Knowledge,REFERENCE,example,
+1,39,immunology,immunity,,,Knowledge,REFERENCE,example,
+1,39,geology,earth,,,Knowledge,REFERENCE,example,
+1,39,cryptography,codes,,,Knowledge,REFERENCE,example,
+1,39,paleontology,fossils,fossils,caves,Knowledge,REFERENCE,probe,1.0
+2,44,wall,paint,,,Object:Instrument,CASE RELATIONS,example,
+2,44,tree,chainsaw,,,Object:Instrument,CASE RELATIONS,example,
+2,44,bottle,opener,,,Object:Instrument,CASE RELATIONS,example,
+2,44,whiteboard,marker,,,Object:Instrument,CASE RELATIONS,example,
+2,44,head,hat,hat,pillow,Object:Instrument,CASE RELATIONS,probe,1.0
+3,-1,baseline,baseline,,,baseline,baseline,baseline,
+4,39,hydrology,water,,,Knowledge,REFERENCE,example,
+4,39,microbiology,microbes,,,Knowledge,REFERENCE,example,
+4,39,epidemiology,epidemics,,,Knowledge,REFERENCE,example,
+4,39,ethics,morality,,,Knowledge,REFERENCE,example,
+4,39,trigonometry,triangles,triangles,sine waves,Knowledge,REFERENCE,probe,1.0
+5,61,sale,shopping,,,Time Action/Activity,SPACE-TIME,example,
+5,61,interview,questioning,,,Time Action/Activity,SPACE-TIME,example,
+5,61,infancy,teething,,,Time Action/Activity,SPACE-TIME,example,
+5,61,wartime,rationing,,,Time Action/Activity,SPACE-TIME,example,
+5,61,harvest,reaping,barn,reaping,Time Action/Activity,SPACE-TIME,probe,2.0
+6,57,hard,soft,,,Reverse,CONTRAST,example,
+6,57,ancient,modern,,,Reverse,CONTRAST,example,
+6,57,obey,defy,,,Reverse,CONTRAST,example,
+6,57,young,old,,,Reverse,CONTRAST,example,
+6,57,sink,float,submerge,float,Reverse,CONTRAST,probe,2.0
+7,-1,baseline,baseline,,,baseline,baseline,baseline,
+8,44,dish,soap,,,Object:Instrument,CASE RELATIONS,example,
+8,44,canvas,paintbrush,,,Object:Instrument,CASE RELATIONS,example,
+8,44,meat,cleaver,,,Object:Instrument,CASE RELATIONS,example,
+8,44,thread,needle,,,Object:Instrument,CASE RELATIONS,example,
+8,44,soil,shovel,shovel,garden,Object:Instrument,CASE RELATIONS,probe,1.0
+9,61,halftime,resting,,,Time Action/Activity,SPACE-TIME,example,
+9,61,famine,starvation,,,Time Action/Activity,SPACE-TIME,example,
+9,61,autumn,halloween,,,Time Action/Activity,SPACE-TIME,example,
+9,61,sabbath,worshipping,,,Time Action/Activity,SPACE-TIME,example,
+9,61,noon,lunch,break room,lunch,Time Action/Activity,SPACE-TIME,probe,2.0
+10,57,lock,unlock,,,Reverse,CONTRAST,example,
+10,57,white,black,,,Reverse,CONTRAST,example,
+10,57,fail,succeed,,,Reverse,CONTRAST,example,
+10,57,love,hate,,,Reverse,CONTRAST,example,
+10,57,offend,appease,annoy,appease,Reverse,CONTRAST,probe,2.0
+11,39,ecology,ecosystems,,,Knowledge,REFERENCE,example,
+11,39,mythology,myths,,,Knowledge,REFERENCE,example,
+11,39,criminology,crime,,,Knowledge,REFERENCE,example,
+11,39,philosophy,ideas,,,Knowledge,REFERENCE,example,
+11,39,optics,light,light,mirrors,Knowledge,REFERENCE,probe,1.0
+12,-1,baseline,baseline,,,baseline,baseline,baseline,
+13,61,cruise,sailing,,,Time Action/Activity,SPACE-TIME,example,
+13,61,vacation,travel,,,Time Action/Activity,SPACE-TIME,example,
+13,61,recess,running,,,Time Action/Activity,SPACE-TIME,example,
+13,61,expedition,discovering,,,Time Action/Activity,SPACE-TIME,example,
+13,61,summer,swimming,swimming,beach,Time Action/Activity,SPACE-TIME,probe,1.0
+14,44,envelope,stamp,,,Object:Instrument,CASE RELATIONS,example,
+14,44,prisoner,shackles,,,Object:Instrument,CASE RELATIONS,example,
+14,44,lawn,mower,,,Object:Instrument,CASE RELATIONS,example,
+14,44,cheese,grater,,,Object:Instrument,CASE RELATIONS,example,
+14,44,metal,file,file,rust,Object:Instrument,CASE RELATIONS,probe,1.0
+15,39,archaeology,artifacts,,,Knowledge,REFERENCE,example,
+15,39,astronomy,stars,,,Knowledge,REFERENCE,example,
+15,39,history,past,,,Knowledge,REFERENCE,example,
+15,39,neurology,brain,,,Knowledge,REFERENCE,example,
+15,39,meteorology,weather,climate,weather,Knowledge,REFERENCE,probe,2.0
+16,57,shout,whisper,,,Reverse,CONTRAST,example,
+16,57,lower,raise,,,Reverse,CONTRAST,example,
+16,57,familiar,strange,,,Reverse,CONTRAST,example,
+16,57,encourage,discourage,,,Reverse,CONTRAST,example,
+16,57,sleep,wake,wake,bed,Reverse,CONTRAST,probe,1.0
+17,44,face,sunscreen,,,Object:Instrument,CASE RELATIONS,example,
+17,44,hay,pitchfork,,,Object:Instrument,CASE RELATIONS,example,
+17,44,wire,pliers,,,Object:Instrument,CASE RELATIONS,example,
+17,44,windshield,wiper,,,Object:Instrument,CASE RELATIONS,example,
+17,44,car,jack,engine,jack,Object:Instrument,CASE RELATIONS,probe,2.0
+18,-1,baseline,baseline,,,baseline,baseline,baseline,
+19,57,sharp,dull,,,Reverse,CONTRAST,example,
+19,57,narrow,wide,,,Reverse,CONTRAST,example,
+19,57,rich,poor,,,Reverse,CONTRAST,example,
+19,57,fill,empty,,,Reverse,CONTRAST,example,
+19,57,joy,despair,despair,worry,Reverse,CONTRAST,probe,1.0
+20,39,statistics,data,,,Knowledge,REFERENCE,example,
+20,39,semantics,meaning,,,Knowledge,REFERENCE,example,
+20,39,toxicology,poisons,,,Knowledge,REFERENCE,example,
+20,39,robotics,robots,,,Knowledge,REFERENCE,example,
+20,39,dentistry,teeth,toothbrush,teeth,Knowledge,REFERENCE,probe,2.0
+21,61,storm,lightning,,,Time Action/Activity,SPACE-TIME,example,
+21,61,wedding,marriage,,,Time Action/Activity,SPACE-TIME,example,
+21,61,bedtime,sleeping,,,Time Action/Activity,SPACE-TIME,example,
+21,61,concert,performing,,,Time Action/Activity,SPACE-TIME,example,
+21,61,rehearsal,practicing,practicing,director,Time Action/Activity,SPACE-TIME,probe,1.0
+22,44,eyebrow,tweezers,,,Object:Instrument,CASE RELATIONS,example,
+22,44,violin,bow,,,Object:Instrument,CASE RELATIONS,example,
+22,44,furniture,polish,,,Object:Instrument,CASE RELATIONS,example,
+22,44,turkey,baster,,,Object:Instrument,CASE RELATIONS,example,
+22,44,nails,clippers,manicure,clippers,Object:Instrument,CASE RELATIONS,probe,2.0
+23,-1,baseline,baseline,,,baseline,baseline,baseline,
+24,57,thick,thin,,,Reverse,CONTRAST,example,
+24,57,bless,curse,,,Reverse,CONTRAST,example,
+24,57,dawn,dusk,,,Reverse,CONTRAST,example,
+24,57,arrive,depart,,,Reverse,CONTRAST,example,
+24,57,lie,confess,confess,pretend,Reverse,CONTRAST,probe,1.0
+25,61,thanksgiving,feasting,,,Time Action/Activity,SPACE-TIME,example,
+25,61,parade,marching,,,Time Action/Activity,SPACE-TIME,example,
+25,61,lent,fasting,,,Time Action/Activity,SPACE-TIME,example,
+25,61,morning,sunrise,,,Time Action/Activity,SPACE-TIME,example,
+25,61,winter,snow,snow,season,Time Action/Activity,SPACE-TIME,probe,1.0

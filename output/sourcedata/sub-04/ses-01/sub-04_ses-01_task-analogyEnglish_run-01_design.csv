@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,58,download,install,,,Sequence,SPACE-TIME,example,
+1,58,preview,movie,,,Sequence,SPACE-TIME,example,
+1,58,lightning,thunder,,,Sequence,SPACE-TIME,example,
+1,58,interview,hiring,,,Sequence,SPACE-TIME,example,
+1,58,verdict,sentencing,testimony,sentencing,Sequence,SPACE-TIME,probe,2.0
+2,48,pendulum,swing,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+2,48,heart,beat,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+2,48,lawyer,argue,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+2,48,turtle,crawl,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+2,48,student,learn,practice,learn,Object:Typical Action (noun.verb),ATTRIBUTE,probe,2.0
+3,-1,baseline,baseline,,,baseline,baseline,baseline,
+4,7,frightened,panic,,,Agent Attribute:State,ATTRIBUTE,example,
+4,7,outraged,fury,,,Agent Attribute:State,ATTRIBUTE,example,
+4,7,ecstatic,bliss,,,Agent Attribute:State,ATTRIBUTE,example,
+4,7,suspicious,distrust,,,Agent Attribute:State,ATTRIBUTE,example,
+4,7,fidgeting,restlessness,restlessness,boredom,Agent Attribute:State,ATTRIBUTE,probe,1.0
+5,33,lubricant,oil,,,Functional,CLASS-INCLUSION,example,
+5,33,utensil,fork,,,Functional,CLASS-INCLUSION,example,
+5,33,currency,coin,,,Functional,CLASS-INCLUSION,example,
+5,33,footwear,boot,,,Functional,CLASS-INCLUSION,example,
+5,33,weapon,spear,spear,wood,Functional,CLASS-INCLUSION,probe,1.0
+6,48,carpenter,build,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+6,48,seed,sprout,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+6,48,guard,protect,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+6,48,lightning,strike,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+6,48,dancer,dance,dance,stage,Object:Typical Action (noun.verb),ATTRIBUTE,probe,1.0
+7,7,emotional,turmoil,,,Agent Attribute:State,ATTRIBUTE,example,
+7,7,dazed,confusion,,,Agent Attribute:State,ATTRIBUTE,example,
+7,7,frustrated,irritation,,,Agent Attribute:State,ATTRIBUTE,example,
+7,7,lethargic,fatigue,,,Agent Attribute:State,ATTRIBUTE,example,
+7,7,miserable,despair,despair,regret,Agent Attribute:State,ATTRIBUTE,probe,1.0
+8,33,appliance,fridge,,,Functional,CLASS-INCLUSION,example,
+8,33,restraint,leash,,,Functional,CLASS-INCLUSION,example,
+8,33,vegetable,spinach,,,Functional,CLASS-INCLUSION,example,
+8,33,fabric,cotton,,,Functional,CLASS-INCLUSION,example,
+8,33,fruit,apple,apple,basket,Functional,CLASS-INCLUSION,probe,1.0
+9,58,egg,chick,,,Sequence,SPACE-TIME,example,
+9,58,foreword,novel,,,Sequence,SPACE-TIME,example,
+9,58,outline,essay,,,Sequence,SPACE-TIME,example,
+9,58,packing,traveling,,,Sequence,SPACE-TIME,example,
+9,58,kneading,baking,mixing,baking,Sequence,SPACE-TIME,probe,2.0
+10,48,housekeeper,clean,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+10,48,wind,blow,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+10,48,stomach,digest,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+10,48,mirror,reflect,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+10,48,fish,swim,breathe,swim,Object:Typical Action (noun.verb),ATTRIBUTE,probe,2.0
+11,7,elated,euphoria,,,Agent Attribute:State,ATTRIBUTE,example,
+11,7,forlorn,desolation,,,Agent Attribute:State,ATTRIBUTE,example,
+11,7,guilty,remorse,,,Agent Attribute:State,ATTRIBUTE,example,
+11,7,irritable,annoyance,,,Agent Attribute:State,ATTRIBUTE,example,
+11,7,paranoid,suspicion,suspicion,fear,Agent Attribute:State,ATTRIBUTE,probe,1.0
+12,-1,baseline,baseline,,,baseline,baseline,baseline,
+13,58,crime,investigation,,,Sequence,SPACE-TIME,example,
+13,58,opening,closing,,,Sequence,SPACE-TIME,example,
+13,58,sketch,painting,,,Sequence,SPACE-TIME,example,
+13,58,narrative,epilogue,,,Sequence,SPACE-TIME,example,
+13,58,windup,pitch,pitch,practice,Sequence,SPACE-TIME,probe,1.0
+14,33,light,candle,,,Functional,CLASS-INCLUSION,example,
+14,33,nourishment,banana,,,Functional,CLASS-INCLUSION,example,
+14,33,filter,screen,,,Functional,CLASS-INCLUSION,example,
+14,33,polish,wax,,,Functional,CLASS-INCLUSION,example,
+14,33,container,bucket,mop,bucket,Functional,CLASS-INCLUSION,probe,2.0
+15,-1,baseline,baseline,,,baseline,baseline,baseline,
+16,7,happy,contentment,,,Agent Attribute:State,ATTRIBUTE,example,
+16,7,hostile,aggression,,,Agent Attribute:State,ATTRIBUTE,example,
+16,7,bored,tedium,,,Agent Attribute:State,ATTRIBUTE,example,
+16,7,heartbroken,sorrow,,,Agent Attribute:State,ATTRIBUTE,example,
+16,7,ambitious,determination,greed,determination,Agent Attribute:State,ATTRIBUTE,probe,2.0
+17,58,dawn,dusk,,,Sequence,SPACE-TIME,example,
+17,58,freshman,sophomore,,,Sequence,SPACE-TIME,example,
+17,58,seed,flower,,,Sequence,SPACE-TIME,example,
+17,58,lunch,dinner,,,Sequence,SPACE-TIME,example,
+17,58,invitation,party,party,balloons,Sequence,SPACE-TIME,probe,1.0
+18,33,herb,basil,,,Functional,CLASS-INCLUSION,example,
+18,33,pastry,croissant,,,Functional,CLASS-INCLUSION,example,
+18,33,landmark,lighthouse,,,Functional,CLASS-INCLUSION,example,
+18,33,clothing,shirt,,,Functional,CLASS-INCLUSION,example,
+18,33,beverage,juice,juice,fruit,Functional,CLASS-INCLUSION,probe,1.0
+19,-1,baseline,baseline,,,baseline,baseline,baseline,
+20,48,boxer,fight,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+20,48,sailor,sail,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+20,48,wave,crash,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+20,48,judge,rule,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+20,48,door,close,close,knob,Object:Typical Action (noun.verb),ATTRIBUTE,probe,1.0
+21,58,boarding,takeoff,,,Sequence,SPACE-TIME,example,
+21,58,wedding,honeymoon,,,Sequence,SPACE-TIME,example,
+21,58,draft,revision,,,Sequence,SPACE-TIME,example,
+21,58,text,index,,,Sequence,SPACE-TIME,example,
+21,58,question,answer,answer,solution,Sequence,SPACE-TIME,probe,1.0
+22,-1,baseline,baseline,,,baseline,baseline,baseline,
+23,48,tree,grow,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+23,48,artist,paint,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+23,48,writer,write,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+23,48,monkey,climb,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+23,48,snake,slither,slither,coil,Object:Typical Action (noun.verb),ATTRIBUTE,probe,1.0
+24,33,instrument,violin,,,Functional,CLASS-INCLUSION,example,
+24,33,covering,tarp,,,Functional,CLASS-INCLUSION,example,
+24,33,grain,wheat,,,Functional,CLASS-INCLUSION,example,
+24,33,disinfectant,bleach,,,Functional,CLASS-INCLUSION,example,
+24,33,snack,popcorn,movie,popcorn,Functional,CLASS-INCLUSION,probe,2.0
+25,7,pensive,reflection,,,Agent Attribute:State,ATTRIBUTE,example,
+25,7,parched,thirst,,,Agent Attribute:State,ATTRIBUTE,example,
+25,7,lazy,indolence,,,Agent Attribute:State,ATTRIBUTE,example,
+25,7,dejected,disappointment,,,Agent Attribute:State,ATTRIBUTE,example,
+25,7,messy,disarray,chaos,disarray,Agent Attribute:State,ATTRIBUTE,probe,2.0

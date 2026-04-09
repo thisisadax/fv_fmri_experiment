@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,36,outlaw,honor,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+1,36,spendthrift,savings,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+1,36,stump,branches,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+1,36,addict,control,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+1,36,husband,bachelorhood,wife,bachelorhood,Item:Ex-part/Ex-possession,PART-WHOLE,probe,2.0
+2,-1,baseline,baseline,,,baseline,baseline,baseline,
+3,28,cold,frigid,,,Dimensional Similarity,SIMILAR,example,
+3,28,coffee,tea,,,Dimensional Similarity,SIMILAR,example,
+3,28,marble,granite,,,Dimensional Similarity,SIMILAR,example,
+3,28,trip,vacation,,,Dimensional Similarity,SIMILAR,example,
+3,28,eagle,hawk,hawk,soar,Dimensional Similarity,SIMILAR,probe,1.0
+4,41,hospital,surgery,,,Location:Process/Product,SPACE-TIME,example,
+4,41,slaughterhouse,meat,,,Location:Process/Product,SPACE-TIME,example,
+4,41,classroom,lesson,,,Location:Process/Product,SPACE-TIME,example,
+4,41,bar,cocktail,,,Location:Process/Product,SPACE-TIME,example,
+4,41,lake,fishing,shore,fishing,Location:Process/Product,SPACE-TIME,probe,2.0
+5,-1,baseline,baseline,,,baseline,baseline,baseline,
+6,36,shipwreck,crew,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+6,36,riverbed,water,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+6,36,predecessor,power,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+6,36,slave,liberty,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+6,36,amnesiac,memories,memories,name,Item:Ex-part/Ex-possession,PART-WHOLE,probe,1.0
+7,41,ring,boxing,,,Location:Process/Product,SPACE-TIME,example,
+7,41,ballroom,dancing,,,Location:Process/Product,SPACE-TIME,example,
+7,41,studio,art,,,Location:Process/Product,SPACE-TIME,example,
+7,41,mine,coal,,,Location:Process/Product,SPACE-TIME,example,
+7,41,stadium,game,scoreboard,game,Location:Process/Product,SPACE-TIME,probe,2.0
+8,28,turtle,tortoise,,,Dimensional Similarity,SIMILAR,example,
+8,28,field,meadow,,,Dimensional Similarity,SIMILAR,example,
+8,28,big,large,,,Dimensional Similarity,SIMILAR,example,
+8,28,creek,stream,,,Dimensional Similarity,SIMILAR,example,
+8,28,roast,char,kitchen,char,Dimensional Similarity,SIMILAR,probe,2.0
+9,1,betray,disloyal,,,Action:Action Attribute,ATTRIBUTE,example,
+9,1,lounge,lazy,,,Action:Action Attribute,ATTRIBUTE,example,
+9,1,retreat,cautious,,,Action:Action Attribute,ATTRIBUTE,example,
+9,1,punch,violent,,,Action:Action Attribute,ATTRIBUTE,example,
+9,1,argue,confrontational,confrontational,debate,Action:Action Attribute,ATTRIBUTE,probe,1.0
+10,-1,baseline,baseline,,,baseline,baseline,baseline,
+11,28,painting,drawing,,,Dimensional Similarity,SIMILAR,example,
+11,28,bright,brilliant,,,Dimensional Similarity,SIMILAR,example,
+11,28,piano,organ,,,Dimensional Similarity,SIMILAR,example,
+11,28,jam,jelly,,,Dimensional Similarity,SIMILAR,example,
+11,28,pond,lake,shore,lake,Dimensional Similarity,SIMILAR,probe,2.0
+12,1,juggle,skillful,,,Action:Action Attribute,ATTRIBUTE,example,
+12,1,rest,restorative,,,Action:Action Attribute,ATTRIBUTE,example,
+12,1,plead,earnest,,,Action:Action Attribute,ATTRIBUTE,example,
+12,1,hoard,greedy,,,Action:Action Attribute,ATTRIBUTE,example,
+12,1,sob,emotional,emotional,shaky,Action:Action Attribute,ATTRIBUTE,probe,1.0
+13,41,cafe,coffee,,,Location:Process/Product,SPACE-TIME,example,
+13,41,plantation,cotton,,,Location:Process/Product,SPACE-TIME,example,
+13,41,brewery,beer,,,Location:Process/Product,SPACE-TIME,example,
+13,41,market,trade,,,Location:Process/Product,SPACE-TIME,example,
+13,41,rink,skating,skates,skating,Location:Process/Product,SPACE-TIME,probe,2.0
+14,36,graduate,homework,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+14,36,survivor,illness,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+14,36,chick,eggshell,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+14,36,convalescent,fever,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+14,36,exile,homeland,homeland,citizenship,Item:Ex-part/Ex-possession,PART-WHOLE,probe,1.0
+15,1,kiss,passionate,,,Action:Action Attribute,ATTRIBUTE,example,
+15,1,stroll,leisurely,,,Action:Action Attribute,ATTRIBUTE,example,
+15,1,climb,strenuous,,,Action:Action Attribute,ATTRIBUTE,example,
+15,1,stare,intense,,,Action:Action Attribute,ATTRIBUTE,example,
+15,1,ponder,thoughtful,desk,thoughtful,Action:Action Attribute,ATTRIBUTE,probe,2.0
+16,-1,baseline,baseline,,,baseline,baseline,baseline,
+17,28,love,adore,,,Dimensional Similarity,SIMILAR,example,
+17,28,oak,maple,,,Dimensional Similarity,SIMILAR,example,
+17,28,fire,flame,,,Dimensional Similarity,SIMILAR,example,
+17,28,gaze,stare,,,Dimensional Similarity,SIMILAR,example,
+17,28,happiness,joy,cheerful,joy,Dimensional Similarity,SIMILAR,probe,2.0
+18,41,theater,play,,,Location:Process/Product,SPACE-TIME,example,
+18,41,mill,flour,,,Location:Process/Product,SPACE-TIME,example,
+18,41,arena,contest,,,Location:Process/Product,SPACE-TIME,example,
+18,41,school,education,,,Location:Process/Product,SPACE-TIME,example,
+18,41,well,water,water,rope,Location:Process/Product,SPACE-TIME,probe,1.0
+19,36,monk,possessions,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+19,36,runaway,guardian,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+19,36,newlywed,singlehood,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+19,36,senior,vitality,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+19,36,wife,maidenhood,bouquet,maidenhood,Item:Ex-part/Ex-possession,PART-WHOLE,probe,2.0
+20,1,tackle,rough,,,Action:Action Attribute,ATTRIBUTE,example,
+20,1,nurture,caring,,,Action:Action Attribute,ATTRIBUTE,example,
+20,1,drift,passive,,,Action:Action Attribute,ATTRIBUTE,example,
+20,1,slam,forceful,,,Action:Action Attribute,ATTRIBUTE,example,
+20,1,lunge,sudden,leap,sudden,Action:Action Attribute,ATTRIBUTE,probe,2.0
+21,-1,baseline,baseline,,,baseline,baseline,baseline,
+22,36,relic,purpose,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+22,36,outcast,belonging,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+22,36,parolee,confinement,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+22,36,widow,husband,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+22,36,debtor,solvency,interest,solvency,Item:Ex-part/Ex-possession,PART-WHOLE,probe,2.0
+23,28,hot,warm,,,Dimensional Similarity,SIMILAR,example,
+23,28,leap,jump,,,Dimensional Similarity,SIMILAR,example,
+23,28,violin,cello,,,Dimensional Similarity,SIMILAR,example,
+23,28,silt,sediment,,,Dimensional Similarity,SIMILAR,example,
+23,28,clever,ingenious,ingenious,puzzle,Dimensional Similarity,SIMILAR,probe,1.0
+24,41,gym,muscles,,,Location:Process/Product,SPACE-TIME,example,
+24,41,mint,coins,,,Location:Process/Product,SPACE-TIME,example,
+24,41,smokehouse,jerky,,,Location:Process/Product,SPACE-TIME,example,
+24,41,pasture,grazing,,,Location:Process/Product,SPACE-TIME,example,
+24,41,park,recreation,recreation,pond,Location:Process/Product,SPACE-TIME,probe,1.0
+25,1,wander,aimless,,,Action:Action Attribute,ATTRIBUTE,example,
+25,1,protest,defiant,,,Action:Action Attribute,ATTRIBUTE,example,
+25,1,shout,loud,,,Action:Action Attribute,ATTRIBUTE,example,
+25,1,praise,encouraging,,,Action:Action Attribute,ATTRIBUTE,example,
+25,1,insult,unkind,taunt,unkind,Action:Action Attribute,ATTRIBUTE,probe,2.0

@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,18,대학교,예일대학교,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+1,18,여신,아테나,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+1,18,탄산음료,펩시,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+1,18,강,아마존강,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+1,18,뱀,코브라,파충류,코브라,ClassIndividual (Korean Localized),CLASS-INCLUSION,probe,2.0
+2,2,낚시하다,잡다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+2,2,증언하다,입증하다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+2,2,속삭이다,숨기다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+2,2,듣다,즐기다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+2,2,뻗다,잡다,잡다,팔,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,probe,1.0
+3,36,아기,성숙하다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+3,36,완벽함,결함이있다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+3,36,심연,얕다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+3,36,자비,무자비하다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+3,36,행복,비참하다,깊다,비참하다,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,probe,2.0
+4,-1,baseline,baseline,,,baseline,baseline,baseline,
+5,8,영화제작자,영화,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+5,8,블렌더,슬러시,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+5,8,퀼터,퀼트,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+5,8,예술가,물감,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+5,8,정원사,삽,삽,울타리,Agent:Object (Korean Localized),CASE RELATIONS,probe,1.0
+6,18,회사,애플,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+6,18,바다,태평양,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+6,18,대통령,링컨,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+6,18,악기,기타,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+6,18,고양이,샴고양이,골골거리다,샴고양이,ClassIndividual (Korean Localized),CLASS-INCLUSION,probe,2.0
+7,2,쏘다,죽이다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+7,2,논쟁하다,설득하다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+7,2,말하다,표현하다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+7,2,숨쉬다,살다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+7,2,꾸미다,예쁘게하다,예쁘게하다,배열하다,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,probe,1.0
+8,-1,baseline,baseline,,,baseline,baseline,baseline,
+9,18,텔레비전,소니,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+9,18,과일,바나나,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+9,18,색,빨강,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+9,18,곡물,쌀,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+9,18,미국 주,텍사스주,컨트리,텍사스주,ClassIndividual (Korean Localized),CLASS-INCLUSION,probe,2.0
+10,2,시위하다,개혁하다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+10,2,항해하다,탐험하다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+10,2,밭갈다,경작하다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+10,2,날세우다,자르다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+10,2,신호보내다,경고하다,깃발,경고하다,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,probe,2.0
+11,8,작가,펜,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+11,8,작사가,가사,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+11,8,벌목꾼,도끼,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+11,8,피아니스트,피아노,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+11,8,구두수선공,구두,구두,수리,Agent:Object (Korean Localized),CASE RELATIONS,probe,1.0
+12,36,거짓말,참이다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+12,36,시야,보이지않다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+12,36,진실,거짓이다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+12,36,은둔자,사교적이다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+12,36,그림자,밝다,희미하다,밝다,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,probe,2.0
+13,-1,baseline,baseline,,,baseline,baseline,baseline,
+14,2,조준하다,맞히다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+14,2,일하다,벌다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+14,2,도망치다,탈출하다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+14,2,요리하다,먹다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+14,2,광고하다,홍보하다,출판하다,홍보하다,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,probe,2.0
+15,36,굶주림,영양이충분하다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+15,36,가뭄,축축하다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+15,36,목소리,벙어리다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+15,36,평온,초조하다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+15,36,순간,길다,길다,즉각적이다,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,probe,1.0
+16,8,목수,가구,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+16,8,보석상,금,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+16,8,지휘자,지휘봉,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+16,8,사진가,카메라,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+16,8,농부,작물,들판,작물,Agent:Object (Korean Localized),CASE RELATIONS,probe,2.0
+17,-1,baseline,baseline,,,baseline,baseline,baseline,
+18,18,나라,아일랜드,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+18,18,도시,멤피스,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+18,18,영장류,고릴라,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+18,18,여왕,엘리자베스 2세,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+18,18,직물,비단,비단,드레스,ClassIndividual (Korean Localized),CLASS-INCLUSION,probe,1.0
+19,2,저축하다,감당하다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+19,2,싸우다,방어하다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+19,2,후퇴하다,살아남다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+19,2,단열하다,따뜻하게하다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+19,2,폭행하다,다치게하다,위협하다,다치게하다,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,probe,2.0
+20,-1,baseline,baseline,,,baseline,baseline,baseline,
+21,36,영웅,비겁하다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+21,36,무지개,단색이다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+21,36,악몽,쾌적하다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+21,36,죄수,자유롭다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+21,36,순수함,타락하다,깨끗하다,타락하다,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,probe,2.0
+22,8,프로그래머,코드,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+22,8,교사,칠판,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+22,8,조각가,조각품,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+22,8,재봉사,원단,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+22,8,요리사,재료,주방,재료,Agent:Object (Korean Localized),CASE RELATIONS,probe,2.0
+23,18,행성,지구,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+23,18,사막,사하라사막,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+23,18,향신료,계피,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+23,18,베리류,딸기,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+23,18,자동차,카마로,카마로,휘발유,ClassIndividual (Korean Localized),CLASS-INCLUSION,probe,1.0
+24,36,소음,무소음이다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+24,36,총각,기혼이다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+24,36,지능,멍청하다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+24,36,전쟁,평화롭다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+24,36,속삭임,귀청이찢어질듯하다,귀청이찢어질듯하다,희미하다,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,probe,1.0
+25,8,음악가,악기,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+25,8,가수,마이크,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+25,8,시인,단어,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+25,8,제빵사,빵,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+25,8,건축가,도면,사무실,도면,Agent:Object (Korean Localized),CASE RELATIONS,probe,2.0

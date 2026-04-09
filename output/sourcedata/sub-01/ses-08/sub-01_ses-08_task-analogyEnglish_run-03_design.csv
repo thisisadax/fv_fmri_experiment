@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,11,animator,animation,,,Agent:Object,CASE RELATIONS,example,
+1,11,illustrator,illustration,,,Agent:Object,CASE RELATIONS,example,
+1,11,student,essay,,,Agent:Object,CASE RELATIONS,example,
+1,11,choreographer,routine,,,Agent:Object,CASE RELATIONS,example,
+1,11,painter,painting,painting,studio,Agent:Object,CASE RELATIONS,probe,1.0
+2,26,overcooked,burnt,,,Dimensional Excessive,SIMILAR,example,
+2,26,crying,sobbing,,,Dimensional Excessive,SIMILAR,example,
+2,26,skeptical,cynical,,,Dimensional Excessive,SIMILAR,example,
+2,26,collecting,hoarding,,,Dimensional Excessive,SIMILAR,example,
+2,26,sadness,depression,depression,sorrow,Dimensional Excessive,SIMILAR,probe,1.0
+3,-1,baseline,baseline,,,baseline,baseline,baseline,
+4,57,tame,wild,,,Reverse,CONTRAST,example,
+4,57,expand,contract,,,Reverse,CONTRAST,example,
+4,57,repair,break,,,Reverse,CONTRAST,example,
+4,57,obey,defy,,,Reverse,CONTRAST,example,
+4,57,gather,scatter,group,scatter,Reverse,CONTRAST,probe,2.0
+5,33,medicine,aspirin,,,Functional,CLASS-INCLUSION,example,
+5,33,shoe,sandal,,,Functional,CLASS-INCLUSION,example,
+5,33,decoration,wreath,,,Functional,CLASS-INCLUSION,example,
+5,33,covering,tarp,,,Functional,CLASS-INCLUSION,example,
+5,33,preservative,salt,jar,salt,Functional,CLASS-INCLUSION,probe,2.0
+6,-1,baseline,baseline,,,baseline,baseline,baseline,
+7,26,eager,desperate,,,Dimensional Excessive,SIMILAR,example,
+7,26,concern,alarm,,,Dimensional Excessive,SIMILAR,example,
+7,26,protective,possessive,,,Dimensional Excessive,SIMILAR,example,
+7,26,disappointed,devastated,,,Dimensional Excessive,SIMILAR,example,
+7,26,proud,vain,trophy,vain,Dimensional Excessive,SIMILAR,probe,2.0
+8,11,quilter,quilt,,,Agent:Object,CASE RELATIONS,example,
+8,11,teacher,chalkboard,,,Agent:Object,CASE RELATIONS,example,
+8,11,blacksmith,iron,,,Agent:Object,CASE RELATIONS,example,
+8,11,chef,oven,,,Agent:Object,CASE RELATIONS,example,
+8,11,farmer,crops,crops,rain,Agent:Object,CASE RELATIONS,probe,1.0
+9,57,give,take,,,Reverse,CONTRAST,example,
+9,57,freeze,thaw,,,Reverse,CONTRAST,example,
+9,57,deep,shallow,,,Reverse,CONTRAST,example,
+9,57,tall,short,,,Reverse,CONTRAST,example,
+9,57,reward,punish,praise,punish,Reverse,CONTRAST,probe,2.0
+10,26,sad,despondent,,,Dimensional Excessive,SIMILAR,example,
+10,26,selfish,narcissistic,,,Dimensional Excessive,SIMILAR,example,
+10,26,wind,hurricane,,,Dimensional Excessive,SIMILAR,example,
+10,26,competitive,cutthroat,,,Dimensional Excessive,SIMILAR,example,
+10,26,pushing,ramming,shoulder,ramming,Dimensional Excessive,SIMILAR,probe,2.0
+11,33,seasoning,pepper,,,Functional,CLASS-INCLUSION,example,
+11,33,fruit,apple,,,Functional,CLASS-INCLUSION,example,
+11,33,dairy,cheese,,,Functional,CLASS-INCLUSION,example,
+11,33,tool,chisel,,,Functional,CLASS-INCLUSION,example,
+11,33,bandage,gauze,cotton ball,gauze,Functional,CLASS-INCLUSION,probe,2.0
+12,11,bricklayer,wall,,,Agent:Object,CASE RELATIONS,example,
+12,11,sculptor,sculpture,,,Agent:Object,CASE RELATIONS,example,
+12,11,fisherman,net,,,Agent:Object,CASE RELATIONS,example,
+12,11,singer,microphone,,,Agent:Object,CASE RELATIONS,example,
+12,11,spinner,yarn,craft fair,yarn,Agent:Object,CASE RELATIONS,probe,2.0
+13,57,birth,death,,,Reverse,CONTRAST,example,
+13,57,lower,raise,,,Reverse,CONTRAST,example,
+13,57,tie,untie,,,Reverse,CONTRAST,example,
+13,57,hope,fear,,,Reverse,CONTRAST,example,
+13,57,shout,whisper,whisper,crowd,Reverse,CONTRAST,probe,1.0
+14,-1,baseline,baseline,,,baseline,baseline,baseline,
+15,26,drinking,guzzling,,,Dimensional Excessive,SIMILAR,example,
+15,26,bold,reckless,,,Dimensional Excessive,SIMILAR,example,
+15,26,unease,dread,,,Dimensional Excessive,SIMILAR,example,
+15,26,wiping,scrubbing,,,Dimensional Excessive,SIMILAR,example,
+15,26,worried,frantic,frantic,anxious,Dimensional Excessive,SIMILAR,probe,1.0
+16,33,weapon,sword,,,Functional,CLASS-INCLUSION,example,
+16,33,sweetener,honey,,,Functional,CLASS-INCLUSION,example,
+16,33,container,bucket,,,Functional,CLASS-INCLUSION,example,
+16,33,pastry,croissant,,,Functional,CLASS-INCLUSION,example,
+16,33,appliance,oven,oven,baking,Functional,CLASS-INCLUSION,probe,1.0
+17,11,tailor,needle,,,Agent:Object,CASE RELATIONS,example,
+17,11,mason,bricks,,,Agent:Object,CASE RELATIONS,example,
+17,11,lumberjack,axe,,,Agent:Object,CASE RELATIONS,example,
+17,11,cobbler,shoes,,,Agent:Object,CASE RELATIONS,example,
+17,11,mechanic,wrench,garage,wrench,Agent:Object,CASE RELATIONS,probe,2.0
+18,-1,baseline,baseline,,,baseline,baseline,baseline,
+19,26,dripping,gushing,,,Dimensional Excessive,SIMILAR,example,
+19,26,interest,obsession,,,Dimensional Excessive,SIMILAR,example,
+19,26,thin,emaciated,,,Dimensional Excessive,SIMILAR,example,
+19,26,scratching,clawing,,,Dimensional Excessive,SIMILAR,example,
+19,26,enthusiasm,mania,passion,mania,Dimensional Excessive,SIMILAR,probe,2.0
+20,33,utensil,spoon,,,Functional,CLASS-INCLUSION,example,
+20,33,barrier,fence,,,Functional,CLASS-INCLUSION,example,
+20,33,home,tree,,,Functional,CLASS-INCLUSION,example,
+20,33,instrument,violin,,,Functional,CLASS-INCLUSION,example,
+20,33,light,candle,matchbook,candle,Functional,CLASS-INCLUSION,probe,2.0
+21,57,sweet,bitter,,,Reverse,CONTRAST,example,
+21,57,remember,forget,,,Reverse,CONTRAST,example,
+21,57,white,black,,,Reverse,CONTRAST,example,
+21,57,sharp,dull,,,Reverse,CONTRAST,example,
+21,57,hot,cold,summer,cold,Reverse,CONTRAST,probe,2.0
+22,11,potter,vase,,,Agent:Object,CASE RELATIONS,example,
+22,11,florist,flowers,,,Agent:Object,CASE RELATIONS,example,
+22,11,musician,melody,,,Agent:Object,CASE RELATIONS,example,
+22,11,knitter,sweater,,,Agent:Object,CASE RELATIONS,example,
+22,11,welder,torch,factory,torch,Agent:Object,CASE RELATIONS,probe,2.0
+23,-1,baseline,baseline,,,baseline,baseline,baseline,
+24,57,narrow,wide,,,Reverse,CONTRAST,example,
+24,57,bold,timid,,,Reverse,CONTRAST,example,
+24,57,familiar,strange,,,Reverse,CONTRAST,example,
+24,57,near,far,,,Reverse,CONTRAST,example,
+24,57,fill,empty,empty,liquid,Reverse,CONTRAST,probe,1.0
+25,33,insulation,foam,,,Functional,CLASS-INCLUSION,example,
+25,33,fertilizer,compost,,,Functional,CLASS-INCLUSION,example,
+25,33,dish,plate,,,Functional,CLASS-INCLUSION,example,
+25,33,disinfectant,bleach,,,Functional,CLASS-INCLUSION,example,
+25,33,vessel,pot,pot,soup,Functional,CLASS-INCLUSION,probe,1.0

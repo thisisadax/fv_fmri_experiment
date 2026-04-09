@@ -1,0 +1,610 @@
+{
+  "source_dataset": "SemEval-2012",
+  "relation_category": "CASE RELATIONS",
+  "relation_name": "Agent:Recipient",
+  "relation_source": "Agent:Recipient",
+  "num_relations_per_source": 1,
+  "relation_index": 1,
+  "n_clean_pairs": 85,
+  "n_original_pairs": 34,
+  "relation_description": "The first item (X) is an agent that provides an item, knowledge, or service to the second item (Y), who is the recipient.",
+  "relation_pairs": [
+    "teacher:student",
+    "professor:student",
+    "tutor:pupil",
+    "instructor:trainee",
+    "mentor:protégé",
+    "coach:player",
+    "trainer:athlete",
+    "preacher:congregation",
+    "pastor:parishioner",
+    "orator:audience",
+    "doctor:patient",
+    "dentist:patient",
+    "nurse:patient",
+    "vet:animal",
+    "pharmacist:customer",
+    "therapist:client",
+    "seller:buyer",
+    "clerk:customer",
+    "shopkeeper:patron",
+    "accountant:taxpayer",
+    "lawyer:client",
+    "boss:employee",
+    "parent:child",
+    "father:son",
+    "nanny:child",
+    "grandmother:grandchild",
+    "godparent:godchild",
+    "lender:borrower",
+    "author:reader",
+    "publisher:subscriber",
+    "musician:listener",
+    "broadcaster:viewer",
+    "chef:diner",
+    "waiter:diner",
+    "bartender:patron",
+    "barista:customer",
+    "host:guest",
+    "caterer:client",
+    "donor:charity",
+    "benefactor:beneficiary",
+    "landlord:tenant",
+    "mailman:resident",
+    "courier:recipient",
+    "pilot:passenger",
+    "driver:rider",
+    "guide:tourist",
+    "plumber:homeowner",
+    "mechanic:customer",
+    "decorator:homeowner",
+    "photographer:client",
+    "politician:constituent",
+    "sponsor:athlete",
+    "conductor:orchestra",
+    "director:actor",
+    "editor:author",
+    "general:soldier",
+    "captain:crew",
+    "employer:worker",
+    "wholesaler:retailer",
+    "supplier:manufacturer",
+    "realtor:buyer",
+    "grocer:shopper",
+    "florist:customer",
+    "banker:client",
+    "librarian:patron",
+    "receptionist:visitor",
+    "babysitter:child",
+    "concierge:guest",
+    "secretary:executive",
+    "lifeguard:swimmer",
+    "firefighter:victim",
+    "aunt:niece",
+    "uncle:nephew",
+    "midwife:mother",
+    "manufacturer:consumer",
+    "carpenter:client",
+    "counselor:patient",
+    "narrator:audience",
+    "tailor:customer",
+    "barber:patron",
+    "gardener:homeowner",
+    "sergeant:recruit",
+    "social worker:family",
+    "crossing guard:pedestrian",
+    "ranger:hiker"
+  ],
+  "distractors": [
+    [
+      "Principal",
+      "Parent",
+      "Lesson",
+      "School"
+    ],
+    [
+      "Researcher",
+      "Dean",
+      "Lecture",
+      "Campus"
+    ],
+    [
+      "Parent",
+      "Teacher",
+      "Homework",
+      "Desk"
+    ],
+    [
+      "Supervisor",
+      "Manager",
+      "Training Manual",
+      "Classroom"
+    ],
+    [
+      "Manager",
+      "Colleague",
+      "Advice",
+      "Workplace"
+    ],
+    [
+      "Referee",
+      "Owner",
+      "Practice",
+      "Stadium"
+    ],
+    [
+      "Therapist",
+      "Teammate",
+      "Workout Plan",
+      "Gym"
+    ],
+    [
+      "Deacon",
+      "Choir Director",
+      "Sermon",
+      "Church"
+    ],
+    [
+      "Bishop",
+      "Usher",
+      "Blessing",
+      "Chapel"
+    ],
+    [
+      "Moderator",
+      "Panelist",
+      "Speech",
+      "Stage"
+    ],
+    [
+      "Nurse",
+      "Surgeon",
+      "Diagnosis",
+      "Hospital"
+    ],
+    [
+      "Hygienist",
+      "Orthodontist",
+      "Filling",
+      "Clinic"
+    ],
+    [
+      "Doctor",
+      "Caregiver",
+      "Medication",
+      "Hospital"
+    ],
+    [
+      "Zookeeper",
+      "Breeder",
+      "Leash",
+      "Clinic"
+    ],
+    [
+      "Physician",
+      "Cashier",
+      "Prescription",
+      "Pharmacy"
+    ],
+    [
+      "Psychiatrist",
+      "Caseworker",
+      "Session",
+      "Office"
+    ],
+    [
+      "Merchant",
+      "Supplier",
+      "Product",
+      "Marketplace"
+    ],
+    [
+      "Manager",
+      "Cashier",
+      "Receipt",
+      "Counter"
+    ],
+    [
+      "Vendor",
+      "Wholesaler",
+      "Cash Register",
+      "Market"
+    ],
+    [
+      "Auditor",
+      "Bookkeeper",
+      "Tax Return",
+      "Office"
+    ],
+    [
+      "Judge",
+      "Paralegal",
+      "Lawsuit",
+      "Courtroom"
+    ],
+    [
+      "Supervisor",
+      "Investor",
+      "Raise",
+      "Office"
+    ],
+    [
+      "Teacher",
+      "Babysitter",
+      "Bedtime",
+      "Home"
+    ],
+    [
+      "Mother",
+      "Uncle",
+      "Advice",
+      "Family"
+    ],
+    [
+      "Parent",
+      "Housekeeper",
+      "Stroller",
+      "Playground"
+    ],
+    [
+      "Grandfather",
+      "Aunt",
+      "Gift",
+      "Family Reunion"
+    ],
+    [
+      "Parent",
+      "Priest",
+      "Baptism",
+      "Church"
+    ],
+    [
+      "Banker",
+      "Investor",
+      "Loan",
+      "Bank"
+    ],
+    [
+      "Editor",
+      "Publisher",
+      "Novel",
+      "Library"
+    ],
+    [
+      "Advertiser",
+      "Editor",
+      "Magazine",
+      "Newsstand"
+    ],
+    [
+      "Producer",
+      "DJ",
+      "Song",
+      "Concert Hall"
+    ],
+    [
+      "Anchor",
+      "Reporter",
+      "Program",
+      "Studio"
+    ],
+    [
+      "Server",
+      "Manager",
+      "Menu",
+      "Kitchen"
+    ],
+    [
+      "Host",
+      "Busser",
+      "Bill",
+      "Table"
+    ],
+    [
+      "Bouncer",
+      "Server",
+      "Cocktail",
+      "Bar"
+    ],
+    [
+      "Roaster",
+      "Cashier",
+      "Latte",
+      "Cafe"
+    ],
+    [
+      "Organizer",
+      "Caterer",
+      "Invitation",
+      "House"
+    ],
+    [
+      "Event Planner",
+      "Waiter",
+      "Buffet",
+      "Banquet Hall"
+    ],
+    [
+      "Fundraiser",
+      "Volunteer",
+      "Donation",
+      "Gala"
+    ],
+    [
+      "Sponsor",
+      "Trustee",
+      "Grant",
+      "Foundation"
+    ],
+    [
+      "Property Manager",
+      "Realtor",
+      "Lease",
+      "Apartment"
+    ],
+    [
+      "Clerk",
+      "Courier",
+      "Mailbox",
+      "Neighborhood"
+    ],
+    [
+      "Dispatcher",
+      "Driver",
+      "Package",
+      "Warehouse"
+    ],
+    [
+      "Flight Attendant",
+      "Copilot",
+      "Cockpit",
+      "Airport"
+    ],
+    [
+      "Mechanic",
+      "Dispatcher",
+      "Fare",
+      "Car"
+    ],
+    [
+      "Ranger",
+      "Driver",
+      "Itinerary",
+      "Museum"
+    ],
+    [
+      "Contractor",
+      "Electrician",
+      "Pipe",
+      "Basement"
+    ],
+    [
+      "Service Writer",
+      "Tow Truck Driver",
+      "Oil Change",
+      "Garage"
+    ],
+    [
+      "Architect",
+      "Contractor",
+      "Paint Sample",
+      "Living Room"
+    ],
+    [
+      "Editor",
+      "Stylist",
+      "Camera",
+      "Studio"
+    ],
+    [
+      "Lobbyist",
+      "Donor",
+      "Campaign",
+      "City Hall"
+    ],
+    [
+      "Coach",
+      "Agent",
+      "Contract",
+      "Arena"
+    ],
+    [
+      "Stage Manager",
+      "Composer",
+      "Baton",
+      "Concert Hall"
+    ],
+    [
+      "Producer",
+      "Screenwriter",
+      "Script",
+      "Set"
+    ],
+    [
+      "Proofreader",
+      "Illustrator",
+      "Manuscript",
+      "Office"
+    ],
+    [
+      "Admiral",
+      "Commander",
+      "Order",
+      "Battlefield"
+    ],
+    [
+      "Passenger",
+      "Dockworker",
+      "Compass",
+      "Port"
+    ],
+    [
+      "Manager",
+      "Shareholder",
+      "Paycheck",
+      "Company"
+    ],
+    [
+      "Distributor",
+      "Manufacturer",
+      "Shipment",
+      "Warehouse"
+    ],
+    [
+      "Wholesaler",
+      "Contractor",
+      "Parts",
+      "Factory"
+    ],
+    [
+      "Broker",
+      "Appraiser",
+      "Listing",
+      "Open House"
+    ],
+    [
+      "Cashier",
+      "Stocker",
+      "Produce",
+      "Supermarket"
+    ],
+    [
+      "Gardener",
+      "Delivery Driver",
+      "Bouquet",
+      "Flower Shop"
+    ],
+    [
+      "Teller",
+      "Regulator",
+      "Loan",
+      "Branch"
+    ],
+    [
+      "Archivist",
+      "Teacher",
+      "Library Card",
+      "Reading Room"
+    ],
+    [
+      "Manager",
+      "Security Guard",
+      "Sign-In Sheet",
+      "Lobby"
+    ],
+    [
+      "Parent",
+      "Neighbor",
+      "Bedtime Story",
+      "Living Room"
+    ],
+    [
+      "Bellhop",
+      "Manager",
+      "Reservation",
+      "Lobby"
+    ],
+    [
+      "Assistant",
+      "Coworker",
+      "Calendar",
+      "Office"
+    ],
+    [
+      "Pool Manager",
+      "Parent",
+      "Whistle",
+      "Beach"
+    ],
+    [
+      "Paramedic",
+      "Police Officer",
+      "Hose",
+      "Fire Station"
+    ],
+    [
+      "Uncle",
+      "Cousin",
+      "Birthday Gift",
+      "Family Gathering"
+    ],
+    [
+      "Aunt",
+      "Cousin",
+      "Advice",
+      "Family Reunion"
+    ],
+    [
+      "Obstetrician",
+      "Nurse",
+      "Delivery",
+      "Hospital"
+    ],
+    [
+      "Distributor",
+      "Retailer",
+      "Product",
+      "Factory"
+    ],
+    [
+      "Contractor",
+      "Architect",
+      "Blueprint",
+      "Workshop"
+    ],
+    [
+      "Psychologist",
+      "Teacher",
+      "Therapy Plan",
+      "Clinic"
+    ],
+    [
+      "Editor",
+      "Character",
+      "Story",
+      "Theater"
+    ],
+    [
+      "Seamstress",
+      "Designer",
+      "Suit",
+      "Fitting Room"
+    ],
+    [
+      "Stylist",
+      "Receptionist",
+      "Haircut",
+      "Barbershop"
+    ],
+    [
+      "Landscaper",
+      "Neighbor",
+      "Lawnmower",
+      "Backyard"
+    ],
+    [
+      "Lieutenant",
+      "Drill Instructor",
+      "Training Schedule",
+      "Boot Camp"
+    ],
+    [
+      "Caseworker",
+      "Counselor",
+      "Home Visit",
+      "Agency"
+    ],
+    [
+      "Police Officer",
+      "Bus Driver",
+      "Stop Sign",
+      "Crosswalk"
+    ],
+    [
+      "Volunteer",
+      "Wildlife Biologist",
+      "Trail Map",
+      "National Park"
+    ]
+  ]
+}

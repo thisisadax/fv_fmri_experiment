@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,47,텐트,캔버스,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+1,47,스무디,과일,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+1,47,함대,배,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+1,47,사슬,고리,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+1,47,눈사람,눈,겨울,눈,Object:Stuff (Korean Localized),PART-WHOLE,probe,2.0
+2,6,코미디언,웃음,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+2,6,치료사,치유,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+2,6,도예가,화병,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+2,6,수감자,자유,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+2,6,직장인,월급,월급,사무실,Agent:Goal (Korean Localized),CAUSE-PURPOSE,probe,1.0
+3,9,신중하다,서두르다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+3,9,맨정신이다,비틀거리다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+3,9,자존심강하다,사과하다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+3,9,무기력하다,달리다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+3,9,현명하다,실수하다,실수하다,책,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,probe,1.0
+4,59,소리치다,외치다,,,Synonymity (Korean Localized),SIMILAR,example,
+4,59,사다,구매하다,,,Synonymity (Korean Localized),SIMILAR,example,
+4,59,말하다,이야기하다,,,Synonymity (Korean Localized),SIMILAR,example,
+4,59,달리다,질주하다,,,Synonymity (Korean Localized),SIMILAR,example,
+4,59,작다,조그맣다,크기,조그맣다,Synonymity (Korean Localized),SIMILAR,probe,2.0
+5,-1,baseline,baseline,,,baseline,baseline,baseline,
+6,47,벽돌,점토,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+6,47,묘비,대리석,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+6,47,초콜릿,코코아,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+6,47,페인트,안료,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+6,47,종,황동,밧줄,황동,Object:Stuff (Korean Localized),PART-WHOLE,probe,2.0
+7,59,차,자동차,,,Synonymity (Korean Localized),SIMILAR,example,
+7,59,짐,수하물,,,Synonymity (Korean Localized),SIMILAR,example,
+7,59,엄마,어머니,,,Synonymity (Korean Localized),SIMILAR,example,
+7,59,가게,상점,,,Synonymity (Korean Localized),SIMILAR,example,
+7,59,이상하다,별나다,동전던지기,별나다,Synonymity (Korean Localized),SIMILAR,probe,2.0
+8,6,요리사,식사,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+8,6,정원사,개화,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+8,6,복서,케이오승,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+8,6,기자,기사,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+8,6,외교관,조약,조약,대사관,Agent:Goal (Korean Localized),CAUSE-PURPOSE,probe,1.0
+9,-1,baseline,baseline,,,baseline,baseline,baseline,
+10,9,정직하다,속이다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+10,9,신뢰할만하다,속이다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+10,9,뻣뻣하다,휘다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+10,9,밀봉되다,쏟아지다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+10,9,원칙적이다,훔치다,돌려주다,훔치다,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,probe,2.0
+11,6,철학자,지혜,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+11,6,여행자,목적지,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+11,6,표류자,구조,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+11,6,은둔자,고독,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+11,6,선교사,전도,전단지,전도,Agent:Goal (Korean Localized),CAUSE-PURPOSE,probe,2.0
+12,59,카펫,양탄자,,,Synonymity (Korean Localized),SIMILAR,example,
+12,59,사탕,캔디,,,Synonymity (Korean Localized),SIMILAR,example,
+12,59,아이,어린이,,,Synonymity (Korean Localized),SIMILAR,example,
+12,59,영아,아기,,,Synonymity (Korean Localized),SIMILAR,example,
+12,59,필요하다,요구하다,요구하다,체크리스트,Synonymity (Korean Localized),SIMILAR,probe,1.0
+13,-1,baseline,baseline,,,baseline,baseline,baseline,
+14,47,부츠,가죽,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+14,47,모자이크,타일,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+14,47,잔디밭,잔디,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+14,47,카드덱,카드,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+14,47,모래성,모래,해변,모래,Object:Stuff (Korean Localized),PART-WHOLE,probe,2.0
+15,9,단순하다,헷갈리게하다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+15,9,불연성이다,타다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+15,9,부지런하다,미루다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+15,9,근엄하다,놀리다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+15,9,화나다,웃다,웃다,비웃다,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,probe,1.0
+16,-1,baseline,baseline,,,baseline,baseline,baseline,
+17,59,붙이다,부착하다,,,Synonymity (Korean Localized),SIMILAR,example,
+17,59,자유,자유로움,,,Synonymity (Korean Localized),SIMILAR,example,
+17,59,피곤하다,지치다,,,Synonymity (Korean Localized),SIMILAR,example,
+17,59,성숙하다,원숙하다,,,Synonymity (Korean Localized),SIMILAR,example,
+17,59,지루하다,단조롭다,힘들다,단조롭다,Synonymity (Korean Localized),SIMILAR,probe,2.0
+18,9,우아하다,걸려넘어지다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+18,9,친절하다,괴롭히다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+18,9,주의깊다,놓치다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+18,9,협조적이다,방해하다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+18,9,인색하다,기부하다,빌려주다,기부하다,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,probe,2.0
+19,-1,baseline,baseline,,,baseline,baseline,baseline,
+20,59,크다,커다랗다,,,Synonymity (Korean Localized),SIMILAR,example,
+20,59,귀엽다,사랑스럽다,,,Synonymity (Korean Localized),SIMILAR,example,
+20,59,허락하다,승인하다,,,Synonymity (Korean Localized),SIMILAR,example,
+20,59,돌,암석,,,Synonymity (Korean Localized),SIMILAR,example,
+20,59,조심스럽다,신중하다,신중하다,안전벨트,Synonymity (Korean Localized),SIMILAR,probe,1.0
+21,47,숲,나무,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+21,47,팀,선수,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+21,47,지붕,기와,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+21,47,양초,밀랍,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+21,47,목걸이,구슬,구슬,무늬,Object:Stuff (Korean Localized),PART-WHOLE,probe,1.0
+22,6,목수,가구,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+22,6,탐정,진실,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+22,6,댄서,박수,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+22,6,재단사,정장,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+22,6,쇼핑객,할인상품,쿠폰,할인상품,Agent:Goal (Korean Localized),CAUSE-PURPOSE,probe,2.0
+23,9,온화하다,때리다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+23,9,순하다,공격하다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+23,9,자제력있다,탐닉하다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+23,9,튼튼하다,부서지다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+23,9,검소하다,흥청망청쓰다,알뜰하다,흥청망청쓰다,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,probe,2.0
+24,47,아보카도딥,아보카도,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+24,47,도서관,책,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+24,47,책,페이지,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+24,47,빵,밀가루,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+24,47,꽃병,도자기,도자기,꽃,Object:Stuff (Korean Localized),PART-WHOLE,probe,1.0
+25,6,이민자,시민권,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+25,6,운동선수,메달,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+25,6,목사,구원,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+25,6,직조공,옷감,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+25,6,군인,승리,군복,승리,Agent:Goal (Korean Localized),CAUSE-PURPOSE,probe,2.0

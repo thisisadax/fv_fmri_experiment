@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,21,near,far,,,Contrary,CONTRAST,example,
+1,21,order,chaos,,,Contrary,CONTRAST,example,
+1,21,come,go,,,Contrary,CONTRAST,example,
+1,21,public,private,,,Contrary,CONTRAST,example,
+1,21,salty,sweet,sweet,savory,Contrary,CONTRAST,probe,1.0
+2,-1,baseline,baseline,,,baseline,baseline,baseline,
+3,63,cream,white,,,things - color,Encyclopedic_semantics,example,
+3,63,salmon,pink,,,things - color,Encyclopedic_semantics,example,
+3,63,egg,white,,,things - color,Encyclopedic_semantics,example,
+3,63,swan,white,,,things - color,Encyclopedic_semantics,example,
+3,63,lemon,yellow,orange,yellow,things - color,Encyclopedic_semantics,probe,2.0
+4,59,crown,royalty,,,Sign:Significant,REFERENCE,example,
+4,59,mold,dampness,,,Sign:Significant,REFERENCE,example,
+4,59,icicle,freezing,,,Sign:Significant,REFERENCE,example,
+4,59,wrinkle,age,,,Sign:Significant,REFERENCE,example,
+4,59,blush,embarrassment,cheeks,embarrassment,Sign:Significant,REFERENCE,probe,2.0
+5,55,groom,ring,,,Recipient:Instrument,CASE RELATIONS,example,
+5,55,author,royalty,,,Recipient:Instrument,CASE RELATIONS,example,
+5,55,employee,contract,,,Recipient:Instrument,CASE RELATIONS,example,
+5,55,borrower,loan,,,Recipient:Instrument,CASE RELATIONS,example,
+5,55,renter,lease,lease,landlord,Recipient:Instrument,CASE RELATIONS,probe,1.0
+6,63,frog,green,,,things - color,Encyclopedic_semantics,example,
+6,63,marble,white,,,things - color,Encyclopedic_semantics,example,
+6,63,pearl,white,,,things - color,Encyclopedic_semantics,example,
+6,63,avocado,green,,,things - color,Encyclopedic_semantics,example,
+6,63,banana,yellow,red,yellow,things - color,Encyclopedic_semantics,probe,2.0
+7,59,condensation,humidity,,,Sign:Significant,REFERENCE,example,
+7,59,dove,peace,,,Sign:Significant,REFERENCE,example,
+7,59,snoring,sleep,,,Sign:Significant,REFERENCE,example,
+7,59,whistle,foul,,,Sign:Significant,REFERENCE,example,
+7,59,passport,citizenship,citizenship,airport,Sign:Significant,REFERENCE,probe,1.0
+8,21,build,destroy,,,Contrary,CONTRAST,example,
+8,21,honest,dishonest,,,Contrary,CONTRAST,example,
+8,21,peace,war,,,Contrary,CONTRAST,example,
+8,21,positive,negative,,,Contrary,CONTRAST,example,
+8,21,easy,difficult,difficult,homework,Contrary,CONTRAST,probe,1.0
+9,55,pensioner,pension,,,Recipient:Instrument,CASE RELATIONS,example,
+9,55,insured,policy,,,Recipient:Instrument,CASE RELATIONS,example,
+9,55,visitor,pass,,,Recipient:Instrument,CASE RELATIONS,example,
+9,55,refugee,asylum,,,Recipient:Instrument,CASE RELATIONS,example,
+9,55,member,card,card,newsletter,Recipient:Instrument,CASE RELATIONS,probe,1.0
+10,63,chocolate,brown,,,things - color,Encyclopedic_semantics,example,
+10,63,charcoal,black,,,things - color,Encyclopedic_semantics,example,
+10,63,sea,blue,,,things - color,Encyclopedic_semantics,example,
+10,63,soil,brown,,,things - color,Encyclopedic_semantics,example,
+10,63,cloud,white,white,black,things - color,Encyclopedic_semantics,probe,1.0
+11,-1,baseline,baseline,,,baseline,baseline,baseline,
+12,59,crossbones,poison,,,Sign:Significant,REFERENCE,example,
+12,59,gavel,order,,,Sign:Significant,REFERENCE,example,
+12,59,ring,marriage,,,Sign:Significant,REFERENCE,example,
+12,59,rash,allergy,,,Sign:Significant,REFERENCE,example,
+12,59,glare,anger,sunglasses,anger,Sign:Significant,REFERENCE,probe,2.0
+13,55,teacher,certificate,,,Recipient:Instrument,CASE RELATIONS,example,
+13,55,tenant,key,,,Recipient:Instrument,CASE RELATIONS,example,
+13,55,citizen,passport,,,Recipient:Instrument,CASE RELATIONS,example,
+13,55,survivor,aid,,,Recipient:Instrument,CASE RELATIONS,example,
+13,55,detective,badge,notebook,badge,Recipient:Instrument,CASE RELATIONS,probe,2.0
+14,-1,baseline,baseline,,,baseline,baseline,baseline,
+15,59,valentine,love,,,Sign:Significant,REFERENCE,example,
+15,59,crack,damage,,,Sign:Significant,REFERENCE,example,
+15,59,applause,approval,,,Sign:Significant,REFERENCE,example,
+15,59,rust,neglect,,,Sign:Significant,REFERENCE,example,
+15,59,nod,confirmation,confirmation,meeting,Sign:Significant,REFERENCE,probe,1.0
+16,21,optimistic,pessimistic,,,Contrary,CONTRAST,example,
+16,21,innocent,guilty,,,Contrary,CONTRAST,example,
+16,21,push,pull,,,Contrary,CONTRAST,example,
+16,21,raw,cooked,,,Contrary,CONTRAST,example,
+16,21,give,take,take,gift,Contrary,CONTRAST,probe,1.0
+17,63,eggplant,purple,,,things - color,Encyclopedic_semantics,example,
+17,63,tomato,red,,,things - color,Encyclopedic_semantics,example,
+17,63,pumpkin,orange,,,things - color,Encyclopedic_semantics,example,
+17,63,blackboard,black,,,things - color,Encyclopedic_semantics,example,
+17,63,rose,red,red,yellow,things - color,Encyclopedic_semantics,probe,1.0
+18,59,footprint,presence,,,Sign:Significant,REFERENCE,example,
+18,59,green,go,,,Sign:Significant,REFERENCE,example,
+18,59,scales,justice,,,Sign:Significant,REFERENCE,example,
+18,59,cough,illness,,,Sign:Significant,REFERENCE,example,
+18,59,sunset,evening,evening,orange,Sign:Significant,REFERENCE,probe,1.0
+19,-1,baseline,baseline,,,baseline,baseline,baseline,
+20,21,frozen,melted,,,Contrary,CONTRAST,example,
+20,21,start,finish,,,Contrary,CONTRAST,example,
+20,21,high,low,,,Contrary,CONTRAST,example,
+20,21,loyal,treacherous,,,Contrary,CONTRAST,example,
+20,21,good,bad,great,bad,Contrary,CONTRAST,probe,2.0
+21,63,coffee,brown,,,things - color,Encyclopedic_semantics,example,
+21,63,flamingo,pink,,,things - color,Encyclopedic_semantics,example,
+21,63,sky,blue,,,things - color,Encyclopedic_semantics,example,
+21,63,cinnamon,brown,,,things - color,Encyclopedic_semantics,example,
+21,63,cauliflower,white,white,purple,things - color,Encyclopedic_semantics,probe,1.0
+22,55,widow,insurance,,,Recipient:Instrument,CASE RELATIONS,example,
+22,55,player,contract,,,Recipient:Instrument,CASE RELATIONS,example,
+22,55,intern,stipend,,,Recipient:Instrument,CASE RELATIONS,example,
+22,55,scholar,fellowship,,,Recipient:Instrument,CASE RELATIONS,example,
+22,55,homeowner,title,backyard,title,Recipient:Instrument,CASE RELATIONS,probe,2.0
+23,21,rise,fall,,,Contrary,CONTRAST,example,
+23,21,cheerful,gloomy,,,Contrary,CONTRAST,example,
+23,21,above,below,,,Contrary,CONTRAST,example,
+23,21,hot,cold,,,Contrary,CONTRAST,example,
+23,21,sharp,blunt,knife,blunt,Contrary,CONTRAST,probe,2.0
+24,-1,baseline,baseline,,,baseline,baseline,baseline,
+25,55,bidder,auction,,,Recipient:Instrument,CASE RELATIONS,example,
+25,55,millionaire,money,,,Recipient:Instrument,CASE RELATIONS,example,
+25,55,inmate,parole,,,Recipient:Instrument,CASE RELATIONS,example,
+25,55,builder,permit,,,Recipient:Instrument,CASE RELATIONS,example,
+25,55,mayor,election,election,rally,Recipient:Instrument,CASE RELATIONS,probe,1.0

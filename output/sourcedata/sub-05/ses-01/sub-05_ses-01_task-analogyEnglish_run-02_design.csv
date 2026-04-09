@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,46,bottle,baby,,,Object:Recipient,CASE RELATIONS,example,
+1,46,resume,recruiter,,,Object:Recipient,CASE RELATIONS,example,
+1,46,promotion,officer,,,Object:Recipient,CASE RELATIONS,example,
+1,46,grade,pupil,,,Object:Recipient,CASE RELATIONS,example,
+1,46,fine,offender,police,offender,Object:Recipient,CASE RELATIONS,probe,2.0
+2,16,ignorance,study,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+2,16,storm,shelter,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+2,16,gratitude,thank,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+2,16,sadness,cry,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+2,16,curiosity,investigate,investigate,guess,Cause:Compensatory Action,CAUSE-PURPOSE,probe,1.0
+3,37,theater,stage,,,Item:Topological Part,PART-WHOLE,example,
+3,37,lake,surface,,,Item:Topological Part,PART-WHOLE,example,
+3,37,island,coast,,,Item:Topological Part,PART-WHOLE,example,
+3,37,pen,tip,,,Item:Topological Part,PART-WHOLE,example,
+3,37,valley,floor,ridge,floor,Item:Topological Part,PART-WHOLE,probe,2.0
+4,46,advice,client,,,Object:Recipient,CASE RELATIONS,example,
+4,46,paycheck,nurse,,,Object:Recipient,CASE RELATIONS,example,
+4,46,offering,priest,,,Object:Recipient,CASE RELATIONS,example,
+4,46,certificate,teacher,,,Object:Recipient,CASE RELATIONS,example,
+4,46,treatment,patient,hospital,patient,Object:Recipient,CASE RELATIONS,probe,2.0
+5,-1,baseline,baseline,,,baseline,baseline,baseline,
+6,5,ignite,flame,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+6,5,starve,hungry,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+6,5,beat,defeated,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+6,5,comb,neat,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+6,5,frighten,scared,scared,nervous,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,probe,1.0
+7,16,surprise,gasp,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+7,16,disgust,grimace,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+7,16,nausea,vomit,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+7,16,debt,repay,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+7,16,smoke,cough,blink,cough,Cause:Compensatory Action,CAUSE-PURPOSE,probe,2.0
+8,-1,baseline,baseline,,,baseline,baseline,baseline,
+9,5,comfort,calm,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+9,5,toast,crisp,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+9,5,shrink,small,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+9,5,glue,sticky,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+9,5,boil,steam,steam,heat,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,probe,1.0
+10,46,fastball,catcher,,,Object:Recipient,CASE RELATIONS,example,
+10,46,badge,scout,,,Object:Recipient,CASE RELATIONS,example,
+10,46,donation,charity,,,Object:Recipient,CASE RELATIONS,example,
+10,46,loan,borrower,,,Object:Recipient,CASE RELATIONS,example,
+10,46,receipt,customer,cashier,customer,Object:Recipient,CASE RELATIONS,probe,2.0
+11,37,couch,arm,,,Item:Topological Part,PART-WHOLE,example,
+11,37,house,roof,,,Item:Topological Part,PART-WHOLE,example,
+11,37,cave,entrance,,,Item:Topological Part,PART-WHOLE,example,
+11,37,sea,shore,,,Item:Topological Part,PART-WHOLE,example,
+11,37,school,cafeteria,cafeteria,tray,Item:Topological Part,PART-WHOLE,probe,1.0
+12,16,boredom,yawn,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+12,16,clutter,organize,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+12,16,regret,apologize,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+12,16,thirst,drink,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+12,16,happiness,smile,smile,joy,Cause:Compensatory Action,CAUSE-PURPOSE,probe,1.0
+13,-1,baseline,baseline,,,baseline,baseline,baseline,
+14,37,car,hood,,,Item:Topological Part,PART-WHOLE,example,
+14,37,river,delta,,,Item:Topological Part,PART-WHOLE,example,
+14,37,hotel,lobby,,,Item:Topological Part,PART-WHOLE,example,
+14,37,stadium,field,,,Item:Topological Part,PART-WHOLE,example,
+14,37,airplane,cockpit,runway,cockpit,Item:Topological Part,PART-WHOLE,probe,2.0
+15,16,itch,scratch,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+15,16,leak,fix,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+15,16,tension,stretch,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+15,16,fire,evacuate,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+15,16,clumsiness,practice,awkwardness,practice,Cause:Compensatory Action,CAUSE-PURPOSE,probe,2.0
+16,-1,baseline,baseline,,,baseline,baseline,baseline,
+17,5,embarrass,ashamed,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+17,5,erode,worn,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+17,5,freeze,frozen,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+17,5,shatter,fragments,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+17,5,vaccinate,immune,clinic,immune,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,probe,2.0
+18,46,package,homeowner,,,Object:Recipient,CASE RELATIONS,example,
+18,46,medal,hero,,,Object:Recipient,CASE RELATIONS,example,
+18,46,trophy,champion,,,Object:Recipient,CASE RELATIONS,example,
+18,46,invitation,guest,,,Object:Recipient,CASE RELATIONS,example,
+18,46,citation,motorist,motorist,judge,Object:Recipient,CASE RELATIONS,probe,1.0
+19,37,ocean,floor,,,Item:Topological Part,PART-WHOLE,example,
+19,37,cup,rim,,,Item:Topological Part,PART-WHOLE,example,
+19,37,supermarket,aisle,,,Item:Topological Part,PART-WHOLE,example,
+19,37,arm,elbow,,,Item:Topological Part,PART-WHOLE,example,
+19,37,table,top,meal,top,Item:Topological Part,PART-WHOLE,probe,2.0
+20,5,fix,repaired,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+20,5,teach,educated,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+20,5,clog,blocked,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+20,5,smash,flat,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+20,5,stab,wound,hospital,wound,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,probe,2.0
+21,-1,baseline,baseline,,,baseline,baseline,baseline,
+22,37,book,spine,,,Item:Topological Part,PART-WHOLE,example,
+22,37,mountain,peak,,,Item:Topological Part,PART-WHOLE,example,
+22,37,mine,shaft,,,Item:Topological Part,PART-WHOLE,example,
+22,37,desert,oasis,,,Item:Topological Part,PART-WHOLE,example,
+22,37,garden,path,path,soil,Item:Topological Part,PART-WHOLE,probe,1.0
+23,16,shortage,ration,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+23,16,spill,wipe,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+23,16,emptiness,fill,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+23,16,mess,clean,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+23,16,nostalgia,reminisce,cry,reminisce,Cause:Compensatory Action,CAUSE-PURPOSE,probe,2.0
+24,5,evaporate,dry,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+24,5,decay,rotten,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+24,5,level,even,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+24,5,dilute,thin,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+24,5,inflate,expanded,pump,expanded,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,probe,2.0
+25,46,applause,performer,,,Object:Recipient,CASE RELATIONS,example,
+25,46,vaccine,infant,,,Object:Recipient,CASE RELATIONS,example,
+25,46,pass,teammate,,,Object:Recipient,CASE RELATIONS,example,
+25,46,directions,tourist,,,Object:Recipient,CASE RELATIONS,example,
+25,46,punishment,convict,convict,sentence,Object:Recipient,CASE RELATIONS,probe,1.0

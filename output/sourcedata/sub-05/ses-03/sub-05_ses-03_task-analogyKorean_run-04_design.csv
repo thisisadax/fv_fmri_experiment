@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,1,명령하다,고분고분하게,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+1,1,낭비하다,효율적으로,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+1,1,뛰어들다,조심스레,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+1,1,더듬다,막힘없이,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+1,1,장황하게 말하다,간결하게,간결하게,목적 없이,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,probe,1.0
+2,-1,baseline,baseline,,,baseline,baseline,baseline,
+3,3,설거지하다,그릇,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+3,3,잠그다,대문,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+3,3,요리하다,식사,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+3,3,들다,역기,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+3,3,수선하다,옷,옷,다리미,Action:Object (Korean Localized),CASE RELATIONS,probe,1.0
+4,22,시제품,제품,,,Conversion (Korean Localized),SIMILAR,example,
+4,22,배아,아기,,,Conversion (Korean Localized),SIMILAR,example,
+4,22,남자친구,남편,,,Conversion (Korean Localized),SIMILAR,example,
+4,22,꽃,열매,,,Conversion (Korean Localized),SIMILAR,example,
+4,22,공주,여왕,공작부인,여왕,Conversion (Korean Localized),SIMILAR,probe,2.0
+5,1,집중하다,산만하게,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+5,1,느긋하게 걷다,급하게,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+5,1,탕진하다,절약하며,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+5,1,협력하다,반항적으로,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+5,1,탈출하다,수동적으로,수동적으로,문,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,probe,1.0
+6,3,잡다,물고기,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+6,3,물주다,식물,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+6,3,암송하다,기도문,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+6,3,건너다,다리,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+6,3,실꿰다,바늘,골무,바늘,Action:Object (Korean Localized),CASE RELATIONS,probe,2.0
+7,22,사원,파트너,,,Conversion (Korean Localized),SIMILAR,example,
+7,22,소녀,여자,,,Conversion (Korean Localized),SIMILAR,example,
+7,22,밀,밀가루,,,Conversion (Korean Localized),SIMILAR,example,
+7,22,양모,실,,,Conversion (Korean Localized),SIMILAR,example,
+7,22,갓난아기,유아,신생아,유아,Conversion (Korean Localized),SIMILAR,probe,2.0
+8,62,저녁,노을,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+8,62,출퇴근시간,교통체증,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+8,62,부처님오신날,연등,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+8,62,폭설,제설삽,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+8,62,아침,커피,아이스크림선데,커피,Time Associated Item (Korean Localized),SPACE-TIME,probe,2.0
+9,-1,baseline,baseline,,,baseline,baseline,baseline,
+10,1,자다,깨어 있는 채로,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+10,1,고함치다,작게,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+10,1,움츠리다,자랑스럽게,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+10,1,놀라게 하다,점차적으로,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+10,1,부정하다,긍정적으로,긍정적으로,단호하게,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,probe,1.0
+11,62,중년,흰머리,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+11,62,어린시절,장난감,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+11,62,가을,낙엽,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+11,62,학교,숙제,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+11,62,승진,월급인상,월급인상,교실,Time Associated Item (Korean Localized),SPACE-TIME,probe,1.0
+12,-1,baseline,baseline,,,baseline,baseline,baseline,
+13,22,발명,특허,,,Conversion (Korean Localized),SIMILAR,example,
+13,22,우유,치즈,,,Conversion (Korean Localized),SIMILAR,example,
+13,22,나무,숯,,,Conversion (Korean Localized),SIMILAR,example,
+13,22,금속,동전,,,Conversion (Korean Localized),SIMILAR,example,
+13,22,아마추어,프로,프로,준프로,Conversion (Korean Localized),SIMILAR,probe,1.0
+14,1,버리다,충성스럽게,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+14,1,애도하다,명랑하게,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+14,1,허우적거리다,우아하게,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+14,1,내던지다,다정하게,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+14,1,시간을 끌다,즉시,일부러,즉시,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,probe,2.0
+15,-1,baseline,baseline,,,baseline,baseline,baseline,
+16,62,정오,점심,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+16,62,선거일,투표용지,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+16,62,신혼여행,해변,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+16,62,성인기,주택대출,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+16,62,대학,전공서적,전공서적,파티티켓,Time Associated Item (Korean Localized),SPACE-TIME,probe,1.0
+17,22,초보자,전문가,,,Conversion (Korean Localized),SIMILAR,example,
+17,22,석유,플라스틱,,,Conversion (Korean Localized),SIMILAR,example,
+17,22,묘목,나무,,,Conversion (Korean Localized),SIMILAR,example,
+17,22,광석,금속,,,Conversion (Korean Localized),SIMILAR,example,
+17,22,사탕수수,설탕,설탕,농장,Conversion (Korean Localized),SIMILAR,probe,1.0
+18,3,당기다,레버,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+18,3,비우다,욕조,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+18,3,던지다,동전,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+18,3,조종하다,비행기,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+18,3,치르다,전쟁,전쟁,무기,Action:Object (Korean Localized),CASE RELATIONS,probe,1.0
+19,-1,baseline,baseline,,,baseline,baseline,baseline,
+20,62,사춘기,치아교정기,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+20,62,소녀시절,인형,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+20,62,여름,선크림,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+20,62,영아기,젖병,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+20,62,코로나19,마스크,스마트폰,마스크,Time Associated Item (Korean Localized),SPACE-TIME,probe,2.0
+21,3,세우다,울타리,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+21,3,발사하다,로켓,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+21,3,굽다,케이크,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+21,3,치우다,눈,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+21,3,내리다,닻,닻,사슬,Action:Object (Korean Localized),CASE RELATIONS,probe,1.0
+22,1,거드름 피우며 걷다,수줍게,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+22,1,휙 던지다,꼼꼼하게,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+22,1,빙빙 돌다,곧장,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+22,1,찡그리다,행복하게,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+22,1,어슬렁거리다,서둘러,빈둥거리며,서둘러,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,probe,2.0
+23,22,씨앗,식물,,,Conversion (Korean Localized),SIMILAR,example,
+23,22,원고,책,,,Conversion (Korean Localized),SIMILAR,example,
+23,22,사과,사과사이더,,,Conversion (Korean Localized),SIMILAR,example,
+23,22,와인,식초,,,Conversion (Korean Localized),SIMILAR,example,
+23,22,점토,도자기,도자기,가마,Conversion (Korean Localized),SIMILAR,probe,1.0
+24,62,돌잔치,돌잡이,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+24,62,연애초기,사탕,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+24,62,결혼식,반지,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+24,62,퇴근후,맥주,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+24,62,겨울,눈,눈,햇볕화상,Time Associated Item (Korean Localized),SPACE-TIME,probe,1.0
+25,3,썰다,채소,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+25,3,숙달하다,기술,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+25,3,치다,텐트,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+25,3,초안을쓰다,편지,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+25,3,망치질하다,못,장갑,못,Action:Object (Korean Localized),CASE RELATIONS,probe,2.0

@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,17,tighten,grip,,,Change,SIMILAR,example,
+1,17,bonus,income,,,Change,SIMILAR,example,
+1,17,erode,trust,,,Change,SIMILAR,example,
+1,17,weaken,resolve,,,Change,SIMILAR,example,
+1,17,heat,temperature,temperature,thermometer,Change,SIMILAR,probe,1.0
+2,-1,baseline,baseline,,,baseline,baseline,baseline,
+3,48,switch,flip,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+3,48,flower,bloom,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+3,48,turtle,crawl,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+3,48,chef,cook,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+3,48,star,twinkle,orbit,twinkle,Object:Typical Action (noun.verb),ATTRIBUTE,probe,2.0
+4,32,snicker,derision,,,Expression,REFERENCE,example,
+4,32,scowl,displeasure,,,Expression,REFERENCE,example,
+4,32,wail,despair,,,Expression,REFERENCE,example,
+4,32,smile,joy,,,Expression,REFERENCE,example,
+4,32,weep,mourning,mourning,regret,Expression,REFERENCE,probe,1.0
+5,17,swell,river,,,Change,SIMILAR,example,
+5,17,raise,salary,,,Change,SIMILAR,example,
+5,17,enlarge,photo,,,Change,SIMILAR,example,
+5,17,shorten,distance,,,Change,SIMILAR,example,
+5,17,waning,sunlight,sunlight,sunset,Change,SIMILAR,probe,1.0
+6,53,insects,ants,,,Plural Collective,CLASS-INCLUSION,example,
+6,53,beverages,tea,,,Plural Collective,CLASS-INCLUSION,example,
+6,53,planets,mars,,,Plural Collective,CLASS-INCLUSION,example,
+6,53,fabrics,silk,,,Plural Collective,CLASS-INCLUSION,example,
+6,53,makeup,eyeshadow,brush,eyeshadow,Plural Collective,CLASS-INCLUSION,probe,2.0
+7,-1,baseline,baseline,,,baseline,baseline,baseline,
+8,32,shriek,alarm,,,Expression,REFERENCE,example,
+8,32,groan,pain,,,Expression,REFERENCE,example,
+8,32,cringe,shame,,,Expression,REFERENCE,example,
+8,32,hum,contentment,,,Expression,REFERENCE,example,
+8,32,slouch,laziness,boredom,laziness,Expression,REFERENCE,probe,2.0
+9,53,herbs,basil,,,Plural Collective,CLASS-INCLUSION,example,
+9,53,instrument,flute,,,Plural Collective,CLASS-INCLUSION,example,
+9,53,berries,strawberries,,,Plural Collective,CLASS-INCLUSION,example,
+9,53,tools,hammers,,,Plural Collective,CLASS-INCLUSION,example,
+9,53,woodwinds,clarinets,reed,clarinets,Plural Collective,CLASS-INCLUSION,probe,2.0
+10,-1,baseline,baseline,,,baseline,baseline,baseline,
+11,48,lawyer,argue,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+11,48,artist,paint,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+11,48,driver,drive,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+11,48,lightning,strike,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+11,48,hammer,pound,nail,pound,Object:Typical Action (noun.verb),ATTRIBUTE,probe,2.0
+12,32,strut,confidence,,,Expression,REFERENCE,example,
+12,32,grimace,disgust,,,Expression,REFERENCE,example,
+12,32,grin,delight,,,Expression,REFERENCE,example,
+12,32,apologize,remorse,,,Expression,REFERENCE,example,
+12,32,moan,suffering,suffering,sound,Expression,REFERENCE,probe,1.0
+13,17,inflate,balloon,,,Change,SIMILAR,example,
+13,17,melt,ice,,,Change,SIMILAR,example,
+13,17,reduce,emissions,,,Change,SIMILAR,example,
+13,17,inflation,price,,,Change,SIMILAR,example,
+13,17,flood,water,street,water,Change,SIMILAR,probe,2.0
+14,48,gardener,plant,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+14,48,musician,play,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+14,48,earthquake,shake,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+14,48,dynamite,explode,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+14,48,dog,bark,whine,bark,Object:Typical Action (noun.verb),ATTRIBUTE,probe,2.0
+15,-1,baseline,baseline,,,baseline,baseline,baseline,
+16,53,china,plates,,,Plural Collective,CLASS-INCLUSION,example,
+16,53,cookware,pots,,,Plural Collective,CLASS-INCLUSION,example,
+16,53,bedding,sheets,,,Plural Collective,CLASS-INCLUSION,example,
+16,53,vegetables,carrots,,,Plural Collective,CLASS-INCLUSION,example,
+16,53,cars,sedans,engine,sedans,Plural Collective,CLASS-INCLUSION,probe,2.0
+17,32,cackle,glee,,,Expression,REFERENCE,example,
+17,32,compliment,admiration,,,Expression,REFERENCE,example,
+17,32,giggle,nervousness,,,Expression,REFERENCE,example,
+17,32,shudder,horror,,,Expression,REFERENCE,example,
+17,32,wince,discomfort,flinch,discomfort,Expression,REFERENCE,probe,2.0
+18,48,detective,investigate,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+18,48,wolf,howl,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+18,48,monkey,climb,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+18,48,wave,crash,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+18,48,fruit,ripen,ripen,sweeten,Object:Typical Action (noun.verb),ATTRIBUTE,probe,1.0
+19,53,nuts,cashews,,,Plural Collective,CLASS-INCLUSION,example,
+19,53,jewelry,rings,,,Plural Collective,CLASS-INCLUSION,example,
+19,53,animals,cows,,,Plural Collective,CLASS-INCLUSION,example,
+19,53,flowers,dahlias,,,Plural Collective,CLASS-INCLUSION,example,
+19,53,games,chess,chess,board,Plural Collective,CLASS-INCLUSION,probe,1.0
+20,32,howl,anguish,,,Expression,REFERENCE,example,
+20,32,boast,pride,,,Expression,REFERENCE,example,
+20,32,cheer,enthusiasm,,,Expression,REFERENCE,example,
+20,32,squeal,excitement,,,Expression,REFERENCE,example,
+20,32,beg,desperation,please,desperation,Expression,REFERENCE,probe,2.0
+21,17,lighten,load,,,Change,SIMILAR,example,
+21,17,blur,vision,,,Change,SIMILAR,example,
+21,17,cut,budget,,,Change,SIMILAR,example,
+21,17,boost,morale,,,Change,SIMILAR,example,
+21,17,surplus,inventory,order,inventory,Change,SIMILAR,probe,2.0
+22,53,bread,bagels,,,Plural Collective,CLASS-INCLUSION,example,
+22,53,furniture,chairs,,,Plural Collective,CLASS-INCLUSION,example,
+22,53,appliances,toasters,,,Plural Collective,CLASS-INCLUSION,example,
+22,53,sports,basketball,,,Plural Collective,CLASS-INCLUSION,example,
+22,53,spices,cinnamon,cinnamon,recipe,Plural Collective,CLASS-INCLUSION,probe,1.0
+23,-1,baseline,baseline,,,baseline,baseline,baseline,
+24,17,decline,health,,,Change,SIMILAR,example,
+24,17,enrich,soil,,,Change,SIMILAR,example,
+24,17,brighten,room,,,Change,SIMILAR,example,
+24,17,sharpen,blade,,,Change,SIMILAR,example,
+24,17,quicken,pulse,clinic,pulse,Change,SIMILAR,probe,2.0
+25,48,bread,rise,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+25,48,cloud,rain,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+25,48,student,learn,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+25,48,shovel,dig,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+25,48,baby,cry,cry,babble,Object:Typical Action (noun.verb),ATTRIBUTE,probe,1.0

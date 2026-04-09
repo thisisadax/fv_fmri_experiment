@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,35,폐건물,거주자,,,Item:Ex-part/Ex-possession (Korean Localized),PART-WHOLE,example,
+1,35,개구리,꼬리,,,Item:Ex-part/Ex-possession (Korean Localized),PART-WHOLE,example,
+1,35,추방자,조국,,,Item:Ex-part/Ex-possession (Korean Localized),PART-WHOLE,example,
+1,35,배신자,충성심,,,Item:Ex-part/Ex-possession (Korean Localized),PART-WHOLE,example,
+1,35,죄수,자유,자유,가석방,Item:Ex-part/Ex-possession (Korean Localized),PART-WHOLE,probe,1.0
+2,11,감정적이다,혼란,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+2,11,신나다,열의,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+2,11,다정하다,애정,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+2,11,겁에질리다,공포,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+2,11,외롭다,고립감,고립감,슬픔,Agent Attribute:State (Korean Localized),ATTRIBUTE,probe,1.0
+3,34,국자,퍼내다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+3,34,핀셋,뽑다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+3,34,빠루,비집다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+3,34,주전자,끓이다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+3,34,자물쇠,잠그다,잠그다,유자형 고리,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,probe,1.0
+4,47,창문,유리,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+4,47,벌떼,벌,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+4,47,컵,도자기,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+4,47,동상,청동,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+4,47,묘비,대리석,장례식,대리석,Object:Stuff (Korean Localized),PART-WHOLE,probe,2.0
+5,-1,baseline,baseline,,,baseline,baseline,baseline,
+6,35,그루터기,가지,,,Item:Ex-part/Ex-possession (Korean Localized),PART-WHOLE,example,
+6,35,표류자,문명,,,Item:Ex-part/Ex-possession (Korean Localized),PART-WHOLE,example,
+6,35,미라,장기,,,Item:Ex-part/Ex-possession (Korean Localized),PART-WHOLE,example,
+6,35,받침대,동상,,,Item:Ex-part/Ex-possession (Korean Localized),PART-WHOLE,example,
+6,35,수도승,소유물,기도,소유물,Item:Ex-part/Ex-possession (Korean Localized),PART-WHOLE,probe,2.0
+7,47,철사,금속,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+7,47,코스요리,요리,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+7,47,군중,사람,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+7,47,양초,밀랍,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+7,47,문장,단어,문법,단어,Object:Stuff (Korean Localized),PART-WHOLE,probe,2.0
+8,34,크레용,색칠하다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+8,34,숟가락,저어 섞다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+8,34,강판,갈다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+8,34,쟁기,밭 갈다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+8,34,호루라기,신호하다,신호하다,입,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,probe,1.0
+9,11,두렵다,공포감,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+9,11,덜덜떨다,공포,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+9,11,게으르다,나태,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+9,11,멍하다,혼동,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+9,11,지치다,피로감,피로감,한숨,Agent Attribute:State (Korean Localized),ATTRIBUTE,probe,1.0
+10,-1,baseline,baseline,,,baseline,baseline,baseline,
+11,35,해골,살,,,Item:Ex-part/Ex-possession (Korean Localized),PART-WHOLE,example,
+11,35,반항아,복종,,,Item:Ex-part/Ex-possession (Korean Localized),PART-WHOLE,example,
+11,35,전문가,무지,,,Item:Ex-part/Ex-possession (Korean Localized),PART-WHOLE,example,
+11,35,채무자,지불능력,,,Item:Ex-part/Ex-possession (Korean Localized),PART-WHOLE,example,
+11,35,변절자,충성,국경,충성,Item:Ex-part/Ex-possession (Korean Localized),PART-WHOLE,probe,2.0
+12,34,나침반,길 찾다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+12,34,체,거르다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+12,34,펜,쓰다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+12,34,비행기,비행하다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+12,34,잔디깎이,잔디 깎다,수거봉투,잔디 깎다,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,probe,2.0
+13,11,긴장하다,불안,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+13,11,집중하다,각성,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+13,11,풀이죽다,실망,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+13,11,어수선하다,무질서,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+13,11,신경질적이다,짜증,짜증,소음,Agent Attribute:State (Korean Localized),ATTRIBUTE,probe,1.0
+14,-1,baseline,baseline,,,baseline,baseline,baseline,
+15,47,탁자,나무,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+15,47,종이,펄프,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+15,47,대기,가스,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+15,47,목걸이,구슬,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+15,47,꽃병,도자기,도자기,유약,Object:Stuff (Korean Localized),PART-WHOLE,probe,1.0
+16,34,사포,다듬다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+16,34,열쇠,문 열다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+16,34,바늘,꿰매다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+16,34,닻,고정하다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+16,34,끌,파내다,파내다,떼어내다,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,probe,1.0
+17,11,꼼지락거리다,안절부절,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+17,11,지루하다,권태,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+17,11,환희하다,도취감,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+17,11,헌신적이다,헌신,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+17,11,자신없다,의심,수줍음,의심,Agent Attribute:State (Korean Localized),ATTRIBUTE,probe,2.0
+18,-1,baseline,baseline,,,baseline,baseline,baseline,
+19,47,옷,실,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+19,47,셔츠,면,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+19,47,요거트,우유,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+19,47,부츠,가죽,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+19,47,스무디,과일,과일,블렌더,Object:Stuff (Korean Localized),PART-WHOLE,probe,1.0
+20,35,중퇴생,재학,,,Item:Ex-part/Ex-possession (Korean Localized),PART-WHOLE,example,
+20,35,정신이상자,이성,,,Item:Ex-part/Ex-possession (Korean Localized),PART-WHOLE,example,
+20,35,범죄자,준법,,,Item:Ex-part/Ex-possession (Korean Localized),PART-WHOLE,example,
+20,35,장인,도제수련,,,Item:Ex-part/Ex-possession (Korean Localized),PART-WHOLE,example,
+20,35,나비,번데기,번데기,꽃,Item:Ex-part/Ex-possession (Korean Localized),PART-WHOLE,probe,1.0
+21,-1,baseline,baseline,,,baseline,baseline,baseline,
+22,11,조급하다,답답함,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+22,11,취하다,취기,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+22,11,뉘우치다,후회,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+22,11,깜짝놀라다,두려움,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+22,11,슬프다,우울,외로움,우울,Agent Attribute:State (Korean Localized),ATTRIBUTE,probe,2.0
+23,35,냉소주의자,순수함,,,Item:Ex-part/Ex-possession (Korean Localized),PART-WHOLE,example,
+23,35,노인,젊음,,,Item:Ex-part/Ex-possession (Korean Localized),PART-WHOLE,example,
+23,35,전임자,권력,,,Item:Ex-part/Ex-possession (Korean Localized),PART-WHOLE,example,
+23,35,잔해,구조,,,Item:Ex-part/Ex-possession (Korean Localized),PART-WHOLE,example,
+23,35,동물사체,온기,온기,사막,Item:Ex-part/Ex-possession (Korean Localized),PART-WHOLE,probe,1.0
+24,34,프라이팬,굽다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+24,34,비누,씻다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+24,34,손전등,비추다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+24,34,돈,구매하다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+24,34,망치,두드리다,공구함,두드리다,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,probe,2.0
+25,47,동전,구리,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+25,47,알파벳,글자,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+25,47,교회,신자,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+25,47,콜라주,이미지,,,Object:Stuff (Korean Localized),PART-WHOLE,example,
+25,47,모래성,모래,모래,물때,Object:Stuff (Korean Localized),PART-WHOLE,probe,1.0

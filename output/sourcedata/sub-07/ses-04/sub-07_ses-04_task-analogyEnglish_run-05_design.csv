@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,7,attentive,alertness,,,Agent Attribute:State,ATTRIBUTE,example,
+1,7,drunk,intoxication,,,Agent Attribute:State,ATTRIBUTE,example,
+1,7,brooding,melancholy,,,Agent Attribute:State,ATTRIBUTE,example,
+1,7,dazed,confusion,,,Agent Attribute:State,ATTRIBUTE,example,
+1,7,starving,hunger,hunger,craving,Agent Attribute:State,ATTRIBUTE,probe,1.0
+2,-1,baseline,baseline,,,baseline,baseline,baseline,
+3,42,orange,segments,,,Mass:Potion,PART-WHOLE,example,
+3,42,dollar,cents,,,Mass:Potion,PART-WHOLE,example,
+3,42,series,episodes,,,Mass:Potion,PART-WHOLE,example,
+3,42,pack,wolves,,,Mass:Potion,PART-WHOLE,example,
+3,42,pomegranate,seeds,peels,seeds,Mass:Potion,PART-WHOLE,probe,2.0
+4,10,carpenter,hammer,,,Agent:Instrument,CASE RELATIONS,example,
+4,10,conductor,baton,,,Agent:Instrument,CASE RELATIONS,example,
+4,10,shepherd,crook,,,Agent:Instrument,CASE RELATIONS,example,
+4,10,artist,paintbrush,,,Agent:Instrument,CASE RELATIONS,example,
+4,10,waiter,tray,plates,tray,Agent:Instrument,CASE RELATIONS,probe,2.0
+5,-1,baseline,baseline,,,baseline,baseline,baseline,
+6,3,widen,narrow,,,Action:Object Attribute,ATTRIBUTE,example,
+6,3,cure,sick,,,Action:Object Attribute,ATTRIBUTE,example,
+6,3,level,uneven,,,Action:Object Attribute,ATTRIBUTE,example,
+6,3,mend,torn,,,Action:Object Attribute,ATTRIBUTE,example,
+6,3,inflate,flat,flat,pump,Action:Object Attribute,ATTRIBUTE,probe,1.0
+7,42,hive,bee,,,Mass:Potion,PART-WHOLE,example,
+7,42,staircase,steps,,,Mass:Potion,PART-WHOLE,example,
+7,42,skeleton,bones,,,Mass:Potion,PART-WHOLE,example,
+7,42,pizza,slice,,,Mass:Potion,PART-WHOLE,example,
+7,42,soup,spoonful,spoonful,steam,Mass:Potion,PART-WHOLE,probe,1.0
+8,7,thoughtful,contemplation,,,Agent Attribute:State,ATTRIBUTE,example,
+8,7,anxious,worry,,,Agent Attribute:State,ATTRIBUTE,example,
+8,7,emotional,turmoil,,,Agent Attribute:State,ATTRIBUTE,example,
+8,7,parched,thirst,,,Agent Attribute:State,ATTRIBUTE,example,
+8,7,restless,agitation,boredom,agitation,Agent Attribute:State,ATTRIBUTE,probe,2.0
+9,-1,baseline,baseline,,,baseline,baseline,baseline,
+10,3,organize,messy,,,Action:Object Attribute,ATTRIBUTE,example,
+10,3,prune,overgrown,,,Action:Object Attribute,ATTRIBUTE,example,
+10,3,fill,empty,,,Action:Object Attribute,ATTRIBUTE,example,
+10,3,straighten,crooked,,,Action:Object Attribute,ATTRIBUTE,example,
+10,3,avoid,dangerous,dangerous,detour,Action:Object Attribute,ATTRIBUTE,probe,1.0
+11,10,drummer,sticks,,,Agent:Instrument,CASE RELATIONS,example,
+11,10,gardener,trowel,,,Agent:Instrument,CASE RELATIONS,example,
+11,10,soldier,gun,,,Agent:Instrument,CASE RELATIONS,example,
+11,10,navigator,map,,,Agent:Instrument,CASE RELATIONS,example,
+11,10,sailor,compass,harbor,compass,Agent:Instrument,CASE RELATIONS,probe,2.0
+12,42,hand,fingers,,,Mass:Potion,PART-WHOLE,example,
+12,42,state,county,,,Mass:Potion,PART-WHOLE,example,
+12,42,archipelago,islands,,,Mass:Potion,PART-WHOLE,example,
+12,42,flower,petals,,,Mass:Potion,PART-WHOLE,example,
+12,42,earthworm,segment,tunnels,segment,Mass:Potion,PART-WHOLE,probe,2.0
+13,3,simplify,complex,,,Action:Object Attribute,ATTRIBUTE,example,
+13,3,discard,useless,,,Action:Object Attribute,ATTRIBUTE,example,
+13,3,shelter,homeless,,,Action:Object Attribute,ATTRIBUTE,example,
+13,3,unwrap,wrapped,,,Action:Object Attribute,ATTRIBUTE,example,
+13,3,dry,wet,damp,wet,Action:Object Attribute,ATTRIBUTE,probe,2.0
+14,10,pianist,piano,,,Agent:Instrument,CASE RELATIONS,example,
+14,10,chemist,beaker,,,Agent:Instrument,CASE RELATIONS,example,
+14,10,shopper,cart,,,Agent:Instrument,CASE RELATIONS,example,
+14,10,baker,oven,,,Agent:Instrument,CASE RELATIONS,example,
+14,10,bowler,ball,strike,ball,Agent:Instrument,CASE RELATIONS,probe,2.0
+15,42,deck,cards,,,Mass:Potion,PART-WHOLE,example,
+15,42,sentence,words,,,Mass:Potion,PART-WHOLE,example,
+15,42,song,notes,,,Mass:Potion,PART-WHOLE,example,
+15,42,team,players,,,Mass:Potion,PART-WHOLE,example,
+15,42,orchestra,musicians,stage,musicians,Mass:Potion,PART-WHOLE,probe,2.0
+16,7,tired,exhaustion,,,Agent Attribute:State,ATTRIBUTE,example,
+16,7,heartbroken,sorrow,,,Agent Attribute:State,ATTRIBUTE,example,
+16,7,sobbing,anguish,,,Agent Attribute:State,ATTRIBUTE,example,
+16,7,irritable,annoyance,,,Agent Attribute:State,ATTRIBUTE,example,
+16,7,overwhelmed,stress,inbox,stress,Agent Attribute:State,ATTRIBUTE,probe,2.0
+17,10,runner,sneakers,,,Agent:Instrument,CASE RELATIONS,example,
+17,10,doctor,thermometer,,,Agent:Instrument,CASE RELATIONS,example,
+17,10,housekeeper,broom,,,Agent:Instrument,CASE RELATIONS,example,
+17,10,golfer,club,,,Agent:Instrument,CASE RELATIONS,example,
+17,10,umpire,whistle,whistle,call,Agent:Instrument,CASE RELATIONS,probe,1.0
+18,3,enlarge,small,,,Action:Object Attribute,ATTRIBUTE,example,
+18,3,open,closed,,,Action:Object Attribute,ATTRIBUTE,example,
+18,3,replace,obsolete,,,Action:Object Attribute,ATTRIBUTE,example,
+18,3,clarify,unclear,,,Action:Object Attribute,ATTRIBUTE,example,
+18,3,feed,hungry,kitchen,hungry,Action:Object Attribute,ATTRIBUTE,probe,2.0
+19,7,mad,anger,,,Agent Attribute:State,ATTRIBUTE,example,
+19,7,insecure,doubt,,,Agent Attribute:State,ATTRIBUTE,example,
+19,7,angry,belligerence,,,Agent Attribute:State,ATTRIBUTE,example,
+19,7,confused,bewilderment,,,Agent Attribute:State,ATTRIBUTE,example,
+19,7,fidgeting,restlessness,restlessness,tapping,Agent Attribute:State,ATTRIBUTE,probe,1.0
+20,-1,baseline,baseline,,,baseline,baseline,baseline,
+21,10,violinist,violin,,,Agent:Instrument,CASE RELATIONS,example,
+21,10,guitarist,guitar,,,Agent:Instrument,CASE RELATIONS,example,
+21,10,chef,knife,,,Agent:Instrument,CASE RELATIONS,example,
+21,10,miner,pickaxe,,,Agent:Instrument,CASE RELATIONS,example,
+21,10,lifeguard,preserver,preserver,sunscreen,Agent:Instrument,CASE RELATIONS,probe,1.0
+22,3,comfort,hurting,,,Action:Object Attribute,ATTRIBUTE,example,
+22,3,melt,solid,,,Action:Object Attribute,ATTRIBUTE,example,
+22,3,reassure,anxious,,,Action:Object Attribute,ATTRIBUTE,example,
+22,3,explore,uncharted,,,Action:Object Attribute,ATTRIBUTE,example,
+22,3,eat,delicious,hot,delicious,Action:Object Attribute,ATTRIBUTE,probe,2.0
+23,7,forlorn,desolation,,,Agent Attribute:State,ATTRIBUTE,example,
+23,7,peaceful,serenity,,,Agent Attribute:State,ATTRIBUTE,example,
+23,7,delighted,joy,,,Agent Attribute:State,ATTRIBUTE,example,
+23,7,cheerful,merriment,,,Agent Attribute:State,ATTRIBUTE,example,
+23,7,elated,euphoria,balloons,euphoria,Agent Attribute:State,ATTRIBUTE,probe,2.0
+24,42,city,neighborhoods,,,Mass:Potion,PART-WHOLE,example,
+24,42,forest,tree,,,Mass:Potion,PART-WHOLE,example,
+24,42,crowd,people,,,Mass:Potion,PART-WHOLE,example,
+24,42,cup,tablespoons,,,Mass:Potion,PART-WHOLE,example,
+24,42,tree,branches,branches,shade,Mass:Potion,PART-WHOLE,probe,1.0
+25,-1,baseline,baseline,,,baseline,baseline,baseline,

@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,61,adolescence,puberty,,,Time Action/Activity,SPACE-TIME,example,
+1,61,birthday,party,,,Time Action/Activity,SPACE-TIME,example,
+1,61,retirement,traveling,,,Time Action/Activity,SPACE-TIME,example,
+1,61,cookout,grilling,,,Time Action/Activity,SPACE-TIME,example,
+1,61,intermission,stretching,lobby,stretching,Time Action/Activity,SPACE-TIME,probe,2.0
+2,44,surface,sandpaper,,,Object:Instrument,CASE RELATIONS,example,
+2,44,wood,saw,,,Object:Instrument,CASE RELATIONS,example,
+2,44,concrete,trowel,,,Object:Instrument,CASE RELATIONS,example,
+2,44,clothes,iron,,,Object:Instrument,CASE RELATIONS,example,
+2,44,log,axe,axe,campfire,Object:Instrument,CASE RELATIONS,probe,1.0
+3,57,expand,contract,,,Reverse,CONTRAST,example,
+3,57,dawn,dusk,,,Reverse,CONTRAST,example,
+3,57,laugh,cry,,,Reverse,CONTRAST,example,
+3,57,hire,fire,,,Reverse,CONTRAST,example,
+3,57,obey,defy,listen,defy,Reverse,CONTRAST,probe,2.0
+4,61,rodeo,riding,,,Time Action/Activity,SPACE-TIME,example,
+4,61,sabbath,worshipping,,,Time Action/Activity,SPACE-TIME,example,
+4,61,dawn,birdsong,,,Time Action/Activity,SPACE-TIME,example,
+4,61,funeral,mourning,,,Time Action/Activity,SPACE-TIME,example,
+4,61,expedition,discovering,discovering,guide,Time Action/Activity,SPACE-TIME,probe,1.0
+5,39,climatology,climate,,,Knowledge,REFERENCE,example,
+5,39,civics,citizenship,,,Knowledge,REFERENCE,example,
+5,39,architecture,buildings,,,Knowledge,REFERENCE,example,
+5,39,semantics,meaning,,,Knowledge,REFERENCE,example,
+5,39,demography,populations,populations,city hall,Knowledge,REFERENCE,probe,1.0
+6,44,prisoner,shackles,,,Object:Instrument,CASE RELATIONS,example,
+6,44,soil,shovel,,,Object:Instrument,CASE RELATIONS,example,
+6,44,carpet,vacuum,,,Object:Instrument,CASE RELATIONS,example,
+6,44,dog,leash,,,Object:Instrument,CASE RELATIONS,example,
+6,44,plant,fertilizer,fertilizer,leaf,Object:Instrument,CASE RELATIONS,probe,1.0
+7,57,go,stay,,,Reverse,CONTRAST,example,
+7,57,light,dark,,,Reverse,CONTRAST,example,
+7,57,sink,float,,,Reverse,CONTRAST,example,
+7,57,narrow,wide,,,Reverse,CONTRAST,example,
+7,57,white,black,light,black,Reverse,CONTRAST,probe,2.0
+8,-1,baseline,baseline,,,baseline,baseline,baseline,
+9,61,auction,bidding,,,Time Action/Activity,SPACE-TIME,example,
+9,61,lent,fasting,,,Time Action/Activity,SPACE-TIME,example,
+9,61,bedtime,sleeping,,,Time Action/Activity,SPACE-TIME,example,
+9,61,christmas,caroling,,,Time Action/Activity,SPACE-TIME,example,
+9,61,interview,questioning,suit,questioning,Time Action/Activity,SPACE-TIME,probe,2.0
+10,44,dish,soap,,,Object:Instrument,CASE RELATIONS,example,
+10,44,envelope,stamp,,,Object:Instrument,CASE RELATIONS,example,
+10,44,violin,bow,,,Object:Instrument,CASE RELATIONS,example,
+10,44,baby,diaper,,,Object:Instrument,CASE RELATIONS,example,
+10,44,drawing,eraser,gallery,eraser,Object:Instrument,CASE RELATIONS,probe,2.0
+11,57,sweet,bitter,,,Reverse,CONTRAST,example,
+11,57,rich,poor,,,Reverse,CONTRAST,example,
+11,57,plant,uproot,,,Reverse,CONTRAST,example,
+11,57,tall,short,,,Reverse,CONTRAST,example,
+11,57,praise,criticize,criticize,award,Reverse,CONTRAST,probe,1.0
+12,61,fall,migration,,,Time Action/Activity,SPACE-TIME,example,
+12,61,summer,camping,,,Time Action/Activity,SPACE-TIME,example,
+12,61,weekend,relaxing,,,Time Action/Activity,SPACE-TIME,example,
+12,61,monsoon,flooding,,,Time Action/Activity,SPACE-TIME,example,
+12,61,winter,snow,snow,mittens,Time Action/Activity,SPACE-TIME,probe,1.0
+13,-1,baseline,baseline,,,baseline,baseline,baseline,
+14,39,aesthetics,beauty,,,Knowledge,REFERENCE,example,
+14,39,trigonometry,triangles,,,Knowledge,REFERENCE,example,
+14,39,anatomy,body,,,Knowledge,REFERENCE,example,
+14,39,neurology,brain,,,Knowledge,REFERENCE,example,
+14,39,dentistry,teeth,teeth,cavities,Knowledge,REFERENCE,probe,1.0
+15,61,prayer,kneeling,,,Time Action/Activity,SPACE-TIME,example,
+15,61,concert,performing,,,Time Action/Activity,SPACE-TIME,example,
+15,61,morning,breakfast,,,Time Action/Activity,SPACE-TIME,example,
+15,61,afternoon,nap,,,Time Action/Activity,SPACE-TIME,example,
+15,61,autumn,halloween,halloween,pumpkin,Time Action/Activity,SPACE-TIME,probe,1.0
+16,57,fill,empty,,,Reverse,CONTRAST,example,
+16,57,hide,reveal,,,Reverse,CONTRAST,example,
+16,57,reward,punish,,,Reverse,CONTRAST,example,
+16,57,inflate,deflate,,,Reverse,CONTRAST,example,
+16,57,arrive,depart,depart,ticket,Reverse,CONTRAST,probe,1.0
+17,39,aeronautics,flight,,,Knowledge,REFERENCE,example,
+17,39,pediatrics,children,,,Knowledge,REFERENCE,example,
+17,39,logic,reasoning,,,Knowledge,REFERENCE,example,
+17,39,acoustics,sound,,,Knowledge,REFERENCE,example,
+17,39,gastronomy,cuisine,cuisine,cookbook,Knowledge,REFERENCE,probe,1.0
+18,-1,baseline,baseline,,,baseline,baseline,baseline,
+19,44,guitar,pick,,,Object:Instrument,CASE RELATIONS,example,
+19,44,floor,wax,,,Object:Instrument,CASE RELATIONS,example,
+19,44,grass,trimmer,,,Object:Instrument,CASE RELATIONS,example,
+19,44,car,jack,,,Object:Instrument,CASE RELATIONS,example,
+19,44,cheese,grater,grater,pizza,Object:Instrument,CASE RELATIONS,probe,1.0
+20,39,cryptography,codes,,,Knowledge,REFERENCE,example,
+20,39,oceanography,oceans,,,Knowledge,REFERENCE,example,
+20,39,geology,earth,,,Knowledge,REFERENCE,example,
+20,39,sociology,society,,,Knowledge,REFERENCE,example,
+20,39,ophthalmology,eyes,waiting room,eyes,Knowledge,REFERENCE,probe,2.0
+21,-1,baseline,baseline,,,baseline,baseline,baseline,
+22,57,start,stop,,,Reverse,CONTRAST,example,
+22,57,injure,heal,,,Reverse,CONTRAST,example,
+22,57,proud,ashamed,,,Reverse,CONTRAST,example,
+22,57,give,take,,,Reverse,CONTRAST,example,
+22,57,buy,sell,sell,receipt,Reverse,CONTRAST,probe,1.0
+23,39,pathology,disease,,,Knowledge,REFERENCE,example,
+23,39,cardiology,heart,,,Knowledge,REFERENCE,example,
+23,39,botany,plants,,,Knowledge,REFERENCE,example,
+23,39,paleontology,fossils,,,Knowledge,REFERENCE,example,
+23,39,mythology,myths,legends,myths,Knowledge,REFERENCE,probe,2.0
+24,-1,baseline,baseline,,,baseline,baseline,baseline,
+25,44,face,sunscreen,,,Object:Instrument,CASE RELATIONS,example,
+25,44,blackboard,chalk,,,Object:Instrument,CASE RELATIONS,example,
+25,44,hands,soap,,,Object:Instrument,CASE RELATIONS,example,
+25,44,wound,bandage,,,Object:Instrument,CASE RELATIONS,example,
+25,44,lawn,mower,yard,mower,Object:Instrument,CASE RELATIONS,probe,2.0

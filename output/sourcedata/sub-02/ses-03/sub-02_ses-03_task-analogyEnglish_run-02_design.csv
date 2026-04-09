@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,47,bread,flour,,,Object:Stuff,PART-WHOLE,example,
+1,47,statue,bronze,,,Object:Stuff,PART-WHOLE,example,
+1,47,team,players,,,Object:Stuff,PART-WHOLE,example,
+1,47,sweater,wool,,,Object:Stuff,PART-WHOLE,example,
+1,47,swarm,bees,honey,bees,Object:Stuff,PART-WHOLE,probe,2.0
+2,14,antenna,roof,,,Attachment,SPACE-TIME,example,
+2,14,spur,boot,,,Attachment,SPACE-TIME,example,
+2,14,chandelier,ceiling,,,Attachment,SPACE-TIME,example,
+2,14,claw,paw,,,Attachment,SPACE-TIME,example,
+2,14,curtain,window,window,wall,Attachment,SPACE-TIME,probe,1.0
+3,52,score,symphony,,,Plan,REFERENCE,example,
+3,52,will,estate,,,Plan,REFERENCE,example,
+3,52,choreography,performance,,,Plan,REFERENCE,example,
+3,52,menu,dinner,,,Plan,REFERENCE,example,
+3,52,prescription,medication,doctor,medication,Plan,REFERENCE,probe,2.0
+4,-1,baseline,baseline,,,baseline,baseline,baseline,
+5,14,stamp,letter,,,Attachment,SPACE-TIME,example,
+5,14,handle,mug,,,Attachment,SPACE-TIME,example,
+5,14,scale,fish,,,Attachment,SPACE-TIME,example,
+5,14,lid,jar,,,Attachment,SPACE-TIME,example,
+5,14,bark,trunk,trunk,sap,Attachment,SPACE-TIME,probe,1.0
+6,16,gratitude,thank,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+6,16,anxiety,pace,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+6,16,wound,bandage,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+6,16,confusion,ask,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+6,16,laziness,procrastinate,procrastinate,excuse,Cause:Compensatory Action,CAUSE-PURPOSE,probe,1.0
+7,-1,baseline,baseline,,,baseline,baseline,baseline,
+8,52,draft,speech,,,Plan,REFERENCE,example,
+8,52,rubric,grading,,,Plan,REFERENCE,example,
+8,52,script,movie,,,Plan,REFERENCE,example,
+8,52,pilot,series,,,Plan,REFERENCE,example,
+8,52,scheme,heist,mask,heist,Plan,REFERENCE,probe,2.0
+9,14,patch,jacket,,,Attachment,SPACE-TIME,example,
+9,14,propeller,airplane,,,Attachment,SPACE-TIME,example,
+9,14,tail,horse,,,Attachment,SPACE-TIME,example,
+9,14,berry,bush,,,Attachment,SPACE-TIME,example,
+9,14,faucet,pipe,pipe,water,Attachment,SPACE-TIME,probe,1.0
+10,16,competition,train,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+10,16,damage,repair,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+10,16,tiredness,rest,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+10,16,tension,stretch,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+10,16,embarrassment,blush,blush,look away,Cause:Compensatory Action,CAUSE-PURPOSE,probe,1.0
+11,-1,baseline,baseline,,,baseline,baseline,baseline,
+12,47,scarf,silk,,,Object:Stuff,PART-WHOLE,example,
+12,47,jacket,denim,,,Object:Stuff,PART-WHOLE,example,
+12,47,pillow,feathers,,,Object:Stuff,PART-WHOLE,example,
+12,47,omelette,eggs,,,Object:Stuff,PART-WHOLE,example,
+12,47,fence,boards,yard,boards,Object:Stuff,PART-WHOLE,probe,2.0
+13,52,layout,garden,,,Plan,REFERENCE,example,
+13,52,mold,casting,,,Plan,REFERENCE,example,
+13,52,blueprint,bridge,,,Plan,REFERENCE,example,
+13,52,diet,health,,,Plan,REFERENCE,example,
+13,52,recipe,cake,cake,batter,Plan,REFERENCE,probe,1.0
+14,-1,baseline,baseline,,,baseline,baseline,baseline,
+15,47,lemonade,lemons,,,Object:Stuff,PART-WHOLE,example,
+15,47,salsa,tomatoes,,,Object:Stuff,PART-WHOLE,example,
+15,47,road,asphalt,,,Object:Stuff,PART-WHOLE,example,
+15,47,book,pages,,,Object:Stuff,PART-WHOLE,example,
+15,47,headstone,marble,marble,graveyard,Object:Stuff,PART-WHOLE,probe,1.0
+16,16,coldness,shiver,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+16,16,nervousness,fidget,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+16,16,amusement,laugh,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+16,16,threat,defend,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+16,16,curiosity,investigate,investigate,guess,Cause:Compensatory Action,CAUSE-PURPOSE,probe,1.0
+17,14,lampshade,lamp,,,Attachment,SPACE-TIME,example,
+17,14,cushion,chair,,,Attachment,SPACE-TIME,example,
+17,14,ribbon,gift,,,Attachment,SPACE-TIME,example,
+17,14,knob,drawer,,,Attachment,SPACE-TIME,example,
+17,14,tire,car,axle,car,Attachment,SPACE-TIME,probe,2.0
+18,47,garden,flowers,,,Object:Stuff,PART-WHOLE,example,
+18,47,orchestra,musicians,,,Object:Stuff,PART-WHOLE,example,
+18,47,wall,bricks,,,Object:Stuff,PART-WHOLE,example,
+18,47,fleet,ships,,,Object:Stuff,PART-WHOLE,example,
+18,47,forest,trees,trees,wildlife,Object:Stuff,PART-WHOLE,probe,1.0
+19,52,treaty,peace,,,Plan,REFERENCE,example,
+19,52,specification,software,,,Plan,REFERENCE,example,
+19,52,strategy,victory,,,Plan,REFERENCE,example,
+19,52,manifesto,revolution,,,Plan,REFERENCE,example,
+19,52,outline,composition,composition,introduction,Plan,REFERENCE,probe,1.0
+20,14,eyelash,eyelid,,,Attachment,SPACE-TIME,example,
+20,14,sail,mast,,,Attachment,SPACE-TIME,example,
+20,14,ring,finger,,,Attachment,SPACE-TIME,example,
+20,14,belt,waist,,,Attachment,SPACE-TIME,example,
+20,14,antler,deer,bone,deer,Attachment,SPACE-TIME,probe,2.0
+21,16,exhaustion,sleep,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+21,16,brightness,squint,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+21,16,heat,sweat,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+21,16,rip,mend,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+21,16,regret,apologize,undo,apologize,Cause:Compensatory Action,CAUSE-PURPOSE,probe,2.0
+22,-1,baseline,baseline,,,baseline,baseline,baseline,
+23,52,checklist,inspection,,,Plan,REFERENCE,example,
+23,52,directions,route,,,Plan,REFERENCE,example,
+23,52,policy,governance,,,Plan,REFERENCE,example,
+23,52,syllabus,course,,,Plan,REFERENCE,example,
+23,52,timeline,project,project,deadline,Plan,REFERENCE,probe,1.0
+24,16,loss,mourn,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+24,16,obesity,exercise,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+24,16,danger,flee,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+24,16,boredom,yawn,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+24,16,craving,indulge,chew gum,indulge,Cause:Compensatory Action,CAUSE-PURPOSE,probe,2.0
+25,47,library,books,,,Object:Stuff,PART-WHOLE,example,
+25,47,vase,porcelain,,,Object:Stuff,PART-WHOLE,example,
+25,47,alphabet,letters,,,Object:Stuff,PART-WHOLE,example,
+25,47,jury,jurors,,,Object:Stuff,PART-WHOLE,example,
+25,47,carpet,fibers,fibers,rug pad,Object:Stuff,PART-WHOLE,probe,1.0

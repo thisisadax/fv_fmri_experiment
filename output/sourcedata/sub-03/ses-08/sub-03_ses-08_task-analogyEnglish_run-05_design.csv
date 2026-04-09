@@ -1,0 +1,106 @@
+relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response,trial_idx
+-1,baseline,baseline,,,baseline,baseline,baseline,,1
+12,grocer,shopper,,,Agent:Recipient,CASE RELATIONS,example,,2
+12,social worker,family,,,Agent:Recipient,CASE RELATIONS,example,,2
+12,uncle,nephew,,,Agent:Recipient,CASE RELATIONS,example,,2
+12,lender,borrower,,,Agent:Recipient,CASE RELATIONS,example,,2
+12,nurse,patient,patient,doctor,Agent:Recipient,CASE RELATIONS,probe,1.0,2
+17,flood,water,,,Change,SIMILAR,example,,3
+17,shortage,supply,,,Change,SIMILAR,example,,3
+17,muffle,sound,,,Change,SIMILAR,example,,3
+17,worsen,condition,,,Change,SIMILAR,example,,3
+17,growth,revenue,sales team,revenue,Change,SIMILAR,probe,2.0,3
+5,lie,untrustworthy,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,,4
+5,annoy,irritated,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,,4
+5,divide,parts,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,,4
+5,lock,secure,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,,4
+5,insult,offended,offended,remark,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,probe,1.0,4
+61,harvest,reaping,,,Time Action/Activity,SPACE-TIME,example,,5
+61,winter,christmas,,,Time Action/Activity,SPACE-TIME,example,,5
+61,intermission,stretching,,,Time Action/Activity,SPACE-TIME,example,,5
+61,halftime,resting,,,Time Action/Activity,SPACE-TIME,example,,5
+61,autumn,equinox,jacket,equinox,Time Action/Activity,SPACE-TIME,probe,2.0,5
+12,realtor,buyer,,,Agent:Recipient,CASE RELATIONS,example,,6
+12,bartender,patron,,,Agent:Recipient,CASE RELATIONS,example,,6
+12,general,soldier,,,Agent:Recipient,CASE RELATIONS,example,,6
+12,clerk,customer,,,Agent:Recipient,CASE RELATIONS,example,,6
+12,broadcaster,viewer,reporter,viewer,Agent:Recipient,CASE RELATIONS,probe,2.0,6
+-1,baseline,baseline,,,baseline,baseline,baseline,,7
+61,summer,camping,,,Time Action/Activity,SPACE-TIME,example,,8
+61,youth,exploring,,,Time Action/Activity,SPACE-TIME,example,,8
+61,afternoon,nap,,,Time Action/Activity,SPACE-TIME,example,,8
+61,night,dreaming,,,Time Action/Activity,SPACE-TIME,example,,8
+61,election,voting,voting,polling place,Time Action/Activity,SPACE-TIME,probe,1.0,8
+5,purify,pure,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,,9
+5,vaccinate,immune,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,,9
+5,train,skilled,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,,9
+5,crack,fractured,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,,9
+5,corrode,rusty,rusty,acid,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,probe,1.0,9
+17,sharpen,blade,,,Change,SIMILAR,example,,10
+17,torture,pain,,,Change,SIMILAR,example,,10
+17,lessen,impact,,,Change,SIMILAR,example,,10
+17,magnify,image,,,Change,SIMILAR,example,,10
+17,widen,gap,gap,wall,Change,SIMILAR,probe,1.0,10
+61,adulthood,work,,,Time Action/Activity,SPACE-TIME,example,,11
+61,morning,breakfast,,,Time Action/Activity,SPACE-TIME,example,,11
+61,daybreak,waking,,,Time Action/Activity,SPACE-TIME,example,,11
+61,spring,planting,,,Time Action/Activity,SPACE-TIME,example,,11
+61,lent,fasting,church,fasting,Time Action/Activity,SPACE-TIME,probe,2.0,11
+12,pilot,passenger,,,Agent:Recipient,CASE RELATIONS,example,,12
+12,musician,listener,,,Agent:Recipient,CASE RELATIONS,example,,12
+12,sponsor,athlete,,,Agent:Recipient,CASE RELATIONS,example,,12
+12,midwife,mother,,,Agent:Recipient,CASE RELATIONS,example,,12
+12,mentor,protégé,protégé,advice,Agent:Recipient,CASE RELATIONS,probe,1.0,12
+-1,baseline,baseline,,,baseline,baseline,baseline,,13
+5,chop,pieces,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,,14
+5,delight,happy,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,,14
+5,clog,blocked,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,,14
+5,sift,separated,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,,14
+5,erode,worn,worn,thin,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,probe,1.0,14
+61,sale,shopping,,,Time Action/Activity,SPACE-TIME,example,,15
+61,auction,bidding,,,Time Action/Activity,SPACE-TIME,example,,15
+61,banquet,toasting,,,Time Action/Activity,SPACE-TIME,example,,15
+61,hurricane,evacuating,,,Time Action/Activity,SPACE-TIME,example,,15
+61,trial,testimony,testimony,judge,Time Action/Activity,SPACE-TIME,probe,1.0,15
+12,caterer,client,,,Agent:Recipient,CASE RELATIONS,example,,16
+12,decorator,homeowner,,,Agent:Recipient,CASE RELATIONS,example,,16
+12,courier,recipient,,,Agent:Recipient,CASE RELATIONS,example,,16
+12,nanny,child,,,Agent:Recipient,CASE RELATIONS,example,,16
+12,manufacturer,consumer,product,consumer,Agent:Recipient,CASE RELATIONS,probe,2.0,16
+-1,baseline,baseline,,,baseline,baseline,baseline,,17
+17,drop,altitude,,,Change,SIMILAR,example,,18
+17,terror,fear,,,Change,SIMILAR,example,,18
+17,deflate,tire,,,Change,SIMILAR,example,,18
+17,erosion,shoreline,,,Change,SIMILAR,example,,18
+17,raise,salary,desk,salary,Change,SIMILAR,probe,2.0,18
+12,preacher,congregation,,,Agent:Recipient,CASE RELATIONS,example,,19
+12,banker,client,,,Agent:Recipient,CASE RELATIONS,example,,19
+12,landlord,tenant,,,Agent:Recipient,CASE RELATIONS,example,,19
+12,host,guest,,,Agent:Recipient,CASE RELATIONS,example,,19
+12,guide,tourist,tourist,driver,Agent:Recipient,CASE RELATIONS,probe,1.0,19
+-1,baseline,baseline,,,baseline,baseline,baseline,,20
+17,trim,tree,,,Change,SIMILAR,example,,21
+17,recession,employment,,,Change,SIMILAR,example,,21
+17,surge,demand,,,Change,SIMILAR,example,,21
+17,spike,fever,,,Change,SIMILAR,example,,21
+17,dull,edge,edge,toolbox,Change,SIMILAR,probe,1.0,21
+5,smash,flat,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,,22
+5,explode,debris,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,,22
+5,shock,stunned,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,,22
+5,stretch,long,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,,22
+5,frighten,scared,nervous,scared,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,probe,2.0,22
+61,pilgrimage,walking,,,Time Action/Activity,SPACE-TIME,example,,23
+61,semester,studying,,,Time Action/Activity,SPACE-TIME,example,,23
+61,interview,questioning,,,Time Action/Activity,SPACE-TIME,example,,23
+61,cookout,grilling,,,Time Action/Activity,SPACE-TIME,example,,23
+61,workout,sweating,sweating,water bottle,Time Action/Activity,SPACE-TIME,probe,1.0,23
+17,waning,sunlight,,,Change,SIMILAR,example,,24
+17,melt,ice,,,Change,SIMILAR,example,,24
+17,heighten,awareness,,,Change,SIMILAR,example,,24
+17,harden,cement,,,Change,SIMILAR,example,,24
+17,increment,number,number,calculator,Change,SIMILAR,probe,1.0,24
+5,dilute,thin,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,,25
+5,encourage,confident,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,,25
+5,dampen,wet,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,,25
+5,toast,crisp,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,,25
+5,silence,quiet,library,quiet,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,probe,2.0,25

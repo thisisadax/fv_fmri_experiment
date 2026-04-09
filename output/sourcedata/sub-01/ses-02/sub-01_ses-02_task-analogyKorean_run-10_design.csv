@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,19,군도,섬,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+1,19,메들리,곡,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+1,19,쿠키한묶음,쿠키,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+1,19,달력,일정,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+1,19,산호초,산호,잠수부,산호,Collection:Member (Korean Localized),PART-WHOLE,probe,2.0
+2,48,사자,포효하다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+2,48,제빵사,굽다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+2,48,파도,부서지다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+2,48,컴퓨터,계산하다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+2,48,시계,똑딱거리다,종치다,똑딱거리다,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,probe,2.0
+3,13,불안하다,평화,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+3,13,깨지기쉽다,내구성,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+3,13,깨끗하다,더러움,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+3,13,둔감하다,인지,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+3,13,희망적이다,절망,절망,비관,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,probe,1.0
+4,-1,baseline,baseline,,,baseline,baseline,baseline,
+5,7,피아니스트,피아노,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+5,7,경찰관,수갑,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+5,7,미화원,대걸레,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+5,7,정원사,삽,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+5,7,제빵사,오븐,오븐,빵,Agent:Instrument (Korean Localized),CASE RELATIONS,probe,1.0
+6,13,비어있다,가득참,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+6,13,건강하다,질병,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+6,13,온화하다,폭력,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+6,13,정직하다,부정직,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+6,13,순진하다,세련됨,세련됨,경험,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,probe,1.0
+7,-1,baseline,baseline,,,baseline,baseline,baseline,
+8,7,가사도우미,빗자루,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+8,7,의사,청진기,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+8,7,요리사,칼,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+8,7,직조공,베틀,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+8,7,스키어,스키폴,스키폴,슬로프,Agent:Instrument (Korean Localized),CASE RELATIONS,probe,1.0
+9,19,새끼고양이무리,새끼고양이,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+9,19,박물관,유물,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+9,19,포도밭,포도나무,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+9,19,물고기떼,물고기,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+9,19,기록보관소,문서,문서,금고,Collection:Member (Korean Localized),PART-WHOLE,probe,1.0
+10,48,냉장고,냉각하다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+10,48,배우,연기하다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+10,48,벌,윙윙거리다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+10,48,화가,그리다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+10,48,별,반짝이다,별자리,반짝이다,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,probe,2.0
+11,7,운전사,자동차,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+11,7,프로그래머,컴퓨터,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+11,7,정비사,도구,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+11,7,회계사,계산기,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+11,7,이발사,가위,가위,의자,Agent:Instrument (Korean Localized),CASE RELATIONS,probe,1.0
+12,13,마비되다,이동성,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+12,13,부유하다,가난,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+12,13,맨정신이다,취함,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+12,13,이기적이다,이타심,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+12,13,참을성있다,조급함,조급함,간호사,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,probe,1.0
+13,19,합창단,단원,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+13,19,문단,문장,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+13,19,시리즈,에피소드,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+13,19,군중,사람,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+13,19,알파벳,글자,책,글자,Collection:Member (Korean Localized),PART-WHOLE,probe,2.0
+14,-1,baseline,baseline,,,baseline,baseline,baseline,
+15,48,작가,쓰다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+15,48,무용수,춤추다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+15,48,과일,익다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+15,48,물고기,헤엄치다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+15,48,재단사,바느질하다,바느질하다,자르다,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,probe,1.0
+16,7,판사,의사봉,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+16,7,간호사,주사기,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+16,7,중세기사,검,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+16,7,타이피스트,키보드,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+16,7,쿼터백,미식축구공,헬멧,미식축구공,Agent:Instrument (Korean Localized),CASE RELATIONS,probe,2.0
+17,19,공구함,공구,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+17,19,국회,국회의원,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+17,19,무용단,무용수,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+17,19,함대,배,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+17,19,연,행,행,운,Collection:Member (Korean Localized),PART-WHOLE,probe,1.0
+18,13,유죄이다,무죄,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+18,13,온순하다,공격성,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+18,13,격분하다,평정,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+18,13,젖다,건조,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+18,13,친절하다,잔인함,비판,잔인함,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,probe,2.0
+19,-1,baseline,baseline,,,baseline,baseline,baseline,
+20,7,요정,마법지팡이,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+20,7,자전거선수,자전거,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+20,7,치과의사,드릴,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+20,7,플루티스트,플루트,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+20,7,도예가,물레,화병,물레,Agent:Instrument (Korean Localized),CASE RELATIONS,probe,2.0
+21,48,종,울리다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+21,48,번개,치다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+21,48,의사,치료하다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+21,48,권투선수,싸우다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+21,48,지진,흔들리다,흔들리다,우르릉거리다,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,probe,1.0
+22,-1,baseline,baseline,,,baseline,baseline,baseline,
+23,13,안전하다,위험,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+23,13,적대적이다,우호,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+23,13,용감하다,비겁함,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+23,13,마르다,비만,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+23,13,시끄럽다,침묵,조화,침묵,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,probe,2.0
+24,48,원숭이,오르다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+24,48,빵,부풀다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+24,48,요리사,요리하다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+24,48,오리,꽥꽥울다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+24,48,구름,비내리다,비내리다,하늘,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,probe,1.0
+25,19,포도송이,포도알,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+25,19,군대,군인,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+25,19,원숭이떼,원숭이,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+25,19,뷔페,음식,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+25,19,비행대,항공기,항공기,활주로,Collection:Member (Korean Localized),PART-WHOLE,probe,1.0

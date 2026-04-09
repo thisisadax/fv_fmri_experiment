@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,42,blood,droplets,,,Mass:Potion,PART-WHOLE,example,
+1,42,chocolate,squares,,,Mass:Potion,PART-WHOLE,example,
+1,42,dollar,cents,,,Mass:Potion,PART-WHOLE,example,
+1,42,fleet,ships,,,Mass:Potion,PART-WHOLE,example,
+1,42,mosaic,tiles,tiles,museum,Mass:Potion,PART-WHOLE,probe,1.0
+2,32,grin,delight,,,Expression,REFERENCE,example,
+2,32,whistle,cheerfulness,,,Expression,REFERENCE,example,
+2,32,snub,disdain,,,Expression,REFERENCE,example,
+2,32,hum,contentment,,,Expression,REFERENCE,example,
+2,32,yawn,boredom,boredom,classroom,Expression,REFERENCE,probe,1.0
+3,-1,baseline,baseline,,,baseline,baseline,baseline,
+4,44,teeth,toothbrush,,,Object:Instrument,CASE RELATIONS,example,
+4,44,eyebrow,tweezers,,,Object:Instrument,CASE RELATIONS,example,
+4,44,nails,clippers,,,Object:Instrument,CASE RELATIONS,example,
+4,44,potato,peeler,,,Object:Instrument,CASE RELATIONS,example,
+4,44,violin,bow,melody,bow,Object:Instrument,CASE RELATIONS,probe,2.0
+5,43,available,taken,,,Object Attribute:Condition,ATTRIBUTE,example,
+5,43,mixed,separated,,,Object Attribute:Condition,ATTRIBUTE,example,
+5,43,pliable,twisted,,,Object Attribute:Condition,ATTRIBUTE,example,
+5,43,absorbent,soaked,,,Object Attribute:Condition,ATTRIBUTE,example,
+5,43,reparable,fixed,fixing,fixed,Object Attribute:Condition,ATTRIBUTE,probe,2.0
+6,42,garlic,cloves,,,Mass:Potion,PART-WHOLE,example,
+6,42,constellation,stars,,,Mass:Potion,PART-WHOLE,example,
+6,42,watermelon,wedges,,,Mass:Potion,PART-WHOLE,example,
+6,42,chain,link,,,Mass:Potion,PART-WHOLE,example,
+6,42,newspaper,sections,ink,sections,Mass:Potion,PART-WHOLE,probe,2.0
+7,-1,baseline,baseline,,,baseline,baseline,baseline,
+8,32,gawk,amazement,,,Expression,REFERENCE,example,
+8,32,cling,insecurity,,,Expression,REFERENCE,example,
+8,32,salute,deference,,,Expression,REFERENCE,example,
+8,32,compliment,admiration,,,Expression,REFERENCE,example,
+8,32,kiss,love,love,date,Expression,REFERENCE,probe,1.0
+9,43,wooden,burned,,,Object Attribute:Condition,ATTRIBUTE,example,
+9,43,sharp,dulled,,,Object Attribute:Condition,ATTRIBUTE,example,
+9,43,torn,mended,,,Object Attribute:Condition,ATTRIBUTE,example,
+9,43,visible,seen,,,Object Attribute:Condition,ATTRIBUTE,example,
+9,43,scattered,collected,broom,collected,Object Attribute:Condition,ATTRIBUTE,probe,2.0
+10,44,face,sunscreen,,,Object:Instrument,CASE RELATIONS,example,
+10,44,hay,pitchfork,,,Object:Instrument,CASE RELATIONS,example,
+10,44,dog,leash,,,Object:Instrument,CASE RELATIONS,example,
+10,44,windshield,wiper,,,Object:Instrument,CASE RELATIONS,example,
+10,44,stain,bleach,fabric,bleach,Object:Instrument,CASE RELATIONS,probe,2.0
+11,42,cup,tablespoons,,,Mass:Potion,PART-WHOLE,example,
+11,42,sand,grains,,,Mass:Potion,PART-WHOLE,example,
+11,42,library,books,,,Mass:Potion,PART-WHOLE,example,
+11,42,army,soldiers,,,Mass:Potion,PART-WHOLE,example,
+11,42,continent,countries,countries,states,Mass:Potion,PART-WHOLE,probe,1.0
+12,-1,baseline,baseline,,,baseline,baseline,baseline,
+13,32,smirk,smugness,,,Expression,REFERENCE,example,
+13,32,growl,aggression,,,Expression,REFERENCE,example,
+13,32,groan,pain,,,Expression,REFERENCE,example,
+13,32,hesitate,doubt,,,Expression,REFERENCE,example,
+13,32,tap,impatience,counter,impatience,Expression,REFERENCE,probe,2.0
+14,43,cold,frozen,,,Object Attribute:Condition,ATTRIBUTE,example,
+14,43,collapsible,folded,,,Object Attribute:Condition,ATTRIBUTE,example,
+14,43,heavy,dragged,,,Object Attribute:Condition,ATTRIBUTE,example,
+14,43,loose,tightened,,,Object Attribute:Condition,ATTRIBUTE,example,
+14,43,wandering,lost,road,lost,Object Attribute:Condition,ATTRIBUTE,probe,2.0
+15,44,canvas,paintbrush,,,Object:Instrument,CASE RELATIONS,example,
+15,44,soup,ladle,,,Object:Instrument,CASE RELATIONS,example,
+15,44,hands,soap,,,Object:Instrument,CASE RELATIONS,example,
+15,44,surface,sandpaper,,,Object:Instrument,CASE RELATIONS,example,
+15,44,baby,diaper,diaper,toy,Object:Instrument,CASE RELATIONS,probe,1.0
+16,32,gulp,nervousness,,,Expression,REFERENCE,example,
+16,32,tears,sorrow,,,Expression,REFERENCE,example,
+16,32,whisper,secrecy,,,Expression,REFERENCE,example,
+16,32,strut,confidence,,,Expression,REFERENCE,example,
+16,32,scowl,displeasure,anger,displeasure,Expression,REFERENCE,probe,2.0
+17,42,song,notes,,,Mass:Potion,PART-WHOLE,example,
+17,42,pack,wolves,,,Mass:Potion,PART-WHOLE,example,
+17,42,wall,bricks,,,Mass:Potion,PART-WHOLE,example,
+17,42,archipelago,islands,,,Mass:Potion,PART-WHOLE,example,
+17,42,corn,kernels,silk,kernels,Mass:Potion,PART-WHOLE,probe,2.0
+18,-1,baseline,baseline,,,baseline,baseline,baseline,
+19,44,lawn,mower,,,Object:Instrument,CASE RELATIONS,example,
+19,44,car,jack,,,Object:Instrument,CASE RELATIONS,example,
+19,44,whiteboard,marker,,,Object:Instrument,CASE RELATIONS,example,
+19,44,horse,saddle,,,Object:Instrument,CASE RELATIONS,example,
+19,44,cheese,grater,dairy,grater,Object:Instrument,CASE RELATIONS,probe,2.0
+20,43,flexible,bent,,,Object Attribute:Condition,ATTRIBUTE,example,
+20,43,complicated,simplified,,,Object Attribute:Condition,ATTRIBUTE,example,
+20,43,flammable,lit,,,Object Attribute:Condition,ATTRIBUTE,example,
+20,43,adjustable,modified,,,Object Attribute:Condition,ATTRIBUTE,example,
+20,43,soluble,dissolved,dissolved,frozen,Object Attribute:Condition,ATTRIBUTE,probe,1.0
+21,32,sulk,resentment,,,Expression,REFERENCE,example,
+21,32,sigh,exhaustion,,,Expression,REFERENCE,example,
+21,32,moan,suffering,,,Expression,REFERENCE,example,
+21,32,wave,acknowledgment,,,Expression,REFERENCE,example,
+21,32,bow,respect,obedience,respect,Expression,REFERENCE,probe,2.0
+22,44,thread,needle,,,Object:Instrument,CASE RELATIONS,example,
+22,44,paper,pen,,,Object:Instrument,CASE RELATIONS,example,
+22,44,prisoner,shackles,,,Object:Instrument,CASE RELATIONS,example,
+22,44,meat,cleaver,,,Object:Instrument,CASE RELATIONS,example,
+22,44,ice,scraper,scraper,windshield,Object:Instrument,CASE RELATIONS,probe,1.0
+23,42,air,puff,,,Mass:Potion,PART-WHOLE,example,
+23,42,puzzle,pieces,,,Mass:Potion,PART-WHOLE,example,
+23,42,page,paragraph,,,Mass:Potion,PART-WHOLE,example,
+23,42,necklace,beads,,,Mass:Potion,PART-WHOLE,example,
+23,42,rainbow,colors,arcs,colors,Mass:Potion,PART-WHOLE,probe,2.0
+24,-1,baseline,baseline,,,baseline,baseline,baseline,
+25,43,rough,sanded,,,Object Attribute:Condition,ATTRIBUTE,example,
+25,43,ripe,picked,,,Object Attribute:Condition,ATTRIBUTE,example,
+25,43,stale,tossed,,,Object Attribute:Condition,ATTRIBUTE,example,
+25,43,forgettable,forgotten,,,Object Attribute:Condition,ATTRIBUTE,example,
+25,43,fragile,damaged,damaged,glass,Object Attribute:Condition,ATTRIBUTE,probe,1.0

@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,39,윤리학,도덕,,,Knowledge (Korean Localized),REFERENCE,example,
+1,39,병리학,질병,,,Knowledge (Korean Localized),REFERENCE,example,
+1,39,신화학,신화,,,Knowledge (Korean Localized),REFERENCE,example,
+1,39,법과학,증거,,,Knowledge (Korean Localized),REFERENCE,example,
+1,39,종교학,종교,의식,종교,Knowledge (Korean Localized),REFERENCE,probe,2.0
+2,9,겸손하다,자랑하다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+2,9,거만하다,겸손해지다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+2,9,헌신적이다,한눈팔다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+2,9,자제력있다,탐닉하다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+2,9,원칙적이다,훔치다,훔치다,도덕적이다,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,probe,1.0
+3,12,경첩,대문,,,Attachment (Korean Localized),SPACE-TIME,example,
+3,12,리본,선물,,,Attachment (Korean Localized),SPACE-TIME,example,
+3,12,돛,돛대,,,Attachment (Korean Localized),SPACE-TIME,example,
+3,12,램프갓,램프,,,Attachment (Korean Localized),SPACE-TIME,example,
+3,12,손잡이,머그컵,머그컵,테두리,Attachment (Korean Localized),SPACE-TIME,probe,1.0
+4,62,대청소,빗자루,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+4,62,소녀시절,인형,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+4,62,쉬는시간,운동장,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+4,62,졸업식,학사모,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+4,62,대학생,기숙사,칸막이책상,기숙사,Time Associated Item (Korean Localized),SPACE-TIME,probe,2.0
+5,-1,baseline,baseline,,,baseline,baseline,baseline,
+6,12,문,문틀,,,Attachment (Korean Localized),SPACE-TIME,example,
+6,12,모니터,컴퓨터,,,Attachment (Korean Localized),SPACE-TIME,example,
+6,12,브로치,블라우스,,,Attachment (Korean Localized),SPACE-TIME,example,
+6,12,가지뿔,사슴,,,Attachment (Korean Localized),SPACE-TIME,example,
+6,12,배지,제복,제복,넥타이,Attachment (Korean Localized),SPACE-TIME,probe,1.0
+7,39,감염역학,전염병,,,Knowledge (Korean Localized),REFERENCE,example,
+7,39,동물학,동물,,,Knowledge (Korean Localized),REFERENCE,example,
+7,39,산림학,산림,,,Knowledge (Korean Localized),REFERENCE,example,
+7,39,종양학,암,,,Knowledge (Korean Localized),REFERENCE,example,
+7,39,컴퓨터과학,계산,계산,컴퓨터,Knowledge (Korean Localized),REFERENCE,probe,1.0
+8,62,이사날,상자,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+8,62,노년,지팡이,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+8,62,출퇴근시간,교통체증,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+8,62,영아기,쪽쪽이,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+8,62,돌잔치,돌잡이,웨딩케이크,돌잡이,Time Associated Item (Korean Localized),SPACE-TIME,probe,2.0
+9,-1,baseline,baseline,,,baseline,baseline,baseline,
+10,39,유전학,유전,,,Knowledge (Korean Localized),REFERENCE,example,
+10,39,언어학,언어,,,Knowledge (Korean Localized),REFERENCE,example,
+10,39,우주론,우주,,,Knowledge (Korean Localized),REFERENCE,example,
+10,39,식문화학,요리,,,Knowledge (Korean Localized),REFERENCE,example,
+10,39,사회학,사회,사회,공동체,Knowledge (Korean Localized),REFERENCE,probe,1.0
+11,62,대학,학위,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+11,62,죽음,관,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+11,62,결혼식,반지,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+11,62,비오는날,우산,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+11,62,아침,해돋이,해돋이,잠옷,Time Associated Item (Korean Localized),SPACE-TIME,probe,1.0
+12,-1,baseline,baseline,,,baseline,baseline,baseline,
+13,9,정직하다,거짓말하다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+13,9,순진하다,음모꾸미다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+13,9,혼란스럽다,명확히하다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+13,9,충성스럽다,배신하다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+13,9,내구성좋다,금이가다,금이가다,보증,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,probe,1.0
+14,39,식물학,식물,,,Knowledge (Korean Localized),REFERENCE,example,
+14,39,곤충학,곤충,,,Knowledge (Korean Localized),REFERENCE,example,
+14,39,통계학,데이터,,,Knowledge (Korean Localized),REFERENCE,example,
+14,39,경제학,시장,,,Knowledge (Korean Localized),REFERENCE,example,
+14,39,치의학,치아,충치,치아,Knowledge (Korean Localized),REFERENCE,probe,2.0
+15,-1,baseline,baseline,,,baseline,baseline,baseline,
+16,12,나무껍질,나무줄기,,,Attachment (Korean Localized),SPACE-TIME,example,
+16,12,가지,나무,,,Attachment (Korean Localized),SPACE-TIME,example,
+16,12,붕대,상처,,,Attachment (Korean Localized),SPACE-TIME,example,
+16,12,핸들바,자전거,,,Attachment (Korean Localized),SPACE-TIME,example,
+16,12,뚜껑,단지,봉인,단지,Attachment (Korean Localized),SPACE-TIME,probe,2.0
+17,9,인색하다,기부하다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+17,9,조용하다,소리치다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+17,9,순종적이다,반항하다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+17,9,현명하다,실수하다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+17,9,참을성있다,압박하다,압박하다,기다리다,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,probe,1.0
+18,62,추수,허수아비,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+18,62,추석,송편,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+18,62,육아,기저귀,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+18,62,취침시간,잠옷,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+18,62,학교,숙제,숙제,월급,Time Associated Item (Korean Localized),SPACE-TIME,probe,1.0
+19,-1,baseline,baseline,,,baseline,baseline,baseline,
+20,9,신뢰할만하다,속이다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+20,9,시끄럽다,달래다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+20,9,예의바르다,끼어들다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+20,9,깨어있다,자다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+20,9,고정되다,떠내려가다,붙잡다,떠내려가다,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,probe,2.0
+21,12,뿔,황소,,,Attachment (Korean Localized),SPACE-TIME,example,
+21,12,깃털,새,,,Attachment (Korean Localized),SPACE-TIME,example,
+21,12,차양막,가게앞,,,Attachment (Korean Localized),SPACE-TIME,example,
+21,12,장갑,손,,,Attachment (Korean Localized),SPACE-TIME,example,
+21,12,사과,나무,잎,나무,Attachment (Korean Localized),SPACE-TIME,probe,2.0
+22,39,안과학,눈,,,Knowledge (Korean Localized),REFERENCE,example,
+22,39,인구학,인구,,,Knowledge (Korean Localized),REFERENCE,example,
+22,39,해양생물학,해양생물,,,Knowledge (Korean Localized),REFERENCE,example,
+22,39,소아의학,어린이,,,Knowledge (Korean Localized),REFERENCE,example,
+22,39,약리학,약물,약물,약국,Knowledge (Korean Localized),REFERENCE,probe,1.0
+23,9,금욕적이다,성관계하다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+23,9,시간엄수하다,꾸물거리다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+23,9,소박하다,뽐내다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+23,9,깔끔하다,어질러놓다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+23,9,경계심강하다,놓치다,경보,놓치다,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,probe,2.0
+24,62,부처님오신날,연등,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+24,62,가을,감,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+24,62,대학축제,응원봉,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+24,62,성년의날,장미,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+24,62,장례식,조화,조화,선물,Time Associated Item (Korean Localized),SPACE-TIME,probe,1.0
+25,12,실,연,,,Attachment (Korean Localized),SPACE-TIME,example,
+25,12,반지,손가락,,,Attachment (Korean Localized),SPACE-TIME,example,
+25,12,박차,부츠,,,Attachment (Korean Localized),SPACE-TIME,example,
+25,12,이끼,바위,,,Attachment (Korean Localized),SPACE-TIME,example,
+25,12,잠금장치,가방,가방,지퍼,Attachment (Korean Localized),SPACE-TIME,probe,1.0

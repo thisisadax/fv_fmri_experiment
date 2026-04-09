@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,4,말리다,젖다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+1,4,느슨하게 하다,빡빡하다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+1,4,정리하다,어지럽다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+1,4,해결하다,난해하다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+1,4,격려하다,낙담하다,낙담하다,코치,Action:Object Attribute (Korean Localized),ATTRIBUTE,probe,1.0
+2,7,기자,마이크,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+2,7,전사,창,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+2,7,계산원,계산대,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+2,7,판사,의사봉,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+2,7,의사,체온계,체온계,건강,Agent:Instrument (Korean Localized),CASE RELATIONS,probe,1.0
+3,16,분노,공격성,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+3,16,배고픔,짜증,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+3,16,부상,통증,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+3,16,물주기,성장,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+3,16,번개,천둥,우산,천둥,Cause:Effect (Korean Localized),CAUSE-PURPOSE,probe,2.0
+4,23,가족,구성원,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+4,23,직원,일자리,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+4,23,호텔,투숙객,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+4,23,우유병,우유,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+4,23,바닷가재,집게발,삶기,집게발,Creature:Possession (Korean Localized),PART-WHOLE,probe,2.0
+5,4,해동하다,얼어붙다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+5,4,잠금해제하다,잠기다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+5,4,돕다,무력하다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+5,4,정화하다,오염되다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+5,4,토론하다,논란이 많다,논란이 많다,복잡하다,Action:Object Attribute (Korean Localized),ATTRIBUTE,probe,1.0
+6,16,샤워,청결,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+6,16,과속,사고,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+6,16,땀흘림,체취,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+6,16,베임,상처,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+6,16,중력,낙하,질량,낙하,Cause:Effect (Korean Localized),CAUSE-PURPOSE,probe,2.0
+7,23,토끼,털,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+7,23,피아노,건반,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+7,23,농부,작물,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+7,23,도서관,책,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+7,23,공구함,도구,차고,도구,Creature:Possession (Korean Localized),PART-WHOLE,probe,2.0
+8,4,번역하다,외국어이다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+8,4,씻다,더럽다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+8,4,열다,닫히다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+8,4,보존하다,소중하다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+8,4,리모델링하다,낡다,시공업자,낡다,Action:Object Attribute (Korean Localized),ATTRIBUTE,probe,2.0
+9,-1,baseline,baseline,,,baseline,baseline,baseline,
+10,23,동물원,동물,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+10,23,오케스트라,연주자,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+10,23,교사,학생,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+10,23,경기장,좌석,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+10,23,셔츠,단추,옷걸이,단추,Creature:Possession (Korean Localized),PART-WHOLE,probe,2.0
+11,16,카페인,각성,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+11,16,친절,감사,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+11,16,음주,취함,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+11,16,열,녹음,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+11,16,전쟁,사상자,사상자,군대,Cause:Effect (Korean Localized),CAUSE-PURPOSE,probe,1.0
+12,-1,baseline,baseline,,,baseline,baseline,baseline,
+13,7,운전사,자동차,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+13,7,화가,붓,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+13,7,궁수,활,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+13,7,배관공,렌치,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+13,7,작가,펜,책상,펜,Agent:Instrument (Korean Localized),CASE RELATIONS,probe,2.0
+14,23,책,페이지,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+14,23,가시돼지,가시,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+14,23,나라,국민,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+14,23,뱀,독니,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+14,23,지갑,현금,현금,신용점수,Creature:Possession (Korean Localized),PART-WHOLE,probe,1.0
+15,-1,baseline,baseline,,,baseline,baseline,baseline,
+16,7,달리기선수,운동화,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+16,7,지휘자,지휘봉,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+16,7,볼링선수,볼링공,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+16,7,정비사,도구,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+16,7,조각가,끌,조각상,끌,Agent:Instrument (Korean Localized),CASE RELATIONS,probe,2.0
+17,16,좌절,폭발,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+17,16,운동,땀,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+17,16,설탕,에너지,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+17,16,진동,소리,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+17,16,무례,갈등,말투,갈등,Cause:Effect (Korean Localized),CAUSE-PURPOSE,probe,2.0
+18,-1,baseline,baseline,,,baseline,baseline,baseline,
+19,4,보호하다,취약하다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+19,4,식히다,뜨겁다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+19,4,교육하다,무지하다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+19,4,먹다,맛있다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+19,4,처벌하다,유죄이다,무례하다,유죄이다,Action:Object Attribute (Korean Localized),ATTRIBUTE,probe,2.0
+20,7,직조공,베틀,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+20,7,인명구조원,구명부환,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+20,7,기타리스트,기타,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+20,7,프로그래머,컴퓨터,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+20,7,등반가,로프,산,로프,Agent:Instrument (Korean Localized),CASE RELATIONS,probe,2.0
+21,16,폭우,홍수,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+21,16,외로움,우울감,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+21,16,독,사망,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+21,16,놀람,충격,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+21,16,공포,패닉,패닉,밤,Cause:Effect (Korean Localized),CAUSE-PURPOSE,probe,1.0
+22,-1,baseline,baseline,,,baseline,baseline,baseline,
+23,7,애견훈련사,간식,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+23,7,중세기사,검,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+23,7,음악가,악기,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+23,7,정원사,삽,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+23,7,스키어,스키폴,스키폴,활강,Agent:Instrument (Korean Localized),CASE RELATIONS,probe,1.0
+24,23,목장주,소,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+24,23,개,꼬리,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+24,23,어머니,자녀,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+24,23,부엉이,발톱,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+24,23,옷장,옷,옷,침실,Creature:Possession (Korean Localized),PART-WHOLE,probe,1.0
+25,4,안심시키다,불안하다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+25,4,먹이다,배고프다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+25,4,확대하다,작다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+25,4,갈다,무디다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+25,4,비료를 주다,척박하다,밭,척박하다,Action:Object Attribute (Korean Localized),ATTRIBUTE,probe,2.0

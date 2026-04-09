@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,60,gift,present,,,Synonymity,SIMILAR,example,
+1,60,scared,afraid,,,Synonymity,SIMILAR,example,
+1,60,brave,courageous,,,Synonymity,SIMILAR,example,
+1,60,mom,mother,,,Synonymity,SIMILAR,example,
+1,60,yell,shout,crowd,shout,Synonymity,SIMILAR,probe,2.0
+2,3,help,helpless,,,Action:Object Attribute,ATTRIBUTE,example,
+2,3,translate,foreign,,,Action:Object Attribute,ATTRIBUTE,example,
+2,3,cure,sick,,,Action:Object Attribute,ATTRIBUTE,example,
+2,3,simplify,complex,,,Action:Object Attribute,ATTRIBUTE,example,
+2,3,discard,useless,useless,broken,Action:Object Attribute,ATTRIBUTE,probe,1.0
+3,33,pastry,croissant,,,Functional,CLASS-INCLUSION,example,
+3,33,currency,coin,,,Functional,CLASS-INCLUSION,example,
+3,33,insulation,foam,,,Functional,CLASS-INCLUSION,example,
+3,33,bandage,gauze,,,Functional,CLASS-INCLUSION,example,
+3,33,home,tree,tree,address,Functional,CLASS-INCLUSION,probe,1.0
+4,60,begin,start,,,Synonymity,SIMILAR,example,
+4,60,hide,conceal,,,Synonymity,SIMILAR,example,
+4,60,sad,unhappy,,,Synonymity,SIMILAR,example,
+4,60,forest,woods,,,Synonymity,SIMILAR,example,
+4,60,cry,weep,tissue,weep,Synonymity,SIMILAR,probe,2.0
+5,62,Thanksgiving,turkey,,,Time Associated Item,SPACE-TIME,example,
+5,62,rainy day,umbrella,,,Time Associated Item,SPACE-TIME,example,
+5,62,youth,backpack,,,Time Associated Item,SPACE-TIME,example,
+5,62,dawn,rooster,,,Time Associated Item,SPACE-TIME,example,
+5,62,Fourth of July,sparklers,pumpkin,sparklers,Time Associated Item,SPACE-TIME,probe,2.0
+6,33,herb,basil,,,Functional,CLASS-INCLUSION,example,
+6,33,nourishment,banana,,,Functional,CLASS-INCLUSION,example,
+6,33,weapon,sword,,,Functional,CLASS-INCLUSION,example,
+6,33,toy,doll,,,Functional,CLASS-INCLUSION,example,
+6,33,adhesive,tape,scissors,tape,Functional,CLASS-INCLUSION,probe,2.0
+7,-1,baseline,baseline,,,baseline,baseline,baseline,
+8,62,halftime,snacks,,,Time Associated Item,SPACE-TIME,example,
+8,62,morning,coffee,,,Time Associated Item,SPACE-TIME,example,
+8,62,adulthood,mortgage,,,Time Associated Item,SPACE-TIME,example,
+8,62,Prohibition,speakeasy,,,Time Associated Item,SPACE-TIME,example,
+8,62,weekday,commute,weekend getaway,commute,Time Associated Item,SPACE-TIME,probe,2.0
+9,3,widen,narrow,,,Action:Object Attribute,ATTRIBUTE,example,
+9,3,level,uneven,,,Action:Object Attribute,ATTRIBUTE,example,
+9,3,free,trapped,,,Action:Object Attribute,ATTRIBUTE,example,
+9,3,dry,wet,,,Action:Object Attribute,ATTRIBUTE,example,
+9,3,inflate,flat,flat,soft,Action:Object Attribute,ATTRIBUTE,probe,1.0
+10,60,dream,fantasize,,,Synonymity,SIMILAR,example,
+10,60,dress,frock,,,Synonymity,SIMILAR,example,
+10,60,movie,film,,,Synonymity,SIMILAR,example,
+10,60,angry,mad,,,Synonymity,SIMILAR,example,
+10,60,physician,doctor,stethoscope,doctor,Synonymity,SIMILAR,probe,2.0
+11,62,graduation,cap,,,Time Associated Item,SPACE-TIME,example,
+11,62,spring,flowers,,,Time Associated Item,SPACE-TIME,example,
+11,62,wartime,rations,,,Time Associated Item,SPACE-TIME,example,
+11,62,summer,swimsuit,,,Time Associated Item,SPACE-TIME,example,
+11,62,fall,leaves,leaves,snowflakes,Time Associated Item,SPACE-TIME,probe,1.0
+12,-1,baseline,baseline,,,baseline,baseline,baseline,
+13,3,drain,flooded,,,Action:Object Attribute,ATTRIBUTE,example,
+13,3,straighten,crooked,,,Action:Object Attribute,ATTRIBUTE,example,
+13,3,renovate,dilapidated,,,Action:Object Attribute,ATTRIBUTE,example,
+13,3,soothe,upset,,,Action:Object Attribute,ATTRIBUTE,example,
+13,3,polish,tarnished,smudged,tarnished,Action:Object Attribute,ATTRIBUTE,probe,2.0
+14,60,creek,stream,,,Synonymity,SIMILAR,example,
+14,60,voyage,journey,,,Synonymity,SIMILAR,example,
+14,60,bucket,pail,,,Synonymity,SIMILAR,example,
+14,60,pants,trousers,,,Synonymity,SIMILAR,example,
+14,60,talk,speak,speak,conversation,Synonymity,SIMILAR,probe,1.0
+15,-1,baseline,baseline,,,baseline,baseline,baseline,
+16,62,student,dorm,,,Time Associated Item,SPACE-TIME,example,
+16,62,childhood,toys,,,Time Associated Item,SPACE-TIME,example,
+16,62,baby shower,rattle,,,Time Associated Item,SPACE-TIME,example,
+16,62,Easter,eggs,,,Time Associated Item,SPACE-TIME,example,
+16,62,promotion,raise,raise,transfer,Time Associated Item,SPACE-TIME,probe,1.0
+17,33,vegetable,spinach,,,Functional,CLASS-INCLUSION,example,
+17,33,meat,ham,,,Functional,CLASS-INCLUSION,example,
+17,33,footwear,boot,,,Functional,CLASS-INCLUSION,example,
+17,33,artwork,sculpture,,,Functional,CLASS-INCLUSION,example,
+17,33,tool,screwdriver,toolbox,screwdriver,Functional,CLASS-INCLUSION,probe,2.0
+18,3,brighten,dim,,,Action:Object Attribute,ATTRIBUTE,example,
+18,3,dilute,concentrated,,,Action:Object Attribute,ATTRIBUTE,example,
+18,3,comfort,hurting,,,Action:Object Attribute,ATTRIBUTE,example,
+18,3,compress,bulky,,,Action:Object Attribute,ATTRIBUTE,example,
+18,3,iron,wrinkled,laundry,wrinkled,Action:Object Attribute,ATTRIBUTE,probe,2.0
+19,-1,baseline,baseline,,,baseline,baseline,baseline,
+20,33,fabric,silk,,,Functional,CLASS-INCLUSION,example,
+20,33,dish,plate,,,Functional,CLASS-INCLUSION,example,
+20,33,utensil,fork,,,Functional,CLASS-INCLUSION,example,
+20,33,signal,horn,,,Functional,CLASS-INCLUSION,example,
+20,33,abrasive,sandpaper,sandpaper,dust,Functional,CLASS-INCLUSION,probe,1.0
+21,62,noon,lunch,,,Time Associated Item,SPACE-TIME,example,
+21,62,recess,playground,,,Time Associated Item,SPACE-TIME,example,
+21,62,prom,corsage,,,Time Associated Item,SPACE-TIME,example,
+21,62,parenthood,diapers,,,Time Associated Item,SPACE-TIME,example,
+21,62,middle age,gray hair,pacifier,gray hair,Time Associated Item,SPACE-TIME,probe,2.0
+22,3,untangle,knotted,,,Action:Object Attribute,ATTRIBUTE,example,
+22,3,silence,noisy,,,Action:Object Attribute,ATTRIBUTE,example,
+22,3,clarify,unclear,,,Action:Object Attribute,ATTRIBUTE,example,
+22,3,enlarge,small,,,Action:Object Attribute,ATTRIBUTE,example,
+22,3,encourage,discouraged,cheer,discouraged,Action:Object Attribute,ATTRIBUTE,probe,2.0
+23,-1,baseline,baseline,,,baseline,baseline,baseline,
+24,33,dessert,cake,,,Functional,CLASS-INCLUSION,example,
+24,33,fuel,coal,,,Functional,CLASS-INCLUSION,example,
+24,33,cushion,pillow,,,Functional,CLASS-INCLUSION,example,
+24,33,container,jar,,,Functional,CLASS-INCLUSION,example,
+24,33,furniture,desk,drawer,desk,Functional,CLASS-INCLUSION,probe,2.0
+25,60,glad,pleased,,,Synonymity,SIMILAR,example,
+25,60,tiny,small,,,Synonymity,SIMILAR,example,
+25,60,cozy,snug,,,Synonymity,SIMILAR,example,
+25,60,jump,leap,,,Synonymity,SIMILAR,example,
+25,60,error,mistake,mistake,correction,Synonymity,SIMILAR,probe,1.0

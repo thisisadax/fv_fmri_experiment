@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,21,느리다,빠르다,,,Contradictory (Korean Localized),CONTRAST,example,
+1,21,사납다,온순하다,,,Contradictory (Korean Localized),CONTRAST,example,
+1,21,크다,작다,,,Contradictory (Korean Localized),CONTRAST,example,
+1,21,영구적이다,일시적이다,,,Contradictory (Korean Localized),CONTRAST,example,
+1,21,투명하다,불투명하다,불투명하다,창문,Contradictory (Korean Localized),CONTRAST,probe,1.0
+2,39,경제학,시장,,,Knowledge (Korean Localized),REFERENCE,example,
+2,39,정형외과학,뼈,,,Knowledge (Korean Localized),REFERENCE,example,
+2,39,건축학,건물,,,Knowledge (Korean Localized),REFERENCE,example,
+2,39,종교학,종교,,,Knowledge (Korean Localized),REFERENCE,example,
+2,39,곤충학,곤충,채집망,곤충,Knowledge (Korean Localized),REFERENCE,probe,2.0
+3,-1,baseline,baseline,,,baseline,baseline,baseline,
+4,24,변색,은제품,,,Defective (Korean Localized),CONTRAST,example,
+4,24,흉터,피부,,,Defective (Korean Localized),CONTRAST,example,
+4,24,구멍,바지,,,Defective (Korean Localized),CONTRAST,example,
+4,24,찢어짐,페이지,,,Defective (Korean Localized),CONTRAST,example,
+4,24,불순물,물,물,필터,Defective (Korean Localized),CONTRAST,probe,1.0
+5,40,병원,치료받다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+5,40,우체국,우편 보내다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+5,40,광산,채굴하다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+5,40,콘서트홀,공연하다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+5,40,테라스,쉬다,굽기,쉬다,Location:Action/Activity (Korean Localized),SPACE-TIME,probe,2.0
+6,39,물리학,물질,,,Knowledge (Korean Localized),REFERENCE,example,
+6,39,식문화학,요리,,,Knowledge (Korean Localized),REFERENCE,example,
+6,39,언어학,언어,,,Knowledge (Korean Localized),REFERENCE,example,
+6,39,기하학,도형,,,Knowledge (Korean Localized),REFERENCE,example,
+6,39,항공학,비행,날개,비행,Knowledge (Korean Localized),REFERENCE,probe,2.0
+7,21,가깝다,멀다,,,Contradictory (Korean Localized),CONTRAST,example,
+7,21,유죄,무죄,,,Contradictory (Korean Localized),CONTRAST,example,
+7,21,안전하다,위험하다,,,Contradictory (Korean Localized),CONTRAST,example,
+7,21,긍정적이다,부정적이다,,,Contradictory (Korean Localized),CONTRAST,example,
+7,21,참,거짓,거짓,증거,Contradictory (Korean Localized),CONTRAST,probe,1.0
+8,-1,baseline,baseline,,,baseline,baseline,baseline,
+9,24,문장 연결 오류,문장,,,Defective (Korean Localized),CONTRAST,example,
+9,24,흔들림,바퀴,,,Defective (Korean Localized),CONTRAST,example,
+9,24,철자 오류,단어,,,Defective (Korean Localized),CONTRAST,example,
+9,24,논리적 오류,논증,,,Defective (Korean Localized),CONTRAST,example,
+9,24,찌그러짐,자동차,우박,자동차,Defective (Korean Localized),CONTRAST,probe,2.0
+10,21,안,밖,,,Contradictory (Korean Localized),CONTRAST,example,
+10,21,기혼,미혼,,,Contradictory (Korean Localized),CONTRAST,example,
+10,21,기체,고체,,,Contradictory (Korean Localized),CONTRAST,example,
+10,21,좋다,나쁘다,,,Contradictory (Korean Localized),CONTRAST,example,
+10,21,달다,쓰다,빵집,쓰다,Contradictory (Korean Localized),CONTRAST,probe,2.0
+11,39,면역학,면역,,,Knowledge (Korean Localized),REFERENCE,example,
+11,39,치의학,치아,,,Knowledge (Korean Localized),REFERENCE,example,
+11,39,동물학,동물,,,Knowledge (Korean Localized),REFERENCE,example,
+11,39,피부과학,피부,,,Knowledge (Korean Localized),REFERENCE,example,
+11,39,컴퓨터과학,계산,소프트웨어,계산,Knowledge (Korean Localized),REFERENCE,probe,2.0
+12,40,미용실,머리하다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+12,40,고속도로,운전하다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+12,40,항구,정박하다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+12,40,클럽,춤추다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+12,40,투표소,투표하다,개표,투표하다,Location:Action/Activity (Korean Localized),SPACE-TIME,probe,2.0
+13,24,우울증,정신,,,Defective (Korean Localized),CONTRAST,example,
+13,24,노이즈,녹음,,,Defective (Korean Localized),CONTRAST,example,
+13,24,부정맥,심장박동,,,Defective (Korean Localized),CONTRAST,example,
+13,24,비듬,두피,,,Defective (Korean Localized),CONTRAST,example,
+13,24,포트홀,도로,도로,아스팔트,Defective (Korean Localized),CONTRAST,probe,1.0
+14,39,식물학,식물,,,Knowledge (Korean Localized),REFERENCE,example,
+14,39,우주론,우주,,,Knowledge (Korean Localized),REFERENCE,example,
+14,39,종양학,암,,,Knowledge (Korean Localized),REFERENCE,example,
+14,39,감염역학,전염병,,,Knowledge (Korean Localized),REFERENCE,example,
+14,39,독성학,독,독,약물,Knowledge (Korean Localized),REFERENCE,probe,1.0
+15,40,바,술 마시다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+15,40,부두,짐 싣다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+15,40,해변,일광욕하다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+15,40,과수원,과일 따다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+15,40,슬로프,스키 타다,썰매 타기,스키 타다,Location:Action/Activity (Korean Localized),SPACE-TIME,probe,2.0
+16,-1,baseline,baseline,,,baseline,baseline,baseline,
+17,24,허점,계약서,,,Defective (Korean Localized),CONTRAST,example,
+17,24,얼룩,천,,,Defective (Korean Localized),CONTRAST,example,
+17,24,모순,이야기,,,Defective (Korean Localized),CONTRAST,example,
+17,24,떨림,손,,,Defective (Korean Localized),CONTRAST,example,
+17,24,무지외반증,발,뒤꿈치,발,Defective (Korean Localized),CONTRAST,probe,2.0
+18,40,숲,캠핑하다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+18,40,아이스링크,스케이트 타다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+18,40,교회,예배드리다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+18,40,영화관,영화 보다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+18,40,극장,연기하다,연기하다,리허설,Location:Action/Activity (Korean Localized),SPACE-TIME,probe,1.0
+19,39,유전학,유전,,,Knowledge (Korean Localized),REFERENCE,example,
+19,39,역사학,과거,,,Knowledge (Korean Localized),REFERENCE,example,
+19,39,고고학,유물,,,Knowledge (Korean Localized),REFERENCE,example,
+19,39,지질학,지구,,,Knowledge (Korean Localized),REFERENCE,example,
+19,39,화산학,화산,화산,용암,Knowledge (Korean Localized),REFERENCE,probe,1.0
+20,-1,baseline,baseline,,,baseline,baseline,baseline,
+21,21,지루하다,재미있다,,,Contradictory (Korean Localized),CONTRAST,example,
+21,21,낙관적이다,비관적이다,,,Contradictory (Korean Localized),CONTRAST,example,
+21,21,풍부하다,희소하다,,,Contradictory (Korean Localized),CONTRAST,example,
+21,21,시작,끝,,,Contradictory (Korean Localized),CONTRAST,example,
+21,21,부자,가난하다,검소하다,가난하다,Contradictory (Korean Localized),CONTRAST,probe,2.0
+22,24,찍힘,앞유리,,,Defective (Korean Localized),CONTRAST,example,
+22,24,막힘,배수구,,,Defective (Korean Localized),CONTRAST,example,
+22,24,곰팡이,빵,,,Defective (Korean Localized),CONTRAST,example,
+22,24,치아 사이 틈,치아,,,Defective (Korean Localized),CONTRAST,example,
+22,24,마비,팔다리,휠체어,팔다리,Defective (Korean Localized),CONTRAST,probe,2.0
+23,-1,baseline,baseline,,,baseline,baseline,baseline,
+24,21,깨끗하다,더럽다,,,Contradictory (Korean Localized),CONTRAST,example,
+24,21,참을성있다,성급하다,,,Contradictory (Korean Localized),CONTRAST,example,
+24,21,고대,현대,,,Contradictory (Korean Localized),CONTRAST,example,
+24,21,창백하다,구릿빛이다,,,Contradictory (Korean Localized),CONTRAST,example,
+24,21,정상,비정상,보통,비정상,Contradictory (Korean Localized),CONTRAST,probe,2.0
+25,40,박물관,관람하다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+25,40,공장,제조하다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+25,40,집,살다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+25,40,바다,서핑하다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+25,40,온실,재배하다,재배하다,습도,Location:Action/Activity (Korean Localized),SPACE-TIME,probe,1.0

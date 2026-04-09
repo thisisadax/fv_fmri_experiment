@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,8,rough,scratch,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+1,8,magnetic,attract,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+1,8,kind,help,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+1,8,pliable,bend,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+1,8,embarrassed,blush,blush,hide,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,probe,1.0
+2,52,formation,offense,,,Plan,REFERENCE,example,
+2,52,mockup,design,,,Plan,REFERENCE,example,
+2,52,prospectus,investment,,,Plan,REFERENCE,example,
+2,52,diagram,wiring,,,Plan,REFERENCE,example,
+2,52,score,ballet,choreography,ballet,Plan,REFERENCE,probe,2.0
+3,-1,baseline,baseline,,,baseline,baseline,baseline,
+4,5,shatter,fragments,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+4,5,delight,happy,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+4,5,iron,pressed,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+4,5,dampen,wet,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+4,5,exercise,fatigue,fatigue,sweaty,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,probe,1.0
+5,24,hotel,guests,,,Creature:Possession,PART-WHOLE,example,
+5,24,proprietor,employees,,,Creature:Possession,PART-WHOLE,example,
+5,24,lobster,claws,,,Creature:Possession,PART-WHOLE,example,
+5,24,clock,hands,,,Creature:Possession,PART-WHOLE,example,
+5,24,museum,exhibits,visitors,exhibits,Creature:Possession,PART-WHOLE,probe,2.0
+6,-1,baseline,baseline,,,baseline,baseline,baseline,
+7,8,obedient,comply,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+7,8,overloaded,collapse,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+7,8,golden,gleam,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+7,8,coarse,scrape,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+7,8,soft,cushion,cushion,absorb,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,probe,1.0
+8,24,flower,petals,,,Creature:Possession,PART-WHOLE,example,
+8,24,mother,children,,,Creature:Possession,PART-WHOLE,example,
+8,24,wallet,cash,,,Creature:Possession,PART-WHOLE,example,
+8,24,mammal,hair,,,Creature:Possession,PART-WHOLE,example,
+8,24,soldier,uniform,uniform,war zone,Creature:Possession,PART-WHOLE,probe,1.0
+9,5,heal,healthy,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+9,5,praise,proud,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+9,5,tear,torn,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+9,5,wash,clean,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+9,5,beat,defeated,defeated,tired,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,probe,1.0
+10,-1,baseline,baseline,,,baseline,baseline,baseline,
+11,52,prescription,medication,,,Plan,REFERENCE,example,
+11,52,map,expedition,,,Plan,REFERENCE,example,
+11,52,outline,paper,,,Plan,REFERENCE,example,
+11,52,sketch,sculpture,,,Plan,REFERENCE,example,
+11,52,strategy,attack,attack,rally,Plan,REFERENCE,probe,1.0
+12,8,hot,burn,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+12,8,vengeful,retaliate,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+12,8,hurt,cry,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+12,8,heavy,press,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+12,8,brittle,crack,crumble,crack,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,probe,2.0
+13,5,illuminate,bright,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+13,5,dig,hole,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+13,5,knead,soft,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+13,5,sift,separated,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+13,5,annoy,irritated,irritated,fly,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,probe,1.0
+14,-1,baseline,baseline,,,baseline,baseline,baseline,
+15,52,curriculum,education,,,Plan,REFERENCE,example,
+15,52,route,delivery,,,Plan,REFERENCE,example,
+15,52,roadmap,career,,,Plan,REFERENCE,example,
+15,52,timeline,project,,,Plan,REFERENCE,example,
+15,52,list,groceries,cart,groceries,Plan,REFERENCE,probe,2.0
+16,5,stain,discolored,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+16,5,toast,crisp,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+16,5,compress,compact,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+16,5,break,broken,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+16,5,weld,joined,torch,joined,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,probe,2.0
+17,24,musician,music,,,Creature:Possession,PART-WHOLE,example,
+17,24,word,letters,,,Creature:Possession,PART-WHOLE,example,
+17,24,company,products,,,Creature:Possession,PART-WHOLE,example,
+17,24,car,engine,,,Creature:Possession,PART-WHOLE,example,
+17,24,ocean,waves,surfboards,waves,Creature:Possession,PART-WHOLE,probe,2.0
+18,8,luminous,glow,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+18,8,stiff,resist,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+18,8,drowsy,doze,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+18,8,adhesive,stick,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+18,8,thirsty,drink,drink,water,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,probe,1.0
+19,5,purify,pure,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+19,5,stretch,long,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+19,5,comb,neat,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+19,5,sprint,breathless,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+19,5,bend,curved,elbow,curved,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,probe,2.0
+20,52,charter,organization,,,Plan,REFERENCE,example,
+20,52,proof,publication,,,Plan,REFERENCE,example,
+20,52,menu,dinner,,,Plan,REFERENCE,example,
+20,52,demo,album,,,Plan,REFERENCE,example,
+20,52,pattern,dress,dress,fabric,Plan,REFERENCE,probe,1.0
+21,-1,baseline,baseline,,,baseline,baseline,baseline,
+22,24,captain,crew,,,Creature:Possession,PART-WHOLE,example,
+22,24,shirt,buttons,,,Creature:Possession,PART-WHOLE,example,
+22,24,investor,investments,,,Creature:Possession,PART-WHOLE,example,
+22,24,fleet,ships,,,Creature:Possession,PART-WHOLE,example,
+22,24,bird,feathers,feathers,song,Creature:Possession,PART-WHOLE,probe,1.0
+23,8,jealous,resent,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+23,8,nervous,fidget,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+23,8,protective,guard,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+23,8,dense,sink,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+23,8,old,deteriorate,fade,deteriorate,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,probe,2.0
+24,52,schedule,event,,,Plan,REFERENCE,example,
+24,52,draft,essay,,,Plan,REFERENCE,example,
+24,52,pilot,series,,,Plan,REFERENCE,example,
+24,52,budget,expenses,,,Plan,REFERENCE,example,
+24,52,constitution,government,government,charter,Plan,REFERENCE,probe,1.0
+25,24,turtle,shell,,,Creature:Possession,PART-WHOLE,example,
+25,24,library,books,,,Creature:Possession,PART-WHOLE,example,
+25,24,house,residents,,,Creature:Possession,PART-WHOLE,example,
+25,24,porcupine,quills,,,Creature:Possession,PART-WHOLE,example,
+25,24,shepherd,flock,flock,campfire,Creature:Possession,PART-WHOLE,probe,1.0

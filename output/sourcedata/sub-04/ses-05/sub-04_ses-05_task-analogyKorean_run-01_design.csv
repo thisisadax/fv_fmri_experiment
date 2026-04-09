@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,43,컵,큰술,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+1,43,오렌지,조각,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+1,43,분,초,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+1,43,함대,함선,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+1,43,십년,일년,연표,일년,Mass:Portion (Korean Localized),PART-WHOLE,probe,2.0
+2,-1,baseline,baseline,,,baseline,baseline,baseline,
+3,26,조언하다,잔소리하다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+3,26,버리다,쓰레기투기하다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+3,26,관찰하다,염탐하다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+3,26,설득하다,세뇌하다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+3,26,안내하다,통제하다,통제하다,지도,Dimensional Naughty (Korean Localized),SIMILAR,probe,1.0
+4,32,음식,사과,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+4,32,화폐,동전,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+4,32,과일,사과,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+4,32,유제품,치즈,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+4,32,곡물,밀,짚,밀,Functional (Korean Localized),CLASS-INCLUSION,probe,2.0
+5,43,도시,동네,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+5,43,연극,막,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+5,43,키보드,키,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+5,43,도,시군,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+5,43,합창단,단원,가운,단원,Mass:Portion (Korean Localized),PART-WHOLE,probe,2.0
+6,16,발걸림,넘어짐,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+6,16,과속,사고,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+6,16,모욕,불쾌감,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+6,16,굶주림,무기력,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+6,16,예방접종,면역,면역,주사바늘,Cause:Effect (Korean Localized),CAUSE-PURPOSE,probe,1.0
+7,26,농담하다,비웃다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+7,26,격려하다,압박하다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+7,26,말하다,고함지르다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+7,26,듣다,엿듣다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+7,26,만지다,더듬다,더듬다,토닥이다,Dimensional Naughty (Korean Localized),SIMILAR,probe,1.0
+8,-1,baseline,baseline,,,baseline,baseline,baseline,
+9,16,설탕,에너지,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+9,16,혹한,동상,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+9,16,운동,피로,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+9,16,가뭄,기근,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+9,16,부끄러움,얼굴붉어짐,얼굴붉어짐,사과,Cause:Effect (Korean Localized),CAUSE-PURPOSE,probe,1.0
+10,32,차량,트럭,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+10,32,의복,양말,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+10,32,식기,포크,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+10,32,연마재,사포,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+10,32,감미료,꿀,꿀,잼,Functional (Korean Localized),CLASS-INCLUSION,probe,1.0
+11,-1,baseline,baseline,,,baseline,baseline,baseline,
+12,43,대륙,나라,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+12,43,케이크,한조각,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+12,43,퍼즐,조각,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+12,43,벌집,벌,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+12,43,시리즈,에피소드,에피소드,채널,Mass:Portion (Korean Localized),PART-WHOLE,probe,1.0
+13,16,공포,패닉,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+13,16,바람,침식,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+13,16,물주기,성장,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+13,16,친절,감사,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+13,16,거절,상심,상심,침묵,Cause:Effect (Korean Localized),CAUSE-PURPOSE,probe,1.0
+14,32,쉼터,텐트,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+14,32,좌석,의자,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+14,32,신발,샌들,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+14,32,주거지,아파트,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+14,32,표식,깃발,깃발,지도,Functional (Korean Localized),CLASS-INCLUSION,probe,1.0
+15,26,지켜보다,훔쳐보다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+15,26,관리하다,일일이간섭하다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+15,26,경고하다,협박하다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+15,26,둘러보다,뒤지다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+15,26,과장하다,거짓말하다,미화하다,거짓말하다,Dimensional Naughty (Korean Localized),SIMILAR,probe,2.0
+16,16,카페인,각성,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+16,16,피로,수면,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+16,16,의견다툼,분노,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+16,16,훈련,근력,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+16,16,달리기,지구력,트랙,지구력,Cause:Effect (Korean Localized),CAUSE-PURPOSE,probe,2.0
+17,43,앨범,트랙,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+17,43,도서관,책,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+17,43,교향곡,악장,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+17,43,수프,한숟가락,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+17,43,피,방울,방울,산소,Mass:Portion (Korean Localized),PART-WHOLE,probe,1.0
+18,-1,baseline,baseline,,,baseline,baseline,baseline,
+19,32,세정제,비누,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+19,32,용기,냄비,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+19,32,단열재,폼,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+19,32,페이스트리,크루아상,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+19,32,교통수단,자전거,자전거,페달,Functional (Korean Localized),CLASS-INCLUSION,probe,1.0
+20,26,사용하다,착취하다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+20,26,보호하다,과잉보호하다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+20,26,마시다,후루룩거리다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+20,26,불평하다,징징거리다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+20,26,먹다,게걸스럽게먹다,조금씩먹다,게걸스럽게먹다,Dimensional Naughty (Korean Localized),SIMILAR,probe,2.0
+21,-1,baseline,baseline,,,baseline,baseline,baseline,
+22,16,분노,공격성,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+22,16,음악,휴식,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+22,16,중력,낙하,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+22,16,부패,불신,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+22,16,연습,향상,코치,향상,Cause:Effect (Korean Localized),CAUSE-PURPOSE,probe,2.0
+23,32,수납공간,옷장,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+23,32,여밈장치,지퍼,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+23,32,예술작품,조각,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+23,32,소스,케첩,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+23,32,소독제,표백제,비누,표백제,Functional (Korean Localized),CLASS-INCLUSION,probe,2.0
+24,43,나무,가지,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+24,43,일년,개월,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+24,43,사슬,고리,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+24,43,새떼,새,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+24,43,마늘,쪽,쪽,구근,Mass:Portion (Korean Localized),PART-WHOLE,probe,1.0
+25,26,칭찬하다,아첨하다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+25,26,바로잡다,호통치다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+25,26,간식먹다,폭식하다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+25,26,바라보다,음흉하게쳐다보다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+25,26,돕다,참견하다,참견하다,공구함,Dimensional Naughty (Korean Localized),SIMILAR,probe,1.0

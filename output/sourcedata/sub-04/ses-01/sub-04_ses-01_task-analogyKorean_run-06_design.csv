@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,63,피,빨간색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+1,63,레몬,노란색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+1,63,셀러리,초록색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+1,63,바닷가재,빨간색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+1,63,옥,초록색,파란색,초록색,things - color (Korean Localized),Encyclopedic_semantics,probe,2.0
+2,30,생일파티,초,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+2,30,추모식,꽃,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+2,30,졸업식,졸업생,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+2,30,대회,선수,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+2,30,추첨행사,응모권,응모권,손목밴드,Event:Feature (Korean Localized),PART-WHOLE,probe,1.0
+3,9,깨어있다,자다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+3,9,신뢰할만하다,속이다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+3,9,충성스럽다,배신하다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+3,9,인색하다,기부하다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+3,9,만족하다,불평하다,불평하다,웃다,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,probe,1.0
+4,33,시위,변화,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+4,33,트로피,인정,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+4,33,선풍기,냉각,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+4,33,칭찬,기분좋음,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+4,33,스트레칭,유연성,유연성,워밍업,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,probe,1.0
+5,63,까마귀,검은색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+5,63,토마토,빨간색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+5,63,병아리,노란색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+5,63,파슬리,초록색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+5,63,상아,흰색,검은색,흰색,things - color (Korean Localized),Encyclopedic_semantics,probe,2.0
+6,30,리허설,대본,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+6,30,컨퍼런스,참석자,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+6,30,재판,배심원,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+6,30,모닥불,마시멜로,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+6,30,대관식,왕관,왕관,반지,Event:Feature (Korean Localized),PART-WHOLE,probe,1.0
+7,-1,baseline,baseline,,,baseline,baseline,baseline,
+8,9,무기력하다,달리다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+8,9,경험많다,실수하다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+8,9,자비롭다,해치다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+8,9,협조적이다,방해하다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+8,9,부지런하다,미루다,미루다,부지런하다,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,probe,1.0
+9,33,명상,평온,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+9,33,마케팅,인지,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+9,33,수면,휴식,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+9,33,휴가,휴식,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+9,33,광택제,광택,매끄러움,광택,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,probe,2.0
+10,30,할로윈,코스튬,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+10,30,식사,음식,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+10,30,댄스파티,음악,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+10,30,바비큐,그릴,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+10,30,코미디쇼,코미디언,스케치코미디,코미디언,Event:Feature (Korean Localized),PART-WHOLE,probe,2.0
+11,63,마늘,흰색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+11,63,아보카도,초록색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+11,63,개미,검은색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+11,63,자수정,보라색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+11,63,브로콜리,초록색,초록색,보라색,things - color (Korean Localized),Encyclopedic_semantics,probe,1.0
+12,-1,baseline,baseline,,,baseline,baseline,baseline,
+13,30,장례식,관,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+13,30,파자마파티,잠옷,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+13,30,시위,피켓,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+13,30,파티,술,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+13,30,축제,솜사탕,솜사탕,전단지,Event:Feature (Korean Localized),PART-WHOLE,probe,1.0
+14,33,주먹질,통증,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+14,33,악수,신뢰,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+14,33,사과,용서,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+14,33,자동차,이동,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+14,33,코트,보온,건조함,보온,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,probe,2.0
+15,-1,baseline,baseline,,,baseline,baseline,baseline,
+16,9,맨정신이다,비틀거리다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+16,9,헌신적이다,한눈팔다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+16,9,현명하다,실수하다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+16,9,불연성이다,타다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+16,9,신중하다,서두르다,서두르다,확인하다,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,probe,1.0
+17,63,소금,흰색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+17,63,진주,흰색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+17,63,라즈베리,빨간색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+17,63,달,흰색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+17,63,블랙보드,검은색,검은색,파란색,things - color (Korean Localized),Encyclopedic_semantics,probe,1.0
+18,-1,baseline,baseline,,,baseline,baseline,baseline,
+19,30,연극,무대,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+19,30,스포츠경기,심판,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+19,30,크리스마스,선물,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+19,30,퍼레이드,장식차,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+19,30,졸업무도회,드레스,유니폼,드레스,Event:Feature (Korean Localized),PART-WHOLE,probe,2.0
+20,9,수줍다,먼저나서다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+20,9,경계심강하다,놓치다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+20,9,회의적이다,믿다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+20,9,시간엄수하다,꾸물거리다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+20,9,고집세다,주저하다,계획,주저하다,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,probe,2.0
+21,33,설교,신앙,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+21,33,치료,치유,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+21,33,경고,주의,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+21,33,불,온기,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+21,33,술,취함,취함,병,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,probe,1.0
+22,-1,baseline,baseline,,,baseline,baseline,baseline,
+23,9,자존심강하다,사과하다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+23,9,성숙하다,징징거리다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+23,9,평화롭다,싸우다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+23,9,말주변없다,표현하다,,,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,example,
+23,9,비관적이다,희망하다,우울하다,희망하다,Agent/Object Attribute: Atypical Action (adjective:verb) (Korean Localized),NON-ATTRIBUTE,probe,2.0
+24,63,석탄,검은색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+24,63,우유,흰색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+24,63,대양,파란색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+24,63,버터,노란색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+24,63,딸기,빨간색,빨간색,빨간색,things - color (Korean Localized),Encyclopedic_semantics,probe,1.0
+25,33,공부,지식,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+25,33,페인트,색깔,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+25,33,사이렌,주의,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+25,33,확성기,증폭,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+25,33,음악,즐거움,즐거움,라디오,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,probe,1.0

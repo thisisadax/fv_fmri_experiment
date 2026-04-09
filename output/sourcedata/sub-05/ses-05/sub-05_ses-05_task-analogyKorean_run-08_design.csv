@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,20,서랍,내용물,,,Concealment (Korean Localized),REFERENCE,example,
+1,20,포장지,선물,,,Concealment (Korean Localized),REFERENCE,example,
+1,20,수풀,동물,,,Concealment (Korean Localized),REFERENCE,example,
+1,20,필명,본명,,,Concealment (Korean Localized),REFERENCE,example,
+1,20,이불,매트리스,매트리스,시트,Concealment (Korean Localized),REFERENCE,probe,1.0
+2,59,나타나다,출현하다,,,Synonymity (Korean Localized),SIMILAR,example,
+2,59,허락하다,승인하다,,,Synonymity (Korean Localized),SIMILAR,example,
+2,59,드레스,원피스,,,Synonymity (Korean Localized),SIMILAR,example,
+2,59,가르치다,지도하다,,,Synonymity (Korean Localized),SIMILAR,example,
+2,59,예쁘다,아름답다,우아하다,아름답다,Synonymity (Korean Localized),SIMILAR,probe,2.0
+3,56,버리다,보듬다,,,Reverse (Korean Localized),CONTRAST,example,
+3,56,거칠다,매끈하다,,,Reverse (Korean Localized),CONTRAST,example,
+3,56,짓다,파괴하다,,,Reverse (Korean Localized),CONTRAST,example,
+3,56,상냥하다,잔인하다,,,Reverse (Korean Localized),CONTRAST,example,
+3,56,격려하다,낙담시키다,응원하다,낙담시키다,Reverse (Korean Localized),CONTRAST,probe,2.0
+4,-1,baseline,baseline,,,baseline,baseline,baseline,
+5,20,연막,후퇴,,,Concealment (Korean Localized),REFERENCE,example,
+5,20,모자,머리카락,,,Concealment (Korean Localized),REFERENCE,example,
+5,20,포스터,구멍,,,Concealment (Korean Localized),REFERENCE,example,
+5,20,퍼티,균열,,,Concealment (Korean Localized),REFERENCE,example,
+5,20,앞치마,옷,옷,주머니,Concealment (Korean Localized),REFERENCE,probe,1.0
+6,7,용접공,용접토치,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+6,7,목수,망치,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+6,7,기수,채찍,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+6,7,생물학자,현미경,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+6,7,정육사,정육칼,정육칼,손질,Agent:Instrument (Korean Localized),CASE RELATIONS,probe,1.0
+7,-1,baseline,baseline,,,baseline,baseline,baseline,
+8,59,빠르다,신속하다,,,Synonymity (Korean Localized),SIMILAR,example,
+8,59,소리치다,외치다,,,Synonymity (Korean Localized),SIMILAR,example,
+8,59,아프다,병들다,,,Synonymity (Korean Localized),SIMILAR,example,
+8,59,여행,여정,,,Synonymity (Korean Localized),SIMILAR,example,
+8,59,레스트룸,화장실,복도,화장실,Synonymity (Korean Localized),SIMILAR,probe,2.0
+9,7,볼링선수,볼링공,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+9,7,교사,분필,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+9,7,타자,배트,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+9,7,타이피스트,키보드,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+9,7,카우보이,올가미,올가미,소,Agent:Instrument (Korean Localized),CASE RELATIONS,probe,1.0
+10,56,희망,두려움,,,Reverse (Korean Localized),CONTRAST,example,
+10,56,통합하다,분열시키다,,,Reverse (Korean Localized),CONTRAST,example,
+10,56,자다,깨다,,,Reverse (Korean Localized),CONTRAST,example,
+10,56,흰색,검은색,,,Reverse (Korean Localized),CONTRAST,example,
+10,56,기억하다,잊다,잊다,달력,Reverse (Korean Localized),CONTRAST,probe,1.0
+11,20,울타리,뒷마당,,,Concealment (Korean Localized),REFERENCE,example,
+11,20,미로,출구,,,Concealment (Korean Localized),REFERENCE,example,
+11,20,코트,셔츠,,,Concealment (Korean Localized),REFERENCE,example,
+11,20,용기,두려움,,,Concealment (Korean Localized),REFERENCE,example,
+11,20,위장,군인,색,군인,Concealment (Korean Localized),REFERENCE,probe,2.0
+12,59,쓰레기,폐기물,,,Synonymity (Korean Localized),SIMILAR,example,
+12,59,의사,닥터,,,Synonymity (Korean Localized),SIMILAR,example,
+12,59,조용하다,고요하다,,,Synonymity (Korean Localized),SIMILAR,example,
+12,59,시작하다,개시하다,,,Synonymity (Korean Localized),SIMILAR,example,
+12,59,졸다,선잠자다,선잠자다,휴식,Synonymity (Korean Localized),SIMILAR,probe,1.0
+13,-1,baseline,baseline,,,baseline,baseline,baseline,
+14,20,허세,약점,,,Concealment (Korean Localized),REFERENCE,example,
+14,20,어둠,침입자,,,Concealment (Korean Localized),REFERENCE,example,
+14,20,목도리,목,,,Concealment (Korean Localized),REFERENCE,example,
+14,20,나무상자,화물,,,Concealment (Korean Localized),REFERENCE,example,
+14,20,후드,머리,맨투맨,머리,Concealment (Korean Localized),REFERENCE,probe,2.0
+15,56,가라앉다,뜨다,,,Reverse (Korean Localized),CONTRAST,example,
+15,56,조이다,헐겁게하다,,,Reverse (Korean Localized),CONTRAST,example,
+15,56,팽창하다,수축하다,,,Reverse (Korean Localized),CONTRAST,example,
+15,56,딱딱하다,부드럽다,,,Reverse (Korean Localized),CONTRAST,example,
+15,56,대담하다,소심하다,소심하다,위험,Reverse (Korean Localized),CONTRAST,probe,1.0
+16,7,의사,청진기,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+16,7,등반가,로프,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+16,7,웨이터,쟁반,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+16,7,궁수,활,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+16,7,쿼터백,미식축구공,미식축구공,헬멧,Agent:Instrument (Korean Localized),CASE RELATIONS,probe,1.0
+17,-1,baseline,baseline,,,baseline,baseline,baseline,
+18,56,포함하다,제외하다,,,Reverse (Korean Localized),CONTRAST,example,
+18,56,화나게하다,달래다,,,Reverse (Korean Localized),CONTRAST,example,
+18,56,살아있다,죽다,,,Reverse (Korean Localized),CONTRAST,example,
+18,56,날카롭다,무디다,,,Reverse (Korean Localized),CONTRAST,example,
+18,56,시작하다,멈추다,멈추다,발사하다,Reverse (Korean Localized),CONTRAST,probe,1.0
+19,59,조심스럽다,신중하다,,,Synonymity (Korean Localized),SIMILAR,example,
+19,59,전체,전부,,,Synonymity (Korean Localized),SIMILAR,example,
+19,59,바라다,원하다,,,Synonymity (Korean Localized),SIMILAR,example,
+19,59,아이,어린이,,,Synonymity (Korean Localized),SIMILAR,example,
+19,59,차,자동차,자동차,엔진,Synonymity (Korean Localized),SIMILAR,probe,1.0
+20,-1,baseline,baseline,,,baseline,baseline,baseline,
+21,56,진보하다,퇴보하다,,,Reverse (Korean Localized),CONTRAST,example,
+21,56,축복하다,저주하다,,,Reverse (Korean Localized),CONTRAST,example,
+21,56,가다,머무르다,,,Reverse (Korean Localized),CONTRAST,example,
+21,56,주다,받다,,,Reverse (Korean Localized),CONTRAST,example,
+21,56,공격하다,방어하다,전투,방어하다,Reverse (Korean Localized),CONTRAST,probe,2.0
+22,7,낚시꾼,낚싯대,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+22,7,기타리스트,기타,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+22,7,플루티스트,플루트,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+22,7,직조공,베틀,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+22,7,잠수부,오리발,수심,오리발,Agent:Instrument (Korean Localized),CASE RELATIONS,probe,2.0
+23,20,마스크,얼굴,,,Concealment (Korean Localized),REFERENCE,example,
+23,20,구름,해,,,Concealment (Korean Localized),REFERENCE,example,
+23,20,부츠,발,,,Concealment (Korean Localized),REFERENCE,example,
+23,20,유머,고통,,,Concealment (Korean Localized),REFERENCE,example,
+23,20,변명,진실,진실,이유,Concealment (Korean Localized),REFERENCE,probe,1.0
+24,59,슬프다,불행하다,,,Synonymity (Korean Localized),SIMILAR,example,
+24,59,가연성의,인화성의,,,Synonymity (Korean Localized),SIMILAR,example,
+24,59,작다,조그맣다,,,Synonymity (Korean Localized),SIMILAR,example,
+24,59,깔끔하다,단정하다,,,Synonymity (Korean Localized),SIMILAR,example,
+24,59,소파,쇼파,쇼파,두인용의자,Synonymity (Korean Localized),SIMILAR,probe,1.0
+25,7,치과의사,드릴,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+25,7,쇼핑객,카트,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+25,7,광부,곡괭이,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+25,7,사냥꾼,소총,,,Agent:Instrument (Korean Localized),CASE RELATIONS,example,
+25,7,벌목꾼,도끼,숲,도끼,Agent:Instrument (Korean Localized),CASE RELATIONS,probe,2.0

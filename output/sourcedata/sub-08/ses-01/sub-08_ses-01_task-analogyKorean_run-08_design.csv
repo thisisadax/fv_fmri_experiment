@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,54,고객,쿠폰,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+1,54,연금수급자,연금,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+1,54,연구자,연구비,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+1,54,보험가입자,보험금청구서,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+1,54,환자,처방전,약국,처방전,Recipient:Instrument (Korean Localized),CASE RELATIONS,probe,2.0
+2,36,닻,가볍다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+2,36,아름다움,불쾌하다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+2,36,젊음,늙다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+2,36,평화,폭력적이다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+2,36,진공,가득차다,가득차다,깨끗하다,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,probe,1.0
+3,24,스크래치,시디,,,Defective (Korean Localized),CONTRAST,example,
+3,24,뜯어짐,솔기,,,Defective (Korean Localized),CONTRAST,example,
+3,24,누수,지붕,,,Defective (Korean Localized),CONTRAST,example,
+3,24,물샘,수도꼭지,,,Defective (Korean Localized),CONTRAST,example,
+3,24,불임,생식,생식,임신,Defective (Korean Localized),CONTRAST,probe,1.0
+4,48,삽,파다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+4,48,의사,치료하다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+4,48,학생,배우다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+4,48,시계,똑딱거리다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+4,48,목수,집짓다,집짓다,재다,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,probe,1.0
+5,-1,baseline,baseline,,,baseline,baseline,baseline,
+6,36,지혜,어리석다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+6,36,목소리,벙어리다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+6,36,청렴함,부정직하다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+6,36,거인,작다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+6,36,분노,차분하다,차분하다,강렬하다,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,probe,1.0
+7,54,의사,의사면허증,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+7,54,방문자,출입증,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+7,54,직원,급여명세서,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+7,54,아기,젖병,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+7,54,고아,입양,후견인,입양,Recipient:Instrument (Korean Localized),CASE RELATIONS,probe,2.0
+8,48,경비원,지키다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+8,48,과일,익다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+8,48,벌,윙윙거리다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+8,48,빗자루,쓸다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+8,48,거울,비추다,빛나다,비추다,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,probe,2.0
+9,36,완벽함,결함이있다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+9,36,마비,움직일수있다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+9,36,아기,성숙하다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+9,36,혼돈,질서정연하다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+9,36,벙어리,수다스럽다,수다스럽다,차분하다,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,probe,1.0
+10,-1,baseline,baseline,,,baseline,baseline,baseline,
+11,24,막힘,배수구,,,Defective (Korean Localized),CONTRAST,example,
+11,24,부패,기초,,,Defective (Korean Localized),CONTRAST,example,
+11,24,부정맥,심장박동,,,Defective (Korean Localized),CONTRAST,example,
+11,24,흉터,피부,,,Defective (Korean Localized),CONTRAST,example,
+11,24,오류,계산,계산,추정,Defective (Korean Localized),CONTRAST,probe,1.0
+12,36,가뭄,축축하다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+12,36,시야,보이지않다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+12,36,정직함,기만적이다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+12,36,거짓말쟁이,정직하다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+12,36,순수함,타락하다,깨끗하다,타락하다,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,probe,2.0
+13,48,물,흐르다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+13,48,교육자,가르치다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+13,48,음악가,연주하다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+13,48,화산,분출하다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+13,48,위,소화하다,위산,소화하다,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,probe,2.0
+14,-1,baseline,baseline,,,baseline,baseline,baseline,
+15,54,운전자,운전면허증,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+15,54,손님,초대장,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+15,54,교수,정년보장,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+15,54,형사,배지,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+15,54,입찰자,경매,경매,물품,Recipient:Instrument (Korean Localized),CASE RELATIONS,probe,1.0
+16,24,노이즈,녹음,,,Defective (Korean Localized),CONTRAST,example,
+16,24,울퉁불퉁함,매트리스,,,Defective (Korean Localized),CONTRAST,example,
+16,24,종양,몸,,,Defective (Korean Localized),CONTRAST,example,
+16,24,백내장,눈,,,Defective (Korean Localized),CONTRAST,example,
+16,24,포트홀,도로,도로,교통,Defective (Korean Localized),CONTRAST,probe,1.0
+17,36,결백,유죄이다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+17,36,기근,풍부하다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+17,36,잔치,빈약하다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+17,36,확신,의심스럽다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+17,36,악당,고결하다,사악하다,고결하다,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,probe,2.0
+18,-1,baseline,baseline,,,baseline,baseline,baseline,
+19,54,피보험자,보험증권,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+19,54,왕,왕관,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+19,54,아내,반지,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+19,54,학생,장학금,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+19,54,작가,인세,인세,계약서,Recipient:Instrument (Korean Localized),CASE RELATIONS,probe,1.0
+20,24,절뚝거림,걸음걸이,,,Defective (Korean Localized),CONTRAST,example,
+20,24,논리적 오류,논증,,,Defective (Korean Localized),CONTRAST,example,
+20,24,심잡음,심장,,,Defective (Korean Localized),CONTRAST,example,
+20,24,깨짐,도자기,,,Defective (Korean Localized),CONTRAST,example,
+20,24,마모 자국,신발,신발끈,신발,Defective (Korean Localized),CONTRAST,probe,2.0
+21,48,파도,부서지다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+21,48,다이너마이트,폭발하다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+21,48,늑대,울부짖다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+21,48,문,닫히다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+21,48,새,날다,날다,앉다,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,probe,1.0
+22,54,부모,양육권,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+22,54,수형자,가석방,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+22,54,교사,교원자격증,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+22,54,근로자,임금,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+22,54,승객,승차권,승차권,좌석배정,Recipient:Instrument (Korean Localized),CASE RELATIONS,probe,1.0
+23,-1,baseline,baseline,,,baseline,baseline,baseline,
+24,24,번짐,그림,,,Defective (Korean Localized),CONTRAST,example,
+24,24,찍힘,범퍼,,,Defective (Korean Localized),CONTRAST,example,
+24,24,기포,페인트,,,Defective (Korean Localized),CONTRAST,example,
+24,24,구멍,바지,,,Defective (Korean Localized),CONTRAST,example,
+24,24,편향,판단,결정,판단,Defective (Korean Localized),CONTRAST,probe,2.0
+25,48,스펀지,흡수하다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+25,48,오리,꽥꽥울다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+25,48,칼,자르다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+25,48,자석,끌어당기다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+25,48,스위치,전환되다,전환되다,벽,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,probe,1.0

@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,0,fight,win,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+1,0,listen,hear,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+1,0,save,afford,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+1,0,compliment,please,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+1,0,hunt,feed,feed,forest,Action/Activity:Goal,CAUSE-PURPOSE,probe,1.0
+2,62,morning,sunrise,,,Time Associated Item,SPACE-TIME,example,
+2,62,happy hour,cocktails,,,Time Associated Item,SPACE-TIME,example,
+2,62,adulthood,independence,,,Time Associated Item,SPACE-TIME,example,
+2,62,dawn,rooster,,,Time Associated Item,SPACE-TIME,example,
+2,62,lunchtime,sandwich,steak,sandwich,Time Associated Item,SPACE-TIME,probe,2.0
+3,-1,baseline,baseline,,,baseline,baseline,baseline,
+4,52,program,ceremony,,,Plan,REFERENCE,example,
+4,52,sketch,sculpture,,,Plan,REFERENCE,example,
+4,52,scenario,drill,,,Plan,REFERENCE,example,
+4,52,pilot,series,,,Plan,REFERENCE,example,
+4,52,roadmap,career,job,career,Plan,REFERENCE,probe,2.0
+5,62,Fourth of July,sparklers,,,Time Associated Item,SPACE-TIME,example,
+5,62,twilight,bats,,,Time Associated Item,SPACE-TIME,example,
+5,62,bathtime,bubbles,,,Time Associated Item,SPACE-TIME,example,
+5,62,New Year's,fireworks,,,Time Associated Item,SPACE-TIME,example,
+5,62,Prohibition,speakeasy,jukebox,speakeasy,Time Associated Item,SPACE-TIME,probe,2.0
+6,22,lava,rock,,,Conversion,SIMILAR,example,
+6,22,duckling,duck,,,Conversion,SIMILAR,example,
+6,22,amateur,professional,,,Conversion,SIMILAR,example,
+6,22,orange,juice,,,Conversion,SIMILAR,example,
+6,22,gosling,goose,goose,swan,Conversion,SIMILAR,probe,1.0
+7,-1,baseline,baseline,,,baseline,baseline,baseline,
+8,0,spank,punish,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+8,0,lock,secure,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+8,0,reach,hold,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+8,0,observe,understand,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+8,0,freeze,preserve,preserve,store,Action/Activity:Goal,CAUSE-PURPOSE,probe,1.0
+9,52,proof,publication,,,Plan,REFERENCE,example,
+9,52,wireframe,website,,,Plan,REFERENCE,example,
+9,52,storyboard,animation,,,Plan,REFERENCE,example,
+9,52,timeline,project,,,Plan,REFERENCE,example,
+9,52,layout,magazine,newspaper,magazine,Plan,REFERENCE,probe,2.0
+10,-1,baseline,baseline,,,baseline,baseline,baseline,
+11,22,associate,partner,,,Conversion,SIMILAR,example,
+11,22,iron,steel,,,Conversion,SIMILAR,example,
+11,22,hide,leather,,,Conversion,SIMILAR,example,
+11,22,infant,toddler,,,Conversion,SIMILAR,example,
+11,22,colt,horse,horse,saddle,Conversion,SIMILAR,probe,1.0
+12,52,proposal,research,,,Plan,REFERENCE,example,
+12,52,script,play,,,Plan,REFERENCE,example,
+12,52,draft,speech,,,Plan,REFERENCE,example,
+12,52,lineup,show,,,Plan,REFERENCE,example,
+12,52,recipe,meal,meal,ingredients,Plan,REFERENCE,probe,1.0
+13,-1,baseline,baseline,,,baseline,baseline,baseline,
+14,62,bedtime,pajamas,,,Time Associated Item,SPACE-TIME,example,
+14,62,parenthood,sleeplessness,,,Time Associated Item,SPACE-TIME,example,
+14,62,fall,pumpkins,,,Time Associated Item,SPACE-TIME,example,
+14,62,prom,corsage,,,Time Associated Item,SPACE-TIME,example,
+14,62,summer,sunscreen,sunscreen,pumpkin,Time Associated Item,SPACE-TIME,probe,1.0
+15,0,decorate,beautify,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+15,0,flirt,seduce,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+15,0,climb,conquer,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+15,0,dance,celebrate,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+15,0,market,sell,sell,advertise,Action/Activity:Goal,CAUSE-PURPOSE,probe,1.0
+16,52,menu,dinner,,,Plan,REFERENCE,example,
+16,52,protocol,experiment,,,Plan,REFERENCE,example,
+16,52,pattern,dress,,,Plan,REFERENCE,example,
+16,52,mockup,design,,,Plan,REFERENCE,example,
+16,52,choreography,performance,performance,song,Plan,REFERENCE,probe,1.0
+17,22,apple,cider,,,Conversion,SIMILAR,example,
+17,22,calf,cow,,,Conversion,SIMILAR,example,
+17,22,dough,bread,,,Conversion,SIMILAR,example,
+17,22,fawn,deer,,,Conversion,SIMILAR,example,
+17,22,wax,candle,candle,lantern,Conversion,SIMILAR,probe,1.0
+18,-1,baseline,baseline,,,baseline,baseline,baseline,
+19,0,breathe,live,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+19,0,encrypt,protect,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+19,0,argue,convince,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+19,0,protest,reform,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+19,0,sharpen,cut,stone,cut,Action/Activity:Goal,CAUSE-PURPOSE,probe,2.0
+20,62,afternoon,nap,,,Time Associated Item,SPACE-TIME,example,
+20,62,tax season,receipts,,,Time Associated Item,SPACE-TIME,example,
+20,62,Valentine's Day,chocolate,,,Time Associated Item,SPACE-TIME,example,
+20,62,student,dorm,,,Time Associated Item,SPACE-TIME,example,
+20,62,infancy,bottle,bottle,training pants,Time Associated Item,SPACE-TIME,probe,1.0
+21,22,water,ice,,,Conversion,SIMILAR,example,
+21,22,cabbage,sauerkraut,,,Conversion,SIMILAR,example,
+21,22,yarn,sweater,,,Conversion,SIMILAR,example,
+21,22,cocoa,chocolate,,,Conversion,SIMILAR,example,
+21,22,sugarcane,sugar,stalk,sugar,Conversion,SIMILAR,probe,2.0
+22,52,plan,lesson,,,Plan,REFERENCE,example,
+22,52,manual,assembly,,,Plan,REFERENCE,example,
+22,52,tactic,defense,,,Plan,REFERENCE,example,
+22,52,rules,game,,,Plan,REFERENCE,example,
+22,52,schedule,semester,semester,exam week,Plan,REFERENCE,probe,1.0
+23,0,bid,acquire,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+23,0,buy,own,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+23,0,sleep,rest,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+23,0,fish,catch,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+23,0,medicate,heal,pill,heal,Action/Activity:Goal,CAUSE-PURPOSE,probe,2.0
+24,62,naptime,blanket,,,Time Associated Item,SPACE-TIME,example,
+24,62,promotion,raise,,,Time Associated Item,SPACE-TIME,example,
+24,62,winter,fireplace,,,Time Associated Item,SPACE-TIME,example,
+24,62,Mardi Gras,beads,,,Time Associated Item,SPACE-TIME,example,
+24,62,school,homework,homework,mortgage,Time Associated Item,SPACE-TIME,probe,1.0
+25,22,stranger,friend,,,Conversion,SIMILAR,example,
+25,22,acorn,oak,,,Conversion,SIMILAR,example,
+25,22,bill,law,,,Conversion,SIMILAR,example,
+25,22,cub,bear,,,Conversion,SIMILAR,example,
+25,22,toddler,child,sandbox,child,Conversion,SIMILAR,probe,2.0

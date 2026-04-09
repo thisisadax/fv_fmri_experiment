@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,40,field,plowing,,,Location:Action/Activity,SPACE-TIME,example,
+1,40,dock,loading,,,Location:Action/Activity,SPACE-TIME,example,
+1,40,marina,sailing,,,Location:Action/Activity,SPACE-TIME,example,
+1,40,library,reading,,,Location:Action/Activity,SPACE-TIME,example,
+1,40,greenhouse,cultivating,cultivating,planting,Location:Action/Activity,SPACE-TIME,probe,1.0
+2,30,battery,flashlight,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+2,30,membership,gym,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+2,30,bullet,gun,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+2,30,sunlight,photosynthesis,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+2,30,snow,ski,boot,ski,EnablingAgent:Object,CAUSE-PURPOSE,probe,2.0
+3,19,buffet,dish,,,Collection:Member,PART-WHOLE,example,
+3,19,congregation,worshiper,,,Collection:Member,PART-WHOLE,example,
+3,19,alphabet,letter,,,Collection:Member,PART-WHOLE,example,
+3,19,herd,cattle,,,Collection:Member,PART-WHOLE,example,
+3,19,series,episode,episode,channel,Collection:Member,PART-WHOLE,probe,1.0
+4,7,alarmed,fright,,,Agent Attribute:State,ATTRIBUTE,example,
+4,7,mad,anger,,,Agent Attribute:State,ATTRIBUTE,example,
+4,7,restless,agitation,,,Agent Attribute:State,ATTRIBUTE,example,
+4,7,humble,modesty,,,Agent Attribute:State,ATTRIBUTE,example,
+4,7,panicked,terror,terror,confusion,Agent Attribute:State,ATTRIBUTE,probe,1.0
+5,-1,baseline,baseline,,,baseline,baseline,baseline,
+6,30,net,volleyball,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+6,30,harness,parachute,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+6,30,wind,windmill,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+6,30,chemical,firework,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+6,30,charcoal,grill,propane,grill,EnablingAgent:Object,CAUSE-PURPOSE,probe,2.0
+7,40,church,worship,,,Location:Action/Activity,SPACE-TIME,example,
+7,40,restaurant,eating,,,Location:Action/Activity,SPACE-TIME,example,
+7,40,playground,swinging,,,Location:Action/Activity,SPACE-TIME,example,
+7,40,hospital,healing,,,Location:Action/Activity,SPACE-TIME,example,
+7,40,airport,boarding,gate,boarding,Location:Action/Activity,SPACE-TIME,probe,2.0
+8,7,fearful,dread,,,Agent Attribute:State,ATTRIBUTE,example,
+8,7,crying,grief,,,Agent Attribute:State,ATTRIBUTE,example,
+8,7,worried,concern,,,Agent Attribute:State,ATTRIBUTE,example,
+8,7,peaceful,serenity,,,Agent Attribute:State,ATTRIBUTE,example,
+8,7,dazed,confusion,confusion,wandering,Agent Attribute:State,ATTRIBUTE,probe,1.0
+9,19,convoy,truck,,,Collection:Member,PART-WHOLE,example,
+9,19,pride,lion,,,Collection:Member,PART-WHOLE,example,
+9,19,troop,monkey,,,Collection:Member,PART-WHOLE,example,
+9,19,book,chapter,,,Collection:Member,PART-WHOLE,example,
+9,19,company,employee,employee,office,Collection:Member,PART-WHOLE,probe,1.0
+10,-1,baseline,baseline,,,baseline,baseline,baseline,
+11,30,coin,meter,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+11,30,thread,loom,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+11,30,pedal,bicycle,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+11,30,shell,shotgun,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+11,30,drumstick,drum,drum,rim,EnablingAgent:Object,CAUSE-PURPOSE,probe,1.0
+12,40,bar,drinking,,,Location:Action/Activity,SPACE-TIME,example,
+12,40,brewery,brewing,,,Location:Action/Activity,SPACE-TIME,example,
+12,40,courthouse,judging,,,Location:Action/Activity,SPACE-TIME,example,
+12,40,school,learning,,,Location:Action/Activity,SPACE-TIME,example,
+12,40,spa,relaxing,robe,relaxing,Location:Action/Activity,SPACE-TIME,probe,2.0
+13,7,sad,depression,,,Agent Attribute:State,ATTRIBUTE,example,
+13,7,emotional,turmoil,,,Agent Attribute:State,ATTRIBUTE,example,
+13,7,lazy,indolence,,,Agent Attribute:State,ATTRIBUTE,example,
+13,7,drunk,intoxication,,,Agent Attribute:State,ATTRIBUTE,example,
+13,7,irritable,annoyance,annoyance,snapping,Agent Attribute:State,ATTRIBUTE,probe,1.0
+14,19,army,soldier,,,Collection:Member,PART-WHOLE,example,
+14,19,calendar,event,,,Collection:Member,PART-WHOLE,example,
+14,19,delegation,diplomat,,,Collection:Member,PART-WHOLE,example,
+14,19,museum,artifact,,,Collection:Member,PART-WHOLE,example,
+14,19,schedule,appointment,office,appointment,Collection:Member,PART-WHOLE,probe,2.0
+15,-1,baseline,baseline,,,baseline,baseline,baseline,
+16,30,password,account,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+16,30,chain,chainsaw,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+16,30,fuel,rocket,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+16,30,steam,engine,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+16,30,needle,syringe,syringe,plunger,EnablingAgent:Object,CAUSE-PURPOSE,probe,1.0
+17,40,racetrack,racing,,,Location:Action/Activity,SPACE-TIME,example,
+17,40,bathroom,bathing,,,Location:Action/Activity,SPACE-TIME,example,
+17,40,temple,meditating,,,Location:Action/Activity,SPACE-TIME,example,
+17,40,auditorium,lecturing,,,Location:Action/Activity,SPACE-TIME,example,
+17,40,mountain,climbing,climbing,summit,Location:Action/Activity,SPACE-TIME,probe,1.0
+18,7,giddy,happiness,,,Agent Attribute:State,ATTRIBUTE,example,
+18,7,drowsy,sleepiness,,,Agent Attribute:State,ATTRIBUTE,example,
+18,7,miserable,despair,,,Agent Attribute:State,ATTRIBUTE,example,
+18,7,grateful,thankfulness,,,Agent Attribute:State,ATTRIBUTE,example,
+18,7,wistful,nostalgia,old song,nostalgia,Agent Attribute:State,ATTRIBUTE,probe,2.0
+19,-1,baseline,baseline,,,baseline,baseline,baseline,
+20,19,crew,sailor,,,Collection:Member,PART-WHOLE,example,
+20,19,bouquet,flower,,,Collection:Member,PART-WHOLE,example,
+20,19,pack,wolf,,,Collection:Member,PART-WHOLE,example,
+20,19,bunch,grape,,,Collection:Member,PART-WHOLE,example,
+20,19,album,song,tracklist,song,Collection:Member,PART-WHOLE,probe,2.0
+21,40,mine,mining,,,Location:Action/Activity,SPACE-TIME,example,
+21,40,concert hall,performing,,,Location:Action/Activity,SPACE-TIME,example,
+21,40,market,selling,,,Location:Action/Activity,SPACE-TIME,example,
+21,40,pasture,grazing,,,Location:Action/Activity,SPACE-TIME,example,
+21,40,dojo,training,training,belt,Location:Action/Activity,SPACE-TIME,probe,1.0
+22,7,delighted,joy,,,Agent Attribute:State,ATTRIBUTE,example,
+22,7,overwhelmed,stress,,,Agent Attribute:State,ATTRIBUTE,example,
+22,7,despondent,hopelessness,,,Agent Attribute:State,ATTRIBUTE,example,
+22,7,happy,contentment,,,Agent Attribute:State,ATTRIBUTE,example,
+22,7,frustrated,irritation,discouragement,irritation,Agent Attribute:State,ATTRIBUTE,probe,2.0
+23,-1,baseline,baseline,,,baseline,baseline,baseline,
+24,19,paragraph,sentence,,,Collection:Member,PART-WHOLE,example,
+24,19,class,student,,,Collection:Member,PART-WHOLE,example,
+24,19,fleet,ship,,,Collection:Member,PART-WHOLE,example,
+24,19,curriculum,course,,,Collection:Member,PART-WHOLE,example,
+24,19,dictionary,entry,entry,pronunciation,Collection:Member,PART-WHOLE,probe,1.0
+25,30,heat,sauna,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+25,30,ink,pen,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+25,30,gravity,pendulum,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+25,30,key,car,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+25,30,coal,locomotive,locomotive,coal car,EnablingAgent:Object,CAUSE-PURPOSE,probe,1.0

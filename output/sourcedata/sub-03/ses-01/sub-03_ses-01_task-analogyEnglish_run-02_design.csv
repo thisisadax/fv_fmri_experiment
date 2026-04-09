@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,39,climatology,climate,,,Knowledge,REFERENCE,example,
+1,39,toxicology,poisons,,,Knowledge,REFERENCE,example,
+1,39,biology,life,,,Knowledge,REFERENCE,example,
+1,39,ecology,ecosystems,,,Knowledge,REFERENCE,example,
+1,39,criminology,crime,laws,crime,Knowledge,REFERENCE,probe,2.0
+2,31,parade,floats,,,Event:Feature,PART-WHOLE,example,
+2,31,fundraiser,donations,,,Event:Feature,PART-WHOLE,example,
+2,31,picnic,blanket,,,Event:Feature,PART-WHOLE,example,
+2,31,birthday,candles,,,Event:Feature,PART-WHOLE,example,
+2,31,Thanksgiving,turkey,pilgrims,turkey,Event:Feature,PART-WHOLE,probe,2.0
+3,21,friend,enemy,,,Contrary,CONTRAST,example,
+3,21,sleepy,awake,,,Contrary,CONTRAST,example,
+3,21,wet,dry,,,Contrary,CONTRAST,example,
+3,21,hairy,bald,,,Contrary,CONTRAST,example,
+3,21,frozen,melted,melted,winter,Contrary,CONTRAST,probe,1.0
+4,27,promote,spam,,,Dimensional Naughty,SIMILAR,example,
+4,27,persuade,coerce,,,Dimensional Naughty,SIMILAR,example,
+4,27,tease,ridicule,,,Dimensional Naughty,SIMILAR,example,
+4,27,disagree,antagonize,,,Dimensional Naughty,SIMILAR,example,
+4,27,defend,retaliate,retaliate,goal,Dimensional Naughty,SIMILAR,probe,1.0
+5,-1,baseline,baseline,,,baseline,baseline,baseline,
+6,31,dinner party,host,,,Event:Feature,PART-WHOLE,example,
+6,31,circus,ringmaster,,,Event:Feature,PART-WHOLE,example,
+6,31,harvest,crops,,,Event:Feature,PART-WHOLE,example,
+6,31,baby shower,gifts,,,Event:Feature,PART-WHOLE,example,
+6,31,ballet,dancer,barre,dancer,Event:Feature,PART-WHOLE,probe,2.0
+7,39,economics,markets,,,Knowledge,REFERENCE,example,
+7,39,mythology,myths,,,Knowledge,REFERENCE,example,
+7,39,psychology,behavior,,,Knowledge,REFERENCE,example,
+7,39,ophthalmology,eyes,,,Knowledge,REFERENCE,example,
+7,39,volcanology,volcanoes,volcanoes,evacuation route,Knowledge,REFERENCE,probe,1.0
+8,27,sip,guzzle,,,Dimensional Naughty,SIMILAR,example,
+8,27,keep,withhold,,,Dimensional Naughty,SIMILAR,example,
+8,27,flirt,harass,,,Dimensional Naughty,SIMILAR,example,
+8,27,pamper,spoil,,,Dimensional Naughty,SIMILAR,example,
+8,27,copy,plagiarize,imitate,plagiarize,Dimensional Naughty,SIMILAR,probe,2.0
+9,21,brave,cowardly,,,Contrary,CONTRAST,example,
+9,21,joy,sorrow,,,Contrary,CONTRAST,example,
+9,21,excited,bored,,,Contrary,CONTRAST,example,
+9,21,simple,complex,,,Contrary,CONTRAST,example,
+9,21,success,failure,failure,medal,Contrary,CONTRAST,probe,1.0
+10,31,debate,podium,,,Event:Feature,PART-WHOLE,example,
+10,31,meal,food,,,Event:Feature,PART-WHOLE,example,
+10,31,Christmas,presents,,,Event:Feature,PART-WHOLE,example,
+10,31,party,guests,,,Event:Feature,PART-WHOLE,example,
+10,31,crime,evidence,evidence,alibi,Event:Feature,PART-WHOLE,probe,1.0
+11,27,trade,swindle,,,Dimensional Naughty,SIMILAR,example,
+11,27,tax,extort,,,Dimensional Naughty,SIMILAR,example,
+11,27,laugh,jeer,,,Dimensional Naughty,SIMILAR,example,
+11,27,look,glare,,,Dimensional Naughty,SIMILAR,example,
+11,27,hunt,poach,track,poach,Dimensional Naughty,SIMILAR,probe,2.0
+12,-1,baseline,baseline,,,baseline,baseline,baseline,
+13,39,cryptography,codes,,,Knowledge,REFERENCE,example,
+13,39,oncology,cancer,,,Knowledge,REFERENCE,example,
+13,39,logic,reasoning,,,Knowledge,REFERENCE,example,
+13,39,trigonometry,triangles,,,Knowledge,REFERENCE,example,
+13,39,theology,religion,rituals,religion,Knowledge,REFERENCE,probe,2.0
+14,31,audition,actor,,,Event:Feature,PART-WHOLE,example,
+14,31,bonfire,marshmallows,,,Event:Feature,PART-WHOLE,example,
+14,31,track meet,hurdles,,,Event:Feature,PART-WHOLE,example,
+14,31,comedy show,comedian,,,Event:Feature,PART-WHOLE,example,
+14,31,coronation,crown,royal decree,crown,Event:Feature,PART-WHOLE,probe,2.0
+15,-1,baseline,baseline,,,baseline,baseline,baseline,
+16,21,hot,cold,,,Contrary,CONTRAST,example,
+16,21,accept,reject,,,Contrary,CONTRAST,example,
+16,21,tame,wild,,,Contrary,CONTRAST,example,
+16,21,give,take,,,Contrary,CONTRAST,example,
+16,21,inside,outside,within,outside,Contrary,CONTRAST,probe,2.0
+17,39,rhetoric,persuasion,,,Knowledge,REFERENCE,example,
+17,39,genetics,heredity,,,Knowledge,REFERENCE,example,
+17,39,microbiology,microbes,,,Knowledge,REFERENCE,example,
+17,39,pathology,disease,,,Knowledge,REFERENCE,example,
+17,39,hydrology,water,rain boots,water,Knowledge,REFERENCE,probe,2.0
+18,-1,baseline,baseline,,,baseline,baseline,baseline,
+19,21,loyal,treacherous,,,Contrary,CONTRAST,example,
+19,21,public,private,,,Contrary,CONTRAST,example,
+19,21,serious,playful,,,Contrary,CONTRAST,example,
+19,21,fast,slow,,,Contrary,CONTRAST,example,
+19,21,fat,thin,big,thin,Contrary,CONTRAST,probe,2.0
+20,27,collect,hoard,,,Dimensional Naughty,SIMILAR,example,
+20,27,eat,gorge,,,Dimensional Naughty,SIMILAR,example,
+20,27,celebrate,gloat,,,Dimensional Naughty,SIMILAR,example,
+20,27,watch,peep,,,Dimensional Naughty,SIMILAR,example,
+20,27,charge,gouge,gouge,receipt,Dimensional Naughty,SIMILAR,probe,1.0
+21,-1,baseline,baseline,,,baseline,baseline,baseline,
+22,21,black,white,,,Contrary,CONTRAST,example,
+22,21,buy,sell,,,Contrary,CONTRAST,example,
+22,21,beautiful,hideous,,,Contrary,CONTRAST,example,
+22,21,up,down,,,Contrary,CONTRAST,example,
+22,21,peace,war,calm,war,Contrary,CONTRAST,probe,2.0
+23,31,baseball game,bat,,,Event:Feature,PART-WHOLE,example,
+23,31,workshop,tools,,,Event:Feature,PART-WHOLE,example,
+23,31,art show,paintings,,,Event:Feature,PART-WHOLE,example,
+23,31,interview,candidate,,,Event:Feature,PART-WHOLE,example,
+23,31,cookout,burgers,burgers,stir-fry,Event:Feature,PART-WHOLE,probe,1.0
+24,27,edit,censor,,,Dimensional Naughty,SIMILAR,example,
+24,27,drive,speed,,,Dimensional Naughty,SIMILAR,example,
+24,27,protect,smother,,,Dimensional Naughty,SIMILAR,example,
+24,27,drink,slurp,,,Dimensional Naughty,SIMILAR,example,
+24,27,warn,threaten,caution,threaten,Dimensional Naughty,SIMILAR,probe,2.0
+25,39,pharmacology,drugs,,,Knowledge,REFERENCE,example,
+25,39,psychiatry,mental illness,,,Knowledge,REFERENCE,example,
+25,39,meteorology,weather,,,Knowledge,REFERENCE,example,
+25,39,history,past,,,Knowledge,REFERENCE,example,
+25,39,pulmonology,lungs,lungs,airways,Knowledge,REFERENCE,probe,1.0

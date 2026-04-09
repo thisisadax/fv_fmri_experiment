@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,41,dock,loading,,,Location:Process/Product,SPACE-TIME,example,
+1,41,river,kayaking,,,Location:Process/Product,SPACE-TIME,example,
+1,41,bedroom,sleep,,,Location:Process/Product,SPACE-TIME,example,
+1,41,garage,repair,,,Location:Process/Product,SPACE-TIME,example,
+1,41,legislature,law,law,gavel,Location:Process/Product,SPACE-TIME,probe,1.0
+2,-1,baseline,baseline,,,baseline,baseline,baseline,
+3,44,soil,shovel,,,Object:Instrument,CASE RELATIONS,example,
+3,44,envelope,stamp,,,Object:Instrument,CASE RELATIONS,example,
+3,44,surface,sandpaper,,,Object:Instrument,CASE RELATIONS,example,
+3,44,wire,pliers,,,Object:Instrument,CASE RELATIONS,example,
+3,44,grass,trimmer,spring,trimmer,Object:Instrument,CASE RELATIONS,probe,2.0
+4,50,guardian,vigilance,,,ObjectState(noun:noun),ATTRIBUTE,example,
+4,50,miser,greed,,,ObjectState(noun:noun),ATTRIBUTE,example,
+4,50,pacifist,peace,,,ObjectState(noun:noun),ATTRIBUTE,example,
+4,50,tomb,silence,,,ObjectState(noun:noun),ATTRIBUTE,example,
+4,50,monk,devotion,obedience,devotion,ObjectState(noun:noun),ATTRIBUTE,probe,2.0
+5,3,flatten,crumpled,,,Action:Object Attribute,ATTRIBUTE,example,
+5,3,close,open,,,Action:Object Attribute,ATTRIBUTE,example,
+5,3,freeze,liquid,,,Action:Object Attribute,ATTRIBUTE,example,
+5,3,correct,mistaken,,,Action:Object Attribute,ATTRIBUTE,example,
+5,3,reassure,anxious,anxious,calm,Action:Object Attribute,ATTRIBUTE,probe,1.0
+6,41,well,water,,,Location:Process/Product,SPACE-TIME,example,
+6,41,workshop,furniture,,,Location:Process/Product,SPACE-TIME,example,
+6,41,nest,egg,,,Location:Process/Product,SPACE-TIME,example,
+6,41,dojo,karate,,,Location:Process/Product,SPACE-TIME,example,
+6,41,market,trade,trade,basket,Location:Process/Product,SPACE-TIME,probe,1.0
+7,-1,baseline,baseline,,,baseline,baseline,baseline,
+8,3,dry,wet,,,Action:Object Attribute,ATTRIBUTE,example,
+8,3,translate,foreign,,,Action:Object Attribute,ATTRIBUTE,example,
+8,3,encourage,discouraged,,,Action:Object Attribute,ATTRIBUTE,example,
+8,3,eat,delicious,,,Action:Object Attribute,ATTRIBUTE,example,
+8,3,heal,injured,injured,weak,Action:Object Attribute,ATTRIBUTE,probe,1.0
+9,41,farm,crops,,,Location:Process/Product,SPACE-TIME,example,
+9,41,ballroom,dancing,,,Location:Process/Product,SPACE-TIME,example,
+9,41,press,books,,,Location:Process/Product,SPACE-TIME,example,
+9,41,hatchery,fish,,,Location:Process/Product,SPACE-TIME,example,
+9,41,restaurant,meal,waiter,meal,Location:Process/Product,SPACE-TIME,probe,2.0
+10,50,orphan,loss,,,ObjectState(noun:noun),ATTRIBUTE,example,
+10,50,fortress,security,,,ObjectState(noun:noun),ATTRIBUTE,example,
+10,50,fog,obscurity,,,ObjectState(noun:noun),ATTRIBUTE,example,
+10,50,plague,devastation,,,ObjectState(noun:noun),ATTRIBUTE,example,
+10,50,fool,ignorance,ignorance,silliness,ObjectState(noun:noun),ATTRIBUTE,probe,1.0
+11,44,ice,scraper,,,Object:Instrument,CASE RELATIONS,example,
+11,44,log,axe,,,Object:Instrument,CASE RELATIONS,example,
+11,44,wound,bandage,,,Object:Instrument,CASE RELATIONS,example,
+11,44,windshield,wiper,,,Object:Instrument,CASE RELATIONS,example,
+11,44,wood,chisel,chisel,grain,Object:Instrument,CASE RELATIONS,probe,1.0
+12,-1,baseline,baseline,,,baseline,baseline,baseline,
+13,50,philanthropist,generosity,,,ObjectState(noun:noun),ATTRIBUTE,example,
+13,50,sanctuary,safety,,,ObjectState(noun:noun),ATTRIBUTE,example,
+13,50,hermit,solitude,,,ObjectState(noun:noun),ATTRIBUTE,example,
+13,50,martyr,sacrifice,,,ObjectState(noun:noun),ATTRIBUTE,example,
+13,50,administrator,power,management,power,ObjectState(noun:noun),ATTRIBUTE,probe,2.0
+14,3,persuade,skeptical,,,Action:Object Attribute,ATTRIBUTE,example,
+14,3,brighten,dim,,,Action:Object Attribute,ATTRIBUTE,example,
+14,3,silence,noisy,,,Action:Object Attribute,ATTRIBUTE,example,
+14,3,wake,sleeping,,,Action:Object Attribute,ATTRIBUTE,example,
+14,3,punish,guilty,guilty,fine,Action:Object Attribute,ATTRIBUTE,probe,1.0
+15,41,den,hibernation,,,Location:Process/Product,SPACE-TIME,example,
+15,41,laundromat,laundry,,,Location:Process/Product,SPACE-TIME,example,
+15,41,track,racing,,,Location:Process/Product,SPACE-TIME,example,
+15,41,factory,car,,,Location:Process/Product,SPACE-TIME,example,
+15,41,auditorium,lecture,podium,lecture,Location:Process/Product,SPACE-TIME,probe,2.0
+16,44,drawing,eraser,,,Object:Instrument,CASE RELATIONS,example,
+16,44,page,highlighter,,,Object:Instrument,CASE RELATIONS,example,
+16,44,lock,key,,,Object:Instrument,CASE RELATIONS,example,
+16,44,clothes,iron,,,Object:Instrument,CASE RELATIONS,example,
+16,44,potato,peeler,peeler,french fries,Object:Instrument,CASE RELATIONS,probe,1.0
+17,50,anarchy,chaos,,,ObjectState(noun:noun),ATTRIBUTE,example,
+17,50,rebel,defiance,,,ObjectState(noun:noun),ATTRIBUTE,example,
+17,50,lover,passion,,,ObjectState(noun:noun),ATTRIBUTE,example,
+17,50,sleeper,rest,,,ObjectState(noun:noun),ATTRIBUTE,example,
+17,50,cynic,skepticism,skepticism,smirk,ObjectState(noun:noun),ATTRIBUTE,probe,1.0
+18,3,thaw,frozen,,,Action:Object Attribute,ATTRIBUTE,example,
+18,3,level,uneven,,,Action:Object Attribute,ATTRIBUTE,example,
+18,3,organize,messy,,,Action:Object Attribute,ATTRIBUTE,example,
+18,3,demolish,condemned,,,Action:Object Attribute,ATTRIBUTE,example,
+18,3,help,helpless,charity,helpless,Action:Object Attribute,ATTRIBUTE,probe,2.0
+19,-1,baseline,baseline,,,baseline,baseline,baseline,
+20,50,patient,illness,,,ObjectState(noun:noun),ATTRIBUTE,example,
+20,50,hostage,captivity,,,ObjectState(noun:noun),ATTRIBUTE,example,
+20,50,desert,dryness,,,ObjectState(noun:noun),ATTRIBUTE,example,
+20,50,outcast,rejection,,,ObjectState(noun:noun),ATTRIBUTE,example,
+20,50,beggar,poverty,poverty,charity,ObjectState(noun:noun),ATTRIBUTE,probe,1.0
+21,44,criminal,handcuffs,,,Object:Instrument,CASE RELATIONS,example,
+21,44,cheese,grater,,,Object:Instrument,CASE RELATIONS,example,
+21,44,screw,screwdriver,,,Object:Instrument,CASE RELATIONS,example,
+21,44,carpet,vacuum,,,Object:Instrument,CASE RELATIONS,example,
+21,44,bolt,wrench,metal,wrench,Object:Instrument,CASE RELATIONS,probe,2.0
+22,3,inflate,flat,,,Action:Object Attribute,ATTRIBUTE,example,
+22,3,clean,dirty,,,Action:Object Attribute,ATTRIBUTE,example,
+22,3,fertilize,barren,,,Action:Object Attribute,ATTRIBUTE,example,
+22,3,restore,damaged,,,Action:Object Attribute,ATTRIBUTE,example,
+22,3,renovate,dilapidated,plain,dilapidated,Action:Object Attribute,ATTRIBUTE,probe,2.0
+23,41,ranch,cattle,,,Location:Process/Product,SPACE-TIME,example,
+23,41,kitchen,food,,,Location:Process/Product,SPACE-TIME,example,
+23,41,rink,skating,,,Location:Process/Product,SPACE-TIME,example,
+23,41,field,plowing,,,Location:Process/Product,SPACE-TIME,example,
+23,41,brewery,beer,beer,bitter,Location:Process/Product,SPACE-TIME,probe,1.0
+24,-1,baseline,baseline,,,baseline,baseline,baseline,
+25,44,thread,needle,,,Object:Instrument,CASE RELATIONS,example,
+25,44,garden,hoe,,,Object:Instrument,CASE RELATIONS,example,
+25,44,teeth,floss,,,Object:Instrument,CASE RELATIONS,example,
+25,44,chest,stethoscope,,,Object:Instrument,CASE RELATIONS,example,
+25,44,wall,paint,paint,color,Object:Instrument,CASE RELATIONS,probe,1.0

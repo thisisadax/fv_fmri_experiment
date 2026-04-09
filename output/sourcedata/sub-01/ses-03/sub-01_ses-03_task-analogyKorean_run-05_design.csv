@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,15,주름,다리다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+1,15,게으름,미루다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+1,15,흥분,환호하다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+1,15,가난,일하다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+1,15,잡동사니,정리하다,서랍,정리하다,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,probe,2.0
+2,8,배우,대본,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+2,8,극작가,희곡,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+2,8,열쇠공,열쇠,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+2,8,석공,벽돌,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+2,8,만화가,만화,만화,출판사,Agent:Object (Korean Localized),CASE RELATIONS,probe,1.0
+3,-1,baseline,baseline,,,baseline,baseline,baseline,
+4,13,말못하다,말하기,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+4,13,미혼이다,결혼,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+4,13,자비롭다,무자비,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+4,13,소심하다,대담함,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+4,13,부서지다,온전함,온전함,기능,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,probe,1.0
+5,15,경쟁,훈련하다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+5,15,가려움,긁다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+5,15,실패,다시시도하다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+5,15,분노,소리지르다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+5,15,패닉,달리다,출구,달리다,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,probe,2.0
+6,23,저택,방,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+6,23,단어,글자,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+6,23,공구함,도구,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+6,23,선장,선원,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+6,23,왕,왕좌,왕좌,여왕,Creature:Possession (Korean Localized),PART-WHOLE,probe,1.0
+7,13,행복하다,슬픔,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+7,13,순수하다,부패,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+7,13,날카롭다,무딤,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+7,13,살아있다,죽음,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+7,13,불안하다,평화,평화,자신감,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,probe,1.0
+8,8,구두수선공,구두,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+8,8,퀼터,퀼트,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+8,8,뜨개공,스웨터,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+8,8,유리공예가,장식품,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+8,8,애니메이터,애니메이션,애니메이션,스튜디오,Agent:Object (Korean Localized),CASE RELATIONS,probe,1.0
+9,-1,baseline,baseline,,,baseline,baseline,baseline,
+10,13,명랑하다,우울함,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+10,13,시끄럽다,침묵,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+10,13,풍부하다,부족,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+10,13,깨끗하다,더러움,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+10,13,불투명하다,투명성,투명성,커튼,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,probe,1.0
+11,23,집,거주자,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+11,23,변호사,의뢰인,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+11,23,피아노,건반,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+11,23,쇼핑몰,상점,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+11,23,오케스트라,연주자,관객,연주자,Creature:Possession (Korean Localized),PART-WHOLE,probe,2.0
+12,-1,baseline,baseline,,,baseline,baseline,baseline,
+13,15,향수병,고향가다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+13,15,갈증,마시다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+13,15,먼지,재채기하다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+13,15,부족,배급하다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+13,15,영감,창작하다,창작하다,캔버스,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,probe,1.0
+14,13,서투르다,우아함,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+14,13,실명하다,시력,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+14,13,상하다,신선함,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+14,13,이기적이다,이타심,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+14,13,게으르다,생산성,업무량,생산성,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,probe,2.0
+15,23,부엉이,발톱,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+15,23,의사,학위,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+15,23,나라,국민,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+15,23,코끼리,코,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+15,23,경기장,좌석,환호,좌석,Creature:Possession (Korean Localized),PART-WHOLE,probe,2.0
+16,8,음악가,악기,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+16,8,벌목꾼,도끼,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+16,8,정원사,삽,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+16,8,화가,그림,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+16,8,소설가,소설책,소설책,편집자,Agent:Object (Korean Localized),CASE RELATIONS,probe,1.0
+17,13,귀가안들리다,청력,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+17,13,어둡다,밝음,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+17,13,깨어있다,수면,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+17,13,매끄럽다,거칠음,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+17,13,재직중이다,실업,휴가,실업,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,probe,2.0
+18,-1,baseline,baseline,,,baseline,baseline,baseline,
+19,8,블로거,게시글,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+19,8,작곡가,곡,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+19,8,용접공,용접토치,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+19,8,목수,망치,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+19,8,어부,그물,부두,그물,Agent:Object (Korean Localized),CASE RELATIONS,probe,2.0
+20,23,군인,군복,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+20,23,목장주,소,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+20,23,제빵사,빵,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+20,23,나무,나무껍질,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+20,23,집주인,집,집,동네,Creature:Possession (Korean Localized),PART-WHOLE,probe,1.0
+21,15,상심,펑펑울다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+21,15,즐거움,웃다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+21,15,수치심,숨다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+21,15,절박함,애원하다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+21,15,좌절,불평하다,불평하다,포기하다,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,probe,1.0
+22,-1,baseline,baseline,,,baseline,baseline,baseline,
+23,8,벽돌공,벽,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+23,8,정육사,고기,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+23,8,조각가,조각품,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+23,8,재봉사,원단,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+23,8,요리사,재료,서빙 직원,재료,Agent:Object (Korean Localized),CASE RELATIONS,probe,2.0
+24,23,포유류,털,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+24,23,새,깃털,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+24,23,판사,의사봉,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+24,23,거북이,등껍질,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+24,23,교도소,수감자,수감자,면회객,Creature:Possession (Korean Localized),PART-WHOLE,probe,1.0
+25,15,연기,기침하다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+25,15,빈곳,채우다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+25,15,추위,오들오들떨다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+25,15,후회,사과하다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+25,15,두려움,덜덜떨다,덜덜떨다,그림자,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,probe,1.0

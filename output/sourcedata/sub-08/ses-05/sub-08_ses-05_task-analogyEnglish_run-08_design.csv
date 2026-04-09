@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,22,boyfriend,husband,,,Conversion,SIMILAR,example,
+1,22,draft,essay,,,Conversion,SIMILAR,example,
+1,22,wheat,flour,,,Conversion,SIMILAR,example,
+1,22,prince,king,,,Conversion,SIMILAR,example,
+1,22,lamb,sheep,wool,sheep,Conversion,SIMILAR,probe,2.0
+2,1,flatter,insincere,,,Action:Action Attribute,ATTRIBUTE,example,
+2,1,walk,slow,,,Action:Action Attribute,ATTRIBUTE,example,
+2,1,analyze,methodical,,,Action:Action Attribute,ATTRIBUTE,example,
+2,1,fidget,restless,,,Action:Action Attribute,ATTRIBUTE,example,
+2,1,snore,noisy,noisy,raspy,Action:Action Attribute,ATTRIBUTE,probe,1.0
+3,5,sleep,rested,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+3,5,stretch,long,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+3,5,sprint,breathless,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+3,5,insult,offended,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+3,5,comb,neat,neat,mirror,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,probe,1.0
+4,9,farmer,harvest,,,Agent:Goal,CAUSE-PURPOSE,example,
+4,9,architect,building,,,Agent:Goal,CAUSE-PURPOSE,example,
+4,9,missionary,conversion,,,Agent:Goal,CAUSE-PURPOSE,example,
+4,9,scientist,discovery,,,Agent:Goal,CAUSE-PURPOSE,example,
+4,9,worker,salary,boss,salary,Agent:Goal,CAUSE-PURPOSE,probe,2.0
+5,-1,baseline,baseline,,,baseline,baseline,baseline,
+6,22,calf,cow,,,Conversion,SIMILAR,example,
+6,22,puppy,dog,,,Conversion,SIMILAR,example,
+6,22,novice,expert,,,Conversion,SIMILAR,example,
+6,22,colt,horse,,,Conversion,SIMILAR,example,
+6,22,lava,rock,soil,rock,Conversion,SIMILAR,probe,2.0
+7,1,stare,intense,,,Action:Action Attribute,ATTRIBUTE,example,
+7,1,plead,earnest,,,Action:Action Attribute,ATTRIBUTE,example,
+7,1,forgive,merciful,,,Action:Action Attribute,ATTRIBUTE,example,
+7,1,browse,casual,,,Action:Action Attribute,ATTRIBUTE,example,
+7,1,cower,fearful,fearful,thunder,Action:Action Attribute,ATTRIBUTE,probe,1.0
+8,5,contaminate,polluted,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+8,5,darken,dark,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+8,5,paint,colored,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+8,5,shrink,small,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+8,5,stab,wound,hospital,wound,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,probe,2.0
+9,9,therapist,healing,,,Agent:Goal,CAUSE-PURPOSE,example,
+9,9,hunter,prey,,,Agent:Goal,CAUSE-PURPOSE,example,
+9,9,gardener,bloom,,,Agent:Goal,CAUSE-PURPOSE,example,
+9,9,musician,fame,,,Agent:Goal,CAUSE-PURPOSE,example,
+9,9,tutor,understanding,understanding,lesson,Agent:Goal,CAUSE-PURPOSE,probe,1.0
+10,1,charge,bold,,,Action:Action Attribute,ATTRIBUTE,example,
+10,1,volunteer,selfless,,,Action:Action Attribute,ATTRIBUTE,example,
+10,1,celebrate,joyful,,,Action:Action Attribute,ATTRIBUTE,example,
+10,1,meditate,calm,,,Action:Action Attribute,ATTRIBUTE,example,
+10,1,preach,righteous,moral,righteous,Action:Action Attribute,ATTRIBUTE,probe,2.0
+11,-1,baseline,baseline,,,baseline,baseline,baseline,
+12,9,spy,information,,,Agent:Goal,CAUSE-PURPOSE,example,
+12,9,plumber,repair,,,Agent:Goal,CAUSE-PURPOSE,example,
+12,9,actor,oscar,,,Agent:Goal,CAUSE-PURPOSE,example,
+12,9,detective,truth,,,Agent:Goal,CAUSE-PURPOSE,example,
+12,9,preacher,salvation,sermon,salvation,Agent:Goal,CAUSE-PURPOSE,probe,2.0
+13,5,inflate,expanded,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+13,5,train,skilled,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+13,5,praise,proud,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+13,5,iron,pressed,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+13,5,strengthen,strong,strong,steady,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,probe,1.0
+14,-1,baseline,baseline,,,baseline,baseline,baseline,
+15,22,gosling,goose,,,Conversion,SIMILAR,example,
+15,22,compost,fertilizer,,,Conversion,SIMILAR,example,
+15,22,grape,raisin,,,Conversion,SIMILAR,example,
+15,22,idea,patent,,,Conversion,SIMILAR,example,
+15,22,piglet,pig,cow,pig,Conversion,SIMILAR,probe,2.0
+16,5,frighten,scared,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+16,5,joke,laughter,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+16,5,burn,heat,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+16,5,encourage,confident,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+16,5,freeze,frozen,hard,frozen,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,probe,2.0
+17,1,glare,hostile,,,Action:Action Attribute,ATTRIBUTE,example,
+17,1,betray,disloyal,,,Action:Action Attribute,ATTRIBUTE,example,
+17,1,scramble,frantic,,,Action:Action Attribute,ATTRIBUTE,example,
+17,1,compliment,kind,,,Action:Action Attribute,ATTRIBUTE,example,
+17,1,tiptoe,stealthy,feet,stealthy,Action:Action Attribute,ATTRIBUTE,probe,2.0
+18,22,wood,charcoal,,,Conversion,SIMILAR,example,
+18,22,bud,flower,,,Conversion,SIMILAR,example,
+18,22,dough,bread,,,Conversion,SIMILAR,example,
+18,22,sand,glass,,,Conversion,SIMILAR,example,
+18,22,recruit,soldier,soldier,boot camp,Conversion,SIMILAR,probe,1.0
+19,-1,baseline,baseline,,,baseline,baseline,baseline,
+20,1,paint,artistic,,,Action:Action Attribute,ATTRIBUTE,example,
+20,1,mourn,somber,,,Action:Action Attribute,ATTRIBUTE,example,
+20,1,sob,emotional,,,Action:Action Attribute,ATTRIBUTE,example,
+20,1,laugh,happy,,,Action:Action Attribute,ATTRIBUTE,example,
+20,1,nag,annoying,reminder,annoying,Action:Action Attribute,ATTRIBUTE,probe,2.0
+21,9,journalist,story,,,Agent:Goal,CAUSE-PURPOSE,example,
+21,9,inventor,patent,,,Agent:Goal,CAUSE-PURPOSE,example,
+21,9,activist,reform,,,Agent:Goal,CAUSE-PURPOSE,example,
+21,9,novelist,bestseller,,,Agent:Goal,CAUSE-PURPOSE,example,
+21,9,pirate,treasure,ship,treasure,Agent:Goal,CAUSE-PURPOSE,probe,2.0
+22,5,organize,orderly,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+22,5,silence,quiet,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+22,5,mix,blend,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+22,5,level,even,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+22,5,age,old,years,old,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,probe,2.0
+23,-1,baseline,baseline,,,baseline,baseline,baseline,
+24,9,runner,finish,,,Agent:Goal,CAUSE-PURPOSE,example,
+24,9,singer,contract,,,Agent:Goal,CAUSE-PURPOSE,example,
+24,9,potter,vase,,,Agent:Goal,CAUSE-PURPOSE,example,
+24,9,gambler,millionaire,,,Agent:Goal,CAUSE-PURPOSE,example,
+24,9,prospector,gold,gold,river,Agent:Goal,CAUSE-PURPOSE,probe,1.0
+25,22,kitten,cat,,,Conversion,SIMILAR,example,
+25,22,princess,queen,,,Conversion,SIMILAR,example,
+25,22,child,adult,,,Conversion,SIMILAR,example,
+25,22,stone,statue,,,Conversion,SIMILAR,example,
+25,22,charcoal,ashes,ashes,grill,Conversion,SIMILAR,probe,1.0

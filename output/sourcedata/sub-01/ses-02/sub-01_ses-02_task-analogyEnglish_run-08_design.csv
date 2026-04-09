@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,11,fisherman,net,,,Agent:Object,CASE RELATIONS,example,
+1,11,architect,building,,,Agent:Object,CASE RELATIONS,example,
+1,11,poet,words,,,Agent:Object,CASE RELATIONS,example,
+1,11,plumber,pipe,,,Agent:Object,CASE RELATIONS,example,
+1,11,glassblower,ornament,ornament,display,Agent:Object,CASE RELATIONS,probe,1.0
+2,40,nightclub,dancing,,,Location:Action/Activity,SPACE-TIME,example,
+2,40,observatory,stargazing,,,Location:Action/Activity,SPACE-TIME,example,
+2,40,bathroom,bathing,,,Location:Action/Activity,SPACE-TIME,example,
+2,40,office,working,,,Location:Action/Activity,SPACE-TIME,example,
+2,40,patio,lounging,lounging,grilling,Location:Action/Activity,SPACE-TIME,probe,1.0
+3,-1,baseline,baseline,,,baseline,baseline,baseline,
+4,20,mask,face,,,Concealment,REFERENCE,example,
+4,20,curtain,window,,,Concealment,REFERENCE,example,
+4,20,wrapper,candy,,,Concealment,REFERENCE,example,
+4,20,safe,valuables,,,Concealment,REFERENCE,example,
+4,20,code,message,message,note,Concealment,REFERENCE,probe,1.0
+5,11,blacksmith,iron,,,Agent:Object,CASE RELATIONS,example,
+5,11,mechanic,wrench,,,Agent:Object,CASE RELATIONS,example,
+5,11,chef,ingredients,,,Agent:Object,CASE RELATIONS,example,
+5,11,writer,pen,,,Agent:Object,CASE RELATIONS,example,
+5,11,vintner,wine,wine,waiter,Agent:Object,CASE RELATIONS,probe,1.0
+6,60,throw,toss,,,Synonymity,SIMILAR,example,
+6,60,talk,speak,,,Synonymity,SIMILAR,example,
+6,60,leave,depart,,,Synonymity,SIMILAR,example,
+6,60,gift,present,,,Synonymity,SIMILAR,example,
+6,60,physician,doctor,clinic,doctor,Synonymity,SIMILAR,probe,2.0
+7,20,laughter,nervousness,,,Concealment,REFERENCE,example,
+7,20,fog,road,,,Concealment,REFERENCE,example,
+7,20,fence,backyard,,,Concealment,REFERENCE,example,
+7,20,smile,unhappiness,,,Concealment,REFERENCE,example,
+7,20,wrapping,gift,surprise,gift,Concealment,REFERENCE,probe,2.0
+8,-1,baseline,baseline,,,baseline,baseline,baseline,
+9,40,reef,diving,,,Location:Action/Activity,SPACE-TIME,example,
+9,40,operating room,surgery,,,Location:Action/Activity,SPACE-TIME,example,
+9,40,lobby,waiting,,,Location:Action/Activity,SPACE-TIME,example,
+9,40,arcade,gaming,,,Location:Action/Activity,SPACE-TIME,example,
+9,40,library,reading,shelves,reading,Location:Action/Activity,SPACE-TIME,probe,2.0
+10,60,kid,child,,,Synonymity,SIMILAR,example,
+10,60,tired,weary,,,Synonymity,SIMILAR,example,
+10,60,house,dwelling,,,Synonymity,SIMILAR,example,
+10,60,restroom,bathroom,,,Synonymity,SIMILAR,example,
+10,60,old,mature,experience,mature,Synonymity,SIMILAR,probe,2.0
+11,11,conductor,baton,,,Agent:Object,CASE RELATIONS,example,
+11,11,miner,pickaxe,,,Agent:Object,CASE RELATIONS,example,
+11,11,knitter,sweater,,,Agent:Object,CASE RELATIONS,example,
+11,11,student,essay,,,Agent:Object,CASE RELATIONS,example,
+11,11,gardener,shovel,shovel,sunlight,Agent:Object,CASE RELATIONS,probe,1.0
+12,-1,baseline,baseline,,,baseline,baseline,baseline,
+13,20,crate,cargo,,,Concealment,REFERENCE,example,
+13,20,tablecloth,table,,,Concealment,REFERENCE,example,
+13,20,scarf,neck,,,Concealment,REFERENCE,example,
+13,20,hat,hair,,,Concealment,REFERENCE,example,
+13,20,boot,foot,foot,mud,Concealment,REFERENCE,probe,1.0
+14,40,school,learning,,,Location:Action/Activity,SPACE-TIME,example,
+14,40,auction house,bidding,,,Location:Action/Activity,SPACE-TIME,example,
+14,40,sauna,sweating,,,Location:Action/Activity,SPACE-TIME,example,
+14,40,highway,driving,,,Location:Action/Activity,SPACE-TIME,example,
+14,40,field,plowing,hay,plowing,Location:Action/Activity,SPACE-TIME,probe,2.0
+15,-1,baseline,baseline,,,baseline,baseline,baseline,
+16,60,path,trail,,,Synonymity,SIMILAR,example,
+16,60,angry,mad,,,Synonymity,SIMILAR,example,
+16,60,entire,whole,,,Synonymity,SIMILAR,example,
+16,60,happy,joyful,,,Synonymity,SIMILAR,example,
+16,60,mom,mother,mother,parent,Synonymity,SIMILAR,probe,1.0
+17,20,carpet,floor,,,Concealment,REFERENCE,example,
+17,20,veil,face,,,Concealment,REFERENCE,example,
+17,20,vault,money,,,Concealment,REFERENCE,example,
+17,20,wig,hair,,,Concealment,REFERENCE,example,
+17,20,snow,tracks,cold,tracks,Concealment,REFERENCE,probe,2.0
+18,40,ocean,surfing,,,Location:Action/Activity,SPACE-TIME,example,
+18,40,hospital,healing,,,Location:Action/Activity,SPACE-TIME,example,
+18,40,chapel,praying,,,Location:Action/Activity,SPACE-TIME,example,
+18,40,brewery,brewing,,,Location:Action/Activity,SPACE-TIME,example,
+18,40,greenhouse,cultivating,cultivating,watering,Location:Action/Activity,SPACE-TIME,probe,1.0
+19,60,error,mistake,,,Synonymity,SIMILAR,example,
+19,60,garbage,trash,,,Synonymity,SIMILAR,example,
+19,60,pick,choose,,,Synonymity,SIMILAR,example,
+19,60,glad,pleased,,,Synonymity,SIMILAR,example,
+19,60,make,manufacture,manufacture,tools,Synonymity,SIMILAR,probe,1.0
+20,11,baker,bread,,,Agent:Object,CASE RELATIONS,example,
+20,11,barber,scissors,,,Agent:Object,CASE RELATIONS,example,
+20,11,cartoonist,cartoon,,,Agent:Object,CASE RELATIONS,example,
+20,11,blogger,post,,,Agent:Object,CASE RELATIONS,example,
+20,11,jeweler,jewelry,store,jewelry,Agent:Object,CASE RELATIONS,probe,2.0
+21,-1,baseline,baseline,,,baseline,baseline,baseline,
+22,20,pseudonym,name,,,Concealment,REFERENCE,example,
+22,20,coat,shirt,,,Concealment,REFERENCE,example,
+22,20,makeup,blemishes,,,Concealment,REFERENCE,example,
+22,20,cloak,figure,,,Concealment,REFERENCE,example,
+22,20,excuse,truth,truth,delay,Concealment,REFERENCE,probe,1.0
+23,11,weaver,cloth,,,Agent:Object,CASE RELATIONS,example,
+23,11,typist,keyboard,,,Agent:Object,CASE RELATIONS,example,
+23,11,welder,torch,,,Agent:Object,CASE RELATIONS,example,
+23,11,spinner,yarn,,,Agent:Object,CASE RELATIONS,example,
+23,11,novelist,books,publisher,books,Agent:Object,CASE RELATIONS,probe,2.0
+24,40,beach,sunbathing,,,Location:Action/Activity,SPACE-TIME,example,
+24,40,lake,fishing,,,Location:Action/Activity,SPACE-TIME,example,
+24,40,cinema,watching,,,Location:Action/Activity,SPACE-TIME,example,
+24,40,slope,skiing,,,Location:Action/Activity,SPACE-TIME,example,
+24,40,backyard,barbecuing,barbecuing,picnic table,Location:Action/Activity,SPACE-TIME,probe,1.0
+25,60,tale,story,,,Synonymity,SIMILAR,example,
+25,60,sick,ill,,,Synonymity,SIMILAR,example,
+25,60,dress,frock,,,Synonymity,SIMILAR,example,
+25,60,dad,father,,,Synonymity,SIMILAR,example,
+25,60,silent,quiet,quiet,mute,Synonymity,SIMILAR,probe,1.0

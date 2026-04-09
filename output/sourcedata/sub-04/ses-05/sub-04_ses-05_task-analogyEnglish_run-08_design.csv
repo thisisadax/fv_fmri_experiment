@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,1,climb,strenuous,,,Action:Action Attribute,ATTRIBUTE,example,
+1,1,debate,competitive,,,Action:Action Attribute,ATTRIBUTE,example,
+1,1,flatter,insincere,,,Action:Action Attribute,ATTRIBUTE,example,
+1,1,whisper,quiet,,,Action:Action Attribute,ATTRIBUTE,example,
+1,1,retreat,cautious,cautious,sudden,Action:Action Attribute,ATTRIBUTE,probe,1.0
+2,23,gloves,mittens,,,Coordinates,SIMILAR,example,
+2,23,trumpet,trombone,,,Coordinates,SIMILAR,example,
+2,23,kitten,puppy,,,Coordinates,SIMILAR,example,
+2,23,chair,stool,,,Coordinates,SIMILAR,example,
+2,23,lamp,candle,desk,candle,Coordinates,SIMILAR,probe,2.0
+3,-1,baseline,baseline,,,baseline,baseline,baseline,
+4,17,swell,river,,,Change,SIMILAR,example,
+4,17,deflate,tire,,,Change,SIMILAR,example,
+4,17,tighten,grip,,,Change,SIMILAR,example,
+4,17,recession,employment,,,Change,SIMILAR,example,
+4,17,shortage,supply,supply,warehouse,Change,SIMILAR,probe,1.0
+5,23,mountain,hill,,,Coordinates,SIMILAR,example,
+5,23,trout,salmon,,,Coordinates,SIMILAR,example,
+5,23,lion,tiger,,,Coordinates,SIMILAR,example,
+5,23,lemon,lime,,,Coordinates,SIMILAR,example,
+5,23,couch,recliner,cushion,recliner,Coordinates,SIMILAR,probe,2.0
+6,47,chain,links,,,Object:Stuff,PART-WHOLE,example,
+6,47,headstone,marble,,,Object:Stuff,PART-WHOLE,example,
+6,47,book,pages,,,Object:Stuff,PART-WHOLE,example,
+6,47,omelette,eggs,,,Object:Stuff,PART-WHOLE,example,
+6,47,deck,cards,table,cards,Object:Stuff,PART-WHOLE,probe,2.0
+7,-1,baseline,baseline,,,baseline,baseline,baseline,
+8,1,apologize,humble,,,Action:Action Attribute,ATTRIBUTE,example,
+8,1,lounge,lazy,,,Action:Action Attribute,ATTRIBUTE,example,
+8,1,glare,hostile,,,Action:Action Attribute,ATTRIBUTE,example,
+8,1,meditate,calm,,,Action:Action Attribute,ATTRIBUTE,example,
+8,1,wander,aimless,aimless,lost,Action:Action Attribute,ATTRIBUTE,probe,1.0
+9,47,novel,chapters,,,Object:Stuff,PART-WHOLE,example,
+9,47,ocean,water,,,Object:Stuff,PART-WHOLE,example,
+9,47,roof,shingles,,,Object:Stuff,PART-WHOLE,example,
+9,47,salsa,tomatoes,,,Object:Stuff,PART-WHOLE,example,
+9,47,box,cardboard,shipping,cardboard,Object:Stuff,PART-WHOLE,probe,2.0
+10,17,expand,territory,,,Change,SIMILAR,example,
+10,17,harden,cement,,,Change,SIMILAR,example,
+10,17,dilute,concentration,,,Change,SIMILAR,example,
+10,17,inflation,price,,,Change,SIMILAR,example,
+10,17,shrink,clothing,clothing,closet,Change,SIMILAR,probe,1.0
+11,23,tennis,badminton,,,Coordinates,SIMILAR,example,
+11,23,rice,pasta,,,Coordinates,SIMILAR,example,
+11,23,algebra,geometry,,,Coordinates,SIMILAR,example,
+11,23,coffee,tea,,,Coordinates,SIMILAR,example,
+11,23,piano,organ,organ,grand piano,Coordinates,SIMILAR,probe,1.0
+12,1,withdraw,timid,,,Action:Action Attribute,ATTRIBUTE,example,
+12,1,sneak,secretive,,,Action:Action Attribute,ATTRIBUTE,example,
+12,1,cower,fearful,,,Action:Action Attribute,ATTRIBUTE,example,
+12,1,fidget,restless,,,Action:Action Attribute,ATTRIBUTE,example,
+12,1,tackle,rough,rough,field,Action:Action Attribute,ATTRIBUTE,probe,1.0
+13,17,fortify,defense,,,Change,SIMILAR,example,
+13,17,slow,traffic,,,Change,SIMILAR,example,
+13,17,silence,noise,,,Change,SIMILAR,example,
+13,17,death,population,,,Change,SIMILAR,example,
+13,17,brighten,room,room,window,Change,SIMILAR,probe,1.0
+14,23,painting,sculpture,,,Coordinates,SIMILAR,example,
+14,23,pants,shorts,,,Coordinates,SIMILAR,example,
+14,23,dogwood,elm,,,Coordinates,SIMILAR,example,
+14,23,father,mother,,,Coordinates,SIMILAR,example,
+14,23,beer,wine,wine,ale,Coordinates,SIMILAR,probe,1.0
+15,47,mattress,foam,,,Object:Stuff,PART-WHOLE,example,
+15,47,quilt,patches,,,Object:Stuff,PART-WHOLE,example,
+15,47,statue,bronze,,,Object:Stuff,PART-WHOLE,example,
+15,47,meal,courses,,,Object:Stuff,PART-WHOLE,example,
+15,47,paint,pigment,pigment,brush,Object:Stuff,PART-WHOLE,probe,1.0
+16,-1,baseline,baseline,,,baseline,baseline,baseline,
+17,1,sleep,restful,,,Action:Action Attribute,ATTRIBUTE,example,
+17,1,betray,disloyal,,,Action:Action Attribute,ATTRIBUTE,example,
+17,1,sing,musical,,,Action:Action Attribute,ATTRIBUTE,example,
+17,1,smile,cheerful,,,Action:Action Attribute,ATTRIBUTE,example,
+17,1,worship,reverent,church,reverent,Action:Action Attribute,ATTRIBUTE,probe,2.0
+18,47,vase,porcelain,,,Object:Stuff,PART-WHOLE,example,
+18,47,flock,birds,,,Object:Stuff,PART-WHOLE,example,
+18,47,wire,metal,,,Object:Stuff,PART-WHOLE,example,
+18,47,lawn,grass,,,Object:Stuff,PART-WHOLE,example,
+18,47,paper,pulp,pulp,notebook,Object:Stuff,PART-WHOLE,probe,1.0
+19,-1,baseline,baseline,,,baseline,baseline,baseline,
+20,17,magnify,image,,,Change,SIMILAR,example,
+20,17,erode,trust,,,Change,SIMILAR,example,
+20,17,boost,morale,,,Change,SIMILAR,example,
+20,17,enrich,soil,,,Change,SIMILAR,example,
+20,17,boom,economy,trade,economy,Change,SIMILAR,probe,2.0
+21,1,insult,unkind,,,Action:Action Attribute,ATTRIBUTE,example,
+21,1,celebrate,joyful,,,Action:Action Attribute,ATTRIBUTE,example,
+21,1,argue,confrontational,,,Action:Action Attribute,ATTRIBUTE,example,
+21,1,stare,intense,,,Action:Action Attribute,ATTRIBUTE,example,
+21,1,hit,aggressive,sudden,aggressive,Action:Action Attribute,ATTRIBUTE,probe,2.0
+22,-1,baseline,baseline,,,baseline,baseline,baseline,
+23,23,pillow,mattress,,,Coordinates,SIMILAR,example,
+23,23,brother,sister,,,Coordinates,SIMILAR,example,
+23,23,alligator,crocodile,,,Coordinates,SIMILAR,example,
+23,23,shirt,blouse,,,Coordinates,SIMILAR,example,
+23,23,hammer,screwdriver,screwdriver,handle,Coordinates,SIMILAR,probe,1.0
+24,17,sharpen,blade,,,Change,SIMILAR,example,
+24,17,increment,number,,,Change,SIMILAR,example,
+24,17,dull,edge,,,Change,SIMILAR,example,
+24,17,darken,color,,,Change,SIMILAR,example,
+24,17,goal,score,team,score,Change,SIMILAR,probe,2.0
+25,47,fleet,ships,,,Object:Stuff,PART-WHOLE,example,
+25,47,carpet,fibers,,,Object:Stuff,PART-WHOLE,example,
+25,47,body,flesh,,,Object:Stuff,PART-WHOLE,example,
+25,47,stew,meat,,,Object:Stuff,PART-WHOLE,example,
+25,47,table,wood,wood,tablecloth,Object:Stuff,PART-WHOLE,probe,1.0

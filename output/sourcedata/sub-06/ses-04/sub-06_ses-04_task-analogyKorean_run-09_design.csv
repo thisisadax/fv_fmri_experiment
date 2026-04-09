@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,32,도구,드라이버,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+1,32,필터,거름망,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+1,32,장벽,울타리,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+1,32,붕대,거즈,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+1,32,약,아스피린,물,아스피린,Functional (Korean Localized),CLASS-INCLUSION,probe,2.0
+2,48,작가,쓰다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+2,48,눈,내리다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+2,48,종,울리다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+2,48,캥거루,점프하다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+2,48,오븐,가열하다,예열하다,가열하다,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,probe,2.0
+3,25,키크다,우뚝솟다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+3,25,불꽃,불바다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+3,25,젖다,흠뻑젖다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+3,25,행복하다,황홀하다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+3,25,잘믿다,잘속다,잘속다,악수,Dimensional Excessive (Korean Localized),SIMILAR,probe,1.0
+4,-1,baseline,baseline,,,baseline,baseline,baseline,
+5,6,목수,가구,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+5,6,환자,건강,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+5,6,학생,학위,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+5,6,간호사,회복,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+5,6,소설가,베스트셀러,베스트셀러,원고,Agent:Goal (Korean Localized),CAUSE-PURPOSE,probe,1.0
+6,48,늑대,울부짖다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+6,48,제빵사,굽다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+6,48,삽,파다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+6,48,번개,치다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+6,48,물,흐르다,강,흐르다,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,probe,2.0
+7,25,좋아하다,푹빠지다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+7,25,산들바람,강풍,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+7,25,속상하다,망연자실하다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+7,25,만족하다,감격하다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+7,25,보다,뚫어지게보다,눈,뚫어지게보다,Dimensional Excessive (Korean Localized),SIMILAR,probe,2.0
+8,6,군인,승리,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+8,6,마조히스트,고통,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+8,6,금광탐사자,금,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+8,6,절도범,훔친물건,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+8,6,건축가,건물,건물,자,Agent:Goal (Korean Localized),CAUSE-PURPOSE,probe,1.0
+9,-1,baseline,baseline,,,baseline,baseline,baseline,
+10,25,시끄럽다,귀청이떨어지다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+10,25,조깅하다,전력질주하다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+10,25,우려,경보,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+10,25,슬픔,우울증,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+10,25,툭치다,밀치다,밀치다,팔꿈치,Dimensional Excessive (Korean Localized),SIMILAR,probe,1.0
+11,32,교통수단,자전거,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+11,32,채소,시금치,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+11,32,의복,양말,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+11,32,좌석,스툴,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+11,32,장신구,팔찌,상자,팔찌,Functional (Korean Localized),CLASS-INCLUSION,probe,2.0
+12,48,컴퓨터,계산하다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+12,48,군인,행군하다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+12,48,바퀴,회전하다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+12,48,토끼,깡충뛰다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+12,48,시계,똑딱거리다,똑딱거리다,울리다,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,probe,1.0
+13,25,대담하다,무모하다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+13,25,말하다,장광설늘어놓다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+13,25,잔물결,큰파도,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+13,25,군것질하다,폭식하다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+13,25,보호심,소유욕,주시하다,소유욕,Dimensional Excessive (Korean Localized),SIMILAR,probe,2.0
+14,6,의사,건강증진,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+14,6,활동가,개혁,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+14,6,채용담당자,채용,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+14,6,스파이,정보,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+14,6,조각가,조각상,대리석,조각상,Agent:Goal (Korean Localized),CAUSE-PURPOSE,probe,2.0
+15,48,심장,뛰다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+15,48,다이너마이트,폭발하다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+15,48,주전자,끓다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+15,48,진자,흔들리다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+15,48,정원사,심다,흙,심다,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,probe,2.0
+16,-1,baseline,baseline,,,baseline,baseline,baseline,
+17,32,가전제품,냉장고,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+17,32,단열재,폼,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+17,32,표식,깃발,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+17,32,직물,비단,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+17,32,음식,사과,음료,사과,Functional (Korean Localized),CLASS-INCLUSION,probe,2.0
+18,25,자랑스럽다,자만하다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+18,25,존경,숭배,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+18,25,헌신적이다,광적이다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+18,25,닦다,박박문지르다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+18,25,통증,격통,쑤심,격통,Dimensional Excessive (Korean Localized),SIMILAR,probe,2.0
+19,-1,baseline,baseline,,,baseline,baseline,baseline,
+20,32,허브,바질,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+20,32,무기,창,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+20,32,덮개,방수포,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+20,32,연료,휘발유,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+20,32,조미료,후추,후추,셰이커,Functional (Korean Localized),CLASS-INCLUSION,probe,1.0
+21,48,촛불,일렁이다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+21,48,귀뚜라미,귀뚤귀뚤울다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+21,48,부엉이,부엉부엉울다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+21,48,전등,빛나다,,,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,example,
+21,48,천둥,우르릉거리다,우르릉거리다,타닥거리다,Object:Typical Action (noun.verb) (Korean Localized),ATTRIBUTE,probe,1.0
+22,6,작가,출판,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+22,6,댄서,박수,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+22,6,방화범,불,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+22,6,운동선수,메달,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+22,6,기독교인,천국,신앙,천국,Agent:Goal (Korean Localized),CAUSE-PURPOSE,probe,2.0
+23,-1,baseline,baseline,,,baseline,baseline,baseline,
+24,32,가구,의자,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+24,32,차량,트럭,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+24,32,감미료,꿀,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+24,32,페이스트리,크루아상,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+24,32,용기,유리병,유리병,라벨,Functional (Korean Localized),CLASS-INCLUSION,probe,1.0
+25,6,이민자,시민권,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+25,6,목사,구원,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+25,6,요리사,식사,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+25,6,마라토너,결승선,,,Agent:Goal (Korean Localized),CAUSE-PURPOSE,example,
+25,6,정치인,공직,연단,공직,Agent:Goal (Korean Localized),CAUSE-PURPOSE,probe,2.0

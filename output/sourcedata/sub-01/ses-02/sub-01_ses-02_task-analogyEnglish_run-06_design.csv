@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,24,mother,children,,,Creature:Possession,PART-WHOLE,example,
+1,24,forest,trees,,,Creature:Possession,PART-WHOLE,example,
+1,24,restaurant,menu,,,Creature:Possession,PART-WHOLE,example,
+1,24,museum,exhibits,,,Creature:Possession,PART-WHOLE,example,
+1,24,orchard,fruit,fruit,sunshine,Creature:Possession,PART-WHOLE,probe,1.0
+2,29,send,receive,,,Directional,CONTRAST,example,
+2,29,northwest,southeast,,,Directional,CONTRAST,example,
+2,29,inhale,exhale,,,Directional,CONTRAST,example,
+2,29,approach,depart,,,Directional,CONTRAST,example,
+2,29,peak,valley,mountain,valley,Directional,CONTRAST,probe,2.0
+3,16,poverty,work,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+3,16,desperation,beg,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+3,16,rip,mend,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+3,16,excitement,cheer,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+3,16,anxiety,pace,pace,worry,Cause:Compensatory Action,CAUSE-PURPOSE,probe,1.0
+4,38,desert,dry,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+4,38,tycoon,wealthy,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+4,38,pillow,soft,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+4,38,athlete,fit,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+4,38,sandpaper,rough,sanding,rough,ItemAttribute(noun:adjective),ATTRIBUTE,probe,2.0
+5,29,head,tail,,,Directional,CONTRAST,example,
+5,29,shallow,deep,,,Directional,CONTRAST,example,
+5,29,northbound,southbound,,,Directional,CONTRAST,example,
+5,29,here,there,,,Directional,CONTRAST,example,
+5,29,near,far,distance,far,Directional,CONTRAST,probe,2.0
+6,-1,baseline,baseline,,,baseline,baseline,baseline,
+7,38,butterfly,delicate,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+7,38,oak,sturdy,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+7,38,mountain,massive,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+7,38,dog,furry,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+7,38,diamond,shiny,shiny,jeweler,ItemAttribute(noun:adjective),ATTRIBUTE,probe,1.0
+8,24,fish,scales,,,Creature:Possession,PART-WHOLE,example,
+8,24,porcupine,quills,,,Creature:Possession,PART-WHOLE,example,
+8,24,hospital,patients,,,Creature:Possession,PART-WHOLE,example,
+8,24,deer,antlers,,,Creature:Possession,PART-WHOLE,example,
+8,24,shepherd,flock,flock,hillside,Creature:Possession,PART-WHOLE,probe,1.0
+9,16,inspiration,create,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+9,16,danger,flee,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+9,16,homesickness,return,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+9,16,tension,stretch,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+9,16,brightness,squint,squint,blink,Cause:Compensatory Action,CAUSE-PURPOSE,probe,1.0
+10,38,clown,funny,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+10,38,sunburn,painful,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+10,38,whisper,quiet,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+10,38,steel,strong,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+10,38,fire,hot,fireplace,hot,ItemAttribute(noun:adjective),ATTRIBUTE,probe,2.0
+11,29,interior,exterior,,,Directional,CONTRAST,example,
+11,29,ceiling,floor,,,Directional,CONTRAST,example,
+11,29,attic,basement,,,Directional,CONTRAST,example,
+11,29,ahead,behind,,,Directional,CONTRAST,example,
+11,29,east,west,west,southeast,Directional,CONTRAST,probe,1.0
+12,24,car,engine,,,Creature:Possession,PART-WHOLE,example,
+12,24,team,players,,,Creature:Possession,PART-WHOLE,example,
+12,24,kitchen,appliances,,,Creature:Possession,PART-WHOLE,example,
+12,24,umbrella,handle,,,Creature:Possession,PART-WHOLE,example,
+12,24,piano,keys,tuner,keys,Creature:Possession,PART-WHOLE,probe,2.0
+13,38,snail,slimy,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+13,38,baby,bald,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+13,38,car,fast,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+13,38,priest,holy,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+13,38,prince,charming,charming,castle,ItemAttribute(noun:adjective),ATTRIBUTE,probe,1.0
+14,-1,baseline,baseline,,,baseline,baseline,baseline,
+15,16,laziness,procrastinate,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+15,16,frustration,complain,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+15,16,injustice,protest,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+15,16,alarm,wake,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+15,16,shortage,ration,ration,coupon,Cause:Compensatory Action,CAUSE-PURPOSE,probe,1.0
+16,38,skunk,smelly,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+16,38,novice,inexperienced,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+16,38,rose,fragrant,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+16,38,candy,sweet,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+16,38,razor,sharp,sharp,bathroom,ItemAttribute(noun:adjective),ATTRIBUTE,probe,1.0
+17,29,embark,disembark,,,Directional,CONTRAST,example,
+17,29,input,output,,,Directional,CONTRAST,example,
+17,29,give,take,,,Directional,CONTRAST,example,
+17,29,uphill,downhill,,,Directional,CONTRAST,example,
+17,29,launch,land,land,runway,Directional,CONTRAST,probe,1.0
+18,-1,baseline,baseline,,,baseline,baseline,baseline,
+19,16,heat,sweat,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+19,16,sickness,medicate,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+19,16,suspicion,question,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+19,16,relief,sigh,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+19,16,loneliness,socialize,smile,socialize,Cause:Compensatory Action,CAUSE-PURPOSE,probe,2.0
+20,29,previously,subsequently,,,Directional,CONTRAST,example,
+20,29,in,out,,,Directional,CONTRAST,example,
+20,29,retract,extend,,,Directional,CONTRAST,example,
+20,29,lift,drop,,,Directional,CONTRAST,example,
+20,29,emerge,submerge,submerge,cocoon,Directional,CONTRAST,probe,1.0
+21,-1,baseline,baseline,,,baseline,baseline,baseline,
+22,24,turtle,shell,,,Creature:Possession,PART-WHOLE,example,
+22,24,bank,money,,,Creature:Possession,PART-WHOLE,example,
+22,24,elephant,trunk,,,Creature:Possession,PART-WHOLE,example,
+22,24,bird,wings,,,Creature:Possession,PART-WHOLE,example,
+22,24,lawyer,clients,judge,clients,Creature:Possession,PART-WHOLE,probe,2.0
+23,16,gratitude,thank,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+23,16,nostalgia,reminisce,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+23,16,storm,shelter,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+23,16,pain,wince,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+23,16,fright,scream,horror,scream,Cause:Compensatory Action,CAUSE-PURPOSE,probe,2.0
+24,-1,baseline,baseline,,,baseline,baseline,baseline,
+25,24,shirt,buttons,,,Creature:Possession,PART-WHOLE,example,
+25,24,library,books,,,Creature:Possession,PART-WHOLE,example,
+25,24,pantry,food,,,Creature:Possession,PART-WHOLE,example,
+25,24,captain,crew,,,Creature:Possession,PART-WHOLE,example,
+25,24,lion,mane,mane,zookeeper,Creature:Possession,PART-WHOLE,probe,1.0

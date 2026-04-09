@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,44,hedge,shears,,,Object:Instrument,CASE RELATIONS,example,
+1,44,floor,wax,,,Object:Instrument,CASE RELATIONS,example,
+1,44,prisoner,shackles,,,Object:Instrument,CASE RELATIONS,example,
+1,44,lock,key,,,Object:Instrument,CASE RELATIONS,example,
+1,44,field,plow,plow,harvest,Object:Instrument,CASE RELATIONS,probe,1.0
+2,57,tighten,loosen,,,Reverse,CONTRAST,example,
+2,57,love,hate,,,Reverse,CONTRAST,example,
+2,57,inhale,exhale,,,Reverse,CONTRAST,example,
+2,57,lie,confess,,,Reverse,CONTRAST,example,
+2,57,rise,fall,sun,fall,Reverse,CONTRAST,probe,2.0
+3,39,ethics,morality,,,Knowledge,REFERENCE,example,
+3,39,logic,reasoning,,,Knowledge,REFERENCE,example,
+3,39,neurology,brain,,,Knowledge,REFERENCE,example,
+3,39,chemistry,elements,,,Knowledge,REFERENCE,example,
+3,39,gastronomy,cuisine,cuisine,recipes,Knowledge,REFERENCE,probe,1.0
+4,44,stain,bleach,,,Object:Instrument,CASE RELATIONS,example,
+4,44,crops,pesticide,,,Object:Instrument,CASE RELATIONS,example,
+4,44,meat,cleaver,,,Object:Instrument,CASE RELATIONS,example,
+4,44,eyebrow,tweezers,,,Object:Instrument,CASE RELATIONS,example,
+4,44,drawing,eraser,sketchbook,eraser,Object:Instrument,CASE RELATIONS,probe,2.0
+5,-1,baseline,baseline,,,baseline,baseline,baseline,
+6,57,dirty,clean,,,Reverse,CONTRAST,example,
+6,57,birth,death,,,Reverse,CONTRAST,example,
+6,57,tame,wild,,,Reverse,CONTRAST,example,
+6,57,progress,regress,,,Reverse,CONTRAST,example,
+6,57,white,black,snow,black,Reverse,CONTRAST,probe,2.0
+7,39,rhetoric,persuasion,,,Knowledge,REFERENCE,example,
+7,39,aeronautics,flight,,,Knowledge,REFERENCE,example,
+7,39,ecology,ecosystems,,,Knowledge,REFERENCE,example,
+7,39,cartography,maps,,,Knowledge,REFERENCE,example,
+7,39,economics,markets,markets,business,Knowledge,REFERENCE,probe,1.0
+8,-1,baseline,baseline,,,baseline,baseline,baseline,
+9,61,thanksgiving,feasting,,,Time Action/Activity,SPACE-TIME,example,
+9,61,rehearsal,practicing,,,Time Action/Activity,SPACE-TIME,example,
+9,61,dinner,eating,,,Time Action/Activity,SPACE-TIME,example,
+9,61,adolescence,puberty,,,Time Action/Activity,SPACE-TIME,example,
+9,61,workout,sweating,water bottle,sweating,Time Action/Activity,SPACE-TIME,probe,2.0
+10,57,young,old,,,Reverse,CONTRAST,example,
+10,57,expand,contract,,,Reverse,CONTRAST,example,
+10,57,hide,reveal,,,Reverse,CONTRAST,example,
+10,57,fight,reconcile,,,Reverse,CONTRAST,example,
+10,57,alive,dead,dead,hospital,Reverse,CONTRAST,probe,1.0
+11,-1,baseline,baseline,,,baseline,baseline,baseline,
+12,61,morning,sunrise,,,Time Action/Activity,SPACE-TIME,example,
+12,61,intermission,stretching,,,Time Action/Activity,SPACE-TIME,example,
+12,61,midnight,snacking,,,Time Action/Activity,SPACE-TIME,example,
+12,61,evening,sunset,,,Time Action/Activity,SPACE-TIME,example,
+12,61,weekend,relaxing,couch,relaxing,Time Action/Activity,SPACE-TIME,probe,2.0
+13,57,buy,sell,,,Reverse,CONTRAST,example,
+13,57,near,far,,,Reverse,CONTRAST,example,
+13,57,freeze,thaw,,,Reverse,CONTRAST,example,
+13,57,inflate,deflate,,,Reverse,CONTRAST,example,
+13,57,injure,heal,heal,bruise,Reverse,CONTRAST,probe,1.0
+14,44,soil,shovel,,,Object:Instrument,CASE RELATIONS,example,
+14,44,carpet,vacuum,,,Object:Instrument,CASE RELATIONS,example,
+14,44,hair,brush,,,Object:Instrument,CASE RELATIONS,example,
+14,44,screw,screwdriver,,,Object:Instrument,CASE RELATIONS,example,
+14,44,canvas,paintbrush,paintbrush,gallery,Object:Instrument,CASE RELATIONS,probe,1.0
+15,61,halloween,carving,,,Time Action/Activity,SPACE-TIME,example,
+15,61,famine,starvation,,,Time Action/Activity,SPACE-TIME,example,
+15,61,autumn,equinox,,,Time Action/Activity,SPACE-TIME,example,
+15,61,bedtime,sleeping,,,Time Action/Activity,SPACE-TIME,example,
+15,61,birthday,party,party,balloons,Time Action/Activity,SPACE-TIME,probe,1.0
+16,39,agriculture,farming,,,Knowledge,REFERENCE,example,
+16,39,meteorology,weather,,,Knowledge,REFERENCE,example,
+16,39,theology,religion,,,Knowledge,REFERENCE,example,
+16,39,marine biology,sea life,,,Knowledge,REFERENCE,example,
+16,39,political science,government,government,civics class,Knowledge,REFERENCE,probe,1.0
+17,57,sink,float,,,Reverse,CONTRAST,example,
+17,57,accept,reject,,,Reverse,CONTRAST,example,
+17,57,allow,forbid,,,Reverse,CONTRAST,example,
+17,57,plant,uproot,,,Reverse,CONTRAST,example,
+17,57,encourage,discourage,discourage,support,Reverse,CONTRAST,probe,1.0
+18,61,youth,exploring,,,Time Action/Activity,SPACE-TIME,example,
+18,61,winter,snow,,,Time Action/Activity,SPACE-TIME,example,
+18,61,spring,planting,,,Time Action/Activity,SPACE-TIME,example,
+18,61,incubation,growth,,,Time Action/Activity,SPACE-TIME,example,
+18,61,pandemic,quarantining,quarantining,sanitizer,Time Action/Activity,SPACE-TIME,probe,1.0
+19,-1,baseline,baseline,,,baseline,baseline,baseline,
+20,44,paper,pencil,,,Object:Instrument,CASE RELATIONS,example,
+20,44,blackboard,chalk,,,Object:Instrument,CASE RELATIONS,example,
+20,44,wound,bandage,,,Object:Instrument,CASE RELATIONS,example,
+20,44,ball,bat,,,Object:Instrument,CASE RELATIONS,example,
+20,44,guitar,pick,pick,chord,Object:Instrument,CASE RELATIONS,probe,1.0
+21,61,auction,bidding,,,Time Action/Activity,SPACE-TIME,example,
+21,61,renaissance,painting,,,Time Action/Activity,SPACE-TIME,example,
+21,61,night,dreaming,,,Time Action/Activity,SPACE-TIME,example,
+21,61,war,destruction,,,Time Action/Activity,SPACE-TIME,example,
+21,61,prohibition,bootlegging,bootlegging,gangster,Time Action/Activity,SPACE-TIME,probe,1.0
+22,39,climatology,climate,,,Knowledge,REFERENCE,example,
+22,39,semantics,meaning,,,Knowledge,REFERENCE,example,
+22,39,aesthetics,beauty,,,Knowledge,REFERENCE,example,
+22,39,criminology,crime,,,Knowledge,REFERENCE,example,
+22,39,genetics,heredity,mutations,heredity,Knowledge,REFERENCE,probe,2.0
+23,-1,baseline,baseline,,,baseline,baseline,baseline,
+24,44,violin,bow,,,Object:Instrument,CASE RELATIONS,example,
+24,44,criminal,handcuffs,,,Object:Instrument,CASE RELATIONS,example,
+24,44,wood,chisel,,,Object:Instrument,CASE RELATIONS,example,
+24,44,teeth,floss,,,Object:Instrument,CASE RELATIONS,example,
+24,44,whiteboard,marker,teacher,marker,Object:Instrument,CASE RELATIONS,probe,2.0
+25,39,epidemiology,epidemics,,,Knowledge,REFERENCE,example,
+25,39,nutrition,food,,,Knowledge,REFERENCE,example,
+25,39,geology,earth,,,Knowledge,REFERENCE,example,
+25,39,trigonometry,triangles,,,Knowledge,REFERENCE,example,
+25,39,botany,plants,mushrooms,plants,Knowledge,REFERENCE,probe,2.0

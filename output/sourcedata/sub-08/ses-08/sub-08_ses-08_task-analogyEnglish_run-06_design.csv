@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,21,early,late,,,Contrary,CONTRAST,example,
+1,21,love,hate,,,Contrary,CONTRAST,example,
+1,21,rude,polite,,,Contrary,CONTRAST,example,
+1,21,tough,weak,,,Contrary,CONTRAST,example,
+1,21,sharp,blunt,blunt,pointed,Contrary,CONTRAST,probe,1.0
+2,35,broom,sweep,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+2,35,blender,puree,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+2,35,spoon,stir,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+2,35,clamp,hold,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+2,35,wrench,tighten,loosen,tighten,Instrument:Intended Action,CAUSE-PURPOSE,probe,2.0
+3,-1,baseline,baseline,,,baseline,baseline,baseline,
+4,42,keyboard,keys,,,Mass:Potion,PART-WHOLE,example,
+4,42,hand,fingers,,,Mass:Potion,PART-WHOLE,example,
+4,42,pomegranate,seeds,,,Mass:Potion,PART-WHOLE,example,
+4,42,bouquet,flowers,,,Mass:Potion,PART-WHOLE,example,
+4,42,hive,bee,flowers,bee,Mass:Potion,PART-WHOLE,probe,2.0
+5,9,programmer,software,,,Agent:Goal,CAUSE-PURPOSE,example,
+5,9,carpenter,furniture,,,Agent:Goal,CAUSE-PURPOSE,example,
+5,9,brewer,beer,,,Agent:Goal,CAUSE-PURPOSE,example,
+5,9,miner,ore,,,Agent:Goal,CAUSE-PURPOSE,example,
+5,9,refugee,asylum,asylum,border,Agent:Goal,CAUSE-PURPOSE,probe,1.0
+6,35,pencil,write,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+6,35,heater,warm,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+6,35,surfboard,surf,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+6,35,wheelbarrow,haul,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+6,35,razor,shave,shave,sink,Instrument:Intended Action,CAUSE-PURPOSE,probe,1.0
+7,-1,baseline,baseline,,,baseline,baseline,baseline,
+8,21,raw,cooked,,,Contrary,CONTRAST,example,
+8,21,black,white,,,Contrary,CONTRAST,example,
+8,21,wide,narrow,,,Contrary,CONTRAST,example,
+8,21,big,small,,,Contrary,CONTRAST,example,
+8,21,open,close,close,doorway,Contrary,CONTRAST,probe,1.0
+9,42,cloth,fibers,,,Mass:Potion,PART-WHOLE,example,
+9,42,cup,tablespoons,,,Mass:Potion,PART-WHOLE,example,
+9,42,orange,segments,,,Mass:Potion,PART-WHOLE,example,
+9,42,gallon,quart,,,Mass:Potion,PART-WHOLE,example,
+9,42,soup,spoonful,steam,spoonful,Mass:Potion,PART-WHOLE,probe,2.0
+10,35,camera,photograph,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+10,35,microwave,heat,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+10,35,key,unlock,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+10,35,pliers,grip,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+10,35,plunger,unclog,pump,unclog,Instrument:Intended Action,CAUSE-PURPOSE,probe,2.0
+11,-1,baseline,baseline,,,baseline,baseline,baseline,
+12,9,entrepreneur,profit,,,Agent:Goal,CAUSE-PURPOSE,example,
+12,9,musician,fame,,,Agent:Goal,CAUSE-PURPOSE,example,
+12,9,diplomat,treaty,,,Agent:Goal,CAUSE-PURPOSE,example,
+12,9,scientist,discovery,,,Agent:Goal,CAUSE-PURPOSE,example,
+12,9,writer,publication,publication,editor,Agent:Goal,CAUSE-PURPOSE,probe,1.0
+13,42,body,cell,,,Mass:Potion,PART-WHOLE,example,
+13,42,necklace,beads,,,Mass:Potion,PART-WHOLE,example,
+13,42,dollar,cents,,,Mass:Potion,PART-WHOLE,example,
+13,42,building,floors,,,Mass:Potion,PART-WHOLE,example,
+13,42,earthworm,segment,segment,garden,Mass:Potion,PART-WHOLE,probe,1.0
+14,21,frozen,melted,,,Contrary,CONTRAST,example,
+14,21,good,bad,,,Contrary,CONTRAST,example,
+14,21,push,pull,,,Contrary,CONTRAST,example,
+14,21,simple,complex,,,Contrary,CONTRAST,example,
+14,21,patient,impatient,tolerant,impatient,Contrary,CONTRAST,probe,2.0
+15,9,patient,health,,,Agent:Goal,CAUSE-PURPOSE,example,
+15,9,gambler,millionaire,,,Agent:Goal,CAUSE-PURPOSE,example,
+15,9,plumber,repair,,,Agent:Goal,CAUSE-PURPOSE,example,
+15,9,researcher,knowledge,,,Agent:Goal,CAUSE-PURPOSE,example,
+15,9,masochist,suffering,suffering,partner,Agent:Goal,CAUSE-PURPOSE,probe,1.0
+16,35,whisk,whip,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+16,35,strainer,drain,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+16,35,chisel,carve,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+16,35,thermometer,measure,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+16,35,fork,eat,eat,stab,Instrument:Intended Action,CAUSE-PURPOSE,probe,1.0
+17,42,sand,grains,,,Mass:Potion,PART-WHOLE,example,
+17,42,decade,years,,,Mass:Potion,PART-WHOLE,example,
+17,42,play,acts,,,Mass:Potion,PART-WHOLE,example,
+17,42,chain,link,,,Mass:Potion,PART-WHOLE,example,
+17,42,corn,kernels,kernels,husk,Mass:Potion,PART-WHOLE,probe,1.0
+18,9,preacher,salvation,,,Agent:Goal,CAUSE-PURPOSE,example,
+18,9,prospector,gold,,,Agent:Goal,CAUSE-PURPOSE,example,
+18,9,mountaineer,summit,,,Agent:Goal,CAUSE-PURPOSE,example,
+18,9,sculptor,statue,,,Agent:Goal,CAUSE-PURPOSE,example,
+18,9,fisherman,catch,boat,catch,Agent:Goal,CAUSE-PURPOSE,probe,2.0
+19,-1,baseline,baseline,,,baseline,baseline,baseline,
+20,35,tongs,grab,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+20,35,sandpaper,smooth,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+20,35,rope,tie,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+20,35,stove,cook,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+20,35,spatula,flip,flip,handle,Instrument:Intended Action,CAUSE-PURPOSE,probe,1.0
+21,21,hot,cold,,,Contrary,CONTRAST,example,
+21,21,hard,soft,,,Contrary,CONTRAST,example,
+21,21,inside,outside,,,Contrary,CONTRAST,example,
+21,21,excited,bored,,,Contrary,CONTRAST,example,
+21,21,tall,short,short,skyscraper,Contrary,CONTRAST,probe,1.0
+22,9,therapist,healing,,,Agent:Goal,CAUSE-PURPOSE,example,
+22,9,salesperson,sale,,,Agent:Goal,CAUSE-PURPOSE,example,
+22,9,mediator,reconciliation,,,Agent:Goal,CAUSE-PURPOSE,example,
+22,9,immigrant,citizenship,,,Agent:Goal,CAUSE-PURPOSE,example,
+22,9,seamstress,dress,needle,dress,Agent:Goal,CAUSE-PURPOSE,probe,2.0
+23,-1,baseline,baseline,,,baseline,baseline,baseline,
+24,42,pack,wolves,,,Mass:Potion,PART-WHOLE,example,
+24,42,flower,petals,,,Mass:Potion,PART-WHOLE,example,
+24,42,air,puff,,,Mass:Potion,PART-WHOLE,example,
+24,42,mosaic,tiles,,,Mass:Potion,PART-WHOLE,example,
+24,42,skeleton,bones,bones,graveyard,Mass:Potion,PART-WHOLE,probe,1.0
+25,21,positive,negative,,,Contrary,CONTRAST,example,
+25,21,left,right,,,Contrary,CONTRAST,example,
+25,21,stiff,flexible,,,Contrary,CONTRAST,example,
+25,21,loyal,treacherous,,,Contrary,CONTRAST,example,
+25,21,loud,quiet,speaker,quiet,Contrary,CONTRAST,probe,2.0

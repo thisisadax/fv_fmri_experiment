@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,4,정리하다,어지럽다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+1,4,설득하다,회의적이다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+1,4,안심시키다,불안하다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+1,4,끄다,타다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+1,4,얼리다,액체이다,액체이다,따뜻하다,Action:Object Attribute (Korean Localized),ATTRIBUTE,probe,1.0
+2,29,차키,자동차,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+2,29,화살,활,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+2,29,렌즈,망원경,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+2,29,세제,식기세척기,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+2,29,안테나,라디오,신호,라디오,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,probe,2.0
+3,61,축제,춤추기,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+3,61,일요일,늦잠,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+3,61,금주법,밀주제조,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+3,61,크리스마스,캐럴부르기,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+3,61,봄,꽃피기,초원,꽃피기,Time Action/Activity (Korean Localized),SPACE-TIME,probe,2.0
+4,19,교수진,교수,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+4,19,대표단,외교관,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+4,19,원숭이떼,원숭이,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+4,19,쿠키한묶음,쿠키,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+4,19,책,장,장,서점,Collection:Member (Korean Localized),PART-WHOLE,probe,1.0
+5,-1,baseline,baseline,,,baseline,baseline,baseline,
+6,61,토론,논쟁,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+6,61,도보여행,걷기,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+6,61,태풍,대피,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+6,61,시험,평가,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+6,61,아침,일출,칫솔,일출,Time Action/Activity (Korean Localized),SPACE-TIME,probe,2.0
+7,4,해결하다,난해하다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+7,4,줄이다,길다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+7,4,명확히 하다,불분명하다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+7,4,미워하다,혐오스럽다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+7,4,평평하게 하다,울퉁불퉁하다,울퉁불퉁하다,수평계,Action:Object Attribute (Korean Localized),ATTRIBUTE,probe,1.0
+8,-1,baseline,baseline,,,baseline,baseline,baseline,
+9,19,재고목록,물품,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+9,19,도서관,책,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+9,19,리그,팀,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+9,19,군대,군인,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+9,19,산맥,산,산,눈,Collection:Member (Korean Localized),PART-WHOLE,probe,1.0
+10,61,청소년기,사춘기,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+10,61,여름,수영,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+10,61,가을,추분,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+10,61,수확철,추수,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+10,61,성인기,일하기,일하기,공과금,Time Action/Activity (Korean Localized),SPACE-TIME,probe,1.0
+11,4,위로하다,아프다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+11,4,펴다,구겨지다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+11,4,격려하다,낙담하다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+11,4,처벌하다,유죄이다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+11,4,청소하다,더럽다,더럽다,먼지많다,Action:Object Attribute (Korean Localized),ATTRIBUTE,probe,1.0
+12,29,햇빛,광합성,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+12,29,노,보트,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+12,29,리드,색소폰,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+12,29,실,베틀,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+12,29,산소,불,불,열,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,probe,1.0
+13,61,콘서트,공연,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+13,61,밤,꿈꾸기,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+13,61,임신,태아발달,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+13,61,운동,땀흘리기,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+13,61,승마대회,말타기,말타기,마구,Time Action/Activity (Korean Localized),SPACE-TIME,probe,1.0
+14,19,메들리,곡,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+14,19,꽃다발,꽃,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+14,19,음계,음,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+14,19,합창단,단원,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+14,19,출연진,배우,무대,배우,Collection:Member (Korean Localized),PART-WHOLE,probe,2.0
+15,29,활대,바이올린,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+15,29,숯,그릴,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+15,29,페달,자전거,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+15,29,비밀번호,계정,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+15,29,헬륨,풍선,파티,풍선,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,probe,2.0
+16,-1,baseline,baseline,,,baseline,baseline,baseline,
+17,4,말리다,젖다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+17,4,깨우다,자다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+17,4,풀다,엉키다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+17,4,사포질하다,거칠다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+17,4,조이다,헐겁다,흔들리다,헐겁다,Action:Object Attribute (Korean Localized),ATTRIBUTE,probe,2.0
+18,29,갈고리,크레인,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+18,29,하네스,낙하산,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+18,29,통나무,모닥불,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+18,29,모니터,컴퓨터,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+18,29,펌프,분수,분수,분사,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,probe,1.0
+19,19,달력,일정,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+19,19,일정표,약속,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+19,19,트럭행렬,트럭,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+19,19,늑대떼,늑대,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+19,19,비행대,항공기,활주로,항공기,Collection:Member (Korean Localized),PART-WHOLE,probe,2.0
+20,-1,baseline,baseline,,,baseline,baseline,baseline,
+21,61,혁명,전투,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+21,61,사냥,추적,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+21,61,기근,기아,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+21,61,건강검진전날,금식,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+21,61,면접,질문,질문,대기실,Time Action/Activity (Korean Localized),SPACE-TIME,probe,1.0
+22,29,휘발유,오토바이,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+22,29,장작,벽난로,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+22,29,네트,배구,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+22,29,공,테니스,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+22,29,드럼스틱,드럼,드럼,비트,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,probe,1.0
+23,-1,baseline,baseline,,,baseline,baseline,baseline,
+24,4,열다,닫히다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+24,4,정복하다,저항이 강하다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+24,4,바로잡다,틀리다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+24,4,복원하다,손상되다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+24,4,부풀리다,납작하다,부드럽다,납작하다,Action:Object Attribute (Korean Localized),ATTRIBUTE,probe,2.0
+25,19,체인점,매장,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+25,19,국회,국회의원,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+25,19,연,행,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+25,19,기록보관소,문서,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+25,19,숲,나무,나무,산림감시원,Collection:Member (Korean Localized),PART-WHOLE,probe,1.0

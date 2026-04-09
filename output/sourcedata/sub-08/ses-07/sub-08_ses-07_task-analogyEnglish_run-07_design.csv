@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,63,sky,blue,,,things - color,Encyclopedic_semantics,example,
+1,63,pearl,white,,,things - color,Encyclopedic_semantics,example,
+1,63,violet,purple,,,things - color,Encyclopedic_semantics,example,
+1,63,butter,yellow,,,things - color,Encyclopedic_semantics,example,
+1,63,apple,red,green,red,things - color,Encyclopedic_semantics,probe,2.0
+2,60,cry,weep,,,Synonymity,SIMILAR,example,
+2,60,house,abode,,,Synonymity,SIMILAR,example,
+2,60,luggage,baggage,,,Synonymity,SIMILAR,example,
+2,60,tired,weary,,,Synonymity,SIMILAR,example,
+2,60,huge,enormous,volume,enormous,Synonymity,SIMILAR,probe,2.0
+3,-1,baseline,baseline,,,baseline,baseline,baseline,
+4,30,battery,phone,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+4,30,ink,pen,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+4,30,wind,windmill,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+4,30,gasoline,motorcycle,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+4,30,sunlight,photosynthesis,photosynthesis,leaf,EnablingAgent:Object,CAUSE-PURPOSE,probe,1.0
+5,58,rehearsal,concert,,,Sequence,SPACE-TIME,example,
+5,58,wedding,honeymoon,,,Sequence,SPACE-TIME,example,
+5,58,conception,birth,,,Sequence,SPACE-TIME,example,
+5,58,planting,harvesting,,,Sequence,SPACE-TIME,example,
+5,58,diagnosis,treatment,treatment,testing,Sequence,SPACE-TIME,probe,1.0
+6,63,egg,white,,,things - color,Encyclopedic_semantics,example,
+6,63,rose,red,,,things - color,Encyclopedic_semantics,example,
+6,63,yogurt,white,,,things - color,Encyclopedic_semantics,example,
+6,63,corn,yellow,,,things - color,Encyclopedic_semantics,example,
+6,63,dolphin,gray,green,gray,things - color,Encyclopedic_semantics,probe,2.0
+7,60,lawyer,attorney,,,Synonymity,SIMILAR,example,
+7,60,gift,present,,,Synonymity,SIMILAR,example,
+7,60,tale,story,,,Synonymity,SIMILAR,example,
+7,60,fast,quick,,,Synonymity,SIMILAR,example,
+7,60,option,choice,menu,choice,Synonymity,SIMILAR,probe,2.0
+8,58,spring,summer,,,Sequence,SPACE-TIME,example,
+8,58,application,interview,,,Sequence,SPACE-TIME,example,
+8,58,practice,competition,,,Sequence,SPACE-TIME,example,
+8,58,performance,applause,,,Sequence,SPACE-TIME,example,
+8,58,proposal,acceptance,acceptance,restaurant,Sequence,SPACE-TIME,probe,1.0
+9,-1,baseline,baseline,,,baseline,baseline,baseline,
+10,30,air,tire,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+10,30,sand,hourglass,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+10,30,marker,whiteboard,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+10,30,coin,meter,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+10,30,key,car,car,locksmith,EnablingAgent:Object,CAUSE-PURPOSE,probe,1.0
+11,58,foreword,novel,,,Sequence,SPACE-TIME,example,
+11,58,symptom,diagnosis,,,Sequence,SPACE-TIME,example,
+11,58,takeoff,landing,,,Sequence,SPACE-TIME,example,
+11,58,narrative,epilogue,,,Sequence,SPACE-TIME,example,
+11,58,packing,traveling,suitcase,traveling,Sequence,SPACE-TIME,probe,2.0
+12,-1,baseline,baseline,,,baseline,baseline,baseline,
+13,30,oar,rowboat,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+13,30,pedal,bicycle,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+13,30,oil,lamp,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+13,30,ice,skate,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+13,30,dam,reservoir,river,reservoir,EnablingAgent:Object,CAUSE-PURPOSE,probe,2.0
+14,63,ruby,red,,,things - color,Encyclopedic_semantics,example,
+14,63,lime,green,,,things - color,Encyclopedic_semantics,example,
+14,63,obsidian,black,,,things - color,Encyclopedic_semantics,example,
+14,63,bruise,purple,,,things - color,Encyclopedic_semantics,example,
+14,63,plum,purple,orange,purple,things - color,Encyclopedic_semantics,probe,2.0
+15,58,cooking,eating,,,Sequence,SPACE-TIME,example,
+15,58,marinating,grilling,,,Sequence,SPACE-TIME,example,
+15,58,acorn,oak,,,Sequence,SPACE-TIME,example,
+15,58,caterpillar,butterfly,,,Sequence,SPACE-TIME,example,
+15,58,searing,roasting,marinating,roasting,Sequence,SPACE-TIME,probe,2.0
+16,60,wealthy,rich,,,Synonymity,SIMILAR,example,
+16,60,physician,doctor,,,Synonymity,SIMILAR,example,
+16,60,cellphone,mobile,,,Synonymity,SIMILAR,example,
+16,60,autumn,fall,,,Synonymity,SIMILAR,example,
+16,60,bucket,pail,pail,handle,Synonymity,SIMILAR,probe,1.0
+17,-1,baseline,baseline,,,baseline,baseline,baseline,
+18,63,broccoli,green,,,things - color,Encyclopedic_semantics,example,
+18,63,mango,yellow,,,things - color,Encyclopedic_semantics,example,
+18,63,ant,black,,,things - color,Encyclopedic_semantics,example,
+18,63,coal,black,,,things - color,Encyclopedic_semantics,example,
+18,63,sunflower,yellow,yellow,black,things - color,Encyclopedic_semantics,probe,1.0
+19,60,infant,baby,,,Synonymity,SIMILAR,example,
+19,60,couch,sofa,,,Synonymity,SIMILAR,example,
+19,60,glad,pleased,,,Synonymity,SIMILAR,example,
+19,60,liberty,freedom,,,Synonymity,SIMILAR,example,
+19,60,large,big,wide,big,Synonymity,SIMILAR,probe,2.0
+20,-1,baseline,baseline,,,baseline,baseline,baseline,
+21,30,chain,chainsaw,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+21,30,bait,trap,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+21,30,ticket,airplane,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+21,30,snow,ski,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+21,30,coal,locomotive,boiler,locomotive,EnablingAgent:Object,CAUSE-PURPOSE,probe,2.0
+22,63,ocean,blue,,,things - color,Encyclopedic_semantics,example,
+22,63,salt,white,,,things - color,Encyclopedic_semantics,example,
+22,63,emerald,green,,,things - color,Encyclopedic_semantics,example,
+22,63,garlic,white,,,things - color,Encyclopedic_semantics,example,
+22,63,blueberry,blue,blue,green,things - color,Encyclopedic_semantics,probe,1.0
+23,60,begin,start,,,Synonymity,SIMILAR,example,
+23,60,rug,carpet,,,Synonymity,SIMILAR,example,
+23,60,restroom,bathroom,,,Synonymity,SIMILAR,example,
+23,60,stick,attach,,,Synonymity,SIMILAR,example,
+23,60,make,manufacture,manufacture,assemble,Synonymity,SIMILAR,probe,1.0
+24,58,appetizer,entree,,,Sequence,SPACE-TIME,example,
+24,58,birth,death,,,Sequence,SPACE-TIME,example,
+24,58,lunch,dinner,,,Sequence,SPACE-TIME,example,
+24,58,freshman,sophomore,,,Sequence,SPACE-TIME,example,
+24,58,breakfast,lunch,brunch,lunch,Sequence,SPACE-TIME,probe,2.0
+25,30,film,camera,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+25,30,fuse,dynamite,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+25,30,harness,parachute,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+25,30,blade,saw,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+25,30,bullet,gun,gunpowder,gun,EnablingAgent:Object,CAUSE-PURPOSE,probe,2.0

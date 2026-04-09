@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,19,까마귀떼,까마귀,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+1,19,카탈로그,상품,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+1,19,리그,팀,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+1,19,카드묶음,카드,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+1,19,교육과정,과목,과목,캠퍼스,Collection:Member (Korean Localized),PART-WHOLE,probe,1.0
+2,29,붓,페인트,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+2,29,네트,배구,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+2,29,열쇠,자물쇠,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+2,29,여과기,수족관,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+2,29,하네스,낙하산,줄,낙하산,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,probe,2.0
+3,-1,baseline,baseline,,,baseline,baseline,baseline,
+4,4,데우다,차갑다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+4,4,정리하다,어지럽다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+4,4,고치다,아프다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+4,4,부드럽게 하다,딱딱하다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+4,4,풀다,엉키다,엉키다,꼬이다,Action:Object Attribute (Korean Localized),ATTRIBUTE,probe,1.0
+5,19,음반목록,앨범,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+5,19,개미떼,개미,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+5,19,낙타행렬,낙타,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+5,19,새끼고양이무리,새끼고양이,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+5,19,국회,국회의원,국회의원,선거,Collection:Member (Korean Localized),PART-WHOLE,probe,1.0
+6,61,하프타임,휴식,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+6,61,영아기,이가나기,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+6,61,승마대회,말타기,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+6,61,재판,증언,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+6,61,태풍,대피,모래주머니,대피,Time Action/Activity (Korean Localized),SPACE-TIME,probe,2.0
+7,4,처벌하다,유죄이다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+7,4,포장을 풀다,포장되다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+7,4,꿰매다,찢어지다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+7,4,떨어뜨리다,미끄럽다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+7,4,평평하게 하다,울퉁불퉁하다,울퉁불퉁하다,경사지다,Action:Object Attribute (Korean Localized),ATTRIBUTE,probe,1.0
+8,19,옷장,옷,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+8,19,백과사전,항목,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+8,19,시리즈,에피소드,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+8,19,재고목록,물품,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+8,19,강의계획서,주제,교실,주제,Collection:Member (Korean Localized),PART-WHOLE,probe,2.0
+9,-1,baseline,baseline,,,baseline,baseline,baseline,
+10,61,부화기간,발육,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+10,61,혁명,전투,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+10,61,설날,떡국먹기,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+10,61,콘서트,공연,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+10,61,정오,점심,샌드위치,점심,Time Action/Activity (Korean Localized),SPACE-TIME,probe,2.0
+11,29,분필,칠판,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+11,29,활대,바이올린,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+11,29,큐,당구,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+11,29,헬륨,풍선,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+11,29,펌프,분수,노즐,분수,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,probe,2.0
+12,4,복원하다,손상되다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+12,4,닫다,열리다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+12,4,채우다,비다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+12,4,밝히다,어둡다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+12,4,갈다,무디다,무디다,주방,Action:Object Attribute (Korean Localized),ATTRIBUTE,probe,1.0
+13,-1,baseline,baseline,,,baseline,baseline,baseline,
+14,29,바늘,주사기,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+14,29,흙,정원,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+14,29,스프링,트램펄린,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+14,29,연료,로켓,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+14,29,항공권,비행기,비행기,여행가방,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,probe,1.0
+15,61,자정,야식,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+15,61,겨울,동면,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+15,61,팬데믹,격리,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+15,61,청소년기,사춘기,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+15,61,폭풍,번개,번개,우산,Time Action/Activity (Korean Localized),SPACE-TIME,probe,1.0
+16,19,새떼,새,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+16,19,관중,관객,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+16,19,일정표,약속,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+16,19,별자리,별,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+16,19,밴드,음악가,음악가,무대,Collection:Member (Korean Localized),PART-WHOLE,probe,1.0
+17,-1,baseline,baseline,,,baseline,baseline,baseline,
+18,29,선로,기차,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+18,29,열,사우나,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+18,29,경유,발전기,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+18,29,전기,전기레인지,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+18,29,잉크,펜,펜,얼룩,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,probe,1.0
+19,61,장마,홍수,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+19,61,바비큐파티,고기굽기,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+19,61,일요일,늦잠,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+19,61,쉬는시간,뛰기,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+19,61,임신,태아발달,태아발달,아기침대,Time Action/Activity (Korean Localized),SPACE-TIME,probe,1.0
+20,4,증폭하다,조용하다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+20,4,위로하다,아프다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+20,4,변형하다,유연하다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+20,4,보존하다,소중하다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+20,4,바로잡다,틀리다,교실,틀리다,Action:Object Attribute (Korean Localized),ATTRIBUTE,probe,2.0
+21,29,안테나,라디오,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+21,29,실,베틀,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+21,29,동전,주차미터기,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+21,29,숯,그릴,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+21,29,댐,저수지,저수지,강,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,probe,1.0
+22,19,사전,표제어,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+22,19,동물원,동물,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+22,19,색스펙트럼,색,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+22,19,박물관,유물,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+22,19,앨범,노래,커버,노래,Collection:Member (Korean Localized),PART-WHOLE,probe,2.0
+23,-1,baseline,baseline,,,baseline,baseline,baseline,
+24,4,리모델링하다,낡다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+24,4,구조하다,고립되다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+24,4,돕다,무력하다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+24,4,희석하다,진하다,,,Action:Object Attribute (Korean Localized),ATTRIBUTE,example,
+24,4,비료를 주다,척박하다,빈약하다,척박하다,Action:Object Attribute (Korean Localized),ATTRIBUTE,probe,2.0
+25,61,밤,꿈꾸기,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+25,61,은퇴,여행,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+25,61,크리스마스,캐럴부르기,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+25,61,저녁,저녁먹기,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+25,61,오후,낮잠,낮잠,공원,Time Action/Activity (Korean Localized),SPACE-TIME,probe,1.0

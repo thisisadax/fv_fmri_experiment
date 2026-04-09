@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,11,knitter,sweater,,,Agent:Object,CASE RELATIONS,example,
+1,11,baker,bread,,,Agent:Object,CASE RELATIONS,example,
+1,11,painter,painting,,,Agent:Object,CASE RELATIONS,example,
+1,11,teacher,books,,,Agent:Object,CASE RELATIONS,example,
+1,11,miner,pickaxe,pickaxe,rock,Agent:Object,CASE RELATIONS,probe,1.0
+2,33,headwear,helmet,,,Functional,CLASS-INCLUSION,example,
+2,33,jewelry,bracelet,,,Functional,CLASS-INCLUSION,example,
+2,33,food,apple,,,Functional,CLASS-INCLUSION,example,
+2,33,container,jar,,,Functional,CLASS-INCLUSION,example,
+2,33,transportation,bicycle,chain,bicycle,Functional,CLASS-INCLUSION,probe,2.0
+3,26,proud,vain,,,Dimensional Excessive,SIMILAR,example,
+3,26,drinking,guzzling,,,Dimensional Excessive,SIMILAR,example,
+3,26,laughter,hysterics,,,Dimensional Excessive,SIMILAR,example,
+3,26,large,enormous,,,Dimensional Excessive,SIMILAR,example,
+3,26,thirsty,parched,sip,parched,Dimensional Excessive,SIMILAR,probe,2.0
+4,57,hope,fear,,,Reverse,CONTRAST,example,
+4,57,tame,wild,,,Reverse,CONTRAST,example,
+4,57,tighten,loosen,,,Reverse,CONTRAST,example,
+4,57,tie,untie,,,Reverse,CONTRAST,example,
+4,57,light,dark,lamp,dark,Reverse,CONTRAST,probe,2.0
+5,11,artist,masterpiece,,,Agent:Object,CASE RELATIONS,example,
+5,11,woodworker,cabinet,,,Agent:Object,CASE RELATIONS,example,
+5,11,toddler,crayon,,,Agent:Object,CASE RELATIONS,example,
+5,11,conductor,baton,,,Agent:Object,CASE RELATIONS,example,
+5,11,plumber,pipe,pipe,leak,Agent:Object,CASE RELATIONS,probe,1.0
+6,-1,baseline,baseline,,,baseline,baseline,baseline,
+7,33,decoration,wreath,,,Functional,CLASS-INCLUSION,example,
+7,33,dish,plate,,,Functional,CLASS-INCLUSION,example,
+7,33,signal,horn,,,Functional,CLASS-INCLUSION,example,
+7,33,lubricant,oil,,,Functional,CLASS-INCLUSION,example,
+7,33,vehicle,truck,truck,driver,Functional,CLASS-INCLUSION,probe,1.0
+8,57,gather,scatter,,,Reverse,CONTRAST,example,
+8,57,enter,exit,,,Reverse,CONTRAST,example,
+8,57,unite,divide,,,Reverse,CONTRAST,example,
+8,57,appear,disappear,,,Reverse,CONTRAST,example,
+8,57,birth,death,baby,death,Reverse,CONTRAST,probe,2.0
+9,-1,baseline,baseline,,,baseline,baseline,baseline,
+10,33,sweetener,honey,,,Functional,CLASS-INCLUSION,example,
+10,33,landmark,lighthouse,,,Functional,CLASS-INCLUSION,example,
+10,33,tool,hammer,,,Functional,CLASS-INCLUSION,example,
+10,33,fruit,apple,,,Functional,CLASS-INCLUSION,example,
+10,33,beverage,juice,straw,juice,Functional,CLASS-INCLUSION,probe,2.0
+11,26,caring,overbearing,,,Dimensional Excessive,SIMILAR,example,
+11,26,stream,torrent,,,Dimensional Excessive,SIMILAR,example,
+11,26,tired,exhausted,,,Dimensional Excessive,SIMILAR,example,
+11,26,snow,blizzard,,,Dimensional Excessive,SIMILAR,example,
+11,26,walking,stomping,stomping,marching,Dimensional Excessive,SIMILAR,probe,1.0
+12,11,potter,clay,,,Agent:Object,CASE RELATIONS,example,
+12,11,seamstress,fabric,,,Agent:Object,CASE RELATIONS,example,
+12,11,poet,words,,,Agent:Object,CASE RELATIONS,example,
+12,11,guitarist,guitar,,,Agent:Object,CASE RELATIONS,example,
+12,11,typist,keyboard,desk,keyboard,Agent:Object,CASE RELATIONS,probe,2.0
+13,33,weapon,spear,,,Functional,CLASS-INCLUSION,example,
+13,33,clothing,sock,,,Functional,CLASS-INCLUSION,example,
+13,33,adhesive,glue,,,Functional,CLASS-INCLUSION,example,
+13,33,fastener,zipper,,,Functional,CLASS-INCLUSION,example,
+13,33,instrument,clarinet,clarinet,orchestra,Functional,CLASS-INCLUSION,probe,1.0
+14,26,upset,distraught,,,Dimensional Excessive,SIMILAR,example,
+14,26,dislike,loathing,,,Dimensional Excessive,SIMILAR,example,
+14,26,unease,dread,,,Dimensional Excessive,SIMILAR,example,
+14,26,concern,alarm,,,Dimensional Excessive,SIMILAR,example,
+14,26,detailed,pedantic,more detailed,pedantic,Dimensional Excessive,SIMILAR,probe,2.0
+15,-1,baseline,baseline,,,baseline,baseline,baseline,
+16,33,furniture,desk,,,Functional,CLASS-INCLUSION,example,
+16,33,shelter,cave,,,Functional,CLASS-INCLUSION,example,
+16,33,fertilizer,compost,,,Functional,CLASS-INCLUSION,example,
+16,33,appliance,oven,,,Functional,CLASS-INCLUSION,example,
+16,33,meat,ham,protein,ham,Functional,CLASS-INCLUSION,probe,2.0
+17,57,accept,reject,,,Reverse,CONTRAST,example,
+17,57,hide,reveal,,,Reverse,CONTRAST,example,
+17,57,white,black,,,Reverse,CONTRAST,example,
+17,57,hire,fire,,,Reverse,CONTRAST,example,
+17,57,tall,short,ladder,short,Reverse,CONTRAST,probe,2.0
+18,-1,baseline,baseline,,,baseline,baseline,baseline,
+19,26,particular,fussy,,,Dimensional Excessive,SIMILAR,example,
+19,26,drizzle,downpour,,,Dimensional Excessive,SIMILAR,example,
+19,26,cold,frigid,,,Dimensional Excessive,SIMILAR,example,
+19,26,frugal,miserly,,,Dimensional Excessive,SIMILAR,example,
+19,26,happy,ecstatic,ecstatic,happier,Dimensional Excessive,SIMILAR,probe,1.0
+20,11,illustrator,illustration,,,Agent:Object,CASE RELATIONS,example,
+20,11,lumberjack,axe,,,Agent:Object,CASE RELATIONS,example,
+20,11,glassblower,ornament,,,Agent:Object,CASE RELATIONS,example,
+20,11,butcher,meat,,,Agent:Object,CASE RELATIONS,example,
+20,11,jeweler,gold,store,gold,Agent:Object,CASE RELATIONS,probe,2.0
+21,-1,baseline,baseline,,,baseline,baseline,baseline,
+22,57,proud,ashamed,,,Reverse,CONTRAST,example,
+22,57,narrow,wide,,,Reverse,CONTRAST,example,
+22,57,admit,deny,,,Reverse,CONTRAST,example,
+22,57,encourage,discourage,,,Reverse,CONTRAST,example,
+22,57,peace,war,war,truce,Reverse,CONTRAST,probe,1.0
+23,26,cautious,paranoid,,,Dimensional Excessive,SIMILAR,example,
+23,26,wind,hurricane,,,Dimensional Excessive,SIMILAR,example,
+23,26,hunger,starvation,,,Dimensional Excessive,SIMILAR,example,
+23,26,worried,frantic,,,Dimensional Excessive,SIMILAR,example,
+23,26,asking,interrogating,teacher,interrogating,Dimensional Excessive,SIMILAR,probe,2.0
+24,11,mechanic,wrench,,,Agent:Object,CASE RELATIONS,example,
+24,11,quilter,quilt,,,Agent:Object,CASE RELATIONS,example,
+24,11,musician,melody,,,Agent:Object,CASE RELATIONS,example,
+24,11,farmer,tractor,,,Agent:Object,CASE RELATIONS,example,
+24,11,architect,building,client,building,Agent:Object,CASE RELATIONS,probe,2.0
+25,57,lock,unlock,,,Reverse,CONTRAST,example,
+25,57,progress,regress,,,Reverse,CONTRAST,example,
+25,57,fight,reconcile,,,Reverse,CONTRAST,example,
+25,57,win,lose,,,Reverse,CONTRAST,example,
+25,57,obey,defy,defy,rule,Reverse,CONTRAST,probe,1.0

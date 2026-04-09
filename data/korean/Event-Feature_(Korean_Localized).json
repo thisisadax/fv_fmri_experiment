@@ -1,0 +1,1209 @@
+{
+  "source_dataset": "SemEval-2012",
+  "relation_category": "PART-WHOLE",
+  "relation_name": "Event:Feature (Korean Localized)",
+  "relation_source": "Event:Feature",
+  "num_relations_per_source": 1,
+  "relation_index": 1,
+  "n_clean_pairs": 85,
+  "n_original_pairs": 39,
+  "relation_description": "The second item is a person, object, or element typically found at the event described by the first item. (Korean-localized stimuli; some Western events were replaced with culturally familiar Korean counterparts where needed.)",
+  "relation_pairs": [
+    "졸업식:졸업장",
+    "졸업식:졸업생",
+    "파티:손님",
+    "파티:술",
+    "오디션:배우",
+    "졸업무도회:드레스",
+    "스포츠경기:선수",
+    "스포츠경기:심판",
+    "콘서트:연주자",
+    "놀이축제:놀이기구",
+    "장례식:관",
+    "장례식:시신",
+    "대회:선수",
+    "범죄:증거",
+    "서커스:광대",
+    "서커스:단장",
+    "소풍:간식",
+    "소풍:돗자리",
+    "식사:음식",
+    "조개구이:조개",
+    "세례식:목사",
+    "결혼식:신부",
+    "결혼식:반지",
+    "생일파티:초",
+    "생일파티:케이크",
+    "마라톤:달리기선수",
+    "경주:결승선",
+    "토너먼트:트로피",
+    "연극:무대",
+    "오페라:성악가",
+    "발레:무용수",
+    "바비큐:그릴",
+    "포틀럭파티:음식",
+    "저녁파티:주최자",
+    "칵테일파티:음료",
+    "경기응원:팬",
+    "모닥불:마시멜로",
+    "파자마파티:잠옷",
+    "동창회:동창",
+    "베이비샤워:선물",
+    "강의:교수",
+    "세미나:발표자",
+    "토론:단상",
+    "재판:배심원",
+    "재판:판사",
+    "퍼레이드:장식차",
+    "시위:피켓",
+    "경매:경매사",
+    "선거:투표용지",
+    "추석:송편",
+    "크리스마스:선물",
+    "할로윈:코스튬",
+    "부활절:달걀",
+    "수확:농작물",
+    "승마대회:말",
+    "받아쓰기대회:참가자",
+    "노래방:마이크",
+    "야외바비큐:햄버거",
+    "대관식:왕관",
+    "취임식:선서",
+    "댄스파티:음악",
+    "축제:솜사탕",
+    "워크숍:도구",
+    "컨퍼런스:참석자",
+    "캠핑:텐트",
+    "마술쇼:마술사",
+    "코미디쇼:코미디언",
+    "복싱경기:글러브",
+    "야구경기:배트",
+    "추모식:꽃",
+    "연회:와인",
+    "교향악연주회:지휘자",
+    "응원제:치어리더",
+    "추첨행사:응모권",
+    "면접:지원자",
+    "리허설:대본",
+    "시사회:레드카펫",
+    "갈라행사:드레스",
+    "만찬:연설",
+    "레슬링경기:매트",
+    "육상대회:허들",
+    "보물찾기:단서",
+    "모금행사:기부금",
+    "아이스하키경기:퍽",
+    "미술전시회:그림"
+  ],
+  "distractors": [
+    [
+      "성적증명서",
+      "성적표",
+      "등록금",
+      "교실"
+    ],
+    [
+      "동문",
+      "지원자",
+      "숙제",
+      "사물함"
+    ],
+    [
+      "초대장",
+      "공연자",
+      "재생목록",
+      "거실"
+    ],
+    [
+      "탄산음료",
+      "감자칩",
+      "통금",
+      "자습실"
+    ],
+    [
+      "관객",
+      "평론가",
+      "캐스팅공지",
+      "리허설"
+    ],
+    [
+      "교복",
+      "유니폼",
+      "홈커밍",
+      "졸업앨범"
+    ],
+    [
+      "연습",
+      "훈련",
+      "쉬는시간",
+      "탈의실"
+    ],
+    [
+      "심판",
+      "판사",
+      "연장전",
+      "운동장"
+    ],
+    [
+      "배우",
+      "무용수",
+      "투어버스",
+      "라디오"
+    ],
+    [
+      "퍼레이드",
+      "무대",
+      "전단지",
+      "주차장"
+    ],
+    [
+      "부고",
+      "유언장",
+      "보험",
+      "병원"
+    ],
+    [
+      "사망진단서",
+      "구급대원",
+      "유산",
+      "병원"
+    ],
+    [
+      "심사위원",
+      "스폰서",
+      "연습",
+      "접수대"
+    ],
+    [
+      "동기",
+      "알리바이",
+      "형사",
+      "수갑"
+    ],
+    [
+      "어릿광대",
+      "마스코트",
+      "퍼레이드",
+      "회전목마"
+    ],
+    [
+      "아나운서",
+      "진행자",
+      "뉴스앵커",
+      "기자회견"
+    ],
+    [
+      "살충제",
+      "선크림",
+      "등산로",
+      "공원벤치"
+    ],
+    [
+      "테이블",
+      "우산",
+      "개미",
+      "주차장"
+    ],
+    [
+      "레시피",
+      "가스레인지",
+      "배고픔",
+      "식료품점"
+    ],
+    [
+      "굴",
+      "게",
+      "어선",
+      "조수"
+    ],
+    [
+      "랍비",
+      "스님",
+      "결혼식",
+      "주일학교"
+    ],
+    [
+      "약혼자",
+      "데이트",
+      "프러포즈",
+      "신혼여행"
+    ],
+    [
+      "초대장",
+      "코사지",
+      "약혼사진",
+      "선물목록"
+    ],
+    [
+      "포장지",
+      "손님명단",
+      "달력",
+      "나이"
+    ],
+    [
+      "컵케이크",
+      "폭죽",
+      "초대장",
+      "주말"
+    ],
+    [
+      "자전거선수",
+      "단거리선수",
+      "훈련계획",
+      "트랙"
+    ],
+    [
+      "출발총",
+      "랩카운터",
+      "라이벌전",
+      "연습"
+    ],
+    [
+      "메달",
+      "상장",
+      "예선통과자",
+      "스폰서"
+    ],
+    [
+      "스크린",
+      "카메라",
+      "극작가",
+      "라디오"
+    ],
+    [
+      "배우",
+      "발레무용수",
+      "리허설",
+      "티켓"
+    ],
+    [
+      "체조선수",
+      "피겨스케이터",
+      "바레",
+      "스튜디오"
+    ],
+    [
+      "오븐",
+      "프라이팬",
+      "레시피카드",
+      "주방"
+    ],
+    [
+      "포장음식",
+      "피자",
+      "참가신청서",
+      "카풀"
+    ],
+    [
+      "케이터링업체",
+      "문지기",
+      "참석여부회신",
+      "동네"
+    ],
+    [
+      "이름표",
+      "드레스코드",
+      "손님명단",
+      "라운지"
+    ],
+    [
+      "치어리더",
+      "팀",
+      "티켓",
+      "주차권"
+    ],
+    [
+      "폭죽",
+      "랜턴",
+      "텐트",
+      "손전등"
+    ],
+    [
+      "수면등",
+      "배낭",
+      "통금",
+      "학교"
+    ],
+    [
+      "교장",
+      "교사",
+      "학사복",
+      "체육관"
+    ],
+    [
+      "선물목록",
+      "성별공개파티",
+      "초대장",
+      "아기방"
+    ],
+    [
+      "학장",
+      "사서",
+      "강의계획서",
+      "강의동"
+    ],
+    [
+      "패널",
+      "진행자",
+      "이메일초대장",
+      "회의실"
+    ],
+    [
+      "투표함",
+      "즉석연단",
+      "칼럼",
+      "교실"
+    ],
+    [
+      "형량협상",
+      "범죄현장",
+      "수갑",
+      "감방"
+    ],
+    [
+      "심판",
+      "조정자",
+      "평결",
+      "법원계단"
+    ],
+    [
+      "자전거",
+      "불꽃놀이",
+      "경로지도",
+      "인도"
+    ],
+    [
+      "청원서",
+      "집회무대",
+      "허가서",
+      "소셜미디어"
+    ],
+    [
+      "중고장터",
+      "계산원",
+      "유산정리세일",
+      "갤러리"
+    ],
+    [
+      "선거광고",
+      "토론회",
+      "투표마감",
+      "헌법"
+    ],
+    [
+      "갈비",
+      "남은음식",
+      "장보기목록",
+      "한복"
+    ],
+    [
+      "위시리스트",
+      "캐럴부르기",
+      "썰매",
+      "12월"
+    ],
+    [
+      "불꽃놀이",
+      "색종이조각",
+      "낙엽더미",
+      "10월"
+    ],
+    [
+      "예배",
+      "토끼옷",
+      "일출",
+      "4월"
+    ],
+    [
+      "파종",
+      "모종",
+      "관개",
+      "헛간"
+    ],
+    [
+      "목장주",
+      "기수",
+      "마구간",
+      "소몰이"
+    ],
+    [
+      "코치",
+      "연습명단",
+      "성적표",
+      "담임교실"
+    ],
+    [
+      "헤드폰",
+      "기타",
+      "코트보관소",
+      "티켓반쪽"
+    ],
+    [
+      "볶음요리",
+      "포장음식",
+      "드라이브스루",
+      "주차장"
+    ],
+    [
+      "메달",
+      "반지",
+      "칙령",
+      "퍼레이드"
+    ],
+    [
+      "취임무도회",
+      "선거운동",
+      "개표방송",
+      "색종이조각"
+    ],
+    [
+      "이어폰",
+      "거울",
+      "연습",
+      "오디션"
+    ],
+    [
+      "전단지",
+      "셔틀버스",
+      "헛간",
+      "군"
+    ],
+    [
+      "참가비",
+      "이메일목록",
+      "커피브레이크",
+      "캘린더초대"
+    ],
+    [
+      "기조연설",
+      "보도자료",
+      "공항",
+      "호텔예약"
+    ],
+    [
+      "오두막",
+      "캠핑카",
+      "로드트립",
+      "소파"
+    ],
+    [
+      "착시",
+      "광대",
+      "티켓",
+      "생일파티"
+    ],
+    [
+      "스케치코미디",
+      "저글러",
+      "오픈마이크",
+      "전단지"
+    ],
+    [
+      "보호대",
+      "헤드기어",
+      "계체",
+      "체육관"
+    ],
+    [
+      "스틱",
+      "퍽",
+      "벙어리장갑",
+      "아이스링크"
+    ],
+    [
+      "풍선",
+      "리본",
+      "기념일",
+      "광장"
+    ],
+    [
+      "주스",
+      "연회장",
+      "휴일",
+      "초대장"
+    ],
+    [
+      "작곡가",
+      "무대감독",
+      "라디오중계",
+      "리허설"
+    ],
+    [
+      "팀버스",
+      "작전노트",
+      "탈의실",
+      "개막전"
+    ],
+    [
+      "손목밴드",
+      "복권",
+      "이메일목록",
+      "당첨자발표"
+    ],
+    [
+      "채용공고",
+      "추천서",
+      "연봉",
+      "통근"
+    ],
+    [
+      "메이크업",
+      "소품목록",
+      "오디션공지",
+      "개막공연"
+    ],
+    [
+      "기자간담회",
+      "뒤풀이",
+      "예고편",
+      "매표소"
+    ],
+    [
+      "코스튬",
+      "유니폼",
+      "경매",
+      "초대장"
+    ],
+    [
+      "슬라이드",
+      "공연",
+      "손님명단",
+      "주차장"
+    ],
+    [
+      "링",
+      "글러브",
+      "로프",
+      "헬멧"
+    ],
+    [
+      "콘",
+      "전광판",
+      "유니폼",
+      "카풀"
+    ],
+    [
+      "퍼즐",
+      "상품",
+      "타이머",
+      "놀이터"
+    ],
+    [
+      "스폰서",
+      "굿즈",
+      "전단지",
+      "행사장"
+    ],
+    [
+      "공",
+      "스파이크",
+      "더그아웃",
+      "다이아몬드"
+    ],
+    [
+      "전단지",
+      "매표소",
+      "액자점",
+      "기념품점"
+    ]
+  ],
+  "english_pairs": [
+    "graduation ceremony:diploma",
+    "graduation ceremony:graduates",
+    "party:guests",
+    "party:alcohol",
+    "audition:actor",
+    "prom:dress",
+    "sports game:players",
+    "sports game:referee",
+    "concert:musician",
+    "carnival:rides (LOCALIZED wording)",
+    "funeral:coffin",
+    "funeral:corpse",
+    "competition:athlete",
+    "crime:evidence",
+    "circus:clown",
+    "circus:ringmaster",
+    "picnic:snacks",
+    "picnic:blanket",
+    "meal:food",
+    "clam barbecue:clams (LOCALIZED from clambake)",
+    "baptism:pastor (IMPERFECT TRANSLATION)",
+    "wedding:bride",
+    "wedding:rings",
+    "birthday:candles",
+    "birthday:cake",
+    "marathon:runners",
+    "race:finish line",
+    "tournament:trophy",
+    "play:stage",
+    "opera:singer",
+    "ballet:dancer",
+    "barbecue:grill",
+    "potluck:food (LOCALIZED from casserole)",
+    "dinner party:host",
+    "cocktail party:drinks",
+    "game-day cheering:fans (LOCALIZED from tailgate)",
+    "bonfire:marshmallows",
+    "sleepover:pajamas",
+    "reunion:classmates",
+    "baby shower:gifts",
+    "lecture:professor",
+    "seminar:speaker",
+    "debate:podium",
+    "trial:jury",
+    "trial:judge",
+    "parade:floats",
+    "protest:signs",
+    "auction:auctioneer",
+    "election:ballots",
+    "Chuseok:songpyeon (LOCALIZED from Thanksgiving:turkey)",
+    "Christmas:presents",
+    "Halloween:costumes",
+    "Easter:eggs",
+    "harvest:crops",
+    "equestrian competition:horse (LOCALIZED from rodeo:cowboy)",
+    "spelling contest:participants (LOCALIZED)",
+    "karaoke:microphone",
+    "cookout:burgers",
+    "coronation:crown",
+    "inauguration:oath",
+    "dance:music",
+    "fair:cotton candy",
+    "workshop:tools",
+    "conference:attendees",
+    "camping trip:tent",
+    "magic show:magician",
+    "comedy show:comedian",
+    "boxing match:gloves",
+    "baseball game:bat",
+    "memorial:flowers",
+    "feast:wine",
+    "symphony:conductor",
+    "pep rally:cheerleaders",
+    "raffle:tickets",
+    "interview:candidate",
+    "rehearsal:script",
+    "premiere:red carpet",
+    "gala:gowns",
+    "banquet:speeches",
+    "wrestling match:mat",
+    "track meet:hurdles",
+    "scavenger hunt:clues",
+    "fundraiser:donations",
+    "hockey game:puck",
+    "art show:paintings"
+  ],
+  "english_distractors": [
+    [
+      "transcript",
+      "report card",
+      "tuition",
+      "classroom"
+    ],
+    [
+      "alumni",
+      "applicants",
+      "homework",
+      "locker"
+    ],
+    [
+      "invitations",
+      "entertainers",
+      "playlist",
+      "living room"
+    ],
+    [
+      "soda",
+      "chips",
+      "curfew",
+      "study hall"
+    ],
+    [
+      "audience",
+      "critic",
+      "casting call",
+      "rehearsal"
+    ],
+    [
+      "uniform",
+      "jersey",
+      "homecoming",
+      "yearbook"
+    ],
+    [
+      "practice",
+      "training",
+      "recess",
+      "locker room"
+    ],
+    [
+      "umpire",
+      "judge",
+      "overtime",
+      "playground"
+    ],
+    [
+      "actor",
+      "dancer",
+      "tour bus",
+      "radio"
+    ],
+    [
+      "parade",
+      "stage",
+      "flyer",
+      "parking lot"
+    ],
+    [
+      "obituary",
+      "will",
+      "insurance",
+      "hospital"
+    ],
+    [
+      "death certificate",
+      "paramedic",
+      "inheritance",
+      "hospital"
+    ],
+    [
+      "judge",
+      "sponsor",
+      "practice",
+      "registration desk"
+    ],
+    [
+      "motive",
+      "alibi",
+      "detective",
+      "handcuffs"
+    ],
+    [
+      "jester",
+      "mascot",
+      "parade",
+      "carousel"
+    ],
+    [
+      "announcer",
+      "presenter",
+      "news anchor",
+      "press conference"
+    ],
+    [
+      "ant spray",
+      "sunblock",
+      "hiking trail",
+      "park bench"
+    ],
+    [
+      "table",
+      "umbrella",
+      "ants",
+      "parking lot"
+    ],
+    [
+      "recipe",
+      "stove",
+      "hunger",
+      "grocery store"
+    ],
+    [
+      "oysters",
+      "crabs",
+      "fishing boat",
+      "tide"
+    ],
+    [
+      "rabbi",
+      "monk",
+      "wedding",
+      "Sunday school"
+    ],
+    [
+      "fiance",
+      "date",
+      "proposal",
+      "honeymoon"
+    ],
+    [
+      "invitations",
+      "corsage",
+      "engagement photos",
+      "registry"
+    ],
+    [
+      "wrapping paper",
+      "guest list",
+      "calendar",
+      "age"
+    ],
+    [
+      "cupcakes",
+      "sparklers",
+      "invitation",
+      "weekend"
+    ],
+    [
+      "cyclists",
+      "sprinters",
+      "training plan",
+      "track"
+    ],
+    [
+      "starting gun",
+      "lap counter",
+      "rivalry",
+      "practice"
+    ],
+    [
+      "medal",
+      "certificate",
+      "qualifier",
+      "sponsor"
+    ],
+    [
+      "screen",
+      "camera",
+      "playwright",
+      "radio"
+    ],
+    [
+      "actor",
+      "ballet dancer",
+      "rehearsal",
+      "ticket"
+    ],
+    [
+      "gymnast",
+      "figure skater",
+      "barre",
+      "studio"
+    ],
+    [
+      "oven",
+      "skillet",
+      "recipe card",
+      "kitchen"
+    ],
+    [
+      "takeout",
+      "pizza",
+      "sign-up sheet",
+      "carpool"
+    ],
+    [
+      "caterer",
+      "doorman",
+      "RSVP",
+      "neighborhood"
+    ],
+    [
+      "name tags",
+      "dress code",
+      "guest list",
+      "lounge"
+    ],
+    [
+      "cheerleaders",
+      "team",
+      "tickets",
+      "parking pass"
+    ],
+    [
+      "sparklers",
+      "lantern",
+      "tents",
+      "flashlight"
+    ],
+    [
+      "nightlight",
+      "backpack",
+      "curfew",
+      "school"
+    ],
+    [
+      "principal",
+      "teachers",
+      "cap and gown",
+      "gymnasium"
+    ],
+    [
+      "registry",
+      "gender reveal",
+      "invitations",
+      "nursery"
+    ],
+    [
+      "dean",
+      "librarian",
+      "syllabus",
+      "classroom building"
+    ],
+    [
+      "panel",
+      "host",
+      "email invite",
+      "conference room"
+    ],
+    [
+      "ballot box",
+      "soapbox",
+      "op-ed",
+      "classroom"
+    ],
+    [
+      "plea deal",
+      "crime scene",
+      "handcuffs",
+      "jail cell"
+    ],
+    [
+      "referee",
+      "mediator",
+      "verdict",
+      "courthouse steps"
+    ],
+    [
+      "bikes",
+      "fireworks",
+      "route map",
+      "sidewalk"
+    ],
+    [
+      "petition",
+      "rally stage",
+      "permit",
+      "social media"
+    ],
+    [
+      "garage sale",
+      "cashier",
+      "estate sale",
+      "gallery"
+    ],
+    [
+      "campaign ads",
+      "debate",
+      "polls closing",
+      "constitution"
+    ],
+    [
+      "ham",
+      "leftovers",
+      "grocery list",
+      "pilgrims"
+    ],
+    [
+      "wish list",
+      "caroling",
+      "sleigh",
+      "December"
+    ],
+    [
+      "fireworks",
+      "confetti",
+      "leaf pile",
+      "October"
+    ],
+    [
+      "church service",
+      "bunny suit",
+      "sunrise",
+      "April"
+    ],
+    [
+      "planting",
+      "seedlings",
+      "irrigation",
+      "barn"
+    ],
+    [
+      "rancher",
+      "jockey",
+      "stable",
+      "cattle drive"
+    ],
+    [
+      "coaches",
+      "practice list",
+      "report cards",
+      "homeroom"
+    ],
+    [
+      "headphones",
+      "guitar",
+      "coat check",
+      "ticket stub"
+    ],
+    [
+      "stir-fry",
+      "takeout",
+      "drive-thru",
+      "parking lot"
+    ],
+    [
+      "medal",
+      "ring",
+      "royal decree",
+      "parade"
+    ],
+    [
+      "inaugural ball",
+      "campaign",
+      "election night",
+      "confetti"
+    ],
+    [
+      "earbuds",
+      "mirror",
+      "practice",
+      "audition"
+    ],
+    [
+      "flyer",
+      "parking shuttle",
+      "barn",
+      "county"
+    ],
+    [
+      "registration fee",
+      "email list",
+      "coffee break",
+      "calendar invite"
+    ],
+    [
+      "keynote",
+      "press release",
+      "airport",
+      "hotel booking"
+    ],
+    [
+      "cabin",
+      "RV",
+      "road trip",
+      "couch"
+    ],
+    [
+      "illusion",
+      "clown",
+      "ticket",
+      "birthday party"
+    ],
+    [
+      "sketch",
+      "juggler",
+      "open mic",
+      "flyer"
+    ],
+    [
+      "pads",
+      "headgear",
+      "weigh-in",
+      "gym"
+    ],
+    [
+      "stick",
+      "puck",
+      "mittens",
+      "rink"
+    ],
+    [
+      "balloons",
+      "ribbon",
+      "anniversary date",
+      "town square"
+    ],
+    [
+      "juice",
+      "banquet hall",
+      "holiday",
+      "invitation"
+    ],
+    [
+      "composer",
+      "stage manager",
+      "radio broadcast",
+      "rehearsal"
+    ],
+    [
+      "team bus",
+      "playbook",
+      "locker room",
+      "season opener"
+    ],
+    [
+      "wristbands",
+      "lottery",
+      "email list",
+      "winner announcement"
+    ],
+    [
+      "job posting",
+      "reference",
+      "salary",
+      "commute"
+    ],
+    [
+      "makeup",
+      "prop list",
+      "audition notice",
+      "opening night"
+    ],
+    [
+      "press junket",
+      "after-party",
+      "trailer",
+      "box office"
+    ],
+    [
+      "costumes",
+      "uniforms",
+      "auction",
+      "invitation"
+    ],
+    [
+      "slides",
+      "performances",
+      "guest list",
+      "parking garage"
+    ],
+    [
+      "ring",
+      "gloves",
+      "rope",
+      "helmet"
+    ],
+    [
+      "cones",
+      "scoreboard",
+      "uniforms",
+      "carpool"
+    ],
+    [
+      "puzzle",
+      "prize",
+      "timer",
+      "playground"
+    ],
+    [
+      "sponsors",
+      "merchandise",
+      "flyers",
+      "venue"
+    ],
+    [
+      "ball",
+      "cleats",
+      "dugout",
+      "diamond"
+    ],
+    [
+      "flyers",
+      "ticket booth",
+      "frame shop",
+      "gift shop"
+    ]
+  ]
+}

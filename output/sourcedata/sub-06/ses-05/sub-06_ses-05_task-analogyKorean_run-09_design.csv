@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,22,여자친구,아내,,,Conversion (Korean Localized),SIMILAR,example,
+1,22,새끼양,양,,,Conversion (Korean Localized),SIMILAR,example,
+1,22,새끼오리,오리,,,Conversion (Korean Localized),SIMILAR,example,
+1,22,모래,유리,,,Conversion (Korean Localized),SIMILAR,example,
+1,22,우유,치즈,치즈,유당,Conversion (Korean Localized),SIMILAR,probe,1.0
+2,40,찜질방,땀 흘리다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+2,40,인도,산책하다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+2,40,은행,입금하다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+2,40,경주장,경주하다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+2,40,채플,기도하다,노래,기도하다,Location:Action/Activity (Korean Localized),SPACE-TIME,probe,2.0
+3,-1,baseline,baseline,,,baseline,baseline,baseline,
+4,29,리드,색소폰,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+4,29,배터리,손전등,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+4,29,필름,필름카메라,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+4,29,바람,풍차,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+4,29,휘발유,오토바이,오토바이,탱크,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,probe,1.0
+5,22,물,얼음,,,Conversion (Korean Localized),SIMILAR,example,
+5,22,석유,플라스틱,,,Conversion (Korean Localized),SIMILAR,example,
+5,22,인턴,직원,,,Conversion (Korean Localized),SIMILAR,example,
+5,22,신병,군인,,,Conversion (Korean Localized),SIMILAR,example,
+5,22,초보자,전문가,전문가,초보자,Conversion (Korean Localized),SIMILAR,probe,1.0
+6,-1,baseline,baseline,,,baseline,baseline,baseline,
+7,40,집,살다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+7,40,천문대,천체 관측하다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+7,40,구내식당,먹다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+7,40,스파,휴식하다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+7,40,욕실,목욕하다,면도,목욕하다,Location:Action/Activity (Korean Localized),SPACE-TIME,probe,2.0
+8,29,산탄총 탄환,산탄총,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+8,29,펌프,분수,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+8,29,실,베틀,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+8,29,도화선,다이너마이트,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+8,29,물,샤워,샤워,수도꼭지,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,probe,1.0
+9,22,공주,여왕,,,Conversion (Korean Localized),SIMILAR,example,
+9,22,점토,도자기,,,Conversion (Korean Localized),SIMILAR,example,
+9,22,시제품,제품,,,Conversion (Korean Localized),SIMILAR,example,
+9,22,설탕,카라멜,,,Conversion (Korean Localized),SIMILAR,example,
+9,22,남자친구,남편,남편,파트너,Conversion (Korean Localized),SIMILAR,probe,1.0
+10,36,유토피아,불완전하다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+10,36,벙어리,수다스럽다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+10,36,전력질주,느긋하다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+10,36,행복,비참하다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+10,36,악몽,쾌적하다,생생하다,쾌적하다,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,probe,2.0
+11,-1,baseline,baseline,,,baseline,baseline,baseline,
+12,40,식당,먹다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+12,40,공장,제조하다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+12,40,해변,일광욕하다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+12,40,부두,짐 싣다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+12,40,로비,기다리다,기다리다,소파,Location:Action/Activity (Korean Localized),SPACE-TIME,probe,1.0
+13,36,진실,거짓이다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+13,36,혼돈,질서정연하다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+13,36,침묵,시끄럽다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+13,36,목소리,벙어리다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+13,36,아기,성숙하다,나이가많다,성숙하다,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,probe,2.0
+14,29,열,사우나,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+14,29,연료,로켓,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+14,29,패들,카누,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+14,29,종이,프린터,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+14,29,분필,칠판,스펀지,칠판,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,probe,2.0
+15,40,의원,진료받다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+15,40,쇼핑몰,쇼핑하다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+15,40,논밭,쟁기질하다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+15,40,실험실,실험하다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+15,40,박물관,관람하다,관람하다,경비,Location:Action/Activity (Korean Localized),SPACE-TIME,probe,1.0
+16,36,지루함,짜릿하다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+16,36,그림자,밝다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+16,36,진공,가득차다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+16,36,깃털,무겁다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+16,36,분노,차분하다,차분하다,강렬하다,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,probe,1.0
+17,29,하네스,낙하산,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+17,29,전기,텔레비전,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+17,29,토큰,오락실,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+17,29,세제,식기세척기,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+17,29,항공권,비행기,여권,비행기,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,probe,2.0
+18,22,묘목,나무,,,Conversion (Korean Localized),SIMILAR,example,
+18,22,꽃봉오리,꽃,,,Conversion (Korean Localized),SIMILAR,example,
+18,22,학생,졸업생,,,Conversion (Korean Localized),SIMILAR,example,
+18,22,새끼사슴,사슴,,,Conversion (Korean Localized),SIMILAR,example,
+18,22,애벌레,나비,잠자리,나비,Conversion (Korean Localized),SIMILAR,probe,2.0
+19,-1,baseline,baseline,,,baseline,baseline,baseline,
+20,36,배신자,충성스럽다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+20,36,어둠,밝다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+20,36,소음,무소음이다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+20,36,고체,액체이다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+20,36,죄수,자유롭다,자유롭다,제한되다,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,probe,1.0
+21,40,카지노,도박하다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+21,40,마리나,요트 타다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+21,40,병원,치료받다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+21,40,볼링장,볼링 치다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+21,40,오락실,게임하다,게임하다,토큰,Location:Action/Activity (Korean Localized),SPACE-TIME,probe,1.0
+22,29,여과기,수족관,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+22,29,얼음,스케이트,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+22,29,화약,폭죽,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+22,29,동전,주차미터기,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+22,29,붓,페인트,페인트,캔버스,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,probe,1.0
+23,-1,baseline,baseline,,,baseline,baseline,baseline,
+24,22,새끼돼지,돼지,,,Conversion (Korean Localized),SIMILAR,example,
+24,22,병아리,닭,,,Conversion (Korean Localized),SIMILAR,example,
+24,22,음식물쓰레기,퇴비,,,Conversion (Korean Localized),SIMILAR,example,
+24,22,토마토,케첩,,,Conversion (Korean Localized),SIMILAR,example,
+24,22,소년,남자,삼촌,남자,Conversion (Korean Localized),SIMILAR,probe,2.0
+25,36,평온,초조하다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+25,36,총각,기혼이다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+25,36,관대함,인색하다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+25,36,눈보라,따뜻하다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+25,36,정직함,기만적이다,기만적이다,진정하다,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,probe,1.0

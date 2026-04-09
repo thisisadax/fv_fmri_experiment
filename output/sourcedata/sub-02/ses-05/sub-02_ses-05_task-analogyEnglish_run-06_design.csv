@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,56,night,moon,,,Representation,REFERENCE,example,
+1,56,year,diary,,,Representation,REFERENCE,example,
+1,56,wealth,gold,,,Representation,REFERENCE,example,
+1,56,innocence,lamb,,,Representation,REFERENCE,example,
+1,56,ocean,seascape,ship,seascape,Representation,REFERENCE,probe,2.0
+2,30,log,campfire,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+2,30,drumstick,drum,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+2,30,rope,pulley,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+2,30,fuel,rocket,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+2,30,brush,paint,paint,roller,EnablingAgent:Object,CAUSE-PURPOSE,probe,1.0
+3,35,lawnmower,mow,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+3,35,crowbar,pry,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+3,35,funnel,pour,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+3,35,plunger,unclog,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+3,35,camera,photograph,photograph,zoom,Instrument:Intended Action,CAUSE-PURPOSE,probe,1.0
+4,57,repair,break,,,Reverse,CONTRAST,example,
+4,57,strong,weak,,,Reverse,CONTRAST,example,
+4,57,add,subtract,,,Reverse,CONTRAST,example,
+4,57,include,exclude,,,Reverse,CONTRAST,example,
+4,57,freeze,thaw,temperature,thaw,Reverse,CONTRAST,probe,2.0
+5,30,blade,saw,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+5,30,heat,sauna,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+5,30,detergent,dishwasher,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+5,30,helium,balloon,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+5,30,reed,saxophone,saxophone,stage,EnablingAgent:Object,CAUSE-PURPOSE,probe,1.0
+6,35,toothbrush,brush,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+6,35,whistle,signal,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+6,35,strainer,drain,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+6,35,ladle,serve,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+6,35,razor,shave,trim,shave,Instrument:Intended Action,CAUSE-PURPOSE,probe,2.0
+7,-1,baseline,baseline,,,baseline,baseline,baseline,
+8,30,string,guitar,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+8,30,gravity,pendulum,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+8,30,key,lock,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+8,30,water,irrigation,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+8,30,net,volleyball,referee,volleyball,EnablingAgent:Object,CAUSE-PURPOSE,probe,2.0
+9,57,push,pull,,,Reverse,CONTRAST,example,
+9,57,bless,curse,,,Reverse,CONTRAST,example,
+9,57,attack,defend,,,Reverse,CONTRAST,example,
+9,57,start,stop,,,Reverse,CONTRAST,example,
+9,57,encourage,discourage,coach,discourage,Reverse,CONTRAST,probe,2.0
+10,-1,baseline,baseline,,,baseline,baseline,baseline,
+11,56,career,resume,,,Representation,REFERENCE,example,
+11,56,authority,badge,,,Representation,REFERENCE,example,
+11,56,person,sculpture,,,Representation,REFERENCE,example,
+11,56,scene,painting,,,Representation,REFERENCE,example,
+11,56,mood,emoji,emoji,text,Representation,REFERENCE,probe,1.0
+12,30,arrow,bow,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+12,30,paddle,canoe,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+12,30,sand,hourglass,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+12,30,film,camera,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+12,30,engine,airplane,hangar,airplane,EnablingAgent:Object,CAUSE-PURPOSE,probe,2.0
+13,-1,baseline,baseline,,,baseline,baseline,baseline,
+14,57,guilty,innocent,,,Reverse,CONTRAST,example,
+14,57,attract,repel,,,Reverse,CONTRAST,example,
+14,57,simplify,complicate,,,Reverse,CONTRAST,example,
+14,57,shout,whisper,,,Reverse,CONTRAST,example,
+14,57,tame,wild,trained,wild,Reverse,CONTRAST,probe,2.0
+15,56,life,biography,,,Representation,REFERENCE,example,
+15,56,vision,prototype,,,Representation,REFERENCE,example,
+15,56,speed,cheetah,,,Representation,REFERENCE,example,
+15,56,membership,card,,,Representation,REFERENCE,example,
+15,56,meeting,minutes,conference room,minutes,Representation,REFERENCE,probe,2.0
+16,-1,baseline,baseline,,,baseline,baseline,baseline,
+17,35,oven,bake,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+17,35,chisel,carve,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+17,35,pliers,grip,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+17,35,stove,cook,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+17,35,heater,warm,warm,radiate,Instrument:Intended Action,CAUSE-PURPOSE,probe,1.0
+18,57,love,hate,,,Reverse,CONTRAST,example,
+18,57,accept,reject,,,Reverse,CONTRAST,example,
+18,57,expand,contract,,,Reverse,CONTRAST,example,
+18,57,progress,regress,,,Reverse,CONTRAST,example,
+18,57,fight,reconcile,reconcile,argue,Reverse,CONTRAST,probe,1.0
+19,56,word,abbreviation,,,Representation,REFERENCE,example,
+19,56,music,score,,,Representation,REFERENCE,example,
+19,56,Halloween,pumpkin,,,Representation,REFERENCE,example,
+19,56,system,diagram,,,Representation,REFERENCE,example,
+19,56,speech,transcript,note cards,transcript,Representation,REFERENCE,probe,2.0
+20,-1,baseline,baseline,,,baseline,baseline,baseline,
+21,35,peeler,peel,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+21,35,helmet,protect,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+21,35,telescope,observe,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+21,35,scale,weigh,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+21,35,pulley,hoist,rope,hoist,Instrument:Intended Action,CAUSE-PURPOSE,probe,2.0
+22,30,membership,gym,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+22,30,charcoal,grill,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+22,30,oxygen,fire,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+22,30,ball,tennis,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+22,30,steam,engine,piston,engine,EnablingAgent:Object,CAUSE-PURPOSE,probe,2.0
+23,56,marriage,ring,,,Representation,REFERENCE,example,
+23,56,history,account,,,Representation,REFERENCE,example,
+23,56,face,profile,,,Representation,REFERENCE,example,
+23,56,rebellion,fist,,,Representation,REFERENCE,example,
+23,56,journey,memoir,memoir,trip,Representation,REFERENCE,probe,1.0
+24,35,broom,sweep,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+24,35,lotion,moisturize,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+24,35,iron,press,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+24,35,eraser,erase,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+24,35,oar,row,boat,row,Instrument:Intended Action,CAUSE-PURPOSE,probe,2.0
+25,57,plant,uproot,,,Reverse,CONTRAST,example,
+25,57,dawn,dusk,,,Reverse,CONTRAST,example,
+25,57,dirty,clean,,,Reverse,CONTRAST,example,
+25,57,wet,dry,,,Reverse,CONTRAST,example,
+25,57,buy,sell,sell,pay,Reverse,CONTRAST,probe,1.0

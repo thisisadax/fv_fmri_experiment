@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,34,끌,파내다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+1,34,면도기,면도하다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+1,34,쌍안경,확대하다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+1,34,토스터,토스트 굽다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+1,34,서핑보드,서핑하다,서핑하다,패들,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,probe,1.0
+2,44,못,망치,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+2,44,치즈,강판,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+2,44,나사,드라이버,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+2,44,스테이크,집게,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+2,44,얼굴,면도기,수염,면도기,Object:Instrument (Korean Localized),CASE RELATIONS,probe,2.0
+3,42,양조장,맥주,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+3,42,극장,연극,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+3,42,공장,자동차,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+3,42,무도회장,춤,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+3,42,벌집,꿀,꿀,침,Location:Process/Product (Korean Localized),SPACE-TIME,probe,1.0
+4,45,장례식,웃음,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+4,45,편견,관용,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+4,45,독신자,결혼,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+4,45,무정부상태,통치,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+4,45,우울,기쁨,치료,기쁨,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,probe,2.0
+5,34,접착제,붙이다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+5,34,바늘,꿰매다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+5,34,선풍기,식히다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+5,34,수건,닦다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+5,34,핀셋,뽑다,뽑다,끝,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,probe,1.0
+6,44,피부,로션,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+6,44,텃밭,괭이,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+6,44,표면,사포,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+6,44,나무,끌,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+6,44,머리카락,드라이기,거울,드라이기,Object:Instrument (Korean Localized),CASE RELATIONS,probe,2.0
+7,-1,baseline,baseline,,,baseline,baseline,baseline,
+8,42,항구,해운,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+8,42,피혁공장,가죽,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+8,42,목화밭,목화,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+8,42,텃밭,채소,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+8,42,피자가게,피자,피자,소스,Location:Process/Product (Korean Localized),SPACE-TIME,probe,1.0
+9,45,검소함,사치,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+9,45,기억상실,기억,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+9,45,죄수,자유,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+9,45,걱정,만족,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+9,45,침묵,소리,쉿소리,소리,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,probe,2.0
+10,-1,baseline,baseline,,,baseline,baseline,baseline,
+11,34,쟁기,밭 갈다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+11,34,자동차,운전하다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+11,34,삽,파다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+11,34,집게,집다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+11,34,망치,두드리다,두드리다,공구함,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,probe,1.0
+12,45,나약함,힘,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+12,45,무관심,열정,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+12,45,게으름,노력,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+12,45,늪지,건조함,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+12,45,거지,부,부,애원하다,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,probe,1.0
+13,42,연구실,실험,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+13,42,포도밭,포도,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+13,42,코인세탁방,세탁,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+13,42,목초지,방목,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+13,42,교실,수업,수업,조용하다,Location:Process/Product (Korean Localized),SPACE-TIME,probe,1.0
+14,-1,baseline,baseline,,,baseline,baseline,baseline,
+15,34,숟가락,저어 섞다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+15,34,헬멧,보호하다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+15,34,사포,다듬다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+15,34,호스,뿌리다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+15,34,강판,갈다,깎다,갈다,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,probe,2.0
+16,44,낙엽,갈퀴,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+16,44,자물쇠,열쇠,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+16,44,캔버스,붓,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+16,44,타이어,공기펌프,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+16,44,치아,칫솔,칫솔,미소,Object:Instrument (Korean Localized),CASE RELATIONS,probe,1.0
+17,-1,baseline,baseline,,,baseline,baseline,baseline,
+18,45,불면증,잠,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+18,45,낯선사람,친숙함,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+18,45,기근,음식,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+18,45,툰드라,나무,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+18,45,배신자,충성,충성,비밀,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,probe,1.0
+19,34,프라이팬,굽다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+19,34,가스레인지,요리하다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+19,34,주사기,주사하다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+19,34,체,거르다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+19,34,스테이플러,철하다,사무실,철하다,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,probe,2.0
+20,44,잔디밭,잔디깎이,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+20,44,농작물,농약,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+20,44,풀,예초기,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+20,44,페이지,형광펜,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+20,44,건초,쇠스랑,쇠스랑,헛간,Object:Instrument (Korean Localized),CASE RELATIONS,probe,1.0
+21,42,온실,식물,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+21,42,훈제실,육포,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+21,42,화실,그림,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+21,42,복싱링,복싱,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+21,42,경기장,경기,전광판,경기,Location:Process/Product (Korean Localized),SPACE-TIME,probe,2.0
+22,-1,baseline,baseline,,,baseline,baseline,baseline,
+23,44,손톱,손톱깎이,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+23,44,말,고삐,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+23,44,종이,연필,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+23,44,눈썹,족집게,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+23,44,금속,줄,줄,강철,Object:Instrument (Korean Localized),CASE RELATIONS,probe,1.0
+24,45,빈민가,번영,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+24,45,증오,사랑,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+24,45,고아,부모,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+24,45,초보자,경험,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+24,45,청결,더러움,더러움,욕실,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,probe,1.0
+25,42,사무실,업무,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+25,42,카페,커피,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+25,42,스케이트장,스케이팅,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+25,42,수영장,수영,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+25,42,제분소,밀가루,곡물,밀가루,Location:Process/Product (Korean Localized),SPACE-TIME,probe,2.0

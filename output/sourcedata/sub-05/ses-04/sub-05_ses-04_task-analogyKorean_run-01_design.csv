@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,51,불멸자,죽다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+1,51,수녀,연애하다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+1,51,금주자,음주하다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+1,51,중재자,도발하다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+1,51,곡예사,비틀거리다,공연하다,비틀거리다,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,probe,2.0
+2,24,모순,이야기,,,Defective (Korean Localized),CONTRAST,example,
+2,24,기억상실,기억,,,Defective (Korean Localized),CONTRAST,example,
+2,24,불순물,물,,,Defective (Korean Localized),CONTRAST,example,
+2,24,노이즈,녹음,,,Defective (Korean Localized),CONTRAST,example,
+2,24,얼룩,천,천,표백제,Defective (Korean Localized),CONTRAST,probe,1.0
+3,10,치료사,내담자,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+3,10,할머니,손주,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+3,10,간호사,환자,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+3,10,교통안전요원,보행자,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+3,10,식료품점주인,구매자,구매자,농산물,Agent:Recipient (Korean Localized),CASE RELATIONS,probe,1.0
+4,59,올리다,높이다,,,Synonymity (Korean Localized),SIMILAR,example,
+4,59,기쁘다,즐겁다,,,Synonymity (Korean Localized),SIMILAR,example,
+4,59,피곤하다,지치다,,,Synonymity (Korean Localized),SIMILAR,example,
+4,59,고치다,수리하다,,,Synonymity (Korean Localized),SIMILAR,example,
+4,59,양동이,물통,바구니,물통,Synonymity (Korean Localized),SIMILAR,probe,2.0
+5,-1,baseline,baseline,,,baseline,baseline,baseline,
+6,24,말더듬,말하기,,,Defective (Korean Localized),CONTRAST,example,
+6,24,번짐,그림,,,Defective (Korean Localized),CONTRAST,example,
+6,24,편향,판단,,,Defective (Korean Localized),CONTRAST,example,
+6,24,버그,프로그램,,,Defective (Korean Localized),CONTRAST,example,
+6,24,불면증,수면,수면,카페인,Defective (Korean Localized),CONTRAST,probe,1.0
+7,51,아기,춤추다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+7,51,스토아주의자,불평하다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+7,51,영웅,움츠리다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+7,51,닻,표류하다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+7,51,무정부주의자,복종하다,맞서다,복종하다,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,probe,2.0
+8,-1,baseline,baseline,,,baseline,baseline,baseline,
+9,59,자유,자유로움,,,Synonymity (Korean Localized),SIMILAR,example,
+9,59,카펫,양탄자,,,Synonymity (Korean Localized),SIMILAR,example,
+9,59,사다,구매하다,,,Synonymity (Korean Localized),SIMILAR,example,
+9,59,선물,기프트,,,Synonymity (Korean Localized),SIMILAR,example,
+9,59,차,자동차,자동차,세단,Synonymity (Korean Localized),SIMILAR,probe,1.0
+10,10,컨시어지,투숙객,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+10,10,지휘자,오케스트라,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+10,10,상담사,내담자,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+10,10,상사,직원,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+10,10,꽃집주인,고객,고객,배달기사,Agent:Recipient (Korean Localized),CASE RELATIONS,probe,1.0
+11,-1,baseline,baseline,,,baseline,baseline,baseline,
+12,24,마비,팔다리,,,Defective (Korean Localized),CONTRAST,example,
+12,24,찢어짐,페이지,,,Defective (Korean Localized),CONTRAST,example,
+12,24,기포,페인트,,,Defective (Korean Localized),CONTRAST,example,
+12,24,찍힘,앞유리,,,Defective (Korean Localized),CONTRAST,example,
+12,24,부정맥,심장박동,심장박동,맥박,Defective (Korean Localized),CONTRAST,probe,1.0
+13,51,동상,구부러지다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+13,51,도둑,돌려주다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+13,51,물고기,날다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+13,51,의사,해치다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+13,51,고양이,짖다,짖다,골골거리다,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,probe,1.0
+14,-1,baseline,baseline,,,baseline,baseline,baseline,
+15,24,여드름,피부,,,Defective (Korean Localized),CONTRAST,example,
+15,24,비듬,두피,,,Defective (Korean Localized),CONTRAST,example,
+15,24,막힘,배수구,,,Defective (Korean Localized),CONTRAST,example,
+15,24,곰팡이,빵,,,Defective (Korean Localized),CONTRAST,example,
+15,24,부패,정부,뇌물,정부,Defective (Korean Localized),CONTRAST,probe,2.0
+16,10,목수,고객,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+16,10,요리사,손님,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+16,10,정치인,유권자,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+16,10,비서,임원,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+16,10,택배기사,수령인,수령인,창고,Agent:Recipient (Korean Localized),CASE RELATIONS,probe,1.0
+17,59,고르다,선택하다,,,Synonymity (Korean Localized),SIMILAR,example,
+17,59,쓰레기,폐기물,,,Synonymity (Korean Localized),SIMILAR,example,
+17,59,가연성의,인화성의,,,Synonymity (Korean Localized),SIMILAR,example,
+17,59,옵션,선택지,,,Synonymity (Korean Localized),SIMILAR,example,
+17,59,똑똑하다,영리하다,숙제,영리하다,Synonymity (Korean Localized),SIMILAR,probe,2.0
+18,51,무언증환자,말하다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+18,51,판사,거짓말하다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+18,51,회의론자,믿다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+18,51,죄수,배회하다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+18,51,사막,홍수나다,홍수나다,굽다,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,probe,1.0
+19,10,안내데스크직원,방문객,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+19,10,바텐더,손님,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+19,10,사진작가,고객,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+19,10,트레이너,운동선수,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+19,10,운전기사,승객,요금,승객,Agent:Recipient (Korean Localized),CASE RELATIONS,probe,2.0
+20,24,흉터,피부,,,Defective (Korean Localized),CONTRAST,example,
+20,24,허점,계약서,,,Defective (Korean Localized),CONTRAST,example,
+20,24,포트홀,도로,,,Defective (Korean Localized),CONTRAST,example,
+20,24,골절,뼈,,,Defective (Korean Localized),CONTRAST,example,
+20,24,스크래치,시디,레이저,시디,Defective (Korean Localized),CONTRAST,probe,2.0
+21,59,방,룸,,,Synonymity (Korean Localized),SIMILAR,example,
+21,59,사탕,캔디,,,Synonymity (Korean Localized),SIMILAR,example,
+21,59,울다,흐느끼다,,,Synonymity (Korean Localized),SIMILAR,example,
+21,59,쉽다,간단하다,,,Synonymity (Korean Localized),SIMILAR,example,
+21,59,먹다,섭취하다,섭취하다,식사,Synonymity (Korean Localized),SIMILAR,probe,1.0
+22,10,교수,학생,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+22,10,장군,병사,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+22,10,부모,자녀,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+22,10,작가,독자,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+22,10,조종사,승객,부조종사,승객,Agent:Recipient (Korean Localized),CASE RELATIONS,probe,2.0
+23,-1,baseline,baseline,,,baseline,baseline,baseline,
+24,59,숲,삼림,,,Synonymity (Korean Localized),SIMILAR,example,
+24,59,잡다,붙잡다,,,Synonymity (Korean Localized),SIMILAR,example,
+24,59,부유하다,부자다,,,Synonymity (Korean Localized),SIMILAR,example,
+24,59,이야기,스토리,,,Synonymity (Korean Localized),SIMILAR,example,
+24,59,던지다,투척하다,투척하다,떨어뜨리다,Synonymity (Korean Localized),SIMILAR,probe,1.0
+25,51,성직자,간음하다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+25,51,냉소주의자,신뢰하다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+25,51,자선가,재물을쌓아두다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+25,51,환경보호론자,오염시키다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+25,51,돌,뜨다,뜨다,앉다,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,probe,1.0

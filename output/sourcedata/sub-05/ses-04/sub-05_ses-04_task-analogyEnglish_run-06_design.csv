@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,31,prom,dress,,,Event:Feature,PART-WHOLE,example,
+1,31,ballet,dancer,,,Event:Feature,PART-WHOLE,example,
+1,31,coronation,crown,,,Event:Feature,PART-WHOLE,example,
+1,31,banquet,speeches,,,Event:Feature,PART-WHOLE,example,
+1,31,harvest,crops,planting,crops,Event:Feature,PART-WHOLE,probe,2.0
+2,38,coffee,bitter,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+2,38,elephant,huge,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+2,38,universe,vast,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+2,38,fox,clever,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+2,38,pizza,cheesy,box,cheesy,ItemAttribute(noun:adjective),ATTRIBUTE,probe,2.0
+3,6,marinating,grilling,,,Activity:Stage,PART-WHOLE,example,
+3,6,outlining,writing,,,Activity:Stage,PART-WHOLE,example,
+3,6,harvesting,farming,,,Activity:Stage,PART-WHOLE,example,
+3,6,stitching,sewing,,,Activity:Stage,PART-WHOLE,example,
+3,6,sanding,woodworking,woodworking,sandpaper,Activity:Stage,PART-WHOLE,probe,1.0
+4,-1,baseline,baseline,,,baseline,baseline,baseline,
+5,15,grateful,ingratitude,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+5,15,famous,obscurity,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+5,15,abundant,scarcity,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+5,15,wet,dryness,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+5,15,lonely,companionship,companionship,phone,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,probe,1.0
+6,31,sleepover,pajamas,,,Event:Feature,PART-WHOLE,example,
+6,31,trial,judge,,,Event:Feature,PART-WHOLE,example,
+6,31,tournament,trophy,,,Event:Feature,PART-WHOLE,example,
+6,31,camping trip,tent,,,Event:Feature,PART-WHOLE,example,
+6,31,election,ballots,debate,ballots,Event:Feature,PART-WHOLE,probe,2.0
+7,6,volleying,tennis,,,Activity:Stage,PART-WHOLE,example,
+7,6,planting,gardening,,,Activity:Stage,PART-WHOLE,example,
+7,6,examining,diagnosing,,,Activity:Stage,PART-WHOLE,example,
+7,6,inhaling,breathing,,,Activity:Stage,PART-WHOLE,example,
+7,6,landing,flying,flying,seatbelt,Activity:Stage,PART-WHOLE,probe,1.0
+8,38,paper,flimsy,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+8,38,lamb,gentle,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+8,38,silk,smooth,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+8,38,whisper,quiet,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+8,38,winter,frigid,frigid,holidays,ItemAttribute(noun:adjective),ATTRIBUTE,probe,1.0
+9,-1,baseline,baseline,,,baseline,baseline,baseline,
+10,31,potluck,casserole,,,Event:Feature,PART-WHOLE,example,
+10,31,play,stage,,,Event:Feature,PART-WHOLE,example,
+10,31,parade,floats,,,Event:Feature,PART-WHOLE,example,
+10,31,baby shower,gifts,,,Event:Feature,PART-WHOLE,example,
+10,31,circus,ringmaster,announcer,ringmaster,Event:Feature,PART-WHOLE,probe,2.0
+11,15,awake,sleep,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+11,15,strong,weakness,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+11,15,poor,wealth,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+11,15,virtuous,wickedness,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+11,15,energetic,fatigue,fatigue,nervousness,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,probe,1.0
+12,-1,baseline,baseline,,,baseline,baseline,baseline,
+13,6,weeding,gardening,,,Activity:Stage,PART-WHOLE,example,
+13,6,hammering,building,,,Activity:Stage,PART-WHOLE,example,
+13,6,studying,learning,,,Activity:Stage,PART-WHOLE,example,
+13,6,lathering,shaving,,,Activity:Stage,PART-WHOLE,example,
+13,6,sawing,carpentry,saw,carpentry,Activity:Stage,PART-WHOLE,probe,2.0
+14,15,timid,boldness,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+14,15,calm,agitation,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+14,15,wise,foolishness,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+14,15,loyal,treachery,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+14,15,oblivious,awareness,glasses,awareness,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,probe,2.0
+15,-1,baseline,baseline,,,baseline,baseline,baseline,
+16,38,sandpaper,rough,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+16,38,grass,green,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+16,38,beach,sandy,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+16,38,diamond,shiny,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+16,38,lake,calm,freshwater,calm,ItemAttribute(noun:adjective),ATTRIBUTE,probe,2.0
+17,6,boarding,flying,,,Activity:Stage,PART-WHOLE,example,
+17,6,setting,volleyball,,,Activity:Stage,PART-WHOLE,example,
+17,6,stirring,cooking,,,Activity:Stage,PART-WHOLE,example,
+17,6,coding,programming,,,Activity:Stage,PART-WHOLE,example,
+17,6,kneading,baking,stir-frying,baking,Activity:Stage,PART-WHOLE,probe,2.0
+18,15,careless,diligence,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+18,15,jealous,contentment,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+18,15,single,marriage,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+18,15,paralyzed,mobility,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+18,15,naive,sophistication,trust,sophistication,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,probe,2.0
+19,-1,baseline,baseline,,,baseline,baseline,baseline,
+20,38,child,innocent,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+20,38,oak,sturdy,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+20,38,professor,intellectual,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+20,38,prince,charming,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+20,38,chalk,white,dusty,white,ItemAttribute(noun:adjective),ATTRIBUTE,probe,2.0
+21,15,loud,silence,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+21,15,trustworthy,deception,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+21,15,satiated,hunger,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+21,15,honest,dishonesty,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+21,15,dark,brightness,cave,brightness,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,probe,2.0
+22,31,competition,athlete,,,Event:Feature,PART-WHOLE,example,
+22,31,scavenger hunt,clues,,,Event:Feature,PART-WHOLE,example,
+22,31,lecture,professor,,,Event:Feature,PART-WHOLE,example,
+22,31,audition,actor,,,Event:Feature,PART-WHOLE,example,
+22,31,karaoke,microphone,microphone,headphones,Event:Feature,PART-WHOLE,probe,1.0
+23,38,thunder,loud,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+23,38,sponge,absorbent,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+23,38,dove,peaceful,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+23,38,owl,wise,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+23,38,tycoon,wealthy,wealthy,bossy,ItemAttribute(noun:adjective),ATTRIBUTE,probe,1.0
+24,6,glazing,pottery,,,Activity:Stage,PART-WHOLE,example,
+24,6,meditating,yoga,,,Activity:Stage,PART-WHOLE,example,
+24,6,chewing,eating,,,Activity:Stage,PART-WHOLE,example,
+24,6,shooting,basketball,,,Activity:Stage,PART-WHOLE,example,
+24,6,browsing,shopping,comparing,shopping,Activity:Stage,PART-WHOLE,probe,2.0
+25,31,comedy show,comedian,,,Event:Feature,PART-WHOLE,example,
+25,31,graduation,students,,,Event:Feature,PART-WHOLE,example,
+25,31,concert,musician,,,Event:Feature,PART-WHOLE,example,
+25,31,memorial,flowers,,,Event:Feature,PART-WHOLE,example,
+25,31,magic show,magician,magician,clown,Event:Feature,PART-WHOLE,probe,1.0

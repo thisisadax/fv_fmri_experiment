@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,49,불가침이다,침해되다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+1,49,오류가없다,실수하다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+1,49,파괴불가능하다,파괴되다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+1,49,양도불가이다,양도되다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+1,49,측정불가능하다,측정되다,비교되다,측정되다,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,probe,2.0
+2,-1,baseline,baseline,,,baseline,baseline,baseline,
+3,39,항공학,비행,,,Knowledge (Korean Localized),REFERENCE,example,
+3,39,광학,빛,,,Knowledge (Korean Localized),REFERENCE,example,
+3,39,범죄학,범죄,,,Knowledge (Korean Localized),REFERENCE,example,
+3,39,정형외과학,뼈,,,Knowledge (Korean Localized),REFERENCE,example,
+3,39,식문화학,요리,요리,요리책,Knowledge (Korean Localized),REFERENCE,probe,1.0
+4,61,은퇴,여행,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+4,61,바비큐파티,고기굽기,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+4,61,가뭄,산불,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+4,61,폭풍,번개,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+4,61,불황,해고,저축,해고,Time Action/Activity (Korean Localized),SPACE-TIME,probe,2.0
+5,32,도구,드라이버,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+5,32,표식,깃발,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+5,32,화폐,동전,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+5,32,지레,쇠지레,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+5,32,쉼터,동굴,동굴,박쥐,Functional (Korean Localized),CLASS-INCLUSION,probe,1.0
+6,-1,baseline,baseline,,,baseline,baseline,baseline,
+7,61,크루즈,항해,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+7,61,저녁,저녁먹기,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+7,61,임신,태아발달,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+7,61,아침,아침식사,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+7,61,일요일,늦잠,이불,늦잠,Time Action/Activity (Korean Localized),SPACE-TIME,probe,2.0
+8,49,조작불가능하다,변조되다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+8,49,겁없다,겁먹다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+8,49,지치지않다,지치다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+8,49,나눌수없다,나뉘다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+8,49,부인할수없다,부정되다,문제삼다,부정되다,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,probe,2.0
+9,-1,baseline,baseline,,,baseline,baseline,baseline,
+10,39,곤충학,곤충,,,Knowledge (Korean Localized),REFERENCE,example,
+10,39,독성학,독,,,Knowledge (Korean Localized),REFERENCE,example,
+10,39,논리학,추론,,,Knowledge (Korean Localized),REFERENCE,example,
+10,39,음악학,음악,,,Knowledge (Korean Localized),REFERENCE,example,
+10,39,인류학,인간,인간,현장조사,Knowledge (Korean Localized),REFERENCE,probe,1.0
+11,32,의복,셔츠,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+11,32,가구,책상,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+11,32,장신구,팔찌,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+11,32,무기,검,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+11,32,음료,주스,주스,냉장고,Functional (Korean Localized),CLASS-INCLUSION,probe,1.0
+12,49,뚫을수없다,뚫리다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+12,49,이해불가하다,이해되다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+12,49,거스를수없다,중단되다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+12,49,떼어낼수없다,떨어지다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+12,49,되돌릴수없다,되돌리다,영구적이다,되돌리다,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,probe,2.0
+13,61,늦가을,김장,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+13,61,장마,홍수,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+13,61,르네상스,회화,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+13,61,취침시간,잠자기,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+13,61,정오,점심,점심,학생식당,Time Action/Activity (Korean Localized),SPACE-TIME,probe,1.0
+14,32,연료,석탄,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+14,32,디저트,케이크,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+14,32,좌석,스툴,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+14,32,여밈장치,지퍼,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+14,32,유제품,치즈,크래커,치즈,Functional (Korean Localized),CLASS-INCLUSION,probe,2.0
+15,39,천문학,별,,,Knowledge (Korean Localized),REFERENCE,example,
+15,39,산림학,산림,,,Knowledge (Korean Localized),REFERENCE,example,
+15,39,신경학,뇌,,,Knowledge (Korean Localized),REFERENCE,example,
+15,39,생물학,생명,,,Knowledge (Korean Localized),REFERENCE,example,
+15,39,화학,원소,실험복,원소,Knowledge (Korean Localized),REFERENCE,probe,2.0
+16,-1,baseline,baseline,,,baseline,baseline,baseline,
+17,32,쿠션,베개,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+17,32,가전제품,오븐,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+17,32,예술작품,조각,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+17,32,영양소,비타민,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+17,32,허브,바질,향,바질,Functional (Korean Localized),CLASS-INCLUSION,probe,2.0
+18,39,정신의학,정신질환,,,Knowledge (Korean Localized),REFERENCE,example,
+18,39,감염역학,전염병,,,Knowledge (Korean Localized),REFERENCE,example,
+18,39,바이러스학,바이러스,,,Knowledge (Korean Localized),REFERENCE,example,
+18,39,미생물학,미생물,,,Knowledge (Korean Localized),REFERENCE,example,
+18,39,가족학,가족,디엔에이,가족,Knowledge (Korean Localized),REFERENCE,probe,2.0
+19,61,크리스마스,캐럴부르기,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+19,61,리허설,연습,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+19,61,팬데믹,격리,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+19,61,혁명,전투,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+19,61,부화기간,발육,껍데기,발육,Time Action/Activity (Korean Localized),SPACE-TIME,probe,2.0
+20,49,대체불가능하다,대체되다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+20,49,한계없다,담기다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+20,49,보이지않다,보이다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+20,49,불가능하다,달성되다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+20,49,넘을수없다,넘어서다,넘어서다,맞먹다,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,probe,1.0
+21,32,광택제,왁스,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+21,32,식기,접시,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+21,32,악기,클라리넷,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+21,32,교통수단,버스,,,Functional (Korean Localized),CLASS-INCLUSION,example,
+21,32,신발,샌들,해변,샌들,Functional (Korean Localized),CLASS-INCLUSION,probe,2.0
+22,61,성인기,일하기,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+22,61,가을,철새이동,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+22,61,캠핑,하이킹,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+22,61,축제,불꽃놀이,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+22,61,금주법,밀주제조,밀주제조,통,Time Action/Activity (Korean Localized),SPACE-TIME,probe,1.0
+23,-1,baseline,baseline,,,baseline,baseline,baseline,
+24,49,가시지않다,가시다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+24,49,들리지않다,들리다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+24,49,무취이다,냄새나다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+24,49,도달할수없다,도달하다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+24,49,저항할수없다,버티다,버티다,수용되다,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,probe,1.0
+25,39,동물학,동물,,,Knowledge (Korean Localized),REFERENCE,example,
+25,39,유전학,유전,,,Knowledge (Korean Localized),REFERENCE,example,
+25,39,지진학,지진,,,Knowledge (Korean Localized),REFERENCE,example,
+25,39,로봇공학,로봇,,,Knowledge (Korean Localized),REFERENCE,example,
+25,39,지리학,장소,나침반,장소,Knowledge (Korean Localized),REFERENCE,probe,2.0

@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,30,댄스파티,음악,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+1,30,모금행사,기부금,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+1,30,파티,술,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+1,30,토너먼트,트로피,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+1,30,저녁파티,주최자,문지기,주최자,Event:Feature (Korean Localized),PART-WHOLE,probe,2.0
+2,34,프라이팬,굽다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+2,34,담배,피우다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+2,34,사다리,오르다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+2,34,주전자,끓이다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+2,34,확성기,증폭하다,외치다,증폭하다,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,probe,2.0
+3,22,씨앗,식물,,,Conversion (Korean Localized),SIMILAR,example,
+3,22,오렌지,오렌지주스,,,Conversion (Korean Localized),SIMILAR,example,
+3,22,원고,책,,,Conversion (Korean Localized),SIMILAR,example,
+3,22,설탕,카라멜,,,Conversion (Korean Localized),SIMILAR,example,
+3,22,아마추어,프로,프로,취미인,Conversion (Korean Localized),SIMILAR,probe,1.0
+4,-1,baseline,baseline,,,baseline,baseline,baseline,
+5,30,추모식,꽃,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+5,30,대회,선수,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+5,30,야구경기,배트,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+5,30,소풍,간식,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+5,30,범죄,증거,증거,형사,Event:Feature (Korean Localized),PART-WHOLE,probe,1.0
+6,22,사과,사과사이더,,,Conversion (Korean Localized),SIMILAR,example,
+6,22,토마토,케첩,,,Conversion (Korean Localized),SIMILAR,example,
+6,22,철,강철,,,Conversion (Korean Localized),SIMILAR,example,
+6,22,배추,김치,,,Conversion (Korean Localized),SIMILAR,example,
+6,22,시제품,제품,제품,모형,Conversion (Korean Localized),SIMILAR,probe,1.0
+7,53,냉장,상함,,,Prevention (Korean Localized),CAUSE-PURPOSE,example,
+7,53,단열,동결,,,Prevention (Korean Localized),CAUSE-PURPOSE,example,
+7,53,운동,비만,,,Prevention (Korean Localized),CAUSE-PURPOSE,example,
+7,53,보습제,건조함,,,Prevention (Korean Localized),CAUSE-PURPOSE,example,
+7,53,곰팡이제거제,곰팡이,세균,곰팡이,Prevention (Korean Localized),CAUSE-PURPOSE,probe,2.0
+8,34,포크,먹다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+8,34,프린터,인쇄하다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+8,34,서핑보드,서핑하다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+8,34,자,길이 재다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+8,34,휴대폰,전화하다,전화하다,울리다,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,probe,1.0
+9,22,강아지,개,,,Conversion (Korean Localized),SIMILAR,example,
+9,22,나무,숯,,,Conversion (Korean Localized),SIMILAR,example,
+9,22,어린이,성인,,,Conversion (Korean Localized),SIMILAR,example,
+9,22,자두,말린자두,,,Conversion (Korean Localized),SIMILAR,example,
+9,22,왕자,왕,황제,왕,Conversion (Korean Localized),SIMILAR,probe,2.0
+10,30,결혼식,반지,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+10,30,크리스마스,선물,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+10,30,장례식,관,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+10,30,미술전시회,그림,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+10,30,베이비샤워,선물,아기방,선물,Event:Feature (Korean Localized),PART-WHOLE,probe,2.0
+11,-1,baseline,baseline,,,baseline,baseline,baseline,
+12,53,계획,혼란,,,Prevention (Korean Localized),CAUSE-PURPOSE,example,
+12,53,암호화,정보유출,,,Prevention (Korean Localized),CAUSE-PURPOSE,example,
+12,53,치실사용,치태,,,Prevention (Korean Localized),CAUSE-PURPOSE,example,
+12,53,연습,실패,,,Prevention (Korean Localized),CAUSE-PURPOSE,example,
+12,53,분산투자,위험,인플레이션,위험,Prevention (Korean Localized),CAUSE-PURPOSE,probe,2.0
+13,34,호루라기,신호하다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+13,34,손전등,비추다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+13,34,바늘,꿰매다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+13,34,비행기,비행하다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+13,34,비누,씻다,세면대,씻다,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,probe,2.0
+14,30,컨퍼런스,참석자,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+14,30,서커스,단장,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+14,30,오페라,성악가,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+14,30,승마대회,말,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+14,30,졸업식,졸업장,졸업장,성적표,Event:Feature (Korean Localized),PART-WHOLE,probe,1.0
+15,53,양치질,충치,,,Prevention (Korean Localized),CAUSE-PURPOSE,example,
+15,53,감독,일탈행동,,,Prevention (Korean Localized),CAUSE-PURPOSE,example,
+15,53,물주기,시듦,,,Prevention (Korean Localized),CAUSE-PURPOSE,example,
+15,53,인내,좌절,,,Prevention (Korean Localized),CAUSE-PURPOSE,example,
+15,53,백신,바이러스감염,주사,바이러스감염,Prevention (Korean Localized),CAUSE-PURPOSE,probe,2.0
+16,34,망치,두드리다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+16,34,밧줄,묶다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+16,34,체,거르다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+16,34,카메라,촬영하다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+16,34,와인오프너,마개 빼다,비틀다,마개 빼다,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,probe,2.0
+17,-1,baseline,baseline,,,baseline,baseline,baseline,
+18,22,법안,법률,,,Conversion (Korean Localized),SIMILAR,example,
+18,22,돌,조각상,,,Conversion (Korean Localized),SIMILAR,example,
+18,22,구더기,파리,,,Conversion (Korean Localized),SIMILAR,example,
+18,22,사탕수수,설탕,,,Conversion (Korean Localized),SIMILAR,example,
+18,22,올챙이,개구리,꼬리,개구리,Conversion (Korean Localized),SIMILAR,probe,2.0
+19,53,물,갈증,,,Prevention (Korean Localized),CAUSE-PURPOSE,example,
+19,53,피임,임신,,,Prevention (Korean Localized),CAUSE-PURPOSE,example,
+19,53,비밀번호,침입,,,Prevention (Korean Localized),CAUSE-PURPOSE,example,
+19,53,타협,다툼,,,Prevention (Korean Localized),CAUSE-PURPOSE,example,
+19,53,비타민,결핍,결핍,비만,Prevention (Korean Localized),CAUSE-PURPOSE,probe,1.0
+20,-1,baseline,baseline,,,baseline,baseline,baseline,
+21,34,계산기,계산하다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+21,34,믹서기,갈아 만들다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+21,34,나침반,길 찾다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+21,34,돈,구매하다,,,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,example,
+21,34,뒤집개,뒤집다,뒤집다,펴 바르다,Instrument:Intended Action (Korean Localized),CAUSE-PURPOSE,probe,1.0
+22,22,올리브,올리브유,,,Conversion (Korean Localized),SIMILAR,example,
+22,22,병아리,닭,,,Conversion (Korean Localized),SIMILAR,example,
+22,22,꽃봉오리,꽃,,,Conversion (Korean Localized),SIMILAR,example,
+22,22,새끼곰,곰,,,Conversion (Korean Localized),SIMILAR,example,
+22,22,새끼양,양,양모,양,Conversion (Korean Localized),SIMILAR,probe,2.0
+23,-1,baseline,baseline,,,baseline,baseline,baseline,
+24,30,마라톤,달리기선수,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+24,30,모닥불,마시멜로,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+24,30,시사회,레드카펫,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+24,30,수확,농작물,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+24,30,졸업무도회,드레스,유니폼,드레스,Event:Feature (Korean Localized),PART-WHOLE,probe,2.0
+25,53,보험,재정손실,,,Prevention (Korean Localized),CAUSE-PURPOSE,example,
+25,53,교육,무지,,,Prevention (Korean Localized),CAUSE-PURPOSE,example,
+25,53,산소,질식,,,Prevention (Korean Localized),CAUSE-PURPOSE,example,
+25,53,모기퇴치제,모기,,,Prevention (Korean Localized),CAUSE-PURPOSE,example,
+25,53,목줄,도주,도주,통제,Prevention (Korean Localized),CAUSE-PURPOSE,probe,1.0

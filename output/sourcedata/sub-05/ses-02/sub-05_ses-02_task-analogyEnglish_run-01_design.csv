@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,57,dirty,clean,,,Reverse,CONTRAST,example,
+1,57,dawn,dusk,,,Reverse,CONTRAST,example,
+1,57,unite,divide,,,Reverse,CONTRAST,example,
+1,57,sleep,wake,,,Reverse,CONTRAST,example,
+1,57,fill,empty,container,empty,Reverse,CONTRAST,probe,2.0
+2,19,spectrum,color,,,Collection:Member,PART-WHOLE,example,
+2,19,caravan,camel,,,Collection:Member,PART-WHOLE,example,
+2,19,convoy,truck,,,Collection:Member,PART-WHOLE,example,
+2,19,school,fish,,,Collection:Member,PART-WHOLE,example,
+2,19,alphabet,letter,letter,handwriting,Collection:Member,PART-WHOLE,probe,1.0
+3,-1,baseline,baseline,,,baseline,baseline,baseline,
+4,32,compliment,admiration,,,Expression,REFERENCE,example,
+4,32,kneel,reverence,,,Expression,REFERENCE,example,
+4,32,swagger,arrogance,,,Expression,REFERENCE,example,
+4,32,slam,rage,,,Expression,REFERENCE,example,
+4,32,sneer,contempt,disgust,contempt,Expression,REFERENCE,probe,2.0
+5,57,hope,fear,,,Reverse,CONTRAST,example,
+5,57,rough,smooth,,,Reverse,CONTRAST,example,
+5,57,go,stay,,,Reverse,CONTRAST,example,
+5,57,buy,sell,,,Reverse,CONTRAST,example,
+5,57,inhale,exhale,sniff,exhale,Reverse,CONTRAST,probe,2.0
+6,-1,baseline,baseline,,,baseline,baseline,baseline,
+7,10,diver,fins,,,Agent:Instrument,CASE RELATIONS,example,
+7,10,sculptor,chisel,,,Agent:Instrument,CASE RELATIONS,example,
+7,10,driver,car,,,Agent:Instrument,CASE RELATIONS,example,
+7,10,hairdresser,comb,,,Agent:Instrument,CASE RELATIONS,example,
+7,10,policeman,handcuffs,handcuffs,suspect,Agent:Instrument,CASE RELATIONS,probe,1.0
+8,32,gape,astonishment,,,Expression,REFERENCE,example,
+8,32,glare,anger,,,Expression,REFERENCE,example,
+8,32,jeer,scorn,,,Expression,REFERENCE,example,
+8,32,boast,pride,,,Expression,REFERENCE,example,
+8,32,snarl,anger,anger,teeth,Expression,REFERENCE,probe,1.0
+9,-1,baseline,baseline,,,baseline,baseline,baseline,
+10,10,guitarist,guitar,,,Agent:Instrument,CASE RELATIONS,example,
+10,10,catcher,mitt,,,Agent:Instrument,CASE RELATIONS,example,
+10,10,archer,bow,,,Agent:Instrument,CASE RELATIONS,example,
+10,10,mechanic,tools,,,Agent:Instrument,CASE RELATIONS,example,
+10,10,hunter,rifle,rifle,deer,Agent:Instrument,CASE RELATIONS,probe,1.0
+11,57,hard,soft,,,Reverse,CONTRAST,example,
+11,57,freeze,thaw,,,Reverse,CONTRAST,example,
+11,57,tie,untie,,,Reverse,CONTRAST,example,
+11,57,lock,unlock,,,Reverse,CONTRAST,example,
+11,57,include,exclude,exclude,admit,Reverse,CONTRAST,probe,1.0
+12,19,anthology,poem,,,Collection:Member,PART-WHOLE,example,
+12,19,crew,sailor,,,Collection:Member,PART-WHOLE,example,
+12,19,paragraph,sentence,,,Collection:Member,PART-WHOLE,example,
+12,19,museum,artifact,,,Collection:Member,PART-WHOLE,example,
+12,19,delegation,diplomat,diplomat,summit,Collection:Member,PART-WHOLE,probe,1.0
+13,32,tap,impatience,,,Expression,REFERENCE,example,
+13,32,pace,worry,,,Expression,REFERENCE,example,
+13,32,growl,aggression,,,Expression,REFERENCE,example,
+13,32,preen,vanity,,,Expression,REFERENCE,example,
+13,32,shudder,horror,fear,horror,Expression,REFERENCE,probe,2.0
+14,57,lie,confess,,,Reverse,CONTRAST,example,
+14,57,fail,succeed,,,Reverse,CONTRAST,example,
+14,57,simplify,complicate,,,Reverse,CONTRAST,example,
+14,57,bold,timid,,,Reverse,CONTRAST,example,
+14,57,rise,fall,fall,sun,Reverse,CONTRAST,probe,1.0
+15,-1,baseline,baseline,,,baseline,baseline,baseline,
+16,32,recoil,revulsion,,,Expression,REFERENCE,example,
+16,32,pant,exertion,,,Expression,REFERENCE,example,
+16,32,gawk,amazement,,,Expression,REFERENCE,example,
+16,32,whimper,distress,,,Expression,REFERENCE,example,
+16,32,scream,terror,terror,pain,Expression,REFERENCE,probe,1.0
+17,19,band,musician,,,Collection:Member,PART-WHOLE,example,
+17,19,flock,bird,,,Collection:Member,PART-WHOLE,example,
+17,19,gallery,painting,,,Collection:Member,PART-WHOLE,example,
+17,19,troupe,dancer,,,Collection:Member,PART-WHOLE,example,
+17,19,archive,document,vault,document,Collection:Member,PART-WHOLE,probe,2.0
+18,10,shepherd,crook,,,Agent:Instrument,CASE RELATIONS,example,
+18,10,judge,gavel,,,Agent:Instrument,CASE RELATIONS,example,
+18,10,dentist,drill,,,Agent:Instrument,CASE RELATIONS,example,
+18,10,reporter,microphone,,,Agent:Instrument,CASE RELATIONS,example,
+18,10,baker,oven,oven,bread,Agent:Instrument,CASE RELATIONS,probe,1.0
+19,-1,baseline,baseline,,,baseline,baseline,baseline,
+20,57,guilty,innocent,,,Reverse,CONTRAST,example,
+20,57,obey,defy,,,Reverse,CONTRAST,example,
+20,57,joy,despair,,,Reverse,CONTRAST,example,
+20,57,repair,break,,,Reverse,CONTRAST,example,
+20,57,deep,shallow,shallow,pool,Reverse,CONTRAST,probe,1.0
+21,19,archipelago,island,,,Collection:Member,PART-WHOLE,example,
+21,19,league,team,,,Collection:Member,PART-WHOLE,example,
+21,19,forest,tree,,,Collection:Member,PART-WHOLE,example,
+21,19,squadron,aircraft,,,Collection:Member,PART-WHOLE,example,
+21,19,company,employee,paycheck,employee,Collection:Member,PART-WHOLE,probe,2.0
+22,10,pitcher,baseball,,,Agent:Instrument,CASE RELATIONS,example,
+22,10,golfer,club,,,Agent:Instrument,CASE RELATIONS,example,
+22,10,shopper,cart,,,Agent:Instrument,CASE RELATIONS,example,
+22,10,bowler,ball,,,Agent:Instrument,CASE RELATIONS,example,
+22,10,carpenter,hammer,sawdust,hammer,Agent:Instrument,CASE RELATIONS,probe,2.0
+23,32,gulp,nervousness,,,Expression,REFERENCE,example,
+23,32,murmur,discontent,,,Expression,REFERENCE,example,
+23,32,squint,suspicion,,,Expression,REFERENCE,example,
+23,32,giggle,nervousness,,,Expression,REFERENCE,example,
+23,32,taunt,mockery,mockery,playground,Expression,REFERENCE,probe,1.0
+24,19,pride,lion,,,Collection:Member,PART-WHOLE,example,
+24,19,vocabulary,word,,,Collection:Member,PART-WHOLE,example,
+24,19,scale,note,,,Collection:Member,PART-WHOLE,example,
+24,19,murder,crow,,,Collection:Member,PART-WHOLE,example,
+24,19,deck,card,card,table,Collection:Member,PART-WHOLE,probe,1.0
+25,10,miner,pickaxe,,,Agent:Instrument,CASE RELATIONS,example,
+25,10,musician,instrument,,,Agent:Instrument,CASE RELATIONS,example,
+25,10,astronomer,telescope,,,Agent:Instrument,CASE RELATIONS,example,
+25,10,climber,rope,,,Agent:Instrument,CASE RELATIONS,example,
+25,10,waiter,tray,restaurant,tray,Agent:Instrument,CASE RELATIONS,probe,2.0

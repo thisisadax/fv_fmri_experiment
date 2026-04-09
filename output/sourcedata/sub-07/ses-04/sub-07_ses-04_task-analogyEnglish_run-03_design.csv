@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,43,edible,eaten,,,Object Attribute:Condition,ATTRIBUTE,example,
+1,43,knotted,untied,,,Object Attribute:Condition,ATTRIBUTE,example,
+1,43,sick,cured,,,Object Attribute:Condition,ATTRIBUTE,example,
+1,43,raw,cooked,,,Object Attribute:Condition,ATTRIBUTE,example,
+1,43,memorable,remembered,unforgettable,remembered,Object Attribute:Condition,ATTRIBUTE,probe,2.0
+2,56,earth,globe,,,Representation,REFERENCE,example,
+2,56,rank,insignia,,,Representation,REFERENCE,example,
+2,56,country,flag,,,Representation,REFERENCE,example,
+2,56,idea,invention,,,Representation,REFERENCE,example,
+2,56,sound,recording,noise,recording,Representation,REFERENCE,probe,2.0
+3,14,tire,car,,,Attachment,SPACE-TIME,example,
+3,14,ivy,trellis,,,Attachment,SPACE-TIME,example,
+3,14,apple,tree,,,Attachment,SPACE-TIME,example,
+3,14,seatbelt,seat,,,Attachment,SPACE-TIME,example,
+3,14,spur,boot,boot,saddle,Attachment,SPACE-TIME,probe,1.0
+4,27,manage,micromanage,,,Dimensional Naughty,SIMILAR,example,
+4,27,collect,hoard,,,Dimensional Naughty,SIMILAR,example,
+4,27,discard,litter,,,Dimensional Naughty,SIMILAR,example,
+4,27,use,exploit,,,Dimensional Naughty,SIMILAR,example,
+4,27,employ,enslave,enslave,overwork,Dimensional Naughty,SIMILAR,probe,1.0
+5,56,agreement,handshake,,,Representation,REFERENCE,example,
+5,56,war,documentary,,,Representation,REFERENCE,example,
+5,56,strength,lion,,,Representation,REFERENCE,example,
+5,56,history,account,,,Representation,REFERENCE,example,
+5,56,crime,report,handcuffs,report,Representation,REFERENCE,probe,2.0
+6,43,open,entered,,,Object Attribute:Condition,ATTRIBUTE,example,
+6,43,collapsible,folded,,,Object Attribute:Condition,ATTRIBUTE,example,
+6,43,audible,heard,,,Object Attribute:Condition,ATTRIBUTE,example,
+6,43,tangled,combed,,,Object Attribute:Condition,ATTRIBUTE,example,
+6,43,soft,cuddled,cuddled,pillow,Object Attribute:Condition,ATTRIBUTE,probe,1.0
+7,-1,baseline,baseline,,,baseline,baseline,baseline,
+8,14,monitor,computer,,,Attachment,SPACE-TIME,example,
+8,14,bandage,wound,,,Attachment,SPACE-TIME,example,
+8,14,railing,balcony,,,Attachment,SPACE-TIME,example,
+8,14,acorn,oak,,,Attachment,SPACE-TIME,example,
+8,14,pin,lapel,lapel,metal,Attachment,SPACE-TIME,probe,1.0
+9,43,abundant,wasted,,,Object Attribute:Condition,ATTRIBUTE,example,
+9,43,forgettable,forgotten,,,Object Attribute:Condition,ATTRIBUTE,example,
+9,43,flammable,lit,,,Object Attribute:Condition,ATTRIBUTE,example,
+9,43,sharp,dulled,,,Object Attribute:Condition,ATTRIBUTE,example,
+9,43,soluble,dissolved,dissolved,water,Object Attribute:Condition,ATTRIBUTE,probe,1.0
+10,27,edit,censor,,,Dimensional Naughty,SIMILAR,example,
+10,27,exaggerate,lie,,,Dimensional Naughty,SIMILAR,example,
+10,27,compete,cheat,,,Dimensional Naughty,SIMILAR,example,
+10,27,discipline,abuse,,,Dimensional Naughty,SIMILAR,example,
+10,27,warn,threaten,threaten,notice,Dimensional Naughty,SIMILAR,probe,1.0
+11,-1,baseline,baseline,,,baseline,baseline,baseline,
+12,43,weak,defeated,,,Object Attribute:Condition,ATTRIBUTE,example,
+12,43,whole,halved,,,Object Attribute:Condition,ATTRIBUTE,example,
+12,43,malleable,shaped,,,Object Attribute:Condition,ATTRIBUTE,example,
+12,43,flat,inflated,,,Object Attribute:Condition,ATTRIBUTE,example,
+12,43,fragrant,smelled,flowers,smelled,Object Attribute:Condition,ATTRIBUTE,probe,2.0
+13,14,nail,board,,,Attachment,SPACE-TIME,example,
+13,14,hair,scalp,,,Attachment,SPACE-TIME,example,
+13,14,fur,cat,,,Attachment,SPACE-TIME,example,
+13,14,scale,fish,,,Attachment,SPACE-TIME,example,
+13,14,pendant,chain,chain,gem,Attachment,SPACE-TIME,probe,1.0
+14,56,identity,avatar,,,Representation,REFERENCE,example,
+14,56,celebration,fireworks,,,Representation,REFERENCE,example,
+14,56,culture,artifact,,,Representation,REFERENCE,example,
+14,56,civilization,ruins,,,Representation,REFERENCE,example,
+14,56,justice,scales,scales,courtroom,Representation,REFERENCE,probe,1.0
+15,-1,baseline,baseline,,,baseline,baseline,baseline,
+16,27,watch,peep,,,Dimensional Naughty,SIMILAR,example,
+16,27,eat,gorge,,,Dimensional Naughty,SIMILAR,example,
+16,27,fight,attack,,,Dimensional Naughty,SIMILAR,example,
+16,27,question,badger,,,Dimensional Naughty,SIMILAR,example,
+16,27,correct,berate,berate,scold,Dimensional Naughty,SIMILAR,probe,1.0
+17,14,glove,hand,,,Attachment,SPACE-TIME,example,
+17,14,tail,horse,,,Attachment,SPACE-TIME,example,
+17,14,button,shirt,,,Attachment,SPACE-TIME,example,
+17,14,patch,jacket,,,Attachment,SPACE-TIME,example,
+17,14,latch,suitcase,zipper,suitcase,Attachment,SPACE-TIME,probe,2.0
+18,-1,baseline,baseline,,,baseline,baseline,baseline,
+19,56,career,resume,,,Representation,REFERENCE,example,
+19,56,speed,cheetah,,,Representation,REFERENCE,example,
+19,56,person,sculpture,,,Representation,REFERENCE,example,
+19,56,spring,flower,,,Representation,REFERENCE,example,
+19,56,vision,prototype,prototype,plan,Representation,REFERENCE,probe,1.0
+20,27,listen,eavesdrop,,,Dimensional Naughty,SIMILAR,example,
+20,27,debate,argue,,,Dimensional Naughty,SIMILAR,example,
+20,27,defend,retaliate,,,Dimensional Naughty,SIMILAR,example,
+20,27,knock,bang,,,Dimensional Naughty,SIMILAR,example,
+20,27,suggest,demand,propose,demand,Dimensional Naughty,SIMILAR,probe,2.0
+21,-1,baseline,baseline,,,baseline,baseline,baseline,
+22,14,makeup,face,,,Attachment,SPACE-TIME,example,
+22,14,hinge,gate,,,Attachment,SPACE-TIME,example,
+22,14,zipper,coat,,,Attachment,SPACE-TIME,example,
+22,14,ring,finger,,,Attachment,SPACE-TIME,example,
+22,14,rudder,boat,mast,boat,Attachment,SPACE-TIME,probe,2.0
+23,43,wounded,dead,,,Object Attribute:Condition,ATTRIBUTE,example,
+23,43,wooden,burned,,,Object Attribute:Condition,ATTRIBUTE,example,
+23,43,leaky,patched,,,Object Attribute:Condition,ATTRIBUTE,example,
+23,43,rare,coveted,,,Object Attribute:Condition,ATTRIBUTE,example,
+23,43,mixed,separated,separated,bowl,Object Attribute:Condition,ATTRIBUTE,probe,1.0
+24,27,influence,manipulate,,,Dimensional Naughty,SIMILAR,example,
+24,27,enter,intrude,,,Dimensional Naughty,SIMILAR,example,
+24,27,visit,stalk,,,Dimensional Naughty,SIMILAR,example,
+24,27,browse,snoop,,,Dimensional Naughty,SIMILAR,example,
+24,27,advise,nag,remind,nag,Dimensional Naughty,SIMILAR,probe,2.0
+25,56,data,chart,,,Representation,REFERENCE,example,
+25,56,innocence,lamb,,,Representation,REFERENCE,example,
+25,56,marriage,ring,,,Representation,REFERENCE,example,
+25,56,life,biography,,,Representation,REFERENCE,example,
+25,56,approval,seal,seal,ink,Representation,REFERENCE,probe,1.0

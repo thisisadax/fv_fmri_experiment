@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,44,tree,chainsaw,,,Object:Instrument,CASE RELATIONS,example,
+1,44,paper,pen,,,Object:Instrument,CASE RELATIONS,example,
+1,44,log,axe,,,Object:Instrument,CASE RELATIONS,example,
+1,44,metal,file,,,Object:Instrument,CASE RELATIONS,example,
+1,44,cheese,grater,grater,cracker,Object:Instrument,CASE RELATIONS,probe,1.0
+2,17,promotion,rank,,,Change,SIMILAR,example,
+2,17,lighten,load,,,Change,SIMILAR,example,
+2,17,sweeten,tea,,,Change,SIMILAR,example,
+2,17,loosen,knot,,,Change,SIMILAR,example,
+2,17,enrich,soil,soil,crop,Change,SIMILAR,probe,1.0
+3,34,bulb,light,,,Instrument:Goal,CAUSE-PURPOSE,example,
+3,34,music,enjoyment,,,Instrument:Goal,CAUSE-PURPOSE,example,
+3,34,battery,power,,,Instrument:Goal,CAUSE-PURPOSE,example,
+3,34,perfume,fragrance,,,Instrument:Goal,CAUSE-PURPOSE,example,
+3,34,glue,adhesion,adhesion,workshop,Instrument:Goal,CAUSE-PURPOSE,probe,1.0
+4,49,insoluble,dissolved,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+4,49,tireless,fatigued,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+4,49,inexorable,halted,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+4,49,unquestionable,doubted,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+4,49,odorless,smelled,gas,smelled,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,probe,2.0
+5,17,tighten,grip,,,Change,SIMILAR,example,
+5,17,leak,fuel,,,Change,SIMILAR,example,
+5,17,dilute,concentration,,,Change,SIMILAR,example,
+5,17,flood,water,,,Change,SIMILAR,example,
+5,17,darken,color,color,room,Change,SIMILAR,probe,1.0
+6,34,protest,change,,,Instrument:Goal,CAUSE-PURPOSE,example,
+6,34,compass,navigation,,,Instrument:Goal,CAUSE-PURPOSE,example,
+6,34,diplomacy,peace,,,Instrument:Goal,CAUSE-PURPOSE,example,
+6,34,curtain,privacy,,,Instrument:Goal,CAUSE-PURPOSE,example,
+6,34,water,hydration,hydration,bottle,Instrument:Goal,CAUSE-PURPOSE,probe,1.0
+7,-1,baseline,baseline,,,baseline,baseline,baseline,
+8,44,bolt,wrench,,,Object:Instrument,CASE RELATIONS,example,
+8,44,field,plow,,,Object:Instrument,CASE RELATIONS,example,
+8,44,baby,diaper,,,Object:Instrument,CASE RELATIONS,example,
+8,44,furniture,polish,,,Object:Instrument,CASE RELATIONS,example,
+8,44,horse,saddle,trail,saddle,Object:Instrument,CASE RELATIONS,probe,2.0
+9,34,prison,confinement,,,Instrument:Goal,CAUSE-PURPOSE,example,
+9,34,tylenol,relief,,,Instrument:Goal,CAUSE-PURPOSE,example,
+9,34,lullaby,sleep,,,Instrument:Goal,CAUSE-PURPOSE,example,
+9,34,exercise,fitness,,,Instrument:Goal,CAUSE-PURPOSE,example,
+9,34,fire,warmth,campfire,warmth,Instrument:Goal,CAUSE-PURPOSE,probe,2.0
+10,17,cut,budget,,,Change,SIMILAR,example,
+10,17,extend,deadline,,,Change,SIMILAR,example,
+10,17,deflate,tire,,,Change,SIMILAR,example,
+10,17,growth,revenue,,,Change,SIMILAR,example,
+10,17,drought,water,water,desert,Change,SIMILAR,probe,1.0
+11,-1,baseline,baseline,,,baseline,baseline,baseline,
+12,34,anesthesia,numbness,,,Instrument:Goal,CAUSE-PURPOSE,example,
+12,34,soap,cleanliness,,,Instrument:Goal,CAUSE-PURPOSE,example,
+12,34,candle,ambiance,,,Instrument:Goal,CAUSE-PURPOSE,example,
+12,34,tax,revenue,,,Instrument:Goal,CAUSE-PURPOSE,example,
+12,34,advertisement,desire,distraction,desire,Instrument:Goal,CAUSE-PURPOSE,probe,2.0
+13,49,immovable,shaken,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+13,49,nonrefundable,returned,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+13,49,indivisible,divided,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+13,49,nonnegotiable,negotiated,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+13,49,irrecoverable,retrieved,recreated,retrieved,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,probe,2.0
+14,17,rise,tide,,,Change,SIMILAR,example,
+14,17,recession,employment,,,Change,SIMILAR,example,
+14,17,drop,altitude,,,Change,SIMILAR,example,
+14,17,thin,paint,,,Change,SIMILAR,example,
+14,17,silence,noise,crowd,noise,Change,SIMILAR,probe,2.0
+15,-1,baseline,baseline,,,baseline,baseline,baseline,
+16,44,clothes,iron,,,Object:Instrument,CASE RELATIONS,example,
+16,44,grass,trimmer,,,Object:Instrument,CASE RELATIONS,example,
+16,44,wood,chisel,,,Object:Instrument,CASE RELATIONS,example,
+16,44,plant,fertilizer,,,Object:Instrument,CASE RELATIONS,example,
+16,44,wall,paint,house,paint,Object:Instrument,CASE RELATIONS,probe,2.0
+17,49,inaudible,heard,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+17,49,inevitable,prevented,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+17,49,infallible,mistaken,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+17,49,irreparable,fixed,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+17,49,unforgettable,forgotten,forgotten,ignored,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,probe,1.0
+18,-1,baseline,baseline,,,baseline,baseline,baseline,
+19,34,refrigerator,preservation,,,Instrument:Goal,CAUSE-PURPOSE,example,
+19,34,meditation,calm,,,Instrument:Goal,CAUSE-PURPOSE,example,
+19,34,heroin,euphoria,,,Instrument:Goal,CAUSE-PURPOSE,example,
+19,34,siren,attention,,,Instrument:Goal,CAUSE-PURPOSE,example,
+19,34,sunscreen,protection,protection,beach,Instrument:Goal,CAUSE-PURPOSE,probe,1.0
+20,44,drum,drumstick,,,Object:Instrument,CASE RELATIONS,example,
+20,44,face,razor,,,Object:Instrument,CASE RELATIONS,example,
+20,44,crops,pesticide,,,Object:Instrument,CASE RELATIONS,example,
+20,44,dish,soap,,,Object:Instrument,CASE RELATIONS,example,
+20,44,skin,lotion,lotion,dermatologist,Object:Instrument,CASE RELATIONS,probe,1.0
+21,49,shatterproof,shattered,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+21,49,inalienable,surrendered,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+21,49,unassailable,challenged,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+21,49,irreconcilable,resolved,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+21,49,eternal,ended,ended,interrupted,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,probe,1.0
+22,-1,baseline,baseline,,,baseline,baseline,baseline,
+23,44,piano,fingers,,,Object:Instrument,CASE RELATIONS,example,
+23,44,carpet,vacuum,,,Object:Instrument,CASE RELATIONS,example,
+23,44,nails,clippers,,,Object:Instrument,CASE RELATIONS,example,
+23,44,meat,cleaver,,,Object:Instrument,CASE RELATIONS,example,
+23,44,stain,bleach,bleach,spot,Object:Instrument,CASE RELATIONS,probe,1.0
+24,17,drain,battery,,,Change,SIMILAR,example,
+24,17,terror,fear,,,Change,SIMILAR,example,
+24,17,expand,territory,,,Change,SIMILAR,example,
+24,17,dim,light,,,Change,SIMILAR,example,
+24,17,erosion,shoreline,boardwalk,shoreline,Change,SIMILAR,probe,2.0
+25,49,unpardonable,forgiven,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+25,49,unsolvable,solved,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+25,49,endless,finished,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+25,49,fireproof,burned,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+25,49,unstoppable,stopped,stopped,relentless,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,probe,1.0

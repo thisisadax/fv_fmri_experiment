@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,9,farmer,harvest,,,Agent:Goal,CAUSE-PURPOSE,example,
+1,9,gambler,millionaire,,,Agent:Goal,CAUSE-PURPOSE,example,
+1,9,inventor,patent,,,Agent:Goal,CAUSE-PURPOSE,example,
+1,9,artist,masterpiece,,,Agent:Goal,CAUSE-PURPOSE,example,
+1,9,hunter,prey,prey,forest,Agent:Goal,CAUSE-PURPOSE,probe,1.0
+2,35,syringe,inject,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+2,35,lawnmower,mow,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+2,35,ladle,serve,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+2,35,spatula,flip,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+2,35,printer,print,copy,print,Instrument:Intended Action,CAUSE-PURPOSE,probe,2.0
+3,21,inside,outside,,,Contrary,CONTRAST,example,
+3,21,young,old,,,Contrary,CONTRAST,example,
+3,21,accept,reject,,,Contrary,CONTRAST,example,
+3,21,patient,impatient,,,Contrary,CONTRAST,example,
+3,21,fat,thin,thin,chubby,Contrary,CONTRAST,probe,1.0
+4,42,hour,minutes,,,Mass:Potion,PART-WHOLE,example,
+4,42,blood,droplets,,,Mass:Potion,PART-WHOLE,example,
+4,42,wall,bricks,,,Mass:Potion,PART-WHOLE,example,
+4,42,air,puff,,,Mass:Potion,PART-WHOLE,example,
+4,42,rope,strands,camping,strands,Mass:Potion,PART-WHOLE,probe,2.0
+5,-1,baseline,baseline,,,baseline,baseline,baseline,
+6,21,good,bad,,,Contrary,CONTRAST,example,
+6,21,simple,complex,,,Contrary,CONTRAST,example,
+6,21,left,right,,,Contrary,CONTRAST,example,
+6,21,fast,slow,,,Contrary,CONTRAST,example,
+6,21,near,far,far,close,Contrary,CONTRAST,probe,1.0
+7,42,cloth,fibers,,,Mass:Potion,PART-WHOLE,example,
+7,42,sentence,words,,,Mass:Potion,PART-WHOLE,example,
+7,42,dollar,cents,,,Mass:Potion,PART-WHOLE,example,
+7,42,album,tracks,,,Mass:Potion,PART-WHOLE,example,
+7,42,crowd,people,faces,people,Mass:Potion,PART-WHOLE,probe,2.0
+8,9,hermit,solitude,,,Agent:Goal,CAUSE-PURPOSE,example,
+8,9,fisherman,catch,,,Agent:Goal,CAUSE-PURPOSE,example,
+8,9,writer,publication,,,Agent:Goal,CAUSE-PURPOSE,example,
+8,9,team,trophy,,,Agent:Goal,CAUSE-PURPOSE,example,
+8,9,surgeon,cure,cure,scalpel,Agent:Goal,CAUSE-PURPOSE,probe,1.0
+9,21,black,white,,,Contrary,CONTRAST,example,
+9,21,raw,cooked,,,Contrary,CONTRAST,example,
+9,21,kind,cruel,,,Contrary,CONTRAST,example,
+9,21,rich,poor,,,Contrary,CONTRAST,example,
+9,21,serious,playful,suit,playful,Contrary,CONTRAST,probe,2.0
+10,-1,baseline,baseline,,,baseline,baseline,baseline,
+11,35,microwave,heat,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+11,35,tweezers,pluck,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+11,35,iron,press,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+11,35,ladder,climb,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+11,35,pliers,grip,grip,jaws,Instrument:Intended Action,CAUSE-PURPOSE,probe,1.0
+12,42,fleet,ships,,,Mass:Potion,PART-WHOLE,example,
+12,42,library,books,,,Mass:Potion,PART-WHOLE,example,
+12,42,constellation,stars,,,Mass:Potion,PART-WHOLE,example,
+12,42,pound,ounce,,,Mass:Potion,PART-WHOLE,example,
+12,42,cup,tablespoons,tablespoons,scoops,Mass:Potion,PART-WHOLE,probe,1.0
+13,-1,baseline,baseline,,,baseline,baseline,baseline,
+14,21,generous,greedy,,,Contrary,CONTRAST,example,
+14,21,optimistic,pessimistic,,,Contrary,CONTRAST,example,
+14,21,hot,cold,,,Contrary,CONTRAST,example,
+14,21,open,close,,,Contrary,CONTRAST,example,
+14,21,pretty,ugly,ugly,beautiful,Contrary,CONTRAST,probe,1.0
+15,9,protester,change,,,Agent:Goal,CAUSE-PURPOSE,example,
+15,9,architect,building,,,Agent:Goal,CAUSE-PURPOSE,example,
+15,9,burglar,loot,,,Agent:Goal,CAUSE-PURPOSE,example,
+15,9,masochist,suffering,,,Agent:Goal,CAUSE-PURPOSE,example,
+15,9,researcher,knowledge,knowledge,survey,Agent:Goal,CAUSE-PURPOSE,probe,1.0
+16,35,grater,grate,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+16,35,razor,shave,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+16,35,plunger,unclog,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+16,35,eraser,erase,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+16,35,corkscrew,uncork,bottle,uncork,Instrument:Intended Action,CAUSE-PURPOSE,probe,2.0
+17,-1,baseline,baseline,,,baseline,baseline,baseline,
+18,9,actor,oscar,,,Agent:Goal,CAUSE-PURPOSE,example,
+18,9,miner,ore,,,Agent:Goal,CAUSE-PURPOSE,example,
+18,9,politician,office,,,Agent:Goal,CAUSE-PURPOSE,example,
+18,9,journalist,story,,,Agent:Goal,CAUSE-PURPOSE,example,
+18,9,investor,return,market,return,Agent:Goal,CAUSE-PURPOSE,probe,2.0
+19,35,telescope,observe,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+19,35,net,catch,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+19,35,heater,warm,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+19,35,peeler,peel,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+19,35,hammer,pound,pound,toolbox,Instrument:Intended Action,CAUSE-PURPOSE,probe,1.0
+20,-1,baseline,baseline,,,baseline,baseline,baseline,
+21,42,flock,birds,,,Mass:Potion,PART-WHOLE,example,
+21,42,mile,feet,,,Mass:Potion,PART-WHOLE,example,
+21,42,continent,countries,,,Mass:Potion,PART-WHOLE,example,
+21,42,song,notes,,,Mass:Potion,PART-WHOLE,example,
+21,42,train,car,car,tickets,Mass:Potion,PART-WHOLE,probe,1.0
+22,9,refugee,asylum,,,Agent:Goal,CAUSE-PURPOSE,example,
+22,9,activist,reform,,,Agent:Goal,CAUSE-PURPOSE,example,
+22,9,student,degree,,,Agent:Goal,CAUSE-PURPOSE,example,
+22,9,runner,finish,,,Agent:Goal,CAUSE-PURPOSE,example,
+22,9,programmer,software,laptop,software,Agent:Goal,CAUSE-PURPOSE,probe,2.0
+23,35,needle,sew,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+23,35,hose,spray,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+23,35,dollar,purchase,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+23,35,crowbar,pry,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+23,35,crayon,color,color,coloring book,Instrument:Intended Action,CAUSE-PURPOSE,probe,1.0
+24,42,flower,petals,,,Mass:Potion,PART-WHOLE,example,
+24,42,year,months,,,Mass:Potion,PART-WHOLE,example,
+24,42,forest,tree,,,Mass:Potion,PART-WHOLE,example,
+24,42,foot,inch,,,Mass:Potion,PART-WHOLE,example,
+24,42,archipelago,islands,islands,ocean,Mass:Potion,PART-WHOLE,probe,1.0
+25,21,active,passive,,,Contrary,CONTRAST,example,
+25,21,tame,wild,,,Contrary,CONTRAST,example,
+25,21,build,destroy,,,Contrary,CONTRAST,example,
+25,21,safe,dangerous,,,Contrary,CONTRAST,example,
+25,21,public,private,park,private,Contrary,CONTRAST,probe,2.0

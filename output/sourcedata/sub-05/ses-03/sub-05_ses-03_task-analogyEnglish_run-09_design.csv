@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,1,worship,reverent,,,Action:Action Attribute,ATTRIBUTE,example,
+1,1,beg,desperate,,,Action:Action Attribute,ATTRIBUTE,example,
+1,1,scream,angry,,,Action:Action Attribute,ATTRIBUTE,example,
+1,1,frown,disapproving,,,Action:Action Attribute,ATTRIBUTE,example,
+1,1,walk,slow,slow,sidewalk,Action:Action Attribute,ATTRIBUTE,probe,1.0
+2,17,amplify,signal,,,Change,SIMILAR,example,
+2,17,torture,pain,,,Change,SIMILAR,example,
+2,17,expand,territory,,,Change,SIMILAR,example,
+2,17,escalation,conflict,,,Change,SIMILAR,example,
+2,17,heighten,awareness,awareness,poster,Change,SIMILAR,probe,1.0
+3,-1,baseline,baseline,,,baseline,baseline,baseline,
+4,23,trumpet,trombone,,,Coordinates,SIMILAR,example,
+4,23,tennis,badminton,,,Coordinates,SIMILAR,example,
+4,23,marble,granite,,,Coordinates,SIMILAR,example,
+4,23,canoe,kayak,,,Coordinates,SIMILAR,example,
+4,23,father,mother,family,mother,Coordinates,SIMILAR,probe,2.0
+5,17,death,population,,,Change,SIMILAR,example,
+5,17,lengthen,rope,,,Change,SIMILAR,example,
+5,17,heat,temperature,,,Change,SIMILAR,example,
+5,17,swell,river,,,Change,SIMILAR,example,
+5,17,acceleration,speed,pedal,speed,Change,SIMILAR,probe,2.0
+6,47,meal,courses,,,Object:Stuff,PART-WHOLE,example,
+6,47,candle,wax,,,Object:Stuff,PART-WHOLE,example,
+6,47,reef,coral,,,Object:Stuff,PART-WHOLE,example,
+6,47,forest,trees,,,Object:Stuff,PART-WHOLE,example,
+6,47,omelette,eggs,eggs,breakfast,Object:Stuff,PART-WHOLE,probe,1.0
+7,23,rice,pasta,,,Coordinates,SIMILAR,example,
+7,23,plate,bowl,,,Coordinates,SIMILAR,example,
+7,23,chair,stool,,,Coordinates,SIMILAR,example,
+7,23,record,cassette,,,Coordinates,SIMILAR,example,
+7,23,couch,recliner,sit,recliner,Coordinates,SIMILAR,probe,2.0
+8,17,lessen,impact,,,Change,SIMILAR,example,
+8,17,dull,edge,,,Change,SIMILAR,example,
+8,17,spike,fever,,,Change,SIMILAR,example,
+8,17,stretch,fabric,,,Change,SIMILAR,example,
+8,17,sharpen,blade,blade,kitchen,Change,SIMILAR,probe,1.0
+9,-1,baseline,baseline,,,baseline,baseline,baseline,
+10,1,glare,hostile,,,Action:Action Attribute,ATTRIBUTE,example,
+10,1,boast,arrogant,,,Action:Action Attribute,ATTRIBUTE,example,
+10,1,dance,graceful,,,Action:Action Attribute,ATTRIBUTE,example,
+10,1,cower,fearful,,,Action:Action Attribute,ATTRIBUTE,example,
+10,1,plead,earnest,earnest,dramatic,Action:Action Attribute,ATTRIBUTE,probe,1.0
+11,23,lamp,candle,,,Coordinates,SIMILAR,example,
+11,23,lettuce,spinach,,,Coordinates,SIMILAR,example,
+11,23,alligator,crocodile,,,Coordinates,SIMILAR,example,
+11,23,hawk,eagle,,,Coordinates,SIMILAR,example,
+11,23,rooster,hen,hen,chicken,Coordinates,SIMILAR,probe,1.0
+12,-1,baseline,baseline,,,baseline,baseline,baseline,
+13,47,wig,hair,,,Object:Stuff,PART-WHOLE,example,
+13,47,ring,gold,,,Object:Stuff,PART-WHOLE,example,
+13,47,mosaic,tiles,,,Object:Stuff,PART-WHOLE,example,
+13,47,lawn,grass,,,Object:Stuff,PART-WHOLE,example,
+13,47,guacamole,avocado,salsa,avocado,Object:Stuff,PART-WHOLE,probe,2.0
+14,1,celebrate,joyful,,,Action:Action Attribute,ATTRIBUTE,example,
+14,1,cry,sad,,,Action:Action Attribute,ATTRIBUTE,example,
+14,1,steal,dishonest,,,Action:Action Attribute,ATTRIBUTE,example,
+14,1,juggle,skillful,,,Action:Action Attribute,ATTRIBUTE,example,
+14,1,browse,casual,casual,scroll,Action:Action Attribute,ATTRIBUTE,probe,1.0
+15,23,pencil,pen,,,Coordinates,SIMILAR,example,
+15,23,cake,pie,,,Coordinates,SIMILAR,example,
+15,23,mountain,hill,,,Coordinates,SIMILAR,example,
+15,23,salt,pepper,,,Coordinates,SIMILAR,example,
+15,23,stallion,mare,mare,stable,Coordinates,SIMILAR,probe,1.0
+16,47,statue,bronze,,,Object:Stuff,PART-WHOLE,example,
+16,47,adobe,mud,,,Object:Stuff,PART-WHOLE,example,
+16,47,orchestra,musicians,,,Object:Stuff,PART-WHOLE,example,
+16,47,tire,rubber,,,Object:Stuff,PART-WHOLE,example,
+16,47,paper,pulp,printer,pulp,Object:Stuff,PART-WHOLE,probe,2.0
+17,-1,baseline,baseline,,,baseline,baseline,baseline,
+18,17,leak,fuel,,,Change,SIMILAR,example,
+18,17,soften,voice,,,Change,SIMILAR,example,
+18,17,deplete,stockpile,,,Change,SIMILAR,example,
+18,17,darken,color,,,Change,SIMILAR,example,
+18,17,deposit,balance,check,balance,Change,SIMILAR,probe,2.0
+19,23,duck,goose,,,Coordinates,SIMILAR,example,
+19,23,soccer,hockey,,,Coordinates,SIMILAR,example,
+19,23,pants,shorts,,,Coordinates,SIMILAR,example,
+19,23,lobster,crab,,,Coordinates,SIMILAR,example,
+19,23,spring,autumn,autumn,rain,Coordinates,SIMILAR,probe,1.0
+20,1,forgive,merciful,,,Action:Action Attribute,ATTRIBUTE,example,
+20,1,mock,cruel,,,Action:Action Attribute,ATTRIBUTE,example,
+20,1,compliment,kind,,,Action:Action Attribute,ATTRIBUTE,example,
+20,1,nurture,caring,,,Action:Action Attribute,ATTRIBUTE,example,
+20,1,ponder,thoughtful,deep,thoughtful,Action:Action Attribute,ATTRIBUTE,probe,2.0
+21,47,flock,birds,,,Object:Stuff,PART-WHOLE,example,
+21,47,yogurt,milk,,,Object:Stuff,PART-WHOLE,example,
+21,47,choir,singers,,,Object:Stuff,PART-WHOLE,example,
+21,47,boots,leather,,,Object:Stuff,PART-WHOLE,example,
+21,47,army,soldiers,soldiers,base,Object:Stuff,PART-WHOLE,probe,1.0
+22,-1,baseline,baseline,,,baseline,baseline,baseline,
+23,1,hit,aggressive,,,Action:Action Attribute,ATTRIBUTE,example,
+23,1,nag,annoying,,,Action:Action Attribute,ATTRIBUTE,example,
+23,1,smile,cheerful,,,Action:Action Attribute,ATTRIBUTE,example,
+23,1,withdraw,timid,,,Action:Action Attribute,ATTRIBUTE,example,
+23,1,retreat,cautious,camp,cautious,Action:Action Attribute,ATTRIBUTE,probe,2.0
+24,47,sandcastle,sand,,,Object:Stuff,PART-WHOLE,example,
+24,47,cup,ceramic,,,Object:Stuff,PART-WHOLE,example,
+24,47,alphabet,letters,,,Object:Stuff,PART-WHOLE,example,
+24,47,roof,shingles,,,Object:Stuff,PART-WHOLE,example,
+24,47,beer,grain,grain,coaster,Object:Stuff,PART-WHOLE,probe,1.0
+25,17,shortage,supply,,,Change,SIMILAR,example,
+25,17,thicken,sauce,,,Change,SIMILAR,example,
+25,17,quicken,pulse,,,Change,SIMILAR,example,
+25,17,extend,deadline,,,Change,SIMILAR,example,
+25,17,sweeten,tea,tea,sugar,Change,SIMILAR,probe,1.0

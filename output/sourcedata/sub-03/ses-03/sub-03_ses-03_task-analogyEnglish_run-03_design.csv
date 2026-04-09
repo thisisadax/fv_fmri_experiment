@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,37,cave,entrance,,,Item:Topological Part,PART-WHOLE,example,
+1,37,state,city,,,Item:Topological Part,PART-WHOLE,example,
+1,37,garden,path,,,Item:Topological Part,PART-WHOLE,example,
+1,37,barnyard,henhouse,,,Item:Topological Part,PART-WHOLE,example,
+1,37,mountain,base,valley,base,Item:Topological Part,PART-WHOLE,probe,2.0
+2,11,quilter,quilt,,,Agent:Object,CASE RELATIONS,example,
+2,11,knitter,needles,,,Agent:Object,CASE RELATIONS,example,
+2,11,weaver,cloth,,,Agent:Object,CASE RELATIONS,example,
+2,11,musician,instrument,,,Agent:Object,CASE RELATIONS,example,
+2,11,potter,vase,vase,studio,Agent:Object,CASE RELATIONS,probe,1.0
+3,59,sigh,frustration,,,Sign:Significant,REFERENCE,example,
+3,59,crossbones,poison,,,Sign:Significant,REFERENCE,example,
+3,59,salute,respect,,,Sign:Significant,REFERENCE,example,
+3,59,accent,origin,,,Sign:Significant,REFERENCE,example,
+3,59,dent,collision,crease,collision,Sign:Significant,REFERENCE,probe,2.0
+4,-1,baseline,baseline,,,baseline,baseline,baseline,
+5,2,hide,visibly,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+5,2,escape,passively,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+5,2,rest,vigorously,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+5,2,dawdle,quickly,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+5,2,sleep,alertly,alertly,deeply,Action:Action Nonattribute,NON-ATTRIBUTE,probe,1.0
+6,59,sweat,exertion,,,Sign:Significant,REFERENCE,example,
+6,59,frown,displeasure,,,Sign:Significant,REFERENCE,example,
+6,59,glare,anger,,,Sign:Significant,REFERENCE,example,
+6,59,mold,dampness,,,Sign:Significant,REFERENCE,example,
+6,59,limp,injury,fatigue,injury,Sign:Significant,REFERENCE,probe,2.0
+7,37,chair,leg,,,Item:Topological Part,PART-WHOLE,example,
+7,37,cliff,edge,,,Item:Topological Part,PART-WHOLE,example,
+7,37,hat,brim,,,Item:Topological Part,PART-WHOLE,example,
+7,37,desert,oasis,,,Item:Topological Part,PART-WHOLE,example,
+7,37,supermarket,aisle,shelf,aisle,Item:Topological Part,PART-WHOLE,probe,2.0
+8,11,photographer,camera,,,Agent:Object,CASE RELATIONS,example,
+8,11,conductor,baton,,,Agent:Object,CASE RELATIONS,example,
+8,11,actor,performance,,,Agent:Object,CASE RELATIONS,example,
+8,11,florist,flowers,,,Agent:Object,CASE RELATIONS,example,
+8,11,writer,story,story,fan,Agent:Object,CASE RELATIONS,probe,1.0
+9,-1,baseline,baseline,,,baseline,baseline,baseline,
+10,59,grimace,pain,,,Sign:Significant,REFERENCE,example,
+10,59,footprint,presence,,,Sign:Significant,REFERENCE,example,
+10,59,engagement,wedding,,,Sign:Significant,REFERENCE,example,
+10,59,diploma,education,,,Sign:Significant,REFERENCE,example,
+10,59,crescent,Islam,islam,flag,Sign:Significant,REFERENCE,probe,1.0
+11,2,whisper,loudly,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+11,2,shatter,gently,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+11,2,fling,meticulously,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+11,2,feast,sparingly,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+11,2,listen,loudly,loudly,hear,Action:Action Nonattribute,NON-ATTRIBUTE,probe,1.0
+12,11,blacksmith,iron,,,Agent:Object,CASE RELATIONS,example,
+12,11,woodworker,cabinet,,,Agent:Object,CASE RELATIONS,example,
+12,11,typist,keyboard,,,Agent:Object,CASE RELATIONS,example,
+12,11,teacher,books,,,Agent:Object,CASE RELATIONS,example,
+12,11,cobbler,shoes,shoes,repair,Agent:Object,CASE RELATIONS,probe,1.0
+13,-1,baseline,baseline,,,baseline,baseline,baseline,
+14,2,panic,calmly,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+14,2,stutter,steadily,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+14,2,command,meekly,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+14,2,cheat,fairly,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+14,2,bungle,expertly,expertly,mess,Action:Action Nonattribute,NON-ATTRIBUTE,probe,1.0
+15,37,shirt,collar,,,Item:Topological Part,PART-WHOLE,example,
+15,37,airplane,cockpit,,,Item:Topological Part,PART-WHOLE,example,
+15,37,couch,arm,,,Item:Topological Part,PART-WHOLE,example,
+15,37,barn,loft,,,Item:Topological Part,PART-WHOLE,example,
+15,37,canyon,rim,rim,river,Item:Topological Part,PART-WHOLE,probe,1.0
+16,59,yellow,caution,,,Sign:Significant,REFERENCE,example,
+16,59,yawn,boredom,,,Sign:Significant,REFERENCE,example,
+16,59,buzzer,end,,,Sign:Significant,REFERENCE,example,
+16,59,gavel,order,,,Sign:Significant,REFERENCE,example,
+16,59,checkmark,correctness,correctness,tick,Sign:Significant,REFERENCE,probe,1.0
+17,-1,baseline,baseline,,,baseline,baseline,baseline,
+18,37,cup,rim,,,Item:Topological Part,PART-WHOLE,example,
+18,37,bed,headboard,,,Item:Topological Part,PART-WHOLE,example,
+18,37,airport,terminal,,,Item:Topological Part,PART-WHOLE,example,
+18,37,prison,cell,,,Item:Topological Part,PART-WHOLE,example,
+18,37,boat,hull,hull,lake,Item:Topological Part,PART-WHOLE,probe,1.0
+19,2,hurl,tenderly,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+19,2,rebel,obediently,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+19,2,fumble,skillfully,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+19,2,lunge,cautiously,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+19,2,flounder,elegantly,clumsily,elegantly,Action:Action Nonattribute,NON-ATTRIBUTE,probe,2.0
+20,11,journalist,article,,,Agent:Object,CASE RELATIONS,example,
+20,11,glassblower,ornament,,,Agent:Object,CASE RELATIONS,example,
+20,11,chef,ingredients,,,Agent:Object,CASE RELATIONS,example,
+20,11,jeweler,jewelry,,,Agent:Object,CASE RELATIONS,example,
+20,11,actress,script,red carpet,script,Agent:Object,CASE RELATIONS,probe,2.0
+21,37,ocean,floor,,,Item:Topological Part,PART-WHOLE,example,
+21,37,lamp,shade,,,Item:Topological Part,PART-WHOLE,example,
+21,37,volcano,crater,,,Item:Topological Part,PART-WHOLE,example,
+21,37,finger,tip,,,Item:Topological Part,PART-WHOLE,example,
+21,37,computer,screen,screen,desk,Item:Topological Part,PART-WHOLE,probe,1.0
+22,-1,baseline,baseline,,,baseline,baseline,baseline,
+23,11,seamstress,dress,,,Agent:Object,CASE RELATIONS,example,
+23,11,animator,animation,,,Agent:Object,CASE RELATIONS,example,
+23,11,brewer,beer,,,Agent:Object,CASE RELATIONS,example,
+23,11,filmmaker,movie,,,Agent:Object,CASE RELATIONS,example,
+23,11,programmer,code,software company,code,Agent:Object,CASE RELATIONS,probe,2.0
+24,59,graffiti,vandalism,,,Sign:Significant,REFERENCE,example,
+24,59,laughter,amusement,,,Sign:Significant,REFERENCE,example,
+24,59,smile,happiness,,,Sign:Significant,REFERENCE,example,
+24,59,scales,justice,,,Sign:Significant,REFERENCE,example,
+24,59,flag,nation,nation,pole,Sign:Significant,REFERENCE,probe,1.0
+25,2,linger,briefly,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+25,2,scream,quietly,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+25,2,idle,productively,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+25,2,frown,happily,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+25,2,laze,briskly,idly,briskly,Action:Action Nonattribute,NON-ATTRIBUTE,probe,2.0

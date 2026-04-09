@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,3,던지다,공,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+1,3,노젓다,배,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+1,3,작곡하다,교향곡,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+1,3,내리다,커피,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+1,3,썰다,구운고기,구운고기,칼,Action:Object (Korean Localized),CASE RELATIONS,probe,1.0
+2,63,잎사귀,초록색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+2,63,흙,갈색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+2,63,계피,갈색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+2,63,브로콜리,초록색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+2,63,소방차,빨간색,흰색,빨간색,things - color (Korean Localized),Encyclopedic_semantics,probe,2.0
+3,-1,baseline,baseline,,,baseline,baseline,baseline,
+4,0,전력질주하다,재빠르다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+4,0,항의하다,반항적이다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+4,0,자랑하다,거만하다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+4,0,조롱하다,잔인하다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+4,0,착취하다,이기적이다,이기적이다,이용,Action:Action Attribute (Korean Localized),ATTRIBUTE,probe,1.0
+5,63,당근,주황색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+5,63,플라밍고,분홍색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+5,63,망고,노란색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+5,63,대양,파란색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+5,63,바닷가재,빨간색,분홍색,빨간색,things - color (Korean Localized),Encyclopedic_semantics,probe,2.0
+6,3,밀다,카트,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+6,3,깎다,잔디,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+6,3,암송하다,기도문,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+6,3,돌리다,바퀴,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+6,3,올리다,깃발,깃발,의식,Action:Object (Korean Localized),CASE RELATIONS,probe,1.0
+7,57,도토리,참나무,,,Sequence (Korean Localized),SPACE-TIME,example,
+7,57,일학년,이학년,,,Sequence (Korean Localized),SPACE-TIME,example,
+7,57,선거,취임,,,Sequence (Korean Localized),SPACE-TIME,example,
+7,57,어린이집,유치원,,,Sequence (Korean Localized),SPACE-TIME,example,
+7,57,짐싸기,여행,여행일정,여행,Sequence (Korean Localized),SPACE-TIME,probe,2.0
+8,0,키스하다,열정적이다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+8,0,후퇴하다,조심스럽다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+8,0,물러서다,소심하다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+8,0,빌다,절박하다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+8,0,찡그리다,못마땅하다,못마땅하다,거울,Action:Action Attribute (Korean Localized),ATTRIBUTE,probe,1.0
+9,-1,baseline,baseline,,,baseline,baseline,baseline,
+10,63,케첩,빨간색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+10,63,꿀,노란색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+10,63,체리,빨간색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+10,63,불,빨간색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+10,63,콜리플라워,흰색,흰색,노란색,things - color (Korean Localized),Encyclopedic_semantics,probe,1.0
+11,57,수술,재활,,,Sequence (Korean Localized),SPACE-TIME,example,
+11,57,아침,점심,,,Sequence (Korean Localized),SPACE-TIME,example,
+11,57,리허설,콘서트,,,Sequence (Korean Localized),SPACE-TIME,example,
+11,57,개요,에세이,,,Sequence (Korean Localized),SPACE-TIME,example,
+11,57,서곡,오페라,오케스트라튜닝,오페라,Sequence (Korean Localized),SPACE-TIME,probe,2.0
+12,-1,baseline,baseline,,,baseline,baseline,baseline,
+13,63,태양,노란색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+13,63,달걀,흰색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+13,63,멍,보라색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+13,63,냉장고,흰색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+13,63,개구리,초록색,초록색,빨간색,things - color (Korean Localized),Encyclopedic_semantics,probe,1.0
+14,57,오디션,캐스팅,,,Sequence (Korean Localized),SPACE-TIME,example,
+14,57,일출,일몰,,,Sequence (Korean Localized),SPACE-TIME,example,
+14,57,원인,결과,,,Sequence (Korean Localized),SPACE-TIME,example,
+14,57,번개,천둥,,,Sequence (Korean Localized),SPACE-TIME,example,
+14,57,양념재우기,그릴굽기,그릴굽기,소스,Sequence (Korean Localized),SPACE-TIME,probe,1.0
+15,3,울리다,종,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+15,3,털깎다,양,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+15,3,돌보다,아기,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+15,3,조종하다,비행기,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+15,3,타다,말,고삐,말,Action:Object (Korean Localized),CASE RELATIONS,probe,2.0
+16,0,달리다,빠르다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+16,0,곰곰이생각하다,사려깊다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+16,0,주먹질하다,폭력적이다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+16,0,한숨쉬다,피곤하다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+16,0,서두르다,급하다,급하다,서두름,Action:Action Attribute (Korean Localized),ATTRIBUTE,probe,1.0
+17,57,겉면굽기,오븐구이,,,Sequence (Korean Localized),SPACE-TIME,example,
+17,57,제목,이야기,,,Sequence (Korean Localized),SPACE-TIME,example,
+17,57,수술전,수술,,,Sequence (Korean Localized),SPACE-TIME,example,
+17,57,섭취,소화,,,Sequence (Korean Localized),SPACE-TIME,example,
+17,57,새벽,해질녘,해질녘,일출,Sequence (Korean Localized),SPACE-TIME,probe,1.0
+18,-1,baseline,baseline,,,baseline,baseline,baseline,
+19,3,나르다,짐,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+19,3,대답하다,질문,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+19,3,붙잡다,악당,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+19,3,배달하다,소포,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+19,3,따르다,주스,주전자,주스,Action:Object (Korean Localized),CASE RELATIONS,probe,2.0
+20,0,코골다,시끄럽다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+20,0,뒷담화하다,치졸하다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+20,0,거들먹거리다,우쭐하다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+20,0,달래다,부드럽다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+20,0,덤벼들다,갑작스럽다,강하다,갑작스럽다,Action:Action Attribute (Korean Localized),ATTRIBUTE,probe,2.0
+21,57,심기,수확,,,Sequence (Korean Localized),SPACE-TIME,example,
+21,57,시작,중간,,,Sequence (Korean Localized),SPACE-TIME,example,
+21,57,개점,폐점,,,Sequence (Korean Localized),SPACE-TIME,example,
+21,57,키스,성관계,,,Sequence (Korean Localized),SPACE-TIME,example,
+21,57,재판,판결,판결,판사,Sequence (Korean Localized),SPACE-TIME,probe,1.0
+22,-1,baseline,baseline,,,baseline,baseline,baseline,
+23,3,치르다,전쟁,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+23,3,발사하다,대포,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+23,3,숙달하다,기술,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+23,3,먹다,음식,,,Action:Object (Korean Localized),CASE RELATIONS,example,
+23,3,물주다,식물,식물,스프링클러,Action:Object (Korean Localized),CASE RELATIONS,probe,1.0
+24,63,숯,검은색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+24,63,개미,검은색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+24,63,하늘,파란색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+24,63,바다,파란색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+24,63,잉크,검은색,검은색,회색,things - color (Korean Localized),Encyclopedic_semantics,probe,1.0
+25,0,웃다,행복하다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+25,0,아첨하다,가식적이다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+25,0,뒹굴다,게으르다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+25,0,기부하다,관대하다,,,Action:Action Attribute (Korean Localized),ATTRIBUTE,example,
+25,0,위로하다,따뜻하다,조용하다,따뜻하다,Action:Action Attribute (Korean Localized),ATTRIBUTE,probe,2.0

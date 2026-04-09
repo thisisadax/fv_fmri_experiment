@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,11,적대적이다,공격성,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+1,11,감정적이다,혼란,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+1,11,행복하다,만족감,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+1,11,그립다,그리움,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+1,11,의심스럽다,불신,불신,피해망상,Agent Attribute:State (Korean Localized),ATTRIBUTE,probe,1.0
+2,37,꽃,줄기,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+2,37,의자,다리,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+2,37,책,책등,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+2,37,비행기,날개,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+2,37,기타,넥,앰프,넥,Item:Topological Part (Korean Localized),PART-WHOLE,probe,2.0
+3,23,직원,일자리,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+3,23,식료품 저장실,음식,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+3,23,숲,나무,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+3,23,새,깃털,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+3,23,군인,군복,군복,명령,Creature:Possession (Korean Localized),PART-WHOLE,probe,1.0
+4,11,감사하다,감사,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+4,11,공감하다,공감,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+4,11,격노하다,분노,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+4,11,명랑하다,흥겨움,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+4,11,허둥대다,절박함,절박함,혼란,Agent Attribute:State (Korean Localized),ATTRIBUTE,probe,1.0
+5,-1,baseline,baseline,,,baseline,baseline,baseline,
+6,26,보다,노려보다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+6,26,놀리다,조롱하다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+6,26,격려하다,압박하다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+6,26,바로잡다,호통치다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+6,26,이야기하다,뒷담화하다,소문,뒷담화하다,Dimensional Naughty (Korean Localized),SIMILAR,probe,2.0
+7,23,우유병,우유,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+7,23,자동차,엔진,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+7,23,판사,의사봉,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+7,23,의사,학위,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+7,23,뱀,독니,미끄러짐,독니,Creature:Possession (Korean Localized),PART-WHOLE,probe,2.0
+8,37,성,탑,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+8,37,대양,해저,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+8,37,공항,터미널,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+8,37,극장,무대,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+8,37,셔츠,소매,소매,다리미,Item:Topological Part (Korean Localized),PART-WHOLE,probe,1.0
+9,-1,baseline,baseline,,,baseline,baseline,baseline,
+10,26,듣다,엿듣다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+10,26,칭찬하다,아첨하다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+10,26,웃다,야유하다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+10,26,관찰하다,염탐하다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+10,26,말하다,고함지르다,고함지르다,외치다,Dimensional Naughty (Korean Localized),SIMILAR,probe,1.0
+11,37,손,손바닥,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+11,37,도로,갓길,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+11,37,사막,오아시스,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+11,37,교도소,감방,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+11,37,동굴,입구,종유석,입구,Item:Topological Part (Korean Localized),PART-WHOLE,probe,2.0
+12,-1,baseline,baseline,,,baseline,baseline,baseline,
+13,26,이끌다,명령하다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+13,26,좌우하다,조종하다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+13,26,논의하다,불평늘어놓다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+13,26,노크하다,쿵쿵두드리다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+13,26,편집하다,검열하다,자르다,검열하다,Dimensional Naughty (Korean Localized),SIMILAR,probe,2.0
+14,11,취하다,취기,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+14,11,평화롭다,고요함,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+14,11,마음아프다,비애,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+14,11,무기력하다,피로,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+14,11,굶주리다,허기,허기,냉장고,Agent Attribute:State (Korean Localized),ATTRIBUTE,probe,1.0
+15,23,전문가,경험,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+15,23,교사,학생,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+15,23,바닷가재,집게발,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+15,23,수족관,물고기,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+15,23,팀,선수,선수,응원 집회,Creature:Possession (Korean Localized),PART-WHOLE,probe,1.0
+16,26,얻다,빼앗다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+16,26,만지다,더듬다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+16,26,세금부과하다,갈취하다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+16,26,미소짓다,비웃다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+16,26,공유하다,폭로하다,폭로하다,드러내다,Dimensional Naughty (Korean Localized),SIMILAR,probe,1.0
+17,-1,baseline,baseline,,,baseline,baseline,baseline,
+18,11,풀이죽다,실망,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+18,11,비참하다,절망,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+18,11,외롭다,고립감,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+18,11,겁에질리다,공포,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+18,11,침울하다,슬픔,지루함,슬픔,Agent Attribute:State (Korean Localized),ATTRIBUTE,probe,2.0
+19,23,목장주,소,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+19,23,기타,줄,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+19,23,집,거주자,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+19,23,회사,제품,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+19,23,시계,바늘,바늘,자정,Creature:Possession (Korean Localized),PART-WHOLE,probe,1.0
+20,-1,baseline,baseline,,,baseline,baseline,baseline,
+21,37,창문,창턱,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+21,37,호텔,로비,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+21,37,얼굴,이마,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+21,37,모자,챙,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+21,37,집,지붕,지붕,가족,Item:Topological Part (Korean Localized),PART-WHOLE,probe,1.0
+22,26,요청하다,구걸하다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+22,26,주다,뇌물주다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+22,26,간식먹다,폭식하다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+22,26,제안하다,강요하다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+22,26,고용하다,노예로부리다,노예로부리다,일,Dimensional Naughty (Korean Localized),SIMILAR,probe,1.0
+23,11,미소짓다,즐거움,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+23,11,겸손하다,겸손,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+23,11,깜짝놀라다,두려움,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+23,11,쓸쓸하다,공허함,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+23,11,떨다,긴장감,무대,긴장감,Agent Attribute:State (Korean Localized),ATTRIBUTE,probe,2.0
+24,37,배,뱃머리,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+24,37,침대,머리판,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+24,37,컴퓨터,화면,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+24,37,귀,귓불,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+24,37,산,기슭,기슭,계곡,Item:Topological Part (Korean Localized),PART-WHOLE,probe,1.0
+25,23,동물원,동물,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+25,23,정유공장,휘발유,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+25,23,사슴,뿔,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+25,23,헛간,건초,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+25,23,함대,배,폭풍,배,Creature:Possession (Korean Localized),PART-WHOLE,probe,2.0

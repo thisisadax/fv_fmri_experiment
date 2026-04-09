@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,4,fire,cannon,,,Action:Object,CASE RELATIONS,example,
+1,4,chop,vegetables,,,Action:Object,CASE RELATIONS,example,
+1,4,raise,flag,,,Action:Object,CASE RELATIONS,example,
+1,4,bake,cake,,,Action:Object,CASE RELATIONS,example,
+1,4,tie,knot,knot,hands,Action:Object,CASE RELATIONS,probe,1.0
+2,7,sympathetic,empathy,,,Agent Attribute:State,ATTRIBUTE,example,
+2,7,excited,enthusiasm,,,Agent Attribute:State,ATTRIBUTE,example,
+2,7,laughing,amusement,,,Agent Attribute:State,ATTRIBUTE,example,
+2,7,grateful,thankfulness,,,Agent Attribute:State,ATTRIBUTE,example,
+2,7,tired,exhaustion,exhaustion,yawning,Agent Attribute:State,ATTRIBUTE,probe,1.0
+3,-1,baseline,baseline,,,baseline,baseline,baseline,
+4,20,maze,exit,,,Concealment,REFERENCE,example,
+4,20,husk,corn,,,Concealment,REFERENCE,example,
+4,20,code,message,,,Concealment,REFERENCE,example,
+4,20,bushes,trap,,,Concealment,REFERENCE,example,
+4,20,humor,pain,boredom,pain,Concealment,REFERENCE,probe,2.0
+5,4,drain,tub,,,Action:Object,CASE RELATIONS,example,
+5,4,set,table,,,Action:Object,CASE RELATIONS,example,
+5,4,polish,shoes,,,Action:Object,CASE RELATIONS,example,
+5,4,lock,gate,,,Action:Object,CASE RELATIONS,example,
+5,4,fly,airplane,airplane,cockpit,Action:Object,CASE RELATIONS,probe,1.0
+6,-1,baseline,baseline,,,baseline,baseline,baseline,
+7,7,drunk,intoxication,,,Agent Attribute:State,ATTRIBUTE,example,
+7,7,restless,agitation,,,Agent Attribute:State,ATTRIBUTE,example,
+7,7,alarmed,fright,,,Agent Attribute:State,ATTRIBUTE,example,
+7,7,heartbroken,sorrow,,,Agent Attribute:State,ATTRIBUTE,example,
+7,7,guilty,remorse,shame,remorse,Agent Attribute:State,ATTRIBUTE,probe,2.0
+8,20,smile,unhappiness,,,Concealment,REFERENCE,example,
+8,20,rug,stain,,,Concealment,REFERENCE,example,
+8,20,carpet,floor,,,Concealment,REFERENCE,example,
+8,20,sleeve,arm,,,Concealment,REFERENCE,example,
+8,20,plaster,crack,trowel,crack,Concealment,REFERENCE,probe,2.0
+9,4,play,instrument,,,Action:Object,CASE RELATIONS,example,
+9,4,clean,house,,,Action:Object,CASE RELATIONS,example,
+9,4,strum,guitar,,,Action:Object,CASE RELATIONS,example,
+9,4,catch,fish,,,Action:Object,CASE RELATIONS,example,
+9,4,launch,rocket,rocket,countdown,Action:Object,CASE RELATIONS,probe,1.0
+10,46,vaccine,infant,,,Object:Recipient,CASE RELATIONS,example,
+10,46,dividend,shareholder,,,Object:Recipient,CASE RELATIONS,example,
+10,46,vote,candidate,,,Object:Recipient,CASE RELATIONS,example,
+10,46,pass,teammate,,,Object:Recipient,CASE RELATIONS,example,
+10,46,citizenship,immigrant,oath,immigrant,Object:Recipient,CASE RELATIONS,probe,2.0
+11,-1,baseline,baseline,,,baseline,baseline,baseline,
+12,7,attentive,alertness,,,Agent Attribute:State,ATTRIBUTE,example,
+12,7,trembling,nervousness,,,Agent Attribute:State,ATTRIBUTE,example,
+12,7,confused,bewilderment,,,Agent Attribute:State,ATTRIBUTE,example,
+12,7,hostile,aggression,,,Agent Attribute:State,ATTRIBUTE,example,
+12,7,humble,modesty,modesty,gratitude,Agent Attribute:State,ATTRIBUTE,probe,1.0
+13,46,sentence,criminal,,,Object:Recipient,CASE RELATIONS,example,
+13,46,allowance,teenager,,,Object:Recipient,CASE RELATIONS,example,
+13,46,rations,soldier,,,Object:Recipient,CASE RELATIONS,example,
+13,46,welfare,beneficiary,,,Object:Recipient,CASE RELATIONS,example,
+13,46,bouquet,bridesmaid,bridesmaid,groom,Object:Recipient,CASE RELATIONS,probe,1.0
+14,20,gauze,scar,,,Concealment,REFERENCE,example,
+14,20,vault,money,,,Concealment,REFERENCE,example,
+14,20,composure,anxiety,,,Concealment,REFERENCE,example,
+14,20,envelope,letter,,,Concealment,REFERENCE,example,
+14,20,dye,roots,roots,smell,Concealment,REFERENCE,probe,1.0
+15,7,grieving,mourning,,,Agent Attribute:State,ATTRIBUTE,example,
+15,7,lethargic,fatigue,,,Agent Attribute:State,ATTRIBUTE,example,
+15,7,overwhelmed,stress,,,Agent Attribute:State,ATTRIBUTE,example,
+15,7,starving,hunger,,,Agent Attribute:State,ATTRIBUTE,example,
+15,7,resentful,bitterness,brooding,bitterness,Agent Attribute:State,ATTRIBUTE,probe,2.0
+16,46,tithe,church,,,Object:Recipient,CASE RELATIONS,example,
+16,46,punishment,convict,,,Object:Recipient,CASE RELATIONS,example,
+16,46,badge,scout,,,Object:Recipient,CASE RELATIONS,example,
+16,46,check,employee,,,Object:Recipient,CASE RELATIONS,example,
+16,46,passport,applicant,applicant,clerk,Object:Recipient,CASE RELATIONS,probe,1.0
+17,20,bandage,wound,,,Concealment,REFERENCE,example,
+17,20,politeness,anger,,,Concealment,REFERENCE,example,
+17,20,wrapper,candy,,,Concealment,REFERENCE,example,
+17,20,hedge,garden,,,Concealment,REFERENCE,example,
+17,20,blanket,mattress,mattress,pillow,Concealment,REFERENCE,probe,1.0
+18,4,fold,laundry,,,Action:Object,CASE RELATIONS,example,
+18,4,pour,juice,,,Action:Object,CASE RELATIONS,example,
+18,4,climb,mountain,,,Action:Object,CASE RELATIONS,example,
+18,4,direct,movie,,,Action:Object,CASE RELATIONS,example,
+18,4,ring,bell,door,bell,Action:Object,CASE RELATIONS,probe,2.0
+19,-1,baseline,baseline,,,baseline,baseline,baseline,
+20,46,fastball,catcher,,,Object:Recipient,CASE RELATIONS,example,
+20,46,receipt,customer,,,Object:Recipient,CASE RELATIONS,example,
+20,46,package,homeowner,,,Object:Recipient,CASE RELATIONS,example,
+20,46,grade,pupil,,,Object:Recipient,CASE RELATIONS,example,
+20,46,crown,king,bishop,king,Object:Recipient,CASE RELATIONS,probe,2.0
+21,7,delighted,joy,,,Agent Attribute:State,ATTRIBUTE,example,
+21,7,loving,affection,,,Agent Attribute:State,ATTRIBUTE,example,
+21,7,insecure,doubt,,,Agent Attribute:State,ATTRIBUTE,example,
+21,7,content,satisfaction,,,Agent Attribute:State,ATTRIBUTE,example,
+21,7,thoughtful,contemplation,contemplation,notebook,Agent Attribute:State,ATTRIBUTE,probe,1.0
+22,20,jacket,holster,,,Concealment,REFERENCE,example,
+22,20,excuse,truth,,,Concealment,REFERENCE,example,
+22,20,bluff,weakness,,,Concealment,REFERENCE,example,
+22,20,beard,chin,,,Concealment,REFERENCE,example,
+22,20,locker,belongings,belongings,combination,Concealment,REFERENCE,probe,1.0
+23,-1,baseline,baseline,,,baseline,baseline,baseline,
+24,4,shear,sheep,,,Action:Object,CASE RELATIONS,example,
+24,4,shovel,snow,,,Action:Object,CASE RELATIONS,example,
+24,4,trim,hedge,,,Action:Object,CASE RELATIONS,example,
+24,4,wrap,gift,,,Action:Object,CASE RELATIONS,example,
+24,4,push,cart,store,cart,Action:Object,CASE RELATIONS,probe,2.0
+25,46,resume,recruiter,,,Object:Recipient,CASE RELATIONS,example,
+25,46,donation,charity,,,Object:Recipient,CASE RELATIONS,example,
+25,46,invitation,guest,,,Object:Recipient,CASE RELATIONS,example,
+25,46,notification,subscriber,,,Object:Recipient,CASE RELATIONS,example,
+25,46,instructions,trainee,trainee,class,Object:Recipient,CASE RELATIONS,probe,1.0

@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,11,novelist,books,,,Agent:Object,CASE RELATIONS,example,
+1,11,jeweler,gold,,,Agent:Object,CASE RELATIONS,example,
+1,11,seamstress,fabric,,,Agent:Object,CASE RELATIONS,example,
+1,11,blacksmith,iron,,,Agent:Object,CASE RELATIONS,example,
+1,11,barber,scissors,scissors,tip,Agent:Object,CASE RELATIONS,probe,1.0
+2,53,woodwinds,clarinets,,,Plural Collective,CLASS-INCLUSION,example,
+2,53,cutlery,forks,,,Plural Collective,CLASS-INCLUSION,example,
+2,53,fish,salmon,,,Plural Collective,CLASS-INCLUSION,example,
+2,53,herbs,basil,,,Plural Collective,CLASS-INCLUSION,example,
+2,53,snacks,chips,party,chips,Plural Collective,CLASS-INCLUSION,probe,2.0
+3,29,inward,outward,,,Directional,CONTRAST,example,
+3,29,gather,scatter,,,Directional,CONTRAST,example,
+3,29,ebb,flow,,,Directional,CONTRAST,example,
+3,29,arrive,leave,,,Directional,CONTRAST,example,
+3,29,near,far,nearby,far,Directional,CONTRAST,probe,2.0
+4,7,paranoid,suspicion,,,Agent Attribute:State,ATTRIBUTE,example,
+4,7,forlorn,desolation,,,Agent Attribute:State,ATTRIBUTE,example,
+4,7,guilty,remorse,,,Agent Attribute:State,ATTRIBUTE,example,
+4,7,nostalgic,longing,,,Agent Attribute:State,ATTRIBUTE,example,
+4,7,fidgeting,restlessness,restlessness,boredom,Agent Attribute:State,ATTRIBUTE,probe,1.0
+5,11,locksmith,key,,,Agent:Object,CASE RELATIONS,example,
+5,11,architect,building,,,Agent:Object,CASE RELATIONS,example,
+5,11,poet,words,,,Agent:Object,CASE RELATIONS,example,
+5,11,blender,slush,,,Agent:Object,CASE RELATIONS,example,
+5,11,artist,masterpiece,gallery,masterpiece,Agent:Object,CASE RELATIONS,probe,2.0
+6,29,over,under,,,Directional,CONTRAST,example,
+6,29,above,below,,,Directional,CONTRAST,example,
+6,29,left,right,,,Directional,CONTRAST,example,
+6,29,upwind,downwind,,,Directional,CONTRAST,example,
+6,29,inhale,exhale,breathe,exhale,Directional,CONTRAST,probe,2.0
+7,-1,baseline,baseline,,,baseline,baseline,baseline,
+8,7,content,satisfaction,,,Agent Attribute:State,ATTRIBUTE,example,
+8,7,worried,concern,,,Agent Attribute:State,ATTRIBUTE,example,
+8,7,shaking,fear,,,Agent Attribute:State,ATTRIBUTE,example,
+8,7,hostile,aggression,,,Agent Attribute:State,ATTRIBUTE,example,
+8,7,pensive,reflection,reflection,staring,Agent Attribute:State,ATTRIBUTE,probe,1.0
+9,11,animator,animation,,,Agent:Object,CASE RELATIONS,example,
+9,11,potter,vase,,,Agent:Object,CASE RELATIONS,example,
+9,11,baker,bread,,,Agent:Object,CASE RELATIONS,example,
+9,11,gardener,shovel,,,Agent:Object,CASE RELATIONS,example,
+9,11,knitter,needles,needles,yarn shop,Agent:Object,CASE RELATIONS,probe,1.0
+10,53,gemstones,diamonds,,,Plural Collective,CLASS-INCLUSION,example,
+10,53,cats,siamese,,,Plural Collective,CLASS-INCLUSION,example,
+10,53,vehicles,trucks,,,Plural Collective,CLASS-INCLUSION,example,
+10,53,pets,dogs,,,Plural Collective,CLASS-INCLUSION,example,
+10,53,grains,wheat,field,wheat,Plural Collective,CLASS-INCLUSION,probe,2.0
+11,7,ambitious,determination,,,Agent Attribute:State,ATTRIBUTE,example,
+11,7,laughing,amusement,,,Agent Attribute:State,ATTRIBUTE,example,
+11,7,weary,weariness,,,Agent Attribute:State,ATTRIBUTE,example,
+11,7,dejected,disappointment,,,Agent Attribute:State,ATTRIBUTE,example,
+11,7,drunk,intoxication,bar,intoxication,Agent Attribute:State,ATTRIBUTE,probe,2.0
+12,-1,baseline,baseline,,,baseline,baseline,baseline,
+13,29,previously,subsequently,,,Directional,CONTRAST,example,
+13,29,uphill,downhill,,,Directional,CONTRAST,example,
+13,29,onshore,offshore,,,Directional,CONTRAST,example,
+13,29,progress,regress,,,Directional,CONTRAST,example,
+13,29,lift,drop,raise,drop,Directional,CONTRAST,probe,2.0
+14,11,fisherman,net,,,Agent:Object,CASE RELATIONS,example,
+14,11,vintner,wine,,,Agent:Object,CASE RELATIONS,example,
+14,11,programmer,code,,,Agent:Object,CASE RELATIONS,example,
+14,11,singer,microphone,,,Agent:Object,CASE RELATIONS,example,
+14,11,typist,keyboard,chair,keyboard,Agent:Object,CASE RELATIONS,probe,2.0
+15,53,minerals,quartz,,,Plural Collective,CLASS-INCLUSION,example,
+15,53,animals,dogs,,,Plural Collective,CLASS-INCLUSION,example,
+15,53,beverages,sodas,,,Plural Collective,CLASS-INCLUSION,example,
+15,53,toys,dolls,,,Plural Collective,CLASS-INCLUSION,example,
+15,53,nuts,cashews,cashews,trail mix,Plural Collective,CLASS-INCLUSION,probe,1.0
+16,-1,baseline,baseline,,,baseline,baseline,baseline,
+17,7,messy,disarray,,,Agent Attribute:State,ATTRIBUTE,example,
+17,7,stressed,tension,,,Agent Attribute:State,ATTRIBUTE,example,
+17,7,restless,agitation,,,Agent Attribute:State,ATTRIBUTE,example,
+17,7,upset,distress,,,Agent Attribute:State,ATTRIBUTE,example,
+17,7,panicked,terror,siren,terror,Agent Attribute:State,ATTRIBUTE,probe,2.0
+18,29,northwest,southeast,,,Directional,CONTRAST,example,
+18,29,preceding,following,,,Directional,CONTRAST,example,
+18,29,shallow,deep,,,Directional,CONTRAST,example,
+18,29,enter,exit,,,Directional,CONTRAST,example,
+18,29,advance,retreat,retreat,path,Directional,CONTRAST,probe,1.0
+19,-1,baseline,baseline,,,baseline,baseline,baseline,
+20,53,fruit,apples,,,Plural Collective,CLASS-INCLUSION,example,
+20,53,music,jazz,,,Plural Collective,CLASS-INCLUSION,example,
+20,53,trees,oaks,,,Plural Collective,CLASS-INCLUSION,example,
+20,53,flowers,roses,,,Plural Collective,CLASS-INCLUSION,example,
+20,53,dances,waltz,waltz,rhythm,Plural Collective,CLASS-INCLUSION,probe,1.0
+21,11,weaver,cloth,,,Agent:Object,CASE RELATIONS,example,
+21,11,student,essay,,,Agent:Object,CASE RELATIONS,example,
+21,11,mason,trowel,,,Agent:Object,CASE RELATIONS,example,
+21,11,glassblower,ornament,,,Agent:Object,CASE RELATIONS,example,
+21,11,tailor,needle,fitting room,needle,Agent:Object,CASE RELATIONS,probe,2.0
+22,-1,baseline,baseline,,,baseline,baseline,baseline,
+23,53,shoes,sneakers,,,Plural Collective,CLASS-INCLUSION,example,
+23,53,organs,heart,,,Plural Collective,CLASS-INCLUSION,example,
+23,53,cheese,cheddar,,,Plural Collective,CLASS-INCLUSION,example,
+23,53,weapons,swords,,,Plural Collective,CLASS-INCLUSION,example,
+23,53,berries,strawberries,basket,strawberries,Plural Collective,CLASS-INCLUSION,probe,2.0
+24,7,dazed,confusion,,,Agent Attribute:State,ATTRIBUTE,example,
+24,7,anxious,worry,,,Agent Attribute:State,ATTRIBUTE,example,
+24,7,smiling,pleasure,,,Agent Attribute:State,ATTRIBUTE,example,
+24,7,excited,enthusiasm,,,Agent Attribute:State,ATTRIBUTE,example,
+24,7,drowsy,sleepiness,relaxation,sleepiness,Agent Attribute:State,ATTRIBUTE,probe,2.0
+25,29,interior,exterior,,,Directional,CONTRAST,example,
+25,29,upload,download,,,Directional,CONTRAST,example,
+25,29,northbound,southbound,,,Directional,CONTRAST,example,
+25,29,import,export,,,Directional,CONTRAST,example,
+25,29,converge,diverge,diverge,meet,Directional,CONTRAST,probe,1.0

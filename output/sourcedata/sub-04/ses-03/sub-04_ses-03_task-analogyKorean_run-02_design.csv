@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,8,농부,작물,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+1,8,블렌더,슬러시,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+1,8,애니메이터,애니메이션,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+1,8,뜨개공,스웨터,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+1,8,제빵사,빵,빵,앞치마,Agent:Object (Korean Localized),CASE RELATIONS,probe,1.0
+2,46,표,후보,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+2,46,부양비,배우자,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+2,46,영수증,손님,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+2,46,몸값,납치범,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+2,46,급여,근로자,고용주,근로자,Object:Recipient (Korean Localized),CASE RELATIONS,probe,2.0
+3,51,유령,먹다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+3,51,죄수,배회하다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+3,51,유목민,정착하다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+3,51,재소자,모범적으로행동하다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+3,51,독재자,사임하다,통제하다,사임하다,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,probe,2.0
+4,16,땀흘림,체취,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+4,16,달리기,지구력,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+4,16,범죄,처벌,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+4,16,발걸림,넘어짐,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+4,16,설탕,에너지,에너지,사탕,Cause:Effect (Korean Localized),CAUSE-PURPOSE,probe,1.0
+5,8,재봉사,드레스,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+5,8,일러스트레이터,일러스트,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+5,8,작가,펜,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+5,8,유아,크레용,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+5,8,예술가,물감,물감,뮤즈,Agent:Object (Korean Localized),CASE RELATIONS,probe,1.0
+6,-1,baseline,baseline,,,baseline,baseline,baseline,
+7,46,성과금,임원,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+7,46,선물,수령인,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+7,46,우편물,거주자,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+7,46,통지서,세입자,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+7,46,앙코르,관객,진행자,관객,Object:Recipient (Korean Localized),CASE RELATIONS,probe,2.0
+8,16,친절,감사,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+8,16,피로,수면,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+8,16,음악,휴식,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+8,16,지진,파괴,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+8,16,실패,실망,실망,시험,Cause:Effect (Korean Localized),CAUSE-PURPOSE,probe,1.0
+9,-1,baseline,baseline,,,baseline,baseline,baseline,
+10,51,운동선수,기권하다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+10,51,회의론자,믿다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+10,51,도둑,돌려주다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+10,51,내향적인사람,주최하다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+10,51,환경보호론자,오염시키다,오염시키다,재활용하다,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,probe,1.0
+11,46,훈장,영웅,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+11,46,기부금,자선단체,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+11,46,편지,수신인,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+11,46,알림,구독자,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+11,46,투구,타자,타자,투수,Object:Recipient (Korean Localized),CASE RELATIONS,probe,1.0
+12,8,타자수,키보드,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+12,8,사진가,카메라,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+12,8,와인메이커,와인,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+12,8,음악가,멜로디,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+12,8,기자,기사,기사,편집자,Agent:Object (Korean Localized),CASE RELATIONS,probe,1.0
+13,16,침식,협곡,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+13,16,중력,낙하,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+13,16,타격,부상,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+13,16,감기,재채기,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+13,16,운동,피로,러닝머신,피로,Cause:Effect (Korean Localized),CAUSE-PURPOSE,probe,2.0
+14,-1,baseline,baseline,,,baseline,baseline,baseline,
+15,51,폭군,용서하다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+15,51,냉소주의자,신뢰하다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+15,51,낙관론자,절망하다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+15,51,외과의사,떨다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+15,51,친구,배신하다,배신하다,위로하다,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,probe,1.0
+16,8,지휘자,지휘봉,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+16,8,만화가,만화,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+16,8,영화제작자,영화,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+16,8,요리사,오븐,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+16,8,작곡가,곡,오케스트라,곡,Agent:Object (Korean Localized),CASE RELATIONS,probe,2.0
+17,-1,baseline,baseline,,,baseline,baseline,baseline,
+18,51,보호자,방치하다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+18,51,무정부주의자,복종하다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+18,51,은둔형외톨이,어울리다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+18,51,양치기,흩뜨리다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+18,51,완벽주의자,서두르다,점검하다,서두르다,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,probe,2.0
+19,46,처벌,수형자,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+19,46,배지,스카우트,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+19,46,초대장,손님,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+19,46,트로피,챔피언,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+19,46,백신,영아,영아,간호사,Object:Recipient (Korean Localized),CASE RELATIONS,probe,1.0
+20,16,칭찬,행복,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+20,16,비극,눈물,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+20,16,유머,웃음,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+20,16,바람,침식,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+20,16,부상,통증,헬멧,통증,Cause:Effect (Korean Localized),CAUSE-PURPOSE,probe,2.0
+21,-1,baseline,baseline,,,baseline,baseline,baseline,
+22,51,물고기,날다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+22,51,중재자,도발하다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+22,51,지렁이,뛰다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+22,51,바위,자라다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+22,51,곡예사,비틀거리다,비틀거리다,균형잡다,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,probe,1.0
+23,46,환불금,구매자,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+23,46,구호물자,난민,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+23,46,복지급여,수급자,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+23,46,상,수상자,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+23,46,젖병,아기,아기,부모,Object:Recipient (Korean Localized),CASE RELATIONS,probe,1.0
+24,8,디자이너,패션,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+24,8,서예가,먹물,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+24,8,블로거,게시글,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+24,8,방적공,실,,,Agent:Object (Korean Localized),CASE RELATIONS,example,
+24,8,유리공예가,장식품,관광객,장식품,Agent:Object (Korean Localized),CASE RELATIONS,probe,2.0
+25,16,혹한,동상,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+25,16,탈진,쓰러짐,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+25,16,연습,향상,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+25,16,경험,자신감,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+25,16,요리,향,향,팬,Cause:Effect (Korean Localized),CAUSE-PURPOSE,probe,1.0

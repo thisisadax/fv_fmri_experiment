@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,58,잔해,재난,,,Sign:Significant (Korean Localized),REFERENCE,example,
+1,58,초인종,방문객,,,Sign:Significant (Korean Localized),REFERENCE,example,
+1,58,구조요청,도움,,,Sign:Significant (Korean Localized),REFERENCE,example,
+1,58,왕관,왕실,,,Sign:Significant (Korean Localized),REFERENCE,example,
+1,58,버저,종료,타임아웃,종료,Sign:Significant (Korean Localized),REFERENCE,probe,2.0
+2,44,금속,줄,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+2,44,머리,모자,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+2,44,입술,립스틱,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+2,44,창문,유리밀대,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+2,44,얼굴,선크림,선크림,여름,Object:Instrument (Korean Localized),CASE RELATIONS,probe,1.0
+3,56,채우다,비우다,,,Reverse (Korean Localized),CONTRAST,example,
+3,56,칭찬하다,비판하다,,,Reverse (Korean Localized),CONTRAST,example,
+3,56,날카롭다,무디다,,,Reverse (Korean Localized),CONTRAST,example,
+3,56,심다,뽑다,,,Reverse (Korean Localized),CONTRAST,example,
+3,56,시작하다,멈추다,엔진,멈추다,Reverse (Korean Localized),CONTRAST,probe,2.0
+4,58,발진,알레르기,,,Sign:Significant (Korean Localized),REFERENCE,example,
+4,58,여권,국적,,,Sign:Significant (Korean Localized),REFERENCE,example,
+4,58,물웅덩이,비,,,Sign:Significant (Korean Localized),REFERENCE,example,
+4,58,발열,감염,,,Sign:Significant (Korean Localized),REFERENCE,example,
+4,58,끄덕임,확인,목,확인,Sign:Significant (Korean Localized),REFERENCE,probe,2.0
+5,-1,baseline,baseline,,,baseline,baseline,baseline,
+6,56,모으다,흩뜨리다,,,Reverse (Korean Localized),CONTRAST,example,
+6,56,인정하다,부인하다,,,Reverse (Korean Localized),CONTRAST,example,
+6,56,단맛,쓴맛,,,Reverse (Korean Localized),CONTRAST,example,
+6,56,실패하다,성공하다,,,Reverse (Korean Localized),CONTRAST,example,
+6,56,깊다,얕다,얕다,심오하다,Reverse (Korean Localized),CONTRAST,probe,1.0
+7,43,나무,가지,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+7,43,석류,씨,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+7,43,하루,시간,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+7,43,대륙,나라,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+7,43,앨범,트랙,트랙,표지,Mass:Portion (Korean Localized),PART-WHOLE,probe,1.0
+8,-1,baseline,baseline,,,baseline,baseline,baseline,
+9,44,그림,지우개,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+9,44,케이크,아이싱,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+9,44,철사,펜치,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+9,44,수프,국자,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+9,44,스테이크,집게,집게,저녁식사,Object:Instrument (Korean Localized),CASE RELATIONS,probe,1.0
+10,56,사다,팔다,,,Reverse (Korean Localized),CONTRAST,example,
+10,56,공격하다,방어하다,,,Reverse (Korean Localized),CONTRAST,example,
+10,56,거짓말하다,자백하다,,,Reverse (Korean Localized),CONTRAST,example,
+10,56,대담하다,소심하다,,,Reverse (Korean Localized),CONTRAST,example,
+10,56,끌어당기다,밀어내다,무시하다,밀어내다,Reverse (Korean Localized),CONTRAST,probe,2.0
+11,43,오케스트라,연주자,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+11,43,교향곡,악장,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+11,43,시,시구,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+11,43,사다리,가로대,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+11,43,연극,막,막,관객,Mass:Portion (Korean Localized),PART-WHOLE,probe,1.0
+12,58,손흔들기,인사,,,Sign:Significant (Korean Localized),REFERENCE,example,
+12,58,배지,권위,,,Sign:Significant (Korean Localized),REFERENCE,example,
+12,58,빨간불,정지,,,Sign:Significant (Korean Localized),REFERENCE,example,
+12,58,종소리,식사시간,,,Sign:Significant (Korean Localized),REFERENCE,example,
+12,58,별점,우수함,평점,우수함,Sign:Significant (Korean Localized),REFERENCE,probe,2.0
+13,-1,baseline,baseline,,,baseline,baseline,baseline,
+14,43,옥수수,알,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+14,43,공기,한번숨,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+14,43,키보드,키,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+14,43,늑대떼,늑대,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+14,43,쪽,문단,프린터,문단,Mass:Portion (Korean Localized),PART-WHOLE,probe,2.0
+15,44,실,바늘,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+15,44,낙엽,갈퀴,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+15,44,가구,광택제,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+15,44,개,목줄,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+15,44,치즈,강판,크래커,강판,Object:Instrument (Korean Localized),CASE RELATIONS,probe,2.0
+16,-1,baseline,baseline,,,baseline,baseline,baseline,
+17,56,도착하다,출발하다,,,Reverse (Korean Localized),CONTRAST,example,
+17,56,고대,현대,,,Reverse (Korean Localized),CONTRAST,example,
+17,56,화나게하다,달래다,,,Reverse (Korean Localized),CONTRAST,example,
+17,56,저축하다,소비하다,,,Reverse (Korean Localized),CONTRAST,example,
+17,56,잠그다,잠금해제하다,열쇠,잠금해제하다,Reverse (Korean Localized),CONTRAST,probe,2.0
+18,44,말,안장,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+18,44,화이트보드,마커,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+18,44,자물쇠,열쇠,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+18,44,죄수,족쇄,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+18,44,구운고기,요리솔,고기썰기,요리솔,Object:Instrument (Korean Localized),CASE RELATIONS,probe,2.0
+19,43,일주일,하루,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+19,43,손,손가락,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+19,43,피,방울,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+19,43,퀼트이불,조각,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+19,43,직물,섬유,바느질,섬유,Mass:Portion (Korean Localized),PART-WHOLE,probe,2.0
+20,-1,baseline,baseline,,,baseline,baseline,baseline,
+21,58,유니폼,소속,,,Sign:Significant (Korean Localized),REFERENCE,example,
+21,58,교회첨탑,교회,,,Sign:Significant (Korean Localized),REFERENCE,example,
+21,58,어깨으쓱,무관심,,,Sign:Significant (Korean Localized),REFERENCE,example,
+21,58,메달,업적,,,Sign:Significant (Korean Localized),REFERENCE,example,
+21,58,곰팡이,습기,습기,부식,Sign:Significant (Korean Localized),REFERENCE,probe,1.0
+22,43,오렌지,조각,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+22,43,신문,면,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+22,43,밧줄,가닥,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+22,43,시간,분,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+22,43,무지개,색,하늘,색,Mass:Portion (Korean Localized),PART-WHOLE,probe,2.0
+23,44,잔디밭,잔디깎이,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+23,44,달걀,거품기,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+23,44,밭,쟁기,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+23,44,나무,체인톱,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+23,44,캔버스,붓,팔레트,붓,Object:Instrument (Korean Localized),CASE RELATIONS,probe,2.0
+24,56,통합하다,분열시키다,,,Reverse (Korean Localized),CONTRAST,example,
+24,56,장신,단신,,,Reverse (Korean Localized),CONTRAST,example,
+24,56,축복하다,저주하다,,,Reverse (Korean Localized),CONTRAST,example,
+24,56,팽창하다,수축하다,,,Reverse (Korean Localized),CONTRAST,example,
+24,56,들어가다,나가다,나가다,도착하다,Reverse (Korean Localized),CONTRAST,probe,1.0
+25,58,해골표시,독,,,Sign:Significant (Korean Localized),REFERENCE,example,
+25,58,찡그림,불쾌,,,Sign:Significant (Korean Localized),REFERENCE,example,
+25,58,땀,운동,,,Sign:Significant (Korean Localized),REFERENCE,example,
+25,58,고드름,혹한,,,Sign:Significant (Korean Localized),REFERENCE,example,
+25,58,비명,공황,공황,비명,Sign:Significant (Korean Localized),REFERENCE,probe,1.0

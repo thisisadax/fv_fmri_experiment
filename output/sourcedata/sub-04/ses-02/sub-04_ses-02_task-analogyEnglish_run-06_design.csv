@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,36,husband,bachelorhood,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+1,36,outcast,belonging,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+1,36,veteran,service,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+1,36,inmate,privacy,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+1,36,debtor,solvency,collector,solvency,Item:Ex-part/Ex-possession,PART-WHOLE,probe,2.0
+2,37,home,foyer,,,Item:Topological Part,PART-WHOLE,example,
+2,37,ear,lobe,,,Item:Topological Part,PART-WHOLE,example,
+2,37,valley,floor,,,Item:Topological Part,PART-WHOLE,example,
+2,37,state,city,,,Item:Topological Part,PART-WHOLE,example,
+2,37,house,roof,yard,roof,Item:Topological Part,PART-WHOLE,probe,2.0
+3,27,defend,retaliate,,,Dimensional Naughty,SIMILAR,example,
+3,27,discipline,abuse,,,Dimensional Naughty,SIMILAR,example,
+3,27,joke,mock,,,Dimensional Naughty,SIMILAR,example,
+3,27,punish,torture,,,Dimensional Naughty,SIMILAR,example,
+3,27,remind,pester,pester,prompt,Dimensional Naughty,SIMILAR,probe,1.0
+4,-1,baseline,baseline,,,baseline,baseline,baseline,
+5,18,bird,Eagle,,,ClassIndividual,CLASS-INCLUSION,example,
+5,18,island,Madagascar,,,ClassIndividual,CLASS-INCLUSION,example,
+5,18,goddess,Athena,,,ClassIndividual,CLASS-INCLUSION,example,
+5,18,dance,Waltz,,,ClassIndividual,CLASS-INCLUSION,example,
+5,18,grain,Rice,rice,steam,ClassIndividual,CLASS-INCLUSION,probe,1.0
+6,27,suggest,demand,,,Dimensional Naughty,SIMILAR,example,
+6,27,sell,scam,,,Dimensional Naughty,SIMILAR,example,
+6,27,eat,gorge,,,Dimensional Naughty,SIMILAR,example,
+6,27,observe,spy,,,Dimensional Naughty,SIMILAR,example,
+6,27,guide,control,steer,control,Dimensional Naughty,SIMILAR,probe,2.0
+7,36,refugee,home,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+7,36,alcoholic,sobriety,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+7,36,shipwreck,crew,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+7,36,hermit,society,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+7,36,pensioner,work,old age,work,Item:Ex-part/Ex-possession,PART-WHOLE,probe,2.0
+8,-1,baseline,baseline,,,baseline,baseline,baseline,
+9,27,ask,interrogate,,,Dimensional Naughty,SIMILAR,example,
+9,27,hunt,poach,,,Dimensional Naughty,SIMILAR,example,
+9,27,compete,cheat,,,Dimensional Naughty,SIMILAR,example,
+9,27,convince,brainwash,,,Dimensional Naughty,SIMILAR,example,
+9,27,tax,extort,extort,form,Dimensional Naughty,SIMILAR,probe,1.0
+10,37,couch,arm,,,Item:Topological Part,PART-WHOLE,example,
+10,37,book,spine,,,Item:Topological Part,PART-WHOLE,example,
+10,37,hat,brim,,,Item:Topological Part,PART-WHOLE,example,
+10,37,table,leg,,,Item:Topological Part,PART-WHOLE,example,
+10,37,finger,tip,ring,tip,Item:Topological Part,PART-WHOLE,probe,2.0
+11,36,elder,youth,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+11,36,monk,possessions,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+11,36,amnesiac,memories,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+11,36,wife,maidenhood,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+11,36,woman,girlhood,girlhood,makeup,Item:Ex-part/Ex-possession,PART-WHOLE,probe,1.0
+12,-1,baseline,baseline,,,baseline,baseline,baseline,
+13,27,talk,gossip,,,Dimensional Naughty,SIMILAR,example,
+13,27,persuade,coerce,,,Dimensional Naughty,SIMILAR,example,
+13,27,gaze,leer,,,Dimensional Naughty,SIMILAR,example,
+13,27,give,bribe,,,Dimensional Naughty,SIMILAR,example,
+13,27,influence,manipulate,opinion,manipulate,Dimensional Naughty,SIMILAR,probe,2.0
+14,18,color,Red,,,ClassIndividual,CLASS-INCLUSION,example,
+14,18,primate,Gorilla,,,ClassIndividual,CLASS-INCLUSION,example,
+14,18,ocean,Indian,,,ClassIndividual,CLASS-INCLUSION,example,
+14,18,river,Amazon,,,ClassIndividual,CLASS-INCLUSION,example,
+14,18,university,Yale,yale,diploma,ClassIndividual,CLASS-INCLUSION,probe,1.0
+15,36,parolee,confinement,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+15,36,convalescent,fever,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+15,36,doctor,residency,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+15,36,stray,owner,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+15,36,wreckage,integrity,tow truck,integrity,Item:Ex-part/Ex-possession,PART-WHOLE,probe,2.0
+16,37,bottle,neck,,,Item:Topological Part,PART-WHOLE,example,
+16,37,prison,cell,,,Item:Topological Part,PART-WHOLE,example,
+16,37,lamp,shade,,,Item:Topological Part,PART-WHOLE,example,
+16,37,automobile,trunk,,,Item:Topological Part,PART-WHOLE,example,
+16,37,hotel,lobby,room key,lobby,Item:Topological Part,PART-WHOLE,probe,2.0
+17,18,nut,Almond,,,ClassIndividual,CLASS-INCLUSION,example,
+17,18,month,January,,,ClassIndividual,CLASS-INCLUSION,example,
+17,18,continent,Africa,,,ClassIndividual,CLASS-INCLUSION,example,
+17,18,tool,Hammer,,,ClassIndividual,CLASS-INCLUSION,example,
+17,18,state,Virginia,richmond,virginia,ClassIndividual,CLASS-INCLUSION,probe,2.0
+18,36,ruin,grandeur,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+18,36,carcass,warmth,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+18,36,divorcee,marriage,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+18,36,fossil,life,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+18,36,stump,branches,branches,forest,Item:Ex-part/Ex-possession,PART-WHOLE,probe,1.0
+19,-1,baseline,baseline,,,baseline,baseline,baseline,
+20,37,volcano,crater,,,Item:Topological Part,PART-WHOLE,example,
+20,37,boat,bow,,,Item:Topological Part,PART-WHOLE,example,
+20,37,courthouse,courtroom,,,Item:Topological Part,PART-WHOLE,example,
+20,37,chair,back,,,Item:Topological Part,PART-WHOLE,example,
+20,37,dress,hem,hem,wedding,Item:Topological Part,PART-WHOLE,probe,1.0
+21,18,hero,Superman,,,ClassIndividual,CLASS-INCLUSION,example,
+21,18,reptile,Iguana,,,ClassIndividual,CLASS-INCLUSION,example,
+21,18,author,Shakespeare,,,ClassIndividual,CLASS-INCLUSION,example,
+21,18,desert,Sahara,,,ClassIndividual,CLASS-INCLUSION,example,
+21,18,planet,Mars,phobos,mars,ClassIndividual,CLASS-INCLUSION,probe,2.0
+22,27,borrow,steal,,,Dimensional Naughty,SIMILAR,example,
+22,27,correct,berate,,,Dimensional Naughty,SIMILAR,example,
+22,27,spend,squander,,,Dimensional Naughty,SIMILAR,example,
+22,27,charge,gouge,,,Dimensional Naughty,SIMILAR,example,
+22,27,promote,spam,publicize,spam,Dimensional Naughty,SIMILAR,probe,2.0
+23,-1,baseline,baseline,,,baseline,baseline,baseline,
+24,37,tree,branch,,,Item:Topological Part,PART-WHOLE,example,
+24,37,mountain,peak,,,Item:Topological Part,PART-WHOLE,example,
+24,37,hill,top,,,Item:Topological Part,PART-WHOLE,example,
+24,37,road,shoulder,,,Item:Topological Part,PART-WHOLE,example,
+24,37,ship,deck,deck,anchor,Item:Topological Part,PART-WHOLE,probe,1.0
+25,18,scientist,Einstein,,,ClassIndividual,CLASS-INCLUSION,example,
+25,18,horse,Palomino,,,ClassIndividual,CLASS-INCLUSION,example,
+25,18,motorcycle,Harley,,,ClassIndividual,CLASS-INCLUSION,example,
+25,18,car,Camaro,,,ClassIndividual,CLASS-INCLUSION,example,
+25,18,television,Sony,screen,sony,ClassIndividual,CLASS-INCLUSION,probe,2.0

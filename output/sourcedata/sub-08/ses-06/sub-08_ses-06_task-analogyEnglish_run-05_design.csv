@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,21,loyal,treacherous,,,Contrary,CONTRAST,example,
+1,21,heavy,light,,,Contrary,CONTRAST,example,
+1,21,up,down,,,Contrary,CONTRAST,example,
+1,21,excited,bored,,,Contrary,CONTRAST,example,
+1,21,natural,artificial,artificial,river,Contrary,CONTRAST,probe,1.0
+2,59,growl,aggression,,,Sign:Significant,REFERENCE,example,
+2,59,cough,illness,,,Sign:Significant,REFERENCE,example,
+2,59,debris,disaster,,,Sign:Significant,REFERENCE,example,
+2,59,mold,dampness,,,Sign:Significant,REFERENCE,example,
+2,59,medal,achievement,first place,achievement,Sign:Significant,REFERENCE,probe,2.0
+3,55,builder,permit,,,Recipient:Instrument,CASE RELATIONS,example,
+3,55,author,royalty,,,Recipient:Instrument,CASE RELATIONS,example,
+3,55,contestant,prize,,,Recipient:Instrument,CASE RELATIONS,example,
+3,55,citizen,passport,,,Recipient:Instrument,CASE RELATIONS,example,
+3,55,homebuyer,mortgage,mortgage,realtor,Recipient:Instrument,CASE RELATIONS,probe,1.0
+4,-1,baseline,baseline,,,baseline,baseline,baseline,
+5,63,dolphin,gray,,,things - color,Encyclopedic_semantics,example,
+5,63,sun,yellow,,,things - color,Encyclopedic_semantics,example,
+5,63,chocolate,brown,,,things - color,Encyclopedic_semantics,example,
+5,63,carrot,orange,,,things - color,Encyclopedic_semantics,example,
+5,63,cabbage,green,yellow,green,things - color,Encyclopedic_semantics,probe,2.0
+6,21,kind,cruel,,,Contrary,CONTRAST,example,
+6,21,buy,sell,,,Contrary,CONTRAST,example,
+6,21,black,white,,,Contrary,CONTRAST,example,
+6,21,optimistic,pessimistic,,,Contrary,CONTRAST,example,
+6,21,order,chaos,chaos,rules,Contrary,CONTRAST,probe,1.0
+7,59,crack,damage,,,Sign:Significant,REFERENCE,example,
+7,59,condensation,humidity,,,Sign:Significant,REFERENCE,example,
+7,59,scales,justice,,,Sign:Significant,REFERENCE,example,
+7,59,skull,death,,,Sign:Significant,REFERENCE,example,
+7,59,cry,help,pain,help,Sign:Significant,REFERENCE,probe,2.0
+8,63,paper,white,,,things - color,Encyclopedic_semantics,example,
+8,63,snow,white,,,things - color,Encyclopedic_semantics,example,
+8,63,cranberry,red,,,things - color,Encyclopedic_semantics,example,
+8,63,ink,black,,,things - color,Encyclopedic_semantics,example,
+8,63,cucumber,green,green,white,things - color,Encyclopedic_semantics,probe,1.0
+9,21,smart,stupid,,,Contrary,CONTRAST,example,
+9,21,pretty,ugly,,,Contrary,CONTRAST,example,
+9,21,hairy,bald,,,Contrary,CONTRAST,example,
+9,21,raw,cooked,,,Contrary,CONTRAST,example,
+9,21,brave,cowardly,cowardly,bold,Contrary,CONTRAST,probe,1.0
+10,55,homeowner,title,,,Recipient:Instrument,CASE RELATIONS,example,
+10,55,princess,tiara,,,Recipient:Instrument,CASE RELATIONS,example,
+10,55,mayor,election,,,Recipient:Instrument,CASE RELATIONS,example,
+10,55,widow,insurance,,,Recipient:Instrument,CASE RELATIONS,example,
+10,55,member,card,card,badge,Recipient:Instrument,CASE RELATIONS,probe,1.0
+11,63,daffodil,yellow,,,things - color,Encyclopedic_semantics,example,
+11,63,ocean,blue,,,things - color,Encyclopedic_semantics,example,
+11,63,charcoal,black,,,things - color,Encyclopedic_semantics,example,
+11,63,ivory,white,,,things - color,Encyclopedic_semantics,example,
+11,63,ant,black,brown,black,things - color,Encyclopedic_semantics,probe,2.0
+12,-1,baseline,baseline,,,baseline,baseline,baseline,
+13,59,siren,emergency,,,Sign:Significant,REFERENCE,example,
+13,59,green,go,,,Sign:Significant,REFERENCE,example,
+13,59,sunset,evening,,,Sign:Significant,REFERENCE,example,
+13,59,steeple,church,,,Sign:Significant,REFERENCE,example,
+13,59,red,stop,stop,traffic,Sign:Significant,REFERENCE,probe,1.0
+14,55,bidder,auction,,,Recipient:Instrument,CASE RELATIONS,example,
+14,55,customer,coupon,,,Recipient:Instrument,CASE RELATIONS,example,
+14,55,guest,invitation,,,Recipient:Instrument,CASE RELATIONS,example,
+14,55,employee,contract,,,Recipient:Instrument,CASE RELATIONS,example,
+14,55,adoptee,certificate,certificate,family,Recipient:Instrument,CASE RELATIONS,probe,1.0
+15,-1,baseline,baseline,,,baseline,baseline,baseline,
+16,21,simple,complex,,,Contrary,CONTRAST,example,
+16,21,bright,dark,,,Contrary,CONTRAST,example,
+16,21,laugh,cry,,,Contrary,CONTRAST,example,
+16,21,safe,dangerous,,,Contrary,CONTRAST,example,
+16,21,rough,smooth,bumpy,smooth,Contrary,CONTRAST,probe,2.0
+17,63,mango,yellow,,,things - color,Encyclopedic_semantics,example,
+17,63,eggplant,purple,,,things - color,Encyclopedic_semantics,example,
+17,63,sapphire,blue,,,things - color,Encyclopedic_semantics,example,
+17,63,blood,red,,,things - color,Encyclopedic_semantics,example,
+17,63,jade,green,green,orange,things - color,Encyclopedic_semantics,probe,1.0
+18,55,millionaire,money,,,Recipient:Instrument,CASE RELATIONS,example,
+18,55,hunter,permit,,,Recipient:Instrument,CASE RELATIONS,example,
+18,55,diner,reservation,,,Recipient:Instrument,CASE RELATIONS,example,
+18,55,farmer,subsidy,,,Recipient:Instrument,CASE RELATIONS,example,
+18,55,taxpayer,refund,credit,refund,Recipient:Instrument,CASE RELATIONS,probe,2.0
+19,-1,baseline,baseline,,,baseline,baseline,baseline,
+20,21,rural,urban,,,Contrary,CONTRAST,example,
+20,21,joy,sorrow,,,Contrary,CONTRAST,example,
+20,21,peace,war,,,Contrary,CONTRAST,example,
+20,21,arrive,depart,,,Contrary,CONTRAST,example,
+20,21,push,pull,press,pull,Contrary,CONTRAST,probe,2.0
+21,59,tears,sadness,,,Sign:Significant,REFERENCE,example,
+21,59,handshake,agreement,,,Sign:Significant,REFERENCE,example,
+21,59,cross,christianity,,,Sign:Significant,REFERENCE,example,
+21,59,bell,dinner,,,Sign:Significant,REFERENCE,example,
+21,59,rash,allergy,allergy,itch,Sign:Significant,REFERENCE,probe,1.0
+22,-1,baseline,baseline,,,baseline,baseline,baseline,
+23,55,artist,commission,,,Recipient:Instrument,CASE RELATIONS,example,
+23,55,veteran,benefits,,,Recipient:Instrument,CASE RELATIONS,example,
+23,55,borrower,loan,,,Recipient:Instrument,CASE RELATIONS,example,
+23,55,pensioner,pension,,,Recipient:Instrument,CASE RELATIONS,example,
+23,55,winner,trophy,podium,trophy,Recipient:Instrument,CASE RELATIONS,probe,2.0
+24,63,flamingo,pink,,,things - color,Encyclopedic_semantics,example,
+24,63,spinach,green,,,things - color,Encyclopedic_semantics,example,
+24,63,marble,white,,,things - color,Encyclopedic_semantics,example,
+24,63,lobster,red,,,things - color,Encyclopedic_semantics,example,
+24,63,yogurt,white,white,brown,things - color,Encyclopedic_semantics,probe,1.0
+25,59,tremor,earthquake,,,Sign:Significant,REFERENCE,example,
+25,59,footprint,presence,,,Sign:Significant,REFERENCE,example,
+25,59,alarm,danger,,,Sign:Significant,REFERENCE,example,
+25,59,purring,contentment,,,Sign:Significant,REFERENCE,example,
+25,59,limp,injury,injury,leg,Sign:Significant,REFERENCE,probe,1.0

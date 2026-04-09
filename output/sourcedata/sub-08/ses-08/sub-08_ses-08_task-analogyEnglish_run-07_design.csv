@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,62,elderly,cane,,,Time Associated Item,SPACE-TIME,example,
+1,62,Mardi Gras,beads,,,Time Associated Item,SPACE-TIME,example,
+1,62,vacation,suitcase,,,Time Associated Item,SPACE-TIME,example,
+1,62,rush hour,traffic,,,Time Associated Item,SPACE-TIME,example,
+1,62,wartime,rations,beads,rations,Time Associated Item,SPACE-TIME,probe,2.0
+2,46,resume,recruiter,,,Object:Recipient,CASE RELATIONS,example,
+2,46,bonus,executive,,,Object:Recipient,CASE RELATIONS,example,
+2,46,donation,charity,,,Object:Recipient,CASE RELATIONS,example,
+2,46,grade,pupil,,,Object:Recipient,CASE RELATIONS,example,
+2,46,inheritance,heir,heir,executor,Object:Recipient,CASE RELATIONS,probe,1.0
+3,15,angry,calmness,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+3,15,calm,agitation,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+3,15,furious,serenity,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+3,15,sober,intoxication,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+3,15,poor,wealth,wealth,shelter,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,probe,1.0
+4,59,shriek,panic,,,Sign:Significant,REFERENCE,example,
+4,59,growl,aggression,,,Sign:Significant,REFERENCE,example,
+4,59,limp,injury,,,Sign:Significant,REFERENCE,example,
+4,59,ribbon,awareness,,,Sign:Significant,REFERENCE,example,
+4,59,thunder,storm,storm,rumble,Sign:Significant,REFERENCE,probe,1.0
+5,-1,baseline,baseline,,,baseline,baseline,baseline,
+6,62,toddler,tantrums,,,Time Associated Item,SPACE-TIME,example,
+6,62,retirement,pension,,,Time Associated Item,SPACE-TIME,example,
+6,62,Super Bowl,commercials,,,Time Associated Item,SPACE-TIME,example,
+6,62,winter,snow,,,Time Associated Item,SPACE-TIME,example,
+6,62,halftime,snacks,report card,snacks,Time Associated Item,SPACE-TIME,probe,2.0
+7,59,debris,disaster,,,Sign:Significant,REFERENCE,example,
+7,59,star,excellence,,,Sign:Significant,REFERENCE,example,
+7,59,warning,trouble,,,Sign:Significant,REFERENCE,example,
+7,59,icicle,freezing,,,Sign:Significant,REFERENCE,example,
+7,59,smile,happiness,politeness,happiness,Sign:Significant,REFERENCE,probe,2.0
+8,-1,baseline,baseline,,,baseline,baseline,baseline,
+9,15,grateful,ingratitude,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+9,15,wise,foolishness,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+9,15,kind,cruelty,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+9,15,ignorant,knowledge,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+9,15,restless,tranquility,tranquility,night,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,probe,1.0
+10,46,dividend,shareholder,,,Object:Recipient,CASE RELATIONS,example,
+10,46,award,winner,,,Object:Recipient,CASE RELATIONS,example,
+10,46,ransom,kidnapper,,,Object:Recipient,CASE RELATIONS,example,
+10,46,advice,client,,,Object:Recipient,CASE RELATIONS,example,
+10,46,bottle,baby,milk,baby,Object:Recipient,CASE RELATIONS,probe,2.0
+11,-1,baseline,baseline,,,baseline,baseline,baseline,
+12,59,passport,citizenship,,,Sign:Significant,REFERENCE,example,
+12,59,shrug,indifference,,,Sign:Significant,REFERENCE,example,
+12,59,salute,respect,,,Sign:Significant,REFERENCE,example,
+12,59,scales,justice,,,Sign:Significant,REFERENCE,example,
+12,59,alarm,danger,beep,danger,Sign:Significant,REFERENCE,probe,2.0
+13,62,childhood,crayon,,,Time Associated Item,SPACE-TIME,example,
+13,62,prom,corsage,,,Time Associated Item,SPACE-TIME,example,
+13,62,dawn,rooster,,,Time Associated Item,SPACE-TIME,example,
+13,62,bathtime,bubbles,,,Time Associated Item,SPACE-TIME,example,
+13,62,Hanukkah,menorah,menorah,shamrock,Time Associated Item,SPACE-TIME,probe,1.0
+14,-1,baseline,baseline,,,baseline,baseline,baseline,
+15,46,ring,bride,,,Object:Recipient,CASE RELATIONS,example,
+15,46,ticket,speeder,,,Object:Recipient,CASE RELATIONS,example,
+15,46,grant,scientist,,,Object:Recipient,CASE RELATIONS,example,
+15,46,welfare,beneficiary,,,Object:Recipient,CASE RELATIONS,example,
+15,46,scholarship,freshman,freshman,campus,Object:Recipient,CASE RELATIONS,probe,1.0
+16,15,naive,sophistication,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+16,15,tidy,disorder,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+16,15,weak,invincibility,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+16,15,sharp,dullness,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+16,15,absent,presence,presence,excuse,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,probe,1.0
+17,62,Easter,eggs,,,Time Associated Item,SPACE-TIME,example,
+17,62,fall,pumpkins,,,Time Associated Item,SPACE-TIME,example,
+17,62,summer camp,campfire,,,Time Associated Item,SPACE-TIME,example,
+17,62,Valentine's Day,chocolate,,,Time Associated Item,SPACE-TIME,example,
+17,62,promotion,raise,raise,retirement party,Time Associated Item,SPACE-TIME,probe,1.0
+18,46,allowance,teenager,,,Object:Recipient,CASE RELATIONS,example,
+18,46,paycheck,nurse,,,Object:Recipient,CASE RELATIONS,example,
+18,46,pardon,prisoner,,,Object:Recipient,CASE RELATIONS,example,
+18,46,royalty,author,,,Object:Recipient,CASE RELATIONS,example,
+18,46,license,driver,driver,test,Object:Recipient,CASE RELATIONS,probe,1.0
+19,59,tears,sadness,,,Sign:Significant,REFERENCE,example,
+19,59,puddle,rain,,,Sign:Significant,REFERENCE,example,
+19,59,gavel,order,,,Sign:Significant,REFERENCE,example,
+19,59,applause,approval,,,Sign:Significant,REFERENCE,example,
+19,59,receipt,purchase,purchase,expense,Sign:Significant,REFERENCE,probe,1.0
+20,15,lonely,companionship,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+20,15,anxious,peace,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+20,15,strong,weakness,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+20,15,brave,cowardice,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+20,15,merciful,ruthlessness,pardon,ruthlessness,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,probe,2.0
+21,62,puberty,braces,,,Time Associated Item,SPACE-TIME,example,
+21,62,flu season,tissues,,,Time Associated Item,SPACE-TIME,example,
+21,62,Halloween,candy,,,Time Associated Item,SPACE-TIME,example,
+21,62,rainy day,umbrella,,,Time Associated Item,SPACE-TIME,example,
+21,62,night,stars,stars,sunrise,Time Associated Item,SPACE-TIME,probe,1.0
+22,59,steeple,church,,,Sign:Significant,REFERENCE,example,
+22,59,wrinkle,age,,,Sign:Significant,REFERENCE,example,
+22,59,diploma,education,,,Sign:Significant,REFERENCE,example,
+22,59,fidgeting,nervousness,,,Sign:Significant,REFERENCE,example,
+22,59,nod,confirmation,confirmation,meeting,Sign:Significant,REFERENCE,probe,1.0
+23,46,pass,teammate,,,Object:Recipient,CASE RELATIONS,example,
+23,46,invitation,guest,,,Object:Recipient,CASE RELATIONS,example,
+23,46,sentence,criminal,,,Object:Recipient,CASE RELATIONS,example,
+23,46,flowers,widow,,,Object:Recipient,CASE RELATIONS,example,
+23,46,fastball,catcher,dugout,catcher,Object:Recipient,CASE RELATIONS,probe,2.0
+24,-1,baseline,baseline,,,baseline,baseline,baseline,
+25,15,fearful,courage,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+25,15,docile,aggression,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+25,15,sleepy,alertness,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+25,15,fragile,durability,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+25,15,empty,fullness,crowding,fullness,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,probe,2.0

@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,23,treble,bass,,,Coordinates,SIMILAR,example,
+1,23,wolf,fox,,,Coordinates,SIMILAR,example,
+1,23,river,lake,,,Coordinates,SIMILAR,example,
+1,23,cake,pie,,,Coordinates,SIMILAR,example,
+1,23,comedy,tragedy,tragedy,stage,Coordinates,SIMILAR,probe,1.0
+2,19,squadron,aircraft,,,Collection:Member,PART-WHOLE,example,
+2,19,cast,actor,,,Collection:Member,PART-WHOLE,example,
+2,19,garden,plant,,,Collection:Member,PART-WHOLE,example,
+2,19,album,song,,,Collection:Member,PART-WHOLE,example,
+2,19,archipelago,island,island,coast,Collection:Member,PART-WHOLE,probe,1.0
+3,34,hug,comfort,,,Instrument:Goal,CAUSE-PURPOSE,example,
+3,34,map,guidance,,,Instrument:Goal,CAUSE-PURPOSE,example,
+3,34,law,order,,,Instrument:Goal,CAUSE-PURPOSE,example,
+3,34,stretching,flexibility,,,Instrument:Goal,CAUSE-PURPOSE,example,
+3,34,polish,shine,smoothness,shine,Instrument:Goal,CAUSE-PURPOSE,probe,2.0
+4,-1,baseline,baseline,,,baseline,baseline,baseline,
+5,19,portfolio,investment,,,Collection:Member,PART-WHOLE,example,
+5,19,quiver,arrow,,,Collection:Member,PART-WHOLE,example,
+5,19,dictionary,entry,,,Collection:Member,PART-WHOLE,example,
+5,19,band,musician,,,Collection:Member,PART-WHOLE,example,
+5,19,catalog,product,product,mail,Collection:Member,PART-WHOLE,probe,1.0
+6,51,policeman,steal,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+6,51,murderer,help,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+6,51,dog,purr,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+6,51,baby,dance,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+6,51,doctor,hurt,treat,hurt,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,probe,2.0
+7,34,investment,profit,,,Instrument:Goal,CAUSE-PURPOSE,example,
+7,34,discipline,obedience,,,Instrument:Goal,CAUSE-PURPOSE,example,
+7,34,steroids,strength,,,Instrument:Goal,CAUSE-PURPOSE,example,
+7,34,music,enjoyment,,,Instrument:Goal,CAUSE-PURPOSE,example,
+7,34,education,enlightenment,debt,enlightenment,Instrument:Goal,CAUSE-PURPOSE,probe,2.0
+8,19,company,employee,,,Collection:Member,PART-WHOLE,example,
+8,19,league,team,,,Collection:Member,PART-WHOLE,example,
+8,19,batch,cookie,,,Collection:Member,PART-WHOLE,example,
+8,19,series,episode,,,Collection:Member,PART-WHOLE,example,
+8,19,convoy,truck,cargo,truck,Collection:Member,PART-WHOLE,probe,2.0
+9,-1,baseline,baseline,,,baseline,baseline,baseline,
+10,51,tortoise,gallop,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+10,51,convict,behave,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+10,51,statue,bend,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+10,51,diplomat,insult,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+10,51,dictator,resign,control,resign,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,probe,2.0
+11,34,mirror,reflection,,,Instrument:Goal,CAUSE-PURPOSE,example,
+11,34,bridge,passage,,,Instrument:Goal,CAUSE-PURPOSE,example,
+11,34,fan,cooling,,,Instrument:Goal,CAUSE-PURPOSE,example,
+11,34,practice,mastery,,,Instrument:Goal,CAUSE-PURPOSE,example,
+11,34,sunscreen,protection,protection,tan,Instrument:Goal,CAUSE-PURPOSE,probe,1.0
+12,23,canoe,kayak,,,Coordinates,SIMILAR,example,
+12,23,rice,pasta,,,Coordinates,SIMILAR,example,
+12,23,piano,organ,,,Coordinates,SIMILAR,example,
+12,23,pillow,mattress,,,Coordinates,SIMILAR,example,
+12,23,almond,pecan,trail mix,pecan,Coordinates,SIMILAR,probe,2.0
+13,-1,baseline,baseline,,,baseline,baseline,baseline,
+14,34,punch,pain,,,Instrument:Goal,CAUSE-PURPOSE,example,
+14,34,joke,laughter,,,Instrument:Goal,CAUSE-PURPOSE,example,
+14,34,umbrella,dryness,,,Instrument:Goal,CAUSE-PURPOSE,example,
+14,34,research,discovery,,,Instrument:Goal,CAUSE-PURPOSE,example,
+14,34,salt,flavor,spiciness,flavor,Instrument:Goal,CAUSE-PURPOSE,probe,2.0
+15,23,rooster,hen,,,Coordinates,SIMILAR,example,
+15,23,king,queen,,,Coordinates,SIMILAR,example,
+15,23,trumpet,trombone,,,Coordinates,SIMILAR,example,
+15,23,hawk,eagle,,,Coordinates,SIMILAR,example,
+15,23,boat,ship,vessel,ship,Coordinates,SIMILAR,probe,2.0
+16,19,crew,sailor,,,Collection:Member,PART-WHOLE,example,
+16,19,medley,tune,,,Collection:Member,PART-WHOLE,example,
+16,19,pack,wolf,,,Collection:Member,PART-WHOLE,example,
+16,19,troupe,dancer,,,Collection:Member,PART-WHOLE,example,
+16,19,reef,coral,diver,coral,Collection:Member,PART-WHOLE,probe,2.0
+17,51,optimist,despair,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+17,51,fish,fly,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+17,51,conservationist,pollute,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+17,51,rock,grow,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+17,51,stone,float,sink,float,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,probe,2.0
+18,-1,baseline,baseline,,,baseline,baseline,baseline,
+19,23,tennis,badminton,,,Coordinates,SIMILAR,example,
+19,23,chair,stool,,,Coordinates,SIMILAR,example,
+19,23,nephew,niece,,,Coordinates,SIMILAR,example,
+19,23,truck,van,,,Coordinates,SIMILAR,example,
+19,23,alligator,crocodile,crocodile,swamp,Coordinates,SIMILAR,probe,1.0
+20,51,cactus,wilt,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+20,51,martyr,surrender,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+20,51,perfectionist,rush,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+20,51,pessimist,hope,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+20,51,mountain,move,move,erode,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,probe,1.0
+21,-1,baseline,baseline,,,baseline,baseline,baseline,
+22,34,battery,power,,,Instrument:Goal,CAUSE-PURPOSE,example,
+22,34,study,knowledge,,,Instrument:Goal,CAUSE-PURPOSE,example,
+22,34,compliment,pleasure,,,Instrument:Goal,CAUSE-PURPOSE,example,
+22,34,curtain,privacy,,,Instrument:Goal,CAUSE-PURPOSE,example,
+22,34,dog,companionship,companionship,loyalty,Instrument:Goal,CAUSE-PURPOSE,probe,1.0
+23,23,lettuce,spinach,,,Coordinates,SIMILAR,example,
+23,23,son,daughter,,,Coordinates,SIMILAR,example,
+23,23,couch,recliner,,,Coordinates,SIMILAR,example,
+23,23,rose,tulip,,,Coordinates,SIMILAR,example,
+23,23,spring,autumn,march,autumn,Coordinates,SIMILAR,probe,2.0
+24,19,jury,juror,,,Collection:Member,PART-WHOLE,example,
+24,19,vocabulary,word,,,Collection:Member,PART-WHOLE,example,
+24,19,pride,lion,,,Collection:Member,PART-WHOLE,example,
+24,19,army,soldier,,,Collection:Member,PART-WHOLE,example,
+24,19,stanza,line,notebook,line,Collection:Member,PART-WHOLE,probe,2.0
+25,51,worm,jump,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+25,51,child,work,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+25,51,philanthropist,hoard,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+25,51,liar,confess,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+25,51,snake,run,run,slither,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,probe,1.0

@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,34,compass,navigation,,,Instrument:Goal,CAUSE-PURPOSE,example,
+1,34,soap,cleanliness,,,Instrument:Goal,CAUSE-PURPOSE,example,
+1,34,sermon,faith,,,Instrument:Goal,CAUSE-PURPOSE,example,
+1,34,propaganda,persuasion,,,Instrument:Goal,CAUSE-PURPOSE,example,
+1,34,siren,attention,panic,attention,Instrument:Goal,CAUSE-PURPOSE,probe,2.0
+2,4,execute,criminal,,,Action:Object,CASE RELATIONS,example,
+2,4,carve,turkey,,,Action:Object,CASE RELATIONS,example,
+2,4,hunt,deer,,,Action:Object,CASE RELATIONS,example,
+2,4,tie,knot,,,Action:Object,CASE RELATIONS,example,
+2,4,chant,prayer,prayer,temple,Action:Object,CASE RELATIONS,probe,1.0
+3,12,vet,animal,,,Agent:Recipient,CASE RELATIONS,example,
+3,12,caterer,client,,,Agent:Recipient,CASE RELATIONS,example,
+3,12,broadcaster,viewer,,,Agent:Recipient,CASE RELATIONS,example,
+3,12,landlord,tenant,,,Agent:Recipient,CASE RELATIONS,example,
+3,12,courier,recipient,recipient,warehouse,Agent:Recipient,CASE RELATIONS,probe,1.0
+4,34,candle,ambiance,,,Instrument:Goal,CAUSE-PURPOSE,example,
+4,34,helmet,safety,,,Instrument:Goal,CAUSE-PURPOSE,example,
+4,34,reward,motivation,,,Instrument:Goal,CAUSE-PURPOSE,example,
+4,34,trophy,recognition,,,Instrument:Goal,CAUSE-PURPOSE,example,
+4,34,stretching,flexibility,mat,flexibility,Instrument:Goal,CAUSE-PURPOSE,probe,2.0
+5,-1,baseline,baseline,,,baseline,baseline,baseline,
+6,43,wounded,dead,,,Object Attribute:Condition,ATTRIBUTE,example,
+6,43,forgettable,forgotten,,,Object Attribute:Condition,ATTRIBUTE,example,
+6,43,frozen,thawed,,,Object Attribute:Condition,ATTRIBUTE,example,
+6,43,perishable,spoiled,,,Object Attribute:Condition,ATTRIBUTE,example,
+6,43,soft,cuddled,sliced,cuddled,Object Attribute:Condition,ATTRIBUTE,probe,2.0
+7,12,social worker,family,,,Agent:Recipient,CASE RELATIONS,example,
+7,12,politician,constituent,,,Agent:Recipient,CASE RELATIONS,example,
+7,12,firefighter,victim,,,Agent:Recipient,CASE RELATIONS,example,
+7,12,dentist,patient,,,Agent:Recipient,CASE RELATIONS,example,
+7,12,guide,tourist,ranger,tourist,Agent:Recipient,CASE RELATIONS,probe,2.0
+8,4,sharpen,knife,,,Action:Object,CASE RELATIONS,example,
+8,4,shovel,snow,,,Action:Object,CASE RELATIONS,example,
+8,4,load,truck,,,Action:Object,CASE RELATIONS,example,
+8,4,nurse,baby,,,Action:Object,CASE RELATIONS,example,
+8,4,open,window,window,handle,Action:Object,CASE RELATIONS,probe,1.0
+9,34,lock,security,,,Instrument:Goal,CAUSE-PURPOSE,example,
+9,34,camouflage,concealment,,,Instrument:Goal,CAUSE-PURPOSE,example,
+9,34,apology,forgiveness,,,Instrument:Goal,CAUSE-PURPOSE,example,
+9,34,paint,color,,,Instrument:Goal,CAUSE-PURPOSE,example,
+9,34,polish,shine,shoe,shine,Instrument:Goal,CAUSE-PURPOSE,probe,2.0
+10,43,wooden,burned,,,Object Attribute:Condition,ATTRIBUTE,example,
+10,43,dusty,dusted,,,Object Attribute:Condition,ATTRIBUTE,example,
+10,43,leaky,patched,,,Object Attribute:Condition,ATTRIBUTE,example,
+10,43,complicated,simplified,,,Object Attribute:Condition,ATTRIBUTE,example,
+10,43,light,carried,carrying,carried,Object Attribute:Condition,ATTRIBUTE,probe,2.0
+11,-1,baseline,baseline,,,baseline,baseline,baseline,
+12,4,climb,mountain,,,Action:Object,CASE RELATIONS,example,
+12,4,lock,gate,,,Action:Object,CASE RELATIONS,example,
+12,4,drive,car,,,Action:Object,CASE RELATIONS,example,
+12,4,brush,teeth,,,Action:Object,CASE RELATIONS,example,
+12,4,toss,coin,fountain,coin,Action:Object,CASE RELATIONS,probe,2.0
+13,43,recyclable,recycled,,,Object Attribute:Condition,ATTRIBUTE,example,
+13,43,available,taken,,,Object Attribute:Condition,ATTRIBUTE,example,
+13,43,fragrant,smelled,,,Object Attribute:Condition,ATTRIBUTE,example,
+13,43,empty,filled,,,Object Attribute:Condition,ATTRIBUTE,example,
+13,43,stained,bleached,ironed,bleached,Object Attribute:Condition,ATTRIBUTE,probe,2.0
+14,-1,baseline,baseline,,,baseline,baseline,baseline,
+15,12,florist,customer,,,Agent:Recipient,CASE RELATIONS,example,
+15,12,teacher,student,,,Agent:Recipient,CASE RELATIONS,example,
+15,12,orator,audience,,,Agent:Recipient,CASE RELATIONS,example,
+15,12,mechanic,customer,,,Agent:Recipient,CASE RELATIONS,example,
+15,12,mentor,protégé,protégé,colleague,Agent:Recipient,CASE RELATIONS,probe,1.0
+16,34,key,access,,,Instrument:Goal,CAUSE-PURPOSE,example,
+16,34,lullaby,sleep,,,Instrument:Goal,CAUSE-PURPOSE,example,
+16,34,alarm,wakefulness,,,Instrument:Goal,CAUSE-PURPOSE,example,
+16,34,tax,revenue,,,Instrument:Goal,CAUSE-PURPOSE,example,
+16,34,salt,flavor,flavor,thirst,Instrument:Goal,CAUSE-PURPOSE,probe,1.0
+17,43,reparable,fixed,,,Object Attribute:Condition,ATTRIBUTE,example,
+17,43,malleable,shaped,,,Object Attribute:Condition,ATTRIBUTE,example,
+17,43,long,shortened,,,Object Attribute:Condition,ATTRIBUTE,example,
+17,43,cold,frozen,,,Object Attribute:Condition,ATTRIBUTE,example,
+17,43,portable,moved,moved,suitcase,Object Attribute:Condition,ATTRIBUTE,probe,1.0
+18,-1,baseline,baseline,,,baseline,baseline,baseline,
+19,34,protest,change,,,Instrument:Goal,CAUSE-PURPOSE,example,
+19,34,coat,warmth,,,Instrument:Goal,CAUSE-PURPOSE,example,
+19,34,threat,intimidation,,,Instrument:Goal,CAUSE-PURPOSE,example,
+19,34,dog,companionship,,,Instrument:Goal,CAUSE-PURPOSE,example,
+19,34,diplomacy,peace,peace,summit,Instrument:Goal,CAUSE-PURPOSE,probe,1.0
+20,4,trim,hedge,,,Action:Object,CASE RELATIONS,example,
+20,4,ring,bell,,,Action:Object,CASE RELATIONS,example,
+20,4,set,table,,,Action:Object,CASE RELATIONS,example,
+20,4,brew,coffee,,,Action:Object,CASE RELATIONS,example,
+20,4,solve,puzzle,hint,puzzle,Action:Object,CASE RELATIONS,probe,2.0
+21,12,manufacturer,consumer,,,Agent:Recipient,CASE RELATIONS,example,
+21,12,professor,student,,,Agent:Recipient,CASE RELATIONS,example,
+21,12,donor,charity,,,Agent:Recipient,CASE RELATIONS,example,
+21,12,lender,borrower,,,Agent:Recipient,CASE RELATIONS,example,
+21,12,ranger,hiker,national park,hiker,Agent:Recipient,CASE RELATIONS,probe,2.0
+22,-1,baseline,baseline,,,baseline,baseline,baseline,
+23,43,adjustable,modified,,,Object Attribute:Condition,ATTRIBUTE,example,
+23,43,readable,read,,,Object Attribute:Condition,ATTRIBUTE,example,
+23,43,breakable,broken,,,Object Attribute:Condition,ATTRIBUTE,example,
+23,43,memorable,remembered,,,Object Attribute:Condition,ATTRIBUTE,example,
+23,43,detachable,removed,removed,removing,Object Attribute:Condition,ATTRIBUTE,probe,1.0
+24,4,operate,machine,,,Action:Object,CASE RELATIONS,example,
+24,4,ride,horse,,,Action:Object,CASE RELATIONS,example,
+24,4,push,cart,,,Action:Object,CASE RELATIONS,example,
+24,4,file,report,,,Action:Object,CASE RELATIONS,example,
+24,4,plow,field,barn,field,Action:Object,CASE RELATIONS,probe,2.0
+25,12,coach,player,,,Agent:Recipient,CASE RELATIONS,example,
+25,12,father,son,,,Agent:Recipient,CASE RELATIONS,example,
+25,12,employer,worker,,,Agent:Recipient,CASE RELATIONS,example,
+25,12,driver,rider,,,Agent:Recipient,CASE RELATIONS,example,
+25,12,grandmother,grandchild,grandfather,grandchild,Agent:Recipient,CASE RELATIONS,probe,2.0

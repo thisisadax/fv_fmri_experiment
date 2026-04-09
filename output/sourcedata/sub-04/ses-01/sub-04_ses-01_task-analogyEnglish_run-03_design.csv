@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,27,copy,plagiarize,,,Dimensional Naughty,SIMILAR,example,
+1,27,employ,enslave,,,Dimensional Naughty,SIMILAR,example,
+1,27,encourage,pressure,,,Dimensional Naughty,SIMILAR,example,
+1,27,manage,micromanage,,,Dimensional Naughty,SIMILAR,example,
+1,27,joke,mock,mock,humor,Dimensional Naughty,SIMILAR,probe,1.0
+2,38,baby,bald,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+2,38,cheetah,swift,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+2,38,whale,enormous,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+2,38,cactus,prickly,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+2,38,clown,funny,silly,funny,ItemAttribute(noun:adjective),ATTRIBUTE,probe,2.0
+3,22,stranger,friend,,,Conversion,SIMILAR,example,
+3,22,prince,king,,,Conversion,SIMILAR,example,
+3,22,piglet,pig,,,Conversion,SIMILAR,example,
+3,22,acorn,oak,,,Conversion,SIMILAR,example,
+3,22,student,graduate,graduate,homework,Conversion,SIMILAR,probe,1.0
+4,-1,baseline,baseline,,,baseline,baseline,baseline,
+5,27,ask,interrogate,,,Dimensional Naughty,SIMILAR,example,
+5,27,protect,smother,,,Dimensional Naughty,SIMILAR,example,
+5,27,tap,pound,,,Dimensional Naughty,SIMILAR,example,
+5,27,sell,scam,,,Dimensional Naughty,SIMILAR,example,
+5,27,pat,slap,slap,shoulder,Dimensional Naughty,SIMILAR,probe,1.0
+6,22,girlfriend,wife,,,Conversion,SIMILAR,example,
+6,22,lava,rock,,,Conversion,SIMILAR,example,
+6,22,cotton,fabric,,,Conversion,SIMILAR,example,
+6,22,flower,fruit,,,Conversion,SIMILAR,example,
+6,22,charcoal,ashes,ashes,soot,Conversion,SIMILAR,probe,1.0
+7,-1,baseline,baseline,,,baseline,baseline,baseline,
+8,38,skunk,smelly,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+8,38,lemon,sour,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+8,38,priest,holy,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+8,38,universe,vast,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+8,38,prince,charming,brave,charming,ItemAttribute(noun:adjective),ATTRIBUTE,probe,2.0
+9,51,tree,walk,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+9,51,cactus,wilt,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+9,51,statue,bend,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+9,51,mentor,mislead,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+9,51,murderer,help,kill,help,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,probe,2.0
+10,22,yarn,sweater,,,Conversion,SIMILAR,example,
+10,22,iron,steel,,,Conversion,SIMILAR,example,
+10,22,orange,juice,,,Conversion,SIMILAR,example,
+10,22,cabbage,sauerkraut,,,Conversion,SIMILAR,example,
+10,22,wool,yarn,yarn,knitting,Conversion,SIMILAR,probe,1.0
+11,-1,baseline,baseline,,,baseline,baseline,baseline,
+12,51,mountain,move,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+12,51,hero,cower,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+12,51,judge,lie,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+12,51,loyalist,defect,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+12,51,stoic,complain,complain,withstand,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,probe,1.0
+13,27,acquire,seize,,,Dimensional Naughty,SIMILAR,example,
+13,27,discuss,rant,,,Dimensional Naughty,SIMILAR,example,
+13,27,look,glare,,,Dimensional Naughty,SIMILAR,example,
+13,27,edit,censor,,,Dimensional Naughty,SIMILAR,example,
+13,27,question,badger,ask,badger,Dimensional Naughty,SIMILAR,probe,2.0
+14,38,iron,hard,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+14,38,elephant,huge,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+14,38,coffee,bitter,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+14,38,sky,blue,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+14,38,lake,calm,calm,dock,ItemAttribute(noun:adjective),ATTRIBUTE,probe,1.0
+15,51,scholar,cheat,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+15,51,worm,jump,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+15,51,recluse,mingle,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+15,51,philanthropist,hoard,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+15,51,pacifist,fight,negotiate,fight,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,probe,2.0
+16,22,bud,flower,,,Conversion,SIMILAR,example,
+16,22,girl,woman,,,Conversion,SIMILAR,example,
+16,22,maggot,fly,,,Conversion,SIMILAR,example,
+16,22,wheat,flour,,,Conversion,SIMILAR,example,
+16,22,apple,cider,orchard,cider,Conversion,SIMILAR,probe,2.0
+17,-1,baseline,baseline,,,baseline,baseline,baseline,
+18,51,gentleman,belch,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+18,51,perfectionist,rush,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+18,51,optimist,despair,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+18,51,tortoise,gallop,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+18,51,conservationist,pollute,pollute,protect,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,probe,1.0
+19,38,chalk,white,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+19,38,light,bright,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+19,38,athlete,fit,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+19,38,night,dark,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+19,38,jungle,dense,dense,wild,ItemAttribute(noun:adjective),ATTRIBUTE,probe,1.0
+20,27,sip,guzzle,,,Dimensional Naughty,SIMILAR,example,
+20,27,share,expose,,,Dimensional Naughty,SIMILAR,example,
+20,27,negotiate,blackmail,,,Dimensional Naughty,SIMILAR,example,
+20,27,borrow,steal,,,Dimensional Naughty,SIMILAR,example,
+20,27,visit,stalk,trail,stalk,Dimensional Naughty,SIMILAR,probe,2.0
+21,-1,baseline,baseline,,,baseline,baseline,baseline,
+22,38,mountain,massive,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+22,38,tornado,violent,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+22,38,villain,evil,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+22,38,vinegar,acidic,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+22,38,tycoon,wealthy,wealthy,boardroom,ItemAttribute(noun:adjective),ATTRIBUTE,probe,1.0
+23,22,tree,paper,,,Conversion,SIMILAR,example,
+23,22,sand,glass,,,Conversion,SIMILAR,example,
+23,22,water,steam,,,Conversion,SIMILAR,example,
+23,22,seedling,tree,,,Conversion,SIMILAR,example,
+23,22,milk,cheese,fridge,cheese,Conversion,SIMILAR,probe,2.0
+24,51,billionaire,beg,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+24,51,bodyguard,flee,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+24,51,anchor,drift,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+24,51,snake,run,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+24,51,minimalist,collect,collect,discard,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,probe,1.0
+25,27,hunt,poach,,,Dimensional Naughty,SIMILAR,example,
+25,27,touch,grope,,,Dimensional Naughty,SIMILAR,example,
+25,27,persuade,coerce,,,Dimensional Naughty,SIMILAR,example,
+25,27,lead,dictate,,,Dimensional Naughty,SIMILAR,example,
+25,27,correct,berate,berate,scold,Dimensional Naughty,SIMILAR,probe,1.0

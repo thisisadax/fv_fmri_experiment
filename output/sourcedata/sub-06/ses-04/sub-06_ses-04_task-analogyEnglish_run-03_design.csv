@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,52,charter,organization,,,Plan,REFERENCE,example,
+1,52,regimen,fitness,,,Plan,REFERENCE,example,
+1,52,strategy,attack,,,Plan,REFERENCE,example,
+1,52,storyboard,animation,,,Plan,REFERENCE,example,
+1,52,outline,composition,desk,composition,Plan,REFERENCE,probe,2.0
+2,22,clay,pottery,,,Conversion,SIMILAR,example,
+2,22,girl,woman,,,Conversion,SIMILAR,example,
+2,22,apple,cider,,,Conversion,SIMILAR,example,
+2,22,prototype,product,,,Conversion,SIMILAR,example,
+2,22,cocoa,chocolate,chocolate,bean,Conversion,SIMILAR,probe,1.0
+3,62,spring,rain,,,Time Associated Item,SPACE-TIME,example,
+3,62,vacation,suitcase,,,Time Associated Item,SPACE-TIME,example,
+3,62,death,coffin,,,Time Associated Item,SPACE-TIME,example,
+3,62,dawn,rooster,,,Time Associated Item,SPACE-TIME,example,
+3,62,election day,ballot,invoice,ballot,Time Associated Item,SPACE-TIME,probe,2.0
+4,0,ignite,burn,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+4,0,spy,inform,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+4,0,rest,recover,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+4,0,cook,eat,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+4,0,study,learn,learn,textbook,Action/Activity:Goal,CAUSE-PURPOSE,probe,1.0
+5,-1,baseline,baseline,,,baseline,baseline,baseline,
+6,52,scheme,heist,,,Plan,REFERENCE,example,
+6,52,score,ballet,,,Plan,REFERENCE,example,
+6,52,proof,publication,,,Plan,REFERENCE,example,
+6,52,rubric,grading,,,Plan,REFERENCE,example,
+6,52,demo,album,album,sample,Plan,REFERENCE,probe,1.0
+7,62,adolescence,acne,,,Time Associated Item,SPACE-TIME,example,
+7,62,pregnancy,ultrasound,,,Time Associated Item,SPACE-TIME,example,
+7,62,Hanukkah,menorah,,,Time Associated Item,SPACE-TIME,example,
+7,62,summer,sunscreen,,,Time Associated Item,SPACE-TIME,example,
+7,62,afternoon,nap,dinner,nap,Time Associated Item,SPACE-TIME,probe,2.0
+8,-1,baseline,baseline,,,baseline,baseline,baseline,
+9,52,blueprint,house,,,Plan,REFERENCE,example,
+9,52,route,delivery,,,Plan,REFERENCE,example,
+9,52,draft,speech,,,Plan,REFERENCE,example,
+9,52,rules,game,,,Plan,REFERENCE,example,
+9,52,playbook,football,helmet,football,Plan,REFERENCE,probe,2.0
+10,22,water,steam,,,Conversion,SIMILAR,example,
+10,22,child,adult,,,Conversion,SIMILAR,example,
+10,22,orange,juice,,,Conversion,SIMILAR,example,
+10,22,milk,cheese,,,Conversion,SIMILAR,example,
+10,22,iron,steel,steel,rust,Conversion,SIMILAR,probe,1.0
+11,-1,baseline,baseline,,,baseline,baseline,baseline,
+12,62,adulthood,independence,,,Time Associated Item,SPACE-TIME,example,
+12,62,infancy,bottle,,,Time Associated Item,SPACE-TIME,example,
+12,62,Christmas,presents,,,Time Associated Item,SPACE-TIME,example,
+12,62,funeral,wreath,,,Time Associated Item,SPACE-TIME,example,
+12,62,school,homework,homework,diapers,Time Associated Item,SPACE-TIME,probe,1.0
+13,0,sharpen,cut,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+13,0,encrypt,protect,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+13,0,save,afford,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+13,0,dance,celebrate,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+13,0,sail,explore,explore,navigate,Action/Activity:Goal,CAUSE-PURPOSE,probe,1.0
+14,22,student,graduate,,,Conversion,SIMILAR,example,
+14,22,olive,oil,,,Conversion,SIMILAR,example,
+14,22,sugar,caramel,,,Conversion,SIMILAR,example,
+14,22,toddler,child,,,Conversion,SIMILAR,example,
+14,22,boyfriend,husband,husband,romance,Conversion,SIMILAR,probe,1.0
+15,52,pilot,series,,,Plan,REFERENCE,example,
+15,52,template,document,,,Plan,REFERENCE,example,
+15,52,checklist,inspection,,,Plan,REFERENCE,example,
+15,52,setlist,concert,,,Plan,REFERENCE,example,
+15,52,tactic,defense,defense,shield,Plan,REFERENCE,probe,1.0
+16,62,college,degree,,,Time Associated Item,SPACE-TIME,example,
+16,62,childhood,crayon,,,Time Associated Item,SPACE-TIME,example,
+16,62,Valentine's Day,chocolate,,,Time Associated Item,SPACE-TIME,example,
+16,62,blizzard,shovel,,,Time Associated Item,SPACE-TIME,example,
+16,62,bedtime,pajamas,pajamas,backpack,Time Associated Item,SPACE-TIME,probe,1.0
+17,0,flirt,seduce,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+17,0,medicate,heal,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+17,0,ambush,capture,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+17,0,market,sell,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+17,0,fight,defend,defend,shield,Action/Activity:Goal,CAUSE-PURPOSE,probe,1.0
+18,-1,baseline,baseline,,,baseline,baseline,baseline,
+19,22,piglet,pig,,,Conversion,SIMILAR,example,
+19,22,idea,patent,,,Conversion,SIMILAR,example,
+19,22,cream,butter,,,Conversion,SIMILAR,example,
+19,22,bill,law,,,Conversion,SIMILAR,example,
+19,22,wool,yarn,knitting,yarn,Conversion,SIMILAR,probe,2.0
+20,0,sing,entertain,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+20,0,shoot,kill,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+20,0,work,earn,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+20,0,reach,hold,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+20,0,whisper,conceal,secret,conceal,Action/Activity:Goal,CAUSE-PURPOSE,probe,2.0
+21,-1,baseline,baseline,,,baseline,baseline,baseline,
+22,22,petroleum,plastic,,,Conversion,SIMILAR,example,
+22,22,draft,essay,,,Conversion,SIMILAR,example,
+22,22,compost,fertilizer,,,Conversion,SIMILAR,example,
+22,22,stranger,friend,,,Conversion,SIMILAR,example,
+22,22,colt,horse,donkey,horse,Conversion,SIMILAR,probe,2.0
+23,62,elderly,cane,,,Time Associated Item,SPACE-TIME,example,
+23,62,parenthood,diapers,,,Time Associated Item,SPACE-TIME,example,
+23,62,harvest,scarecrow,,,Time Associated Item,SPACE-TIME,example,
+23,62,winter,snow,,,Time Associated Item,SPACE-TIME,example,
+23,62,puberty,hormones,hormones,menopause,Time Associated Item,SPACE-TIME,probe,1.0
+24,0,brake,stop,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+24,0,freeze,preserve,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+24,0,borrow,use,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+24,0,bathe,clean,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+24,0,advertise,promote,agency,promote,Action/Activity:Goal,CAUSE-PURPOSE,probe,2.0
+25,52,schedule,event,,,Plan,REFERENCE,example,
+25,52,menu,dinner,,,Plan,REFERENCE,example,
+25,52,layout,magazine,,,Plan,REFERENCE,example,
+25,52,agenda,meeting,,,Plan,REFERENCE,example,
+25,52,formation,offense,offense,defense,Plan,REFERENCE,probe,1.0

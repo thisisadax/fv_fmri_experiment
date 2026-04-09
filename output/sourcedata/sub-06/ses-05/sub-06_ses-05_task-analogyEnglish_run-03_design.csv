@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,41,ranch,cattle,,,Location:Process/Product,SPACE-TIME,example,
+1,41,bedroom,sleep,,,Location:Process/Product,SPACE-TIME,example,
+1,41,park,recreation,,,Location:Process/Product,SPACE-TIME,example,
+1,41,mint,coins,,,Location:Process/Product,SPACE-TIME,example,
+1,41,bank,loans,vault,loans,Location:Process/Product,SPACE-TIME,probe,2.0
+2,28,soup,stew,,,Dimensional Similarity,SIMILAR,example,
+2,28,envy,jealousy,,,Dimensional Similarity,SIMILAR,example,
+2,28,weep,cry,,,Dimensional Similarity,SIMILAR,example,
+2,28,alligator,crocodile,,,Dimensional Similarity,SIMILAR,example,
+2,28,boat,ship,ship,harbor,Dimensional Similarity,SIMILAR,probe,1.0
+3,-1,baseline,baseline,,,baseline,baseline,baseline,
+4,1,rest,restorative,,,Action:Action Attribute,ATTRIBUTE,example,
+4,1,sigh,weary,,,Action:Action Attribute,ATTRIBUTE,example,
+4,1,nurture,caring,,,Action:Action Attribute,ATTRIBUTE,example,
+4,1,betray,disloyal,,,Action:Action Attribute,ATTRIBUTE,example,
+4,1,pamper,indulgent,indulgent,gentle,Action:Action Attribute,ATTRIBUTE,probe,1.0
+5,36,widower,wife,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+5,36,riverbed,water,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+5,36,drought,rain,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+5,36,survivor,illness,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+5,36,carcass,warmth,smell,warmth,Item:Ex-part/Ex-possession,PART-WHOLE,probe,2.0
+6,28,lamp,lantern,,,Dimensional Similarity,SIMILAR,example,
+6,28,toast,bake,,,Dimensional Similarity,SIMILAR,example,
+6,28,surprise,shock,,,Dimensional Similarity,SIMILAR,example,
+6,28,eagle,hawk,,,Dimensional Similarity,SIMILAR,example,
+6,28,horse,pony,saddle,pony,Dimensional Similarity,SIMILAR,probe,2.0
+7,1,sprint,quick,,,Action:Action Attribute,ATTRIBUTE,example,
+7,1,mock,cruel,,,Action:Action Attribute,ATTRIBUTE,example,
+7,1,sleep,restful,,,Action:Action Attribute,ATTRIBUTE,example,
+7,1,sob,emotional,,,Action:Action Attribute,ATTRIBUTE,example,
+7,1,smile,cheerful,cheerful,friendly,Action:Action Attribute,ATTRIBUTE,probe,1.0
+8,-1,baseline,baseline,,,baseline,baseline,baseline,
+9,41,vineyard,grapes,,,Location:Process/Product,SPACE-TIME,example,
+9,41,dojo,karate,,,Location:Process/Product,SPACE-TIME,example,
+9,41,auditorium,lecture,,,Location:Process/Product,SPACE-TIME,example,
+9,41,distillery,whiskey,,,Location:Process/Product,SPACE-TIME,example,
+9,41,dairy,milk,churn,milk,Location:Process/Product,SPACE-TIME,probe,2.0
+10,36,man,boyhood,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+10,36,shipwreck,crew,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+10,36,rebel,obedience,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+10,36,predecessor,power,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+10,36,spendthrift,savings,shopping,savings,Item:Ex-part/Ex-possession,PART-WHOLE,probe,2.0
+11,28,hot,warm,,,Dimensional Similarity,SIMILAR,example,
+11,28,giggle,laugh,,,Dimensional Similarity,SIMILAR,example,
+11,28,bee,wasp,,,Dimensional Similarity,SIMILAR,example,
+11,28,wolf,coyote,,,Dimensional Similarity,SIMILAR,example,
+11,28,walk,stroll,stroll,step,Dimensional Similarity,SIMILAR,probe,1.0
+12,-1,baseline,baseline,,,baseline,baseline,baseline,
+13,41,refinery,gasoline,,,Location:Process/Product,SPACE-TIME,example,
+13,41,pasture,grazing,,,Location:Process/Product,SPACE-TIME,example,
+13,41,nest,egg,,,Location:Process/Product,SPACE-TIME,example,
+13,41,pool,swimming,,,Location:Process/Product,SPACE-TIME,example,
+13,41,clinic,treatment,patient,treatment,Location:Process/Product,SPACE-TIME,probe,2.0
+14,36,ghost,body,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+14,36,parolee,confinement,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+14,36,hermit,society,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+14,36,pensioner,work,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+14,36,refugee,home,camp,home,Item:Ex-part/Ex-possession,PART-WHOLE,probe,2.0
+15,28,blanket,quilt,,,Dimensional Similarity,SIMILAR,example,
+15,28,sofa,couch,,,Dimensional Similarity,SIMILAR,example,
+15,28,house,cottage,,,Dimensional Similarity,SIMILAR,example,
+15,28,shriek,scream,,,Dimensional Similarity,SIMILAR,example,
+15,28,bright,brilliant,lamp,brilliant,Dimensional Similarity,SIMILAR,probe,2.0
+16,1,laugh,happy,,,Action:Action Attribute,ATTRIBUTE,example,
+16,1,lunge,sudden,,,Action:Action Attribute,ATTRIBUTE,example,
+16,1,beg,desperate,,,Action:Action Attribute,ATTRIBUTE,example,
+16,1,chase,relentless,,,Action:Action Attribute,ATTRIBUTE,example,
+16,1,stumble,clumsy,trip,clumsy,Action:Action Attribute,ATTRIBUTE,probe,2.0
+17,-1,baseline,baseline,,,baseline,baseline,baseline,
+18,36,rubble,structure,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+18,36,senior,vitality,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+18,36,lunatic,sanity,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+18,36,retiree,job,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+18,36,chick,eggshell,eggshell,egg,Item:Ex-part/Ex-possession,PART-WHOLE,probe,1.0
+19,41,salon,haircut,,,Location:Process/Product,SPACE-TIME,example,
+19,41,studio,art,,,Location:Process/Product,SPACE-TIME,example,
+19,41,hive,honey,,,Location:Process/Product,SPACE-TIME,example,
+19,41,stage,performance,,,Location:Process/Product,SPACE-TIME,example,
+19,41,tannery,leather,leather,smelly,Location:Process/Product,SPACE-TIME,probe,1.0
+20,-1,baseline,baseline,,,baseline,baseline,baseline,
+21,1,flatter,insincere,,,Action:Action Attribute,ATTRIBUTE,example,
+21,1,gossip,petty,,,Action:Action Attribute,ATTRIBUTE,example,
+21,1,whisper,quiet,,,Action:Action Attribute,ATTRIBUTE,example,
+21,1,praise,encouraging,,,Action:Action Attribute,ATTRIBUTE,example,
+21,1,volunteer,selfless,helpful,selfless,Action:Action Attribute,ATTRIBUTE,probe,2.0
+22,36,elder,youth,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+22,36,addict,control,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+22,36,derelict,occupants,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+22,36,amnesiac,memories,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+22,36,slave,liberty,liberty,market,Item:Ex-part/Ex-possession,PART-WHOLE,probe,1.0
+23,41,arena,contest,,,Location:Process/Product,SPACE-TIME,example,
+23,41,theater,play,,,Location:Process/Product,SPACE-TIME,example,
+23,41,mine,coal,,,Location:Process/Product,SPACE-TIME,example,
+23,41,darkroom,photograph,,,Location:Process/Product,SPACE-TIME,example,
+23,41,warehouse,storage,storage,aisle,Location:Process/Product,SPACE-TIME,probe,1.0
+24,28,slice,cut,,,Dimensional Similarity,SIMILAR,example,
+24,28,painting,drawing,,,Dimensional Similarity,SIMILAR,example,
+24,28,sea,ocean,,,Dimensional Similarity,SIMILAR,example,
+24,28,oak,maple,,,Dimensional Similarity,SIMILAR,example,
+24,28,hill,mountain,valley,mountain,Dimensional Similarity,SIMILAR,probe,2.0
+25,1,browse,casual,,,Action:Action Attribute,ATTRIBUTE,example,
+25,1,rush,hurried,,,Action:Action Attribute,ATTRIBUTE,example,
+25,1,hoard,greedy,,,Action:Action Attribute,ATTRIBUTE,example,
+25,1,rescue,heroic,,,Action:Action Attribute,ATTRIBUTE,example,
+25,1,stroll,leisurely,park,leisurely,Action:Action Attribute,ATTRIBUTE,probe,2.0

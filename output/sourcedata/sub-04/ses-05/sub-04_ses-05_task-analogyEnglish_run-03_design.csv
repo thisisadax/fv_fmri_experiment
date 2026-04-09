@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,4,answer,question,,,Action:Object,CASE RELATIONS,example,
+1,4,mend,clothing,,,Action:Object,CASE RELATIONS,example,
+1,4,sing,song,,,Action:Object,CASE RELATIONS,example,
+1,4,ride,horse,,,Action:Object,CASE RELATIONS,example,
+1,4,chant,prayer,prayer,melody,Action:Object,CASE RELATIONS,probe,1.0
+2,33,bedding,blanket,,,Functional,CLASS-INCLUSION,example,
+2,33,decoration,wreath,,,Functional,CLASS-INCLUSION,example,
+2,33,weapon,sword,,,Functional,CLASS-INCLUSION,example,
+2,33,garment,skirt,,,Functional,CLASS-INCLUSION,example,
+2,33,beverage,water,straw,water,Functional,CLASS-INCLUSION,probe,2.0
+3,32,gape,astonishment,,,Expression,REFERENCE,example,
+3,32,jeer,scorn,,,Expression,REFERENCE,example,
+3,32,tap,impatience,,,Expression,REFERENCE,example,
+3,32,sneer,contempt,,,Expression,REFERENCE,example,
+3,32,blush,embarrassment,shyness,embarrassment,Expression,REFERENCE,probe,2.0
+4,-1,baseline,baseline,,,baseline,baseline,baseline,
+5,33,lever,crowbar,,,Functional,CLASS-INCLUSION,example,
+5,33,insulation,foam,,,Functional,CLASS-INCLUSION,example,
+5,33,cushion,pillow,,,Functional,CLASS-INCLUSION,example,
+5,33,meat,ham,,,Functional,CLASS-INCLUSION,example,
+5,33,spice,cinnamon,sugar,cinnamon,Functional,CLASS-INCLUSION,probe,2.0
+6,13,blunt,pointed,,,Asymmetric Contrary,CONTRAST,example,
+6,13,inept,capable,,,Asymmetric Contrary,CONTRAST,example,
+6,13,intoxicated,sober,,,Asymmetric Contrary,CONTRAST,example,
+6,13,vast,narrow,,,Asymmetric Contrary,CONTRAST,example,
+6,13,worthless,useful,useful,useless,Asymmetric Contrary,CONTRAST,probe,1.0
+7,4,vacuum,carpet,,,Action:Object,CASE RELATIONS,example,
+7,4,act,scene,,,Action:Object,CASE RELATIONS,example,
+7,4,drain,tub,,,Action:Object,CASE RELATIONS,example,
+7,4,steer,ship,,,Action:Object,CASE RELATIONS,example,
+7,4,brush,teeth,teeth,sink,Action:Object,CASE RELATIONS,probe,1.0
+8,32,slouch,laziness,,,Expression,REFERENCE,example,
+8,32,clap,approval,,,Expression,REFERENCE,example,
+8,32,laughter,amusement,,,Expression,REFERENCE,example,
+8,32,bow,respect,,,Expression,REFERENCE,example,
+8,32,taunt,mockery,playground,mockery,Expression,REFERENCE,probe,2.0
+9,-1,baseline,baseline,,,baseline,baseline,baseline,
+10,13,hideous,attractive,,,Asymmetric Contrary,CONTRAST,example,
+10,13,lethal,safe,,,Asymmetric Contrary,CONTRAST,example,
+10,13,effortless,challenging,,,Asymmetric Contrary,CONTRAST,example,
+10,13,feeble,strong,,,Asymmetric Contrary,CONTRAST,example,
+10,13,harmless,risky,risky,safe,Asymmetric Contrary,CONTRAST,probe,1.0
+11,32,stomp,frustration,,,Expression,REFERENCE,example,
+11,32,scream,terror,,,Expression,REFERENCE,example,
+11,32,hum,contentment,,,Expression,REFERENCE,example,
+11,32,snub,disdain,,,Expression,REFERENCE,example,
+11,32,salute,deference,deference,respect,Expression,REFERENCE,probe,1.0
+12,4,bake,cake,,,Action:Object,CASE RELATIONS,example,
+12,4,hunt,deer,,,Action:Object,CASE RELATIONS,example,
+12,4,row,boat,,,Action:Object,CASE RELATIONS,example,
+12,4,slay,dragon,,,Action:Object,CASE RELATIONS,example,
+12,4,wrap,gift,gift,ribbon,Action:Object,CASE RELATIONS,probe,1.0
+13,13,terrified,brave,,,Asymmetric Contrary,CONTRAST,example,
+13,13,earsplitting,quiet,,,Asymmetric Contrary,CONTRAST,example,
+13,13,arrogant,humble,,,Asymmetric Contrary,CONTRAST,example,
+13,13,sickly,healthy,,,Asymmetric Contrary,CONTRAST,example,
+13,13,catastrophic,beneficial,ruin,beneficial,Asymmetric Contrary,CONTRAST,probe,2.0
+14,33,storage,closet,,,Functional,CLASS-INCLUSION,example,
+14,33,bandage,gauze,,,Functional,CLASS-INCLUSION,example,
+14,33,dish,plate,,,Functional,CLASS-INCLUSION,example,
+14,33,jewelry,bracelet,,,Functional,CLASS-INCLUSION,example,
+14,33,polish,wax,wax,scent,Functional,CLASS-INCLUSION,probe,1.0
+15,-1,baseline,baseline,,,baseline,baseline,baseline,
+16,32,shudder,horror,,,Expression,REFERENCE,example,
+16,32,grimace,disgust,,,Expression,REFERENCE,example,
+16,32,sulk,resentment,,,Expression,REFERENCE,example,
+16,32,fidget,restlessness,,,Expression,REFERENCE,example,
+16,32,tears,sorrow,sorrow,eyes,Expression,REFERENCE,probe,1.0
+17,33,vegetable,spinach,,,Functional,CLASS-INCLUSION,example,
+17,33,fabric,silk,,,Functional,CLASS-INCLUSION,example,
+17,33,container,bucket,,,Functional,CLASS-INCLUSION,example,
+17,33,shelter,cave,,,Functional,CLASS-INCLUSION,example,
+17,33,utensil,spoon,spoon,bowl,Functional,CLASS-INCLUSION,probe,1.0
+18,-1,baseline,baseline,,,baseline,baseline,baseline,
+19,13,devastated,hopeful,,,Asymmetric Contrary,CONTRAST,example,
+19,13,starving,satisfied,,,Asymmetric Contrary,CONTRAST,example,
+19,13,exhilarated,somber,,,Asymmetric Contrary,CONTRAST,example,
+19,13,remote,nearby,,,Asymmetric Contrary,CONTRAST,example,
+19,13,sterile,dirty,dirty,bleach,Asymmetric Contrary,CONTRAST,probe,1.0
+20,33,sweetener,honey,,,Functional,CLASS-INCLUSION,example,
+20,33,food,apple,,,Functional,CLASS-INCLUSION,example,
+20,33,seasoning,pepper,,,Functional,CLASS-INCLUSION,example,
+20,33,seat,chair,,,Functional,CLASS-INCLUSION,example,
+20,33,dessert,cake,cake,birthday,Functional,CLASS-INCLUSION,probe,1.0
+21,32,tremble,fear,,,Expression,REFERENCE,example,
+21,32,whine,dissatisfaction,,,Expression,REFERENCE,example,
+21,32,squint,suspicion,,,Expression,REFERENCE,example,
+21,32,insult,hostility,,,Expression,REFERENCE,example,
+21,32,slam,rage,rage,impatience,Expression,REFERENCE,probe,1.0
+22,4,capture,villain,,,Action:Object,CASE RELATIONS,example,
+22,4,mow,lawn,,,Action:Object,CASE RELATIONS,example,
+22,4,thread,needle,,,Action:Object,CASE RELATIONS,example,
+22,4,plant,flower,,,Action:Object,CASE RELATIONS,example,
+22,4,eat,food,plate,food,Action:Object,CASE RELATIONS,probe,2.0
+23,13,excellent,mediocre,,,Asymmetric Contrary,CONTRAST,example,
+23,13,terrible,good,,,Asymmetric Contrary,CONTRAST,example,
+23,13,invincible,vulnerable,,,Asymmetric Contrary,CONTRAST,example,
+23,13,immaculate,messy,,,Asymmetric Contrary,CONTRAST,example,
+23,13,breakneck,leisurely,rapid,leisurely,Asymmetric Contrary,CONTRAST,probe,2.0
+24,-1,baseline,baseline,,,baseline,baseline,baseline,
+25,4,forgive,sin,,,Action:Object,CASE RELATIONS,example,
+25,4,write,paper,,,Action:Object,CASE RELATIONS,example,
+25,4,lift,weight,,,Action:Object,CASE RELATIONS,example,
+25,4,chop,vegetables,,,Action:Object,CASE RELATIONS,example,
+25,4,raise,flag,ceremony,flag,Action:Object,CASE RELATIONS,probe,2.0

@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,54,handrail,falling,,,Prevention,CAUSE-PURPOSE,example,
+1,54,verification,fraud,,,Prevention,CAUSE-PURPOSE,example,
+1,54,supervision,misbehavior,,,Prevention,CAUSE-PURPOSE,example,
+1,54,mediation,conflict,,,Prevention,CAUSE-PURPOSE,example,
+1,54,sunglasses,glare,protection,glare,Prevention,CAUSE-PURPOSE,probe,2.0
+2,13,obnoxious,polite,,,Asymmetric Contrary,CONTRAST,example,
+2,13,rugged,smooth,,,Asymmetric Contrary,CONTRAST,example,
+2,13,terrified,brave,,,Asymmetric Contrary,CONTRAST,example,
+2,13,minuscule,big,,,Asymmetric Contrary,CONTRAST,example,
+2,13,mint,worn,worn,collection,Asymmetric Contrary,CONTRAST,probe,1.0
+3,47,tent,canvas,,,Object:Stuff,PART-WHOLE,example,
+3,47,stew,meat,,,Object:Stuff,PART-WHOLE,example,
+3,47,ring,gold,,,Object:Stuff,PART-WHOLE,example,
+3,47,fence,boards,,,Object:Stuff,PART-WHOLE,example,
+3,47,basket,wicker,cloth,wicker,Object:Stuff,PART-WHOLE,probe,2.0
+4,6,lathering,shaving,,,Activity:Stage,PART-WHOLE,example,
+4,6,serving,tennis,,,Activity:Stage,PART-WHOLE,example,
+4,6,taping,wrapping,,,Activity:Stage,PART-WHOLE,example,
+4,6,writing,publishing,,,Activity:Stage,PART-WHOLE,example,
+4,6,stirring,cooking,cooking,spoon,Activity:Stage,PART-WHOLE,probe,1.0
+5,-1,baseline,baseline,,,baseline,baseline,baseline,
+6,47,atmosphere,gas,,,Object:Stuff,PART-WHOLE,example,
+6,47,vase,porcelain,,,Object:Stuff,PART-WHOLE,example,
+6,47,snowman,snow,,,Object:Stuff,PART-WHOLE,example,
+6,47,guacamole,avocado,,,Object:Stuff,PART-WHOLE,example,
+6,47,lemonade,lemons,lemons,pitcher,Object:Stuff,PART-WHOLE,probe,1.0
+7,13,towering,short,,,Asymmetric Contrary,CONTRAST,example,
+7,13,pristine,used,,,Asymmetric Contrary,CONTRAST,example,
+7,13,weightless,heavy,,,Asymmetric Contrary,CONTRAST,example,
+7,13,dire,mild,,,Asymmetric Contrary,CONTRAST,example,
+7,13,invincible,vulnerable,tough,vulnerable,Asymmetric Contrary,CONTRAST,probe,2.0
+8,-1,baseline,baseline,,,baseline,baseline,baseline,
+9,54,diet,malnutrition,,,Prevention,CAUSE-PURPOSE,example,
+9,54,muzzle,biting,,,Prevention,CAUSE-PURPOSE,example,
+9,54,antivirus,malware,,,Prevention,CAUSE-PURPOSE,example,
+9,54,preservatives,decay,,,Prevention,CAUSE-PURPOSE,example,
+9,54,vaccine,virus,allergy,virus,Prevention,CAUSE-PURPOSE,probe,2.0
+10,47,anthology,stories,,,Object:Stuff,PART-WHOLE,example,
+10,47,quilt,patches,,,Object:Stuff,PART-WHOLE,example,
+10,47,paper,pulp,,,Object:Stuff,PART-WHOLE,example,
+10,47,table,wood,,,Object:Stuff,PART-WHOLE,example,
+10,47,scarf,silk,winter,silk,Object:Stuff,PART-WHOLE,probe,2.0
+11,6,planting,gardening,,,Activity:Stage,PART-WHOLE,example,
+11,6,saddling,riding,,,Activity:Stage,PART-WHOLE,example,
+11,6,rinsing,dishwashing,,,Activity:Stage,PART-WHOLE,example,
+11,6,talking,therapy,,,Activity:Stage,PART-WHOLE,example,
+11,6,brainstorming,planning,planning,budgeting,Activity:Stage,PART-WHOLE,probe,1.0
+12,13,deceitful,honest,,,Asymmetric Contrary,CONTRAST,example,
+12,13,glacial,quick,,,Asymmetric Contrary,CONTRAST,example,
+12,13,cruel,kind,,,Asymmetric Contrary,CONTRAST,example,
+12,13,exhausted,rested,,,Asymmetric Contrary,CONTRAST,example,
+12,13,freezing,warm,ice,warm,Asymmetric Contrary,CONTRAST,probe,2.0
+13,-1,baseline,baseline,,,baseline,baseline,baseline,
+14,54,rules,disorder,,,Prevention,CAUSE-PURPOSE,example,
+14,54,pruning,overgrowth,,,Prevention,CAUSE-PURPOSE,example,
+14,54,levee,overflow,,,Prevention,CAUSE-PURPOSE,example,
+14,54,regulation,abuse,,,Prevention,CAUSE-PURPOSE,example,
+14,54,watering,wilting,sprinkler,wilting,Prevention,CAUSE-PURPOSE,probe,2.0
+15,13,furious,pleased,,,Asymmetric Contrary,CONTRAST,example,
+15,13,impossible,easy,,,Asymmetric Contrary,CONTRAST,example,
+15,13,revolting,appetizing,,,Asymmetric Contrary,CONTRAST,example,
+15,13,enormous,small,,,Asymmetric Contrary,CONTRAST,example,
+15,13,hostile,friendly,friendly,aggressive,Asymmetric Contrary,CONTRAST,probe,1.0
+16,6,landing,flying,,,Activity:Stage,PART-WHOLE,example,
+16,6,batting,baseball,,,Activity:Stage,PART-WHOLE,example,
+16,6,chewing,eating,,,Activity:Stage,PART-WHOLE,example,
+16,6,digging,mining,,,Activity:Stage,PART-WHOLE,example,
+16,6,fermenting,brewing,yeast,brewing,Activity:Stage,PART-WHOLE,probe,2.0
+17,47,money,paper,,,Object:Stuff,PART-WHOLE,example,
+17,47,book,pages,,,Object:Stuff,PART-WHOLE,example,
+17,47,ice,water,,,Object:Stuff,PART-WHOLE,example,
+17,47,tire,rubber,,,Object:Stuff,PART-WHOLE,example,
+17,47,team,players,captains,players,Object:Stuff,PART-WHOLE,probe,2.0
+18,-1,baseline,baseline,,,baseline,baseline,baseline,
+19,6,downloading,installing,,,Activity:Stage,PART-WHOLE,example,
+19,6,pitching,baseball,,,Activity:Stage,PART-WHOLE,example,
+19,6,exhaling,breathing,,,Activity:Stage,PART-WHOLE,example,
+19,6,editing,filmmaking,,,Activity:Stage,PART-WHOLE,example,
+19,6,tuning,performing,warming up,performing,Activity:Stage,PART-WHOLE,probe,2.0
+20,47,puzzle,pieces,,,Object:Stuff,PART-WHOLE,example,
+20,47,wire,metal,,,Object:Stuff,PART-WHOLE,example,
+20,47,bridge,steel,,,Object:Stuff,PART-WHOLE,example,
+20,47,boots,leather,,,Object:Stuff,PART-WHOLE,example,
+20,47,jury,jurors,jurors,courtroom,Object:Stuff,PART-WHOLE,probe,1.0
+21,54,camera,vandalism,,,Prevention,CAUSE-PURPOSE,example,
+21,54,savings,bankruptcy,,,Prevention,CAUSE-PURPOSE,example,
+21,54,deodorant,odor,,,Prevention,CAUSE-PURPOSE,example,
+21,54,antibiotic,infection,,,Prevention,CAUSE-PURPOSE,example,
+21,54,lifejacket,drowning,drowning,boat,Prevention,CAUSE-PURPOSE,probe,1.0
+22,-1,baseline,baseline,,,baseline,baseline,baseline,
+23,13,remote,nearby,,,Asymmetric Contrary,CONTRAST,example,
+23,13,miserable,content,,,Asymmetric Contrary,CONTRAST,example,
+23,13,blinding,dim,,,Asymmetric Contrary,CONTRAST,example,
+23,13,defiant,cooperative,,,Asymmetric Contrary,CONTRAST,example,
+23,13,cramped,spacious,crowded,spacious,Asymmetric Contrary,CONTRAST,probe,2.0
+24,54,locks,theft,,,Prevention,CAUSE-PURPOSE,example,
+24,54,flossing,plaque,,,Prevention,CAUSE-PURPOSE,example,
+24,54,insecticide,bugs,,,Prevention,CAUSE-PURPOSE,example,
+24,54,training,incompetence,,,Prevention,CAUSE-PURPOSE,example,
+24,54,diversification,risk,risk,portfolio,Prevention,CAUSE-PURPOSE,probe,1.0
+25,6,browsing,shopping,,,Activity:Stage,PART-WHOLE,example,
+25,6,dealing,poker,,,Activity:Stage,PART-WHOLE,example,
+25,6,boarding,flying,,,Activity:Stage,PART-WHOLE,example,
+25,6,mopping,cleaning,,,Activity:Stage,PART-WHOLE,example,
+25,6,testifying,trial,gavel,trial,Activity:Stage,PART-WHOLE,probe,2.0

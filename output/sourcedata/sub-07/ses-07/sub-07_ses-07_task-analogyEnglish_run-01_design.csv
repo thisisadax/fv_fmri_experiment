@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,10,knight,sword,,,Agent:Instrument,CASE RELATIONS,example,
+1,10,witch,cauldron,,,Agent:Instrument,CASE RELATIONS,example,
+1,10,potter,wheel,,,Agent:Instrument,CASE RELATIONS,example,
+1,10,surgeon,scalpel,,,Agent:Instrument,CASE RELATIONS,example,
+1,10,astronomer,telescope,telescope,observatory,Agent:Instrument,CASE RELATIONS,probe,1.0
+2,41,legislature,law,,,Location:Process/Product,SPACE-TIME,example,
+2,41,laboratory,experiment,,,Location:Process/Product,SPACE-TIME,example,
+2,41,rink,skating,,,Location:Process/Product,SPACE-TIME,example,
+2,41,gym,muscles,,,Location:Process/Product,SPACE-TIME,example,
+2,41,bank,loans,vault,loans,Location:Process/Product,SPACE-TIME,probe,2.0
+3,13,radiant,gloomy,,,Asymmetric Contrary,CONTRAST,example,
+3,13,catastrophic,beneficial,,,Asymmetric Contrary,CONTRAST,example,
+3,13,towering,short,,,Asymmetric Contrary,CONTRAST,example,
+3,13,hyperactive,lazy,,,Asymmetric Contrary,CONTRAST,example,
+3,13,beautiful,plain,plain,pretty,Asymmetric Contrary,CONTRAST,probe,1.0
+4,10,baker,oven,,,Agent:Instrument,CASE RELATIONS,example,
+4,10,chef,knife,,,Agent:Instrument,CASE RELATIONS,example,
+4,10,blacksmith,anvil,,,Agent:Instrument,CASE RELATIONS,example,
+4,10,umpire,whistle,,,Agent:Instrument,CASE RELATIONS,example,
+4,10,carpenter,hammer,hammer,nails,Agent:Instrument,CASE RELATIONS,probe,1.0
+5,34,bulb,light,,,Instrument:Goal,CAUSE-PURPOSE,example,
+5,34,umbrella,dryness,,,Instrument:Goal,CAUSE-PURPOSE,example,
+5,34,trophy,recognition,,,Instrument:Goal,CAUSE-PURPOSE,example,
+5,34,automobile,transportation,,,Instrument:Goal,CAUSE-PURPOSE,example,
+5,34,glue,adhesion,seal,adhesion,Instrument:Goal,CAUSE-PURPOSE,probe,2.0
+6,-1,baseline,baseline,,,baseline,baseline,baseline,
+7,41,pasture,grazing,,,Location:Process/Product,SPACE-TIME,example,
+7,41,hospital,surgery,,,Location:Process/Product,SPACE-TIME,example,
+7,41,warehouse,storage,,,Location:Process/Product,SPACE-TIME,example,
+7,41,smokehouse,jerky,,,Location:Process/Product,SPACE-TIME,example,
+7,41,creamery,butter,butter,salt,Location:Process/Product,SPACE-TIME,probe,1.0
+8,13,breakneck,leisurely,,,Asymmetric Contrary,CONTRAST,example,
+8,13,cramped,spacious,,,Asymmetric Contrary,CONTRAST,example,
+8,13,dire,mild,,,Asymmetric Contrary,CONTRAST,example,
+8,13,vast,narrow,,,Asymmetric Contrary,CONTRAST,example,
+8,13,freezing,warm,warm,humid,Asymmetric Contrary,CONTRAST,probe,1.0
+9,34,honey,sweetness,,,Instrument:Goal,CAUSE-PURPOSE,example,
+9,34,dog,companionship,,,Instrument:Goal,CAUSE-PURPOSE,example,
+9,34,exercise,fitness,,,Instrument:Goal,CAUSE-PURPOSE,example,
+9,34,fertilizer,growth,,,Instrument:Goal,CAUSE-PURPOSE,example,
+9,34,warning,caution,attention,caution,Instrument:Goal,CAUSE-PURPOSE,probe,2.0
+10,-1,baseline,baseline,,,baseline,baseline,baseline,
+11,13,convoluted,straightforward,,,Asymmetric Contrary,CONTRAST,example,
+11,13,detested,liked,,,Asymmetric Contrary,CONTRAST,example,
+11,13,remote,nearby,,,Asymmetric Contrary,CONTRAST,example,
+11,13,ecstatic,disgruntled,,,Asymmetric Contrary,CONTRAST,example,
+11,13,terrified,brave,timid,brave,Asymmetric Contrary,CONTRAST,probe,2.0
+12,41,church,worship,,,Location:Process/Product,SPACE-TIME,example,
+12,41,harbor,shipping,,,Location:Process/Product,SPACE-TIME,example,
+12,41,workshop,furniture,,,Location:Process/Product,SPACE-TIME,example,
+12,41,greenhouse,plants,,,Location:Process/Product,SPACE-TIME,example,
+12,41,salon,haircut,scissors,haircut,Location:Process/Product,SPACE-TIME,probe,2.0
+13,34,diplomacy,peace,,,Instrument:Goal,CAUSE-PURPOSE,example,
+13,34,perfume,fragrance,,,Instrument:Goal,CAUSE-PURPOSE,example,
+13,34,propaganda,persuasion,,,Instrument:Goal,CAUSE-PURPOSE,example,
+13,34,disguise,deception,,,Instrument:Goal,CAUSE-PURPOSE,example,
+13,34,tax,revenue,revenue,form,Instrument:Goal,CAUSE-PURPOSE,probe,1.0
+14,-1,baseline,baseline,,,baseline,baseline,baseline,
+15,10,miner,pickaxe,,,Agent:Instrument,CASE RELATIONS,example,
+15,10,farmer,plow,,,Agent:Instrument,CASE RELATIONS,example,
+15,10,sailor,compass,,,Agent:Instrument,CASE RELATIONS,example,
+15,10,barber,scissors,,,Agent:Instrument,CASE RELATIONS,example,
+15,10,archer,bow,bow,bullseye,Agent:Instrument,CASE RELATIONS,probe,1.0
+16,34,marketing,awareness,,,Instrument:Goal,CAUSE-PURPOSE,example,
+16,34,caffeine,alertness,,,Instrument:Goal,CAUSE-PURPOSE,example,
+16,34,gift,happiness,,,Instrument:Goal,CAUSE-PURPOSE,example,
+16,34,insult,provocation,,,Instrument:Goal,CAUSE-PURPOSE,example,
+16,34,megaphone,amplification,amplification,speaker,Instrument:Goal,CAUSE-PURPOSE,probe,1.0
+17,-1,baseline,baseline,,,baseline,baseline,baseline,
+18,13,intoxicated,sober,,,Asymmetric Contrary,CONTRAST,example,
+18,13,exhilarated,somber,,,Asymmetric Contrary,CONTRAST,example,
+18,13,perfect,flawed,,,Asymmetric Contrary,CONTRAST,example,
+18,13,immaculate,messy,,,Asymmetric Contrary,CONTRAST,example,
+18,13,weightless,heavy,heavy,floating,Asymmetric Contrary,CONTRAST,probe,1.0
+19,10,biologist,microscope,,,Agent:Instrument,CASE RELATIONS,example,
+19,10,hairdresser,comb,,,Agent:Instrument,CASE RELATIONS,example,
+19,10,seamstress,needle,,,Agent:Instrument,CASE RELATIONS,example,
+19,10,writer,pen,,,Agent:Instrument,CASE RELATIONS,example,
+19,10,golfer,club,ball,club,Agent:Instrument,CASE RELATIONS,probe,2.0
+20,-1,baseline,baseline,,,baseline,baseline,baseline,
+21,41,library,studying,,,Location:Process/Product,SPACE-TIME,example,
+21,41,field,plowing,,,Location:Process/Product,SPACE-TIME,example,
+21,41,press,books,,,Location:Process/Product,SPACE-TIME,example,
+21,41,arena,contest,,,Location:Process/Product,SPACE-TIME,example,
+21,41,tannery,leather,leather,vat,Location:Process/Product,SPACE-TIME,probe,1.0
+22,13,mint,worn,,,Asymmetric Contrary,CONTRAST,example,
+22,13,infantile,mature,,,Asymmetric Contrary,CONTRAST,example,
+22,13,ancient,modern,,,Asymmetric Contrary,CONTRAST,example,
+22,13,silent,loud,,,Asymmetric Contrary,CONTRAST,example,
+22,13,arrogant,humble,proud,humble,Asymmetric Contrary,CONTRAST,probe,2.0
+23,10,waiter,tray,,,Agent:Instrument,CASE RELATIONS,example,
+23,10,doctor,stethoscope,,,Agent:Instrument,CASE RELATIONS,example,
+23,10,tailor,thimble,,,Agent:Instrument,CASE RELATIONS,example,
+23,10,violinist,violin,,,Agent:Instrument,CASE RELATIONS,example,
+23,10,photographer,camera,portrait,camera,Agent:Instrument,CASE RELATIONS,probe,2.0
+24,41,lake,fishing,,,Location:Process/Product,SPACE-TIME,example,
+24,41,foundry,steel,,,Location:Process/Product,SPACE-TIME,example,
+24,41,brewery,beer,,,Location:Process/Product,SPACE-TIME,example,
+24,41,office,work,,,Location:Process/Product,SPACE-TIME,example,
+24,41,track,racing,racing,fast,Location:Process/Product,SPACE-TIME,probe,1.0
+25,34,sleep,restfulness,,,Instrument:Goal,CAUSE-PURPOSE,example,
+25,34,bleach,whiteness,,,Instrument:Goal,CAUSE-PURPOSE,example,
+25,34,investment,profit,,,Instrument:Goal,CAUSE-PURPOSE,example,
+25,34,fan,cooling,,,Instrument:Goal,CAUSE-PURPOSE,example,
+25,34,research,discovery,discovery,hypothesis,Instrument:Goal,CAUSE-PURPOSE,probe,1.0

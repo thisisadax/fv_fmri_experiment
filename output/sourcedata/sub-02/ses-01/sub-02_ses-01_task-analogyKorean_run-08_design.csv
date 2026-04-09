@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,5,공부하다,학습,,,Activity:Stage (Korean Localized),PART-WHOLE,example,
+1,5,디버깅하다,프로그래밍,,,Activity:Stage (Korean Localized),PART-WHOLE,example,
+1,5,헹구다,설거지,,,Activity:Stage (Korean Localized),PART-WHOLE,example,
+1,5,양념재우다,구이,,,Activity:Stage (Korean Localized),PART-WHOLE,example,
+1,5,대화하다,상담치료,상담치료,소파,Activity:Stage (Korean Localized),PART-WHOLE,probe,1.0
+2,38,다이아몬드,반짝이다,,,ItemAttribute(noun:adjective) (Korean Localized),ATTRIBUTE,example,
+2,38,개,털이많다,,,ItemAttribute(noun:adjective) (Korean Localized),ATTRIBUTE,example,
+2,38,쥐,작다,,,ItemAttribute(noun:adjective) (Korean Localized),ATTRIBUTE,example,
+2,38,종이,잘찢어지다,,,ItemAttribute(noun:adjective) (Korean Localized),ATTRIBUTE,example,
+2,38,코끼리,거대하다,주름지다,거대하다,ItemAttribute(noun:adjective) (Korean Localized),ATTRIBUTE,probe,2.0
+3,-1,baseline,baseline,,,baseline,baseline,baseline,
+4,18,강,나일강,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+4,18,항공사,델타항공,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+4,18,과학자,아인슈타인,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+4,18,화산,베수비오 화산,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+4,18,향신료,계피,나무껍질,계피,ClassIndividual (Korean Localized),CLASS-INCLUSION,probe,2.0
+5,17,비옥해지다,토양,,,Change (Korean Localized),SIMILAR,example,
+5,17,방전시키다,배터리,,,Change (Korean Localized),SIMILAR,example,
+5,17,경감하다,부담,,,Change (Korean Localized),SIMILAR,example,
+5,17,고문,고통,,,Change (Korean Localized),SIMILAR,example,
+5,17,호황,경제,경제,투자자,Change (Korean Localized),SIMILAR,probe,1.0
+6,-1,baseline,baseline,,,baseline,baseline,baseline,
+7,5,짐싸다,이사,,,Activity:Stage (Korean Localized),PART-WHOLE,example,
+7,5,잡초뽑다,정원가꾸기,,,Activity:Stage (Korean Localized),PART-WHOLE,example,
+7,5,저어주다,요리,,,Activity:Stage (Korean Localized),PART-WHOLE,example,
+7,5,테이프붙이다,포장,,,Activity:Stage (Korean Localized),PART-WHOLE,example,
+7,5,안뜨기하다,뜨개질,뜨개질,바느질,Activity:Stage (Korean Localized),PART-WHOLE,probe,1.0
+8,17,녹이다,얼음,,,Change (Korean Localized),SIMILAR,example,
+8,17,인플레이션,물가,,,Change (Korean Localized),SIMILAR,example,
+8,17,테러,두려움,,,Change (Korean Localized),SIMILAR,example,
+8,17,성장,매출,,,Change (Korean Localized),SIMILAR,example,
+8,17,누그러뜨리다,목소리,마이크,목소리,Change (Korean Localized),SIMILAR,probe,2.0
+9,18,미국 주,텍사스주,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+9,18,과일,바나나,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+9,18,물고기,연어,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+9,18,자동차,혼다,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+9,18,견과,아몬드,아몬드,껍질,ClassIndividual (Korean Localized),CLASS-INCLUSION,probe,1.0
+10,-1,baseline,baseline,,,baseline,baseline,baseline,
+11,38,고래,거대하다,,,ItemAttribute(noun:adjective) (Korean Localized),ATTRIBUTE,example,
+11,38,치타,재빠르다,,,ItemAttribute(noun:adjective) (Korean Localized),ATTRIBUTE,example,
+11,38,해변,모래투성이다,,,ItemAttribute(noun:adjective) (Korean Localized),ATTRIBUTE,example,
+11,38,물,젖다,,,ItemAttribute(noun:adjective) (Korean Localized),ATTRIBUTE,example,
+11,38,스컹크,고약하다,고약하다,스프레이,ItemAttribute(noun:adjective) (Korean Localized),ATTRIBUTE,probe,1.0
+12,5,조준하다,양궁,,,Activity:Stage (Korean Localized),PART-WHOLE,example,
+12,5,튀기다,요리,,,Activity:Stage (Korean Localized),PART-WHOLE,example,
+12,5,빨래개다,빨래,,,Activity:Stage (Korean Localized),PART-WHOLE,example,
+12,5,코딩하다,프로그래밍,,,Activity:Stage (Korean Localized),PART-WHOLE,example,
+12,5,굴착하다,채굴,채굴,발파하다,Activity:Stage (Korean Localized),PART-WHOLE,probe,1.0
+13,18,영장류,고릴라,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+13,18,가수,마돈나,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+13,18,왕자,찰스,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+13,18,여신,아테나,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+13,18,언어,스페인어,알파벳,스페인어,ClassIndividual (Korean Localized),CLASS-INCLUSION,probe,2.0
+14,-1,baseline,baseline,,,baseline,baseline,baseline,
+15,38,우주,광활하다,,,ItemAttribute(noun:adjective) (Korean Localized),ATTRIBUTE,example,
+15,38,부엉이,현명하다,,,ItemAttribute(noun:adjective) (Korean Localized),ATTRIBUTE,example,
+15,38,꿀,끈적하다,,,ItemAttribute(noun:adjective) (Korean Localized),ATTRIBUTE,example,
+15,38,운동선수,건강하다,,,ItemAttribute(noun:adjective) (Korean Localized),ATTRIBUTE,example,
+15,38,차별주의자,혐오적이다,편협하다,혐오적이다,ItemAttribute(noun:adjective) (Korean Localized),ATTRIBUTE,probe,2.0
+16,18,철학자,플라톤,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+16,18,스포츠,야구,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+16,18,베리류,딸기,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+16,18,초콜릿바,스니커즈,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+16,18,왕,헨리 8세,헨리 8세,왕국,ClassIndividual (Korean Localized),CLASS-INCLUSION,probe,1.0
+17,17,어둡히다,빛,,,Change (Korean Localized),SIMILAR,example,
+17,17,걸쭉해지다,소스,,,Change (Korean Localized),SIMILAR,example,
+17,17,확대하다,이미지,,,Change (Korean Localized),SIMILAR,example,
+17,17,부족,공급,,,Change (Korean Localized),SIMILAR,example,
+17,17,희석하다,농도,농도,교반봉,Change (Korean Localized),SIMILAR,probe,1.0
+18,5,밭갈다,농사,,,Activity:Stage (Korean Localized),PART-WHOLE,example,
+18,5,안장얹다,승마,,,Activity:Stage (Korean Localized),PART-WHOLE,example,
+18,5,썰다,요리,,,Activity:Stage (Korean Localized),PART-WHOLE,example,
+18,5,흙퍼내다,조경,,,Activity:Stage (Korean Localized),PART-WHOLE,example,
+18,5,낚시줄던지다,낚시,낚시바늘,낚시,Activity:Stage (Korean Localized),PART-WHOLE,probe,2.0
+19,18,공주,다이애나,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+19,18,공룡,트리케라톱스,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+19,18,바다,대서양,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+19,18,행성,화성,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+19,18,나라,일본,일본,사무라이,ClassIndividual (Korean Localized),CLASS-INCLUSION,probe,1.0
+20,38,유리,깨지기쉽다,,,ItemAttribute(noun:adjective) (Korean Localized),ATTRIBUTE,example,
+20,38,바다,깊다,,,ItemAttribute(noun:adjective) (Korean Localized),ATTRIBUTE,example,
+20,38,어린양,온순하다,,,ItemAttribute(noun:adjective) (Korean Localized),ATTRIBUTE,example,
+20,38,피자,치즈많다,,,ItemAttribute(noun:adjective) (Korean Localized),ATTRIBUTE,example,
+20,38,평원,평평하다,평평하다,널찍하다,ItemAttribute(noun:adjective) (Korean Localized),ATTRIBUTE,probe,1.0
+21,-1,baseline,baseline,,,baseline,baseline,baseline,
+22,17,연장하다,마감일,,,Change (Korean Localized),SIMILAR,example,
+22,17,하강,고도,,,Change (Korean Localized),SIMILAR,example,
+22,17,승진,직급,,,Change (Korean Localized),SIMILAR,example,
+22,17,과잉,재고,,,Change (Korean Localized),SIMILAR,example,
+22,17,저하,건강,건강,몸,Change (Korean Localized),SIMILAR,probe,1.0
+23,5,망치질하다,건축,,,Activity:Stage (Korean Localized),PART-WHOLE,example,
+23,5,둘러보다,쇼핑,,,Activity:Stage (Korean Localized),PART-WHOLE,example,
+23,5,서브하다,테니스,,,Activity:Stage (Korean Localized),PART-WHOLE,example,
+23,5,바디체크하다,아이스하키,,,Activity:Stage (Korean Localized),PART-WHOLE,example,
+23,5,태클하다,미식축구,블로킹하다,미식축구,Activity:Stage (Korean Localized),PART-WHOLE,probe,2.0
+24,38,여름,따뜻하다,,,ItemAttribute(noun:adjective) (Korean Localized),ATTRIBUTE,example,
+24,38,불,뜨겁다,,,ItemAttribute(noun:adjective) (Korean Localized),ATTRIBUTE,example,
+24,38,달팽이,미끈거리다,,,ItemAttribute(noun:adjective) (Korean Localized),ATTRIBUTE,example,
+24,38,시멘트,견고하다,,,ItemAttribute(noun:adjective) (Korean Localized),ATTRIBUTE,example,
+24,38,호수,잔잔하다,잔잔하다,부두,ItemAttribute(noun:adjective) (Korean Localized),ATTRIBUTE,probe,1.0
+25,17,줄이다,거리,,,Change (Korean Localized),SIMILAR,example,
+25,17,방음,소리,,,Change (Korean Localized),SIMILAR,example,
+25,17,보너스,소득,,,Change (Korean Localized),SIMILAR,example,
+25,17,늘리다,밧줄,,,Change (Korean Localized),SIMILAR,example,
+25,17,경기침체,고용,경제학자,고용,Change (Korean Localized),SIMILAR,probe,2.0

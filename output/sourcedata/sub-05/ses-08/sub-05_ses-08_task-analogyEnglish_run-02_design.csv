@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,60,cry,weep,,,Synonymity,SIMILAR,example,
+1,60,path,trail,,,Synonymity,SIMILAR,example,
+1,60,bucket,pail,,,Synonymity,SIMILAR,example,
+1,60,glad,pleased,,,Synonymity,SIMILAR,example,
+1,60,infant,baby,crib,baby,Synonymity,SIMILAR,probe,2.0
+2,40,workshop,crafting,,,Location:Action/Activity,SPACE-TIME,example,
+2,40,forest,camping,,,Location:Action/Activity,SPACE-TIME,example,
+2,40,observatory,stargazing,,,Location:Action/Activity,SPACE-TIME,example,
+2,40,courthouse,judging,,,Location:Action/Activity,SPACE-TIME,example,
+2,40,greenhouse,cultivating,humidity,cultivating,Location:Action/Activity,SPACE-TIME,probe,2.0
+3,20,pseudonym,name,,,Concealment,REFERENCE,example,
+3,20,patch,tear,,,Concealment,REFERENCE,example,
+3,20,foliage,nest,,,Concealment,REFERENCE,example,
+3,20,sleeve,arm,,,Concealment,REFERENCE,example,
+3,20,trapdoor,entrance,entrance,rug,Concealment,REFERENCE,probe,1.0
+4,-1,baseline,baseline,,,baseline,baseline,baseline,
+5,11,writer,story,,,Agent:Object,CASE RELATIONS,example,
+5,11,programmer,code,,,Agent:Object,CASE RELATIONS,example,
+5,11,sculptor,sculpture,,,Agent:Object,CASE RELATIONS,example,
+5,11,farmer,tractor,,,Agent:Object,CASE RELATIONS,example,
+5,11,architect,drawings,drawings,city hall,Agent:Object,CASE RELATIONS,probe,1.0
+6,60,flammable,inflammable,,,Synonymity,SIMILAR,example,
+6,60,need,require,,,Synonymity,SIMILAR,example,
+6,60,spin,twirl,,,Synonymity,SIMILAR,example,
+6,60,candy,sweets,,,Synonymity,SIMILAR,example,
+6,60,garbage,trash,recycling,trash,Synonymity,SIMILAR,probe,2.0
+7,40,house,living,,,Location:Action/Activity,SPACE-TIME,example,
+7,40,river,rafting,,,Location:Action/Activity,SPACE-TIME,example,
+7,40,auction house,bidding,,,Location:Action/Activity,SPACE-TIME,example,
+7,40,warehouse,storing,,,Location:Action/Activity,SPACE-TIME,example,
+7,40,church,worship,worship,sunday,Location:Action/Activity,SPACE-TIME,probe,1.0
+8,-1,baseline,baseline,,,baseline,baseline,baseline,
+9,60,bathroom,lavatory,,,Synonymity,SIMILAR,example,
+9,60,sorrow,grief,,,Synonymity,SIMILAR,example,
+9,60,old,mature,,,Synonymity,SIMILAR,example,
+9,60,make,manufacture,,,Synonymity,SIMILAR,example,
+9,60,sleep,doze,doze,nap,Synonymity,SIMILAR,probe,1.0
+10,20,rug,stain,,,Concealment,REFERENCE,example,
+10,20,paint,graffiti,,,Concealment,REFERENCE,example,
+10,20,bravery,fear,,,Concealment,REFERENCE,example,
+10,20,mask,face,,,Concealment,REFERENCE,example,
+10,20,clothes,body,body,head,Concealment,REFERENCE,probe,1.0
+11,-1,baseline,baseline,,,baseline,baseline,baseline,
+12,40,lake,fishing,,,Location:Action/Activity,SPACE-TIME,example,
+12,40,field,plowing,,,Location:Action/Activity,SPACE-TIME,example,
+12,40,sauna,sweating,,,Location:Action/Activity,SPACE-TIME,example,
+12,40,bathroom,bathing,,,Location:Action/Activity,SPACE-TIME,example,
+12,40,track,running,stopwatch,running,Location:Action/Activity,SPACE-TIME,probe,2.0
+13,60,music,tunes,,,Synonymity,SIMILAR,example,
+13,60,jump,leap,,,Synonymity,SIMILAR,example,
+13,60,tedious,monotonous,,,Synonymity,SIMILAR,example,
+13,60,run,sprint,,,Synonymity,SIMILAR,example,
+13,60,pretty,beautiful,beautiful,cute,Synonymity,SIMILAR,probe,1.0
+14,11,lumberjack,axe,,,Agent:Object,CASE RELATIONS,example,
+14,11,guitarist,guitar,,,Agent:Object,CASE RELATIONS,example,
+14,11,poet,words,,,Agent:Object,CASE RELATIONS,example,
+14,11,plumber,pipe,,,Agent:Object,CASE RELATIONS,example,
+14,11,seamstress,fabric,fabric,fitting,Agent:Object,CASE RELATIONS,probe,1.0
+15,20,bluff,weakness,,,Concealment,REFERENCE,example,
+15,20,darkness,intruder,,,Concealment,REFERENCE,example,
+15,20,excuse,truth,,,Concealment,REFERENCE,example,
+15,20,encryption,data,,,Concealment,REFERENCE,example,
+15,20,maze,exit,entrance,exit,Concealment,REFERENCE,probe,2.0
+16,-1,baseline,baseline,,,baseline,baseline,baseline,
+17,11,glassblower,ornament,,,Agent:Object,CASE RELATIONS,example,
+17,11,actor,performance,,,Agent:Object,CASE RELATIONS,example,
+17,11,pianist,piano,,,Agent:Object,CASE RELATIONS,example,
+17,11,composer,song,,,Agent:Object,CASE RELATIONS,example,
+17,11,playwright,play,play,curtain,Agent:Object,CASE RELATIONS,probe,1.0
+18,60,restroom,bathroom,,,Synonymity,SIMILAR,example,
+18,60,leave,depart,,,Synonymity,SIMILAR,example,
+18,60,hurry,rush,,,Synonymity,SIMILAR,example,
+18,60,wish,desire,,,Synonymity,SIMILAR,example,
+18,60,cozy,snug,snug,blanket,Synonymity,SIMILAR,probe,1.0
+19,40,backyard,barbecuing,,,Location:Action/Activity,SPACE-TIME,example,
+19,40,bank,depositing,,,Location:Action/Activity,SPACE-TIME,example,
+19,40,mine,mining,,,Location:Action/Activity,SPACE-TIME,example,
+19,40,nightclub,dancing,,,Location:Action/Activity,SPACE-TIME,example,
+19,40,library,studying,studying,tutoring,Location:Action/Activity,SPACE-TIME,probe,1.0
+20,-1,baseline,baseline,,,baseline,baseline,baseline,
+21,11,vintner,wine,,,Agent:Object,CASE RELATIONS,example,
+21,11,mason,bricks,,,Agent:Object,CASE RELATIONS,example,
+21,11,cobbler,shoes,,,Agent:Object,CASE RELATIONS,example,
+21,11,baker,bread,,,Agent:Object,CASE RELATIONS,example,
+21,11,tailor,suit,fitting room,suit,Agent:Object,CASE RELATIONS,probe,2.0
+22,20,fog,road,,,Concealment,REFERENCE,example,
+22,20,husk,corn,,,Concealment,REFERENCE,example,
+22,20,confidence,doubt,,,Concealment,REFERENCE,example,
+22,20,cloak,figure,,,Concealment,REFERENCE,example,
+22,20,ivy,wall,wall,leaves,Concealment,REFERENCE,probe,1.0
+23,40,auditorium,lecturing,,,Location:Action/Activity,SPACE-TIME,example,
+23,40,mall,shopping,,,Location:Action/Activity,SPACE-TIME,example,
+23,40,studio,recording,,,Location:Action/Activity,SPACE-TIME,example,
+23,40,casino,gambling,,,Location:Action/Activity,SPACE-TIME,example,
+23,40,trail,hiking,hiking,markers,Location:Action/Activity,SPACE-TIME,probe,1.0
+24,11,chef,ingredients,,,Agent:Object,CASE RELATIONS,example,
+24,11,miner,pickaxe,,,Agent:Object,CASE RELATIONS,example,
+24,11,barber,scissors,,,Agent:Object,CASE RELATIONS,example,
+24,11,student,essay,,,Agent:Object,CASE RELATIONS,example,
+24,11,bricklayer,wall,crew,wall,Agent:Object,CASE RELATIONS,probe,2.0
+25,20,redaction,text,,,Concealment,REFERENCE,example,
+25,20,fence,backyard,,,Concealment,REFERENCE,example,
+25,20,alias,identity,,,Concealment,REFERENCE,example,
+25,20,smile,unhappiness,,,Concealment,REFERENCE,example,
+25,20,poster,hole,bedroom,hole,Concealment,REFERENCE,probe,2.0

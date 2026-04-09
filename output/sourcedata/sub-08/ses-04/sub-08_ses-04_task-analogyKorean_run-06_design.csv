@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,12,등딱지,거북이,,,Attachment (Korean Localized),SPACE-TIME,example,
+1,12,걸쇠,여행가방,,,Attachment (Korean Localized),SPACE-TIME,example,
+1,12,단추,셔츠,,,Attachment (Korean Localized),SPACE-TIME,example,
+1,12,쿠션,의자,,,Attachment (Korean Localized),SPACE-TIME,example,
+1,12,모니터,컴퓨터,컴퓨터,책상,Attachment (Korean Localized),SPACE-TIME,probe,1.0
+2,54,군인,훈장,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+2,54,고객,쿠폰,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+2,54,학생,자격증명서,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+2,54,소비자,캐시백,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+2,54,승객,승차권,승차권,탑승구,Recipient:Instrument (Korean Localized),CASE RELATIONS,probe,1.0
+3,56,단순화하다,복잡하게하다,,,Reverse (Korean Localized),CONTRAST,example,
+3,56,단맛,쓴맛,,,Reverse (Korean Localized),CONTRAST,example,
+3,56,거칠다,매끈하다,,,Reverse (Korean Localized),CONTRAST,example,
+3,56,격려하다,낙담시키다,,,Reverse (Korean Localized),CONTRAST,example,
+3,56,조이다,헐겁게하다,볼트,헐겁게하다,Reverse (Korean Localized),CONTRAST,probe,2.0
+4,-1,baseline,baseline,,,baseline,baseline,baseline,
+5,12,손잡이,머그컵,,,Attachment (Korean Localized),SPACE-TIME,example,
+5,12,목줄,개,,,Attachment (Korean Localized),SPACE-TIME,example,
+5,12,반지,손가락,,,Attachment (Korean Localized),SPACE-TIME,example,
+5,12,따개비,배,,,Attachment (Korean Localized),SPACE-TIME,example,
+5,12,프로펠러,비행기,비행기,활주로,Attachment (Korean Localized),SPACE-TIME,probe,1.0
+6,61,새벽,새소리,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+6,61,유년기,놀이,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+6,61,운동,땀흘리기,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+6,61,경매,입찰,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+6,61,봄,씨앗심기,장화,씨앗심기,Time Action/Activity (Korean Localized),SPACE-TIME,probe,2.0
+7,56,상처내다,치유하다,,,Reverse (Korean Localized),CONTRAST,example,
+7,56,사랑하다,미워하다,,,Reverse (Korean Localized),CONTRAST,example,
+7,56,뜨겁다,차갑다,,,Reverse (Korean Localized),CONTRAST,example,
+7,56,사다,팔다,,,Reverse (Korean Localized),CONTRAST,example,
+7,56,희망,두려움,미래,두려움,Reverse (Korean Localized),CONTRAST,probe,2.0
+8,12,자석,냉장고,,,Attachment (Korean Localized),SPACE-TIME,example,
+8,12,열매,덤불,,,Attachment (Korean Localized),SPACE-TIME,example,
+8,12,렌즈,카메라,,,Attachment (Korean Localized),SPACE-TIME,example,
+8,12,바퀴,차축,,,Attachment (Korean Localized),SPACE-TIME,example,
+8,12,박차,부츠,부츠,목장,Attachment (Korean Localized),SPACE-TIME,probe,1.0
+9,54,피보험자,보험증권,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+9,54,채무자,신용,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+9,54,식당손님,예약,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+9,54,신랑,반지,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+9,54,수익자,유언장,유언장,장례식,Recipient:Instrument (Korean Localized),CASE RELATIONS,probe,1.0
+10,56,외치다,속삭이다,,,Reverse (Korean Localized),CONTRAST,example,
+10,56,밝다,어둡다,,,Reverse (Korean Localized),CONTRAST,example,
+10,56,버리다,보듬다,,,Reverse (Korean Localized),CONTRAST,example,
+10,56,도착하다,출발하다,,,Reverse (Korean Localized),CONTRAST,example,
+10,56,진보하다,퇴보하다,퇴보하다,개선,Reverse (Korean Localized),CONTRAST,probe,1.0
+11,-1,baseline,baseline,,,baseline,baseline,baseline,
+12,61,쉬는시간,뛰기,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+12,61,콘서트,공연,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+12,61,연회,건배,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+12,61,불황,해고,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+12,61,일요일,늦잠,이불,늦잠,Time Action/Activity (Korean Localized),SPACE-TIME,probe,2.0
+13,12,꽃잎,꽃,,,Attachment (Korean Localized),SPACE-TIME,example,
+13,12,지퍼,코트,,,Attachment (Korean Localized),SPACE-TIME,example,
+13,12,우표,편지,,,Attachment (Korean Localized),SPACE-TIME,example,
+13,12,목도리,목,,,Attachment (Korean Localized),SPACE-TIME,example,
+13,12,포도,덩굴,잎,덩굴,Attachment (Korean Localized),SPACE-TIME,probe,2.0
+14,-1,baseline,baseline,,,baseline,baseline,baseline,
+15,61,가을,추석,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+15,61,은퇴,여행,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+15,61,임신,태아발달,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+15,61,재판,증언,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+15,61,취침시간,잠자기,잠자기,담요,Time Action/Activity (Korean Localized),SPACE-TIME,probe,1.0
+16,54,예술가,커미션비,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+16,54,건축업자,건축허가서,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+16,54,근로자,임금,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+16,54,입양아,입양증명서,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+16,54,고아,입양,위탁보호,입양,Recipient:Instrument (Korean Localized),CASE RELATIONS,probe,2.0
+17,-1,baseline,baseline,,,baseline,baseline,baseline,
+18,56,심다,뽑다,,,Reverse (Korean Localized),CONTRAST,example,
+18,56,두껍다,얇다,,,Reverse (Korean Localized),CONTRAST,example,
+18,56,내리다,올리다,,,Reverse (Korean Localized),CONTRAST,example,
+18,56,숨기다,공개하다,,,Reverse (Korean Localized),CONTRAST,example,
+18,56,받아들이다,거부하다,거부하다,제안하다,Reverse (Korean Localized),CONTRAST,probe,1.0
+19,61,정오,점심,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+19,61,선거,투표,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+19,61,탐험,발견,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+19,61,면접,질문,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+19,61,자정,야식,야식,잠옷,Time Action/Activity (Korean Localized),SPACE-TIME,probe,1.0
+20,54,여왕,왕좌,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+20,54,세입자,열쇠,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+20,54,성직자,서품,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+20,54,난민,망명,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+20,54,여행자,비자,여권,비자,Recipient:Instrument (Korean Localized),CASE RELATIONS,probe,2.0
+21,56,깊다,얕다,,,Reverse (Korean Localized),CONTRAST,example,
+21,56,고용하다,해고하다,,,Reverse (Korean Localized),CONTRAST,example,
+21,56,잠그다,잠금해제하다,,,Reverse (Korean Localized),CONTRAST,example,
+21,56,기억하다,잊다,,,Reverse (Korean Localized),CONTRAST,example,
+21,56,순하다,야생적이다,야생적이다,온순하다,Reverse (Korean Localized),CONTRAST,probe,1.0
+22,-1,baseline,baseline,,,baseline,baseline,baseline,
+23,54,국민,여권,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+23,54,보훈대상자,보훈급여,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+23,54,유권자,투표용지,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+23,54,주택구매자,주택담보대출,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+23,54,미망인,보험금,보험금,유언장,Recipient:Instrument (Korean Localized),CASE RELATIONS,probe,1.0
+24,61,사냥,추적,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+24,61,오후,낮잠,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+24,61,밤,꿈꾸기,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+24,61,겨울,눈,,,Time Action/Activity (Korean Localized),SPACE-TIME,example,
+24,61,아침,일출,일출,칫솔,Time Action/Activity (Korean Localized),SPACE-TIME,probe,1.0
+25,12,램프갓,램프,,,Attachment (Korean Localized),SPACE-TIME,example,
+25,12,핀,옷깃,,,Attachment (Korean Localized),SPACE-TIME,example,
+25,12,뚜껑,단지,,,Attachment (Korean Localized),SPACE-TIME,example,
+25,12,꼬리,말,,,Attachment (Korean Localized),SPACE-TIME,example,
+25,12,수도꼭지,파이프,변기,파이프,Attachment (Korean Localized),SPACE-TIME,probe,2.0

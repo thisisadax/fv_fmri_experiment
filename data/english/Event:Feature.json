@@ -1,0 +1,610 @@
+{
+  "source_dataset": "SemEval-2012",
+  "relation_category": "PART-WHOLE",
+  "relation_name": "Event:Feature",
+  "relation_source": "Event:Feature",
+  "num_relations_per_source": 1,
+  "relation_index": 1,
+  "n_clean_pairs": 85,
+  "n_original_pairs": 39,
+  "relation_description": "The second item is a person, object, or element typically found at the event described by the first item.",
+  "relation_pairs": [
+    "graduation:diploma",
+    "graduation:students",
+    "party:guests",
+    "party:alcohol",
+    "audition:actor",
+    "prom:dress",
+    "game:players",
+    "game:referee",
+    "concert:musician",
+    "carnival:rides",
+    "funeral:coffin",
+    "funeral:corpse",
+    "competition:athlete",
+    "crime:evidence",
+    "circus:clown",
+    "circus:ringmaster",
+    "picnic:snacks",
+    "picnic:blanket",
+    "meal:food",
+    "clambake:clams",
+    "baptism:priest",
+    "wedding:bride",
+    "wedding:rings",
+    "birthday:candles",
+    "birthday:cake",
+    "marathon:runners",
+    "race:finish line",
+    "tournament:trophy",
+    "play:stage",
+    "opera:singer",
+    "ballet:dancer",
+    "barbecue:grill",
+    "potluck:casserole",
+    "dinner party:host",
+    "cocktail party:drinks",
+    "tailgate:fans",
+    "bonfire:marshmallows",
+    "sleepover:pajamas",
+    "reunion:classmates",
+    "baby shower:gifts",
+    "lecture:professor",
+    "seminar:speaker",
+    "debate:podium",
+    "trial:jury",
+    "trial:judge",
+    "parade:floats",
+    "protest:signs",
+    "auction:auctioneer",
+    "election:ballots",
+    "Thanksgiving:turkey",
+    "Christmas:presents",
+    "Halloween:costumes",
+    "Easter:eggs",
+    "harvest:crops",
+    "rodeo:cowboy",
+    "spelling bee:contestants",
+    "karaoke:microphone",
+    "cookout:burgers",
+    "coronation:crown",
+    "inauguration:oath",
+    "dance:music",
+    "fair:cotton candy",
+    "workshop:tools",
+    "conference:attendees",
+    "camping trip:tent",
+    "magic show:magician",
+    "comedy show:comedian",
+    "boxing match:gloves",
+    "baseball game:bat",
+    "memorial:flowers",
+    "feast:wine",
+    "symphony:conductor",
+    "pep rally:cheerleaders",
+    "raffle:tickets",
+    "interview:candidate",
+    "rehearsal:script",
+    "premiere:red carpet",
+    "gala:gowns",
+    "banquet:speeches",
+    "wrestling match:mat",
+    "track meet:hurdles",
+    "scavenger hunt:clues",
+    "fundraiser:donations",
+    "hockey game:puck",
+    "art show:paintings"
+  ],
+  "distractors": [
+    [
+      "transcript",
+      "report card",
+      "tuition",
+      "classroom"
+    ],
+    [
+      "alumni",
+      "applicants",
+      "homework",
+      "locker"
+    ],
+    [
+      "invitations",
+      "entertainers",
+      "playlist",
+      "living room"
+    ],
+    [
+      "soda",
+      "chips",
+      "curfew",
+      "study hall"
+    ],
+    [
+      "audience",
+      "critic",
+      "casting call",
+      "rehearsal"
+    ],
+    [
+      "uniform",
+      "jersey",
+      "homecoming",
+      "yearbook"
+    ],
+    [
+      "practice",
+      "training",
+      "recess",
+      "locker room"
+    ],
+    [
+      "umpire",
+      "judge",
+      "overtime",
+      "playground"
+    ],
+    [
+      "actor",
+      "dancer",
+      "tour bus",
+      "radio"
+    ],
+    [
+      "parade",
+      "stage",
+      "flyer",
+      "parking lot"
+    ],
+    [
+      "obituary",
+      "will",
+      "insurance",
+      "hospital"
+    ],
+    [
+      "death certificate",
+      "paramedic",
+      "inheritance",
+      "hospital"
+    ],
+    [
+      "judge",
+      "sponsor",
+      "practice",
+      "registration desk"
+    ],
+    [
+      "motive",
+      "alibi",
+      "detective",
+      "handcuffs"
+    ],
+    [
+      "jester",
+      "mascot",
+      "parade",
+      "carousel"
+    ],
+    [
+      "announcer",
+      "presenter",
+      "news anchor",
+      "press conference"
+    ],
+    [
+      "ant spray",
+      "sunblock",
+      "hiking trail",
+      "park bench"
+    ],
+    [
+      "table",
+      "umbrella",
+      "ants",
+      "parking lot"
+    ],
+    [
+      "recipe",
+      "stove",
+      "hunger",
+      "grocery store"
+    ],
+    [
+      "oysters",
+      "crabs",
+      "fishing boat",
+      "tide"
+    ],
+    [
+      "rabbi",
+      "monk",
+      "wedding",
+      "Sunday school"
+    ],
+    [
+      "fiance",
+      "date",
+      "proposal",
+      "honeymoon"
+    ],
+    [
+      "invitations",
+      "corsage",
+      "engagement photos",
+      "registry"
+    ],
+    [
+      "wrapping paper",
+      "guest list",
+      "calendar",
+      "age"
+    ],
+    [
+      "cupcakes",
+      "sparklers",
+      "invitation",
+      "weekend"
+    ],
+    [
+      "cyclists",
+      "sprinters",
+      "training plan",
+      "track"
+    ],
+    [
+      "starting gun",
+      "lap counter",
+      "rivalry",
+      "practice"
+    ],
+    [
+      "medal",
+      "certificate",
+      "qualifier",
+      "sponsor"
+    ],
+    [
+      "screen",
+      "camera",
+      "playwright",
+      "radio"
+    ],
+    [
+      "actor",
+      "ballet dancer",
+      "rehearsal",
+      "ticket"
+    ],
+    [
+      "gymnast",
+      "figure skater",
+      "barre",
+      "studio"
+    ],
+    [
+      "oven",
+      "skillet",
+      "recipe card",
+      "kitchen"
+    ],
+    [
+      "takeout",
+      "pizza",
+      "sign-up sheet",
+      "carpool"
+    ],
+    [
+      "caterer",
+      "doorman",
+      "RSVP",
+      "neighborhood"
+    ],
+    [
+      "name tags",
+      "dress code",
+      "guest list",
+      "lounge"
+    ],
+    [
+      "cheerleaders",
+      "team",
+      "tickets",
+      "parking pass"
+    ],
+    [
+      "sparklers",
+      "lantern",
+      "tents",
+      "flashlight"
+    ],
+    [
+      "nightlight",
+      "backpack",
+      "curfew",
+      "school"
+    ],
+    [
+      "principal",
+      "teachers",
+      "cap and gown",
+      "gymnasium"
+    ],
+    [
+      "registry",
+      "gender reveal",
+      "invitations",
+      "nursery"
+    ],
+    [
+      "dean",
+      "librarian",
+      "syllabus",
+      "classroom building"
+    ],
+    [
+      "panel",
+      "host",
+      "email invite",
+      "conference room"
+    ],
+    [
+      "ballot box",
+      "soapbox",
+      "op-ed",
+      "classroom"
+    ],
+    [
+      "plea deal",
+      "crime scene",
+      "handcuffs",
+      "jail cell"
+    ],
+    [
+      "referee",
+      "mediator",
+      "verdict",
+      "courthouse steps"
+    ],
+    [
+      "bikes",
+      "fireworks",
+      "route map",
+      "sidewalk"
+    ],
+    [
+      "petition",
+      "rally stage",
+      "permit",
+      "social media"
+    ],
+    [
+      "garage sale",
+      "cashier",
+      "estate sale",
+      "gallery"
+    ],
+    [
+      "campaign ads",
+      "debate",
+      "polls closing",
+      "constitution"
+    ],
+    [
+      "ham",
+      "leftovers",
+      "grocery list",
+      "pilgrims"
+    ],
+    [
+      "wish list",
+      "caroling",
+      "sleigh",
+      "December"
+    ],
+    [
+      "fireworks",
+      "confetti",
+      "leaf pile",
+      "October"
+    ],
+    [
+      "church service",
+      "bunny suit",
+      "sunrise",
+      "April"
+    ],
+    [
+      "planting",
+      "seedlings",
+      "irrigation",
+      "barn"
+    ],
+    [
+      "rancher",
+      "jockey",
+      "stable",
+      "cattle drive"
+    ],
+    [
+      "coaches",
+      "practice list",
+      "report cards",
+      "homeroom"
+    ],
+    [
+      "headphones",
+      "guitar",
+      "coat check",
+      "ticket stub"
+    ],
+    [
+      "stir-fry",
+      "takeout",
+      "drive-thru",
+      "parking lot"
+    ],
+    [
+      "medal",
+      "ring",
+      "royal decree",
+      "parade"
+    ],
+    [
+      "inaugural ball",
+      "campaign",
+      "election night",
+      "confetti"
+    ],
+    [
+      "earbuds",
+      "mirror",
+      "practice",
+      "audition"
+    ],
+    [
+      "flyer",
+      "parking shuttle",
+      "barn",
+      "county"
+    ],
+    [
+      "registration fee",
+      "email list",
+      "coffee break",
+      "calendar invite"
+    ],
+    [
+      "keynote",
+      "press release",
+      "airport",
+      "hotel booking"
+    ],
+    [
+      "cabin",
+      "RV",
+      "road trip",
+      "couch"
+    ],
+    [
+      "illusion",
+      "clown",
+      "ticket",
+      "birthday party"
+    ],
+    [
+      "sketch",
+      "juggler",
+      "open mic",
+      "flyer"
+    ],
+    [
+      "pads",
+      "headgear",
+      "weigh-in",
+      "gym"
+    ],
+    [
+      "stick",
+      "puck",
+      "mittens",
+      "rink"
+    ],
+    [
+      "balloons",
+      "ribbon",
+      "anniversary date",
+      "town square"
+    ],
+    [
+      "juice",
+      "banquet hall",
+      "holiday",
+      "invitation"
+    ],
+    [
+      "composer",
+      "stage manager",
+      "radio broadcast",
+      "rehearsal"
+    ],
+    [
+      "team bus",
+      "playbook",
+      "locker room",
+      "season opener"
+    ],
+    [
+      "wristbands",
+      "lottery",
+      "email list",
+      "winner announcement"
+    ],
+    [
+      "job posting",
+      "reference",
+      "salary",
+      "commute"
+    ],
+    [
+      "makeup",
+      "prop list",
+      "audition notice",
+      "opening night"
+    ],
+    [
+      "press junket",
+      "after-party",
+      "trailer",
+      "box office"
+    ],
+    [
+      "costumes",
+      "uniforms",
+      "auction",
+      "invitation"
+    ],
+    [
+      "slides",
+      "performances",
+      "guest list",
+      "parking garage"
+    ],
+    [
+      "ring",
+      "gloves",
+      "rope",
+      "helmet"
+    ],
+    [
+      "cones",
+      "scoreboard",
+      "uniforms",
+      "carpool"
+    ],
+    [
+      "puzzle",
+      "prize",
+      "timer",
+      "playground"
+    ],
+    [
+      "sponsors",
+      "merchandise",
+      "flyers",
+      "venue"
+    ],
+    [
+      "ball",
+      "cleats",
+      "dugout",
+      "diamond"
+    ],
+    [
+      "flyers",
+      "ticket booth",
+      "frame shop",
+      "gift shop"
+    ]
+  ]
+}

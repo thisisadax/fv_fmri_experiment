@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,25,lisp,pronunciation,,,Defective,CONTRAST,example,
+1,25,distortion,sound,,,Defective,CONTRAST,example,
+1,25,stain,fabric,,,Defective,CONTRAST,example,
+1,25,weakness,structure,,,Defective,CONTRAST,example,
+1,25,flaw,diamond,diamond,clarity,Defective,CONTRAST,probe,1.0
+2,34,alcohol,drunkenness,,,Instrument:Goal,CAUSE-PURPOSE,example,
+2,34,threat,intimidation,,,Instrument:Goal,CAUSE-PURPOSE,example,
+2,34,joke,laughter,,,Instrument:Goal,CAUSE-PURPOSE,example,
+2,34,advertisement,desire,,,Instrument:Goal,CAUSE-PURPOSE,example,
+2,34,tylenol,relief,relief,sleep,Instrument:Goal,CAUSE-PURPOSE,probe,1.0
+3,57,reward,punish,,,Reverse,CONTRAST,example,
+3,57,save,spend,,,Reverse,CONTRAST,example,
+3,57,peace,war,,,Reverse,CONTRAST,example,
+3,57,arrive,depart,,,Reverse,CONTRAST,example,
+3,57,push,pull,press,pull,Reverse,CONTRAST,probe,2.0
+4,53,cars,sedans,,,Plural Collective,CLASS-INCLUSION,example,
+4,53,dances,waltz,,,Plural Collective,CLASS-INCLUSION,example,
+4,53,languages,spanish,,,Plural Collective,CLASS-INCLUSION,example,
+4,53,trees,oaks,,,Plural Collective,CLASS-INCLUSION,example,
+4,53,clothing,shirts,hanger,shirts,Plural Collective,CLASS-INCLUSION,probe,2.0
+5,25,leukemia,blood,,,Defective,CONTRAST,example,
+5,25,smear,painting,,,Defective,CONTRAST,example,
+5,25,wobble,wheel,,,Defective,CONTRAST,example,
+5,25,burn,carpet,,,Defective,CONTRAST,example,
+5,25,scratch,table,table,leg,Defective,CONTRAST,probe,1.0
+6,34,discipline,obedience,,,Instrument:Goal,CAUSE-PURPOSE,example,
+6,34,sunscreen,protection,,,Instrument:Goal,CAUSE-PURPOSE,example,
+6,34,exercise,fitness,,,Instrument:Goal,CAUSE-PURPOSE,example,
+6,34,punishment,deterrence,,,Instrument:Goal,CAUSE-PURPOSE,example,
+6,34,aphrodisiac,lust,lust,confidence,Instrument:Goal,CAUSE-PURPOSE,probe,1.0
+7,-1,baseline,baseline,,,baseline,baseline,baseline,
+8,57,include,exclude,,,Reverse,CONTRAST,example,
+8,57,alive,dead,,,Reverse,CONTRAST,example,
+8,57,deep,shallow,,,Reverse,CONTRAST,example,
+8,57,light,dark,,,Reverse,CONTRAST,example,
+8,57,praise,criticize,applaud,criticize,Reverse,CONTRAST,probe,2.0
+9,53,candy,chocolates,,,Plural Collective,CLASS-INCLUSION,example,
+9,53,fish,salmon,,,Plural Collective,CLASS-INCLUSION,example,
+9,53,poems,sonnets,,,Plural Collective,CLASS-INCLUSION,example,
+9,53,condiments,ketchup,,,Plural Collective,CLASS-INCLUSION,example,
+9,53,oceans,atlantic,atlantic,ship,Plural Collective,CLASS-INCLUSION,probe,1.0
+10,34,negotiation,agreement,,,Instrument:Goal,CAUSE-PURPOSE,example,
+10,34,speaker,sound,,,Instrument:Goal,CAUSE-PURPOSE,example,
+10,34,law,order,,,Instrument:Goal,CAUSE-PURPOSE,example,
+10,34,education,enlightenment,,,Instrument:Goal,CAUSE-PURPOSE,example,
+10,34,camouflage,concealment,surprise,concealment,Instrument:Goal,CAUSE-PURPOSE,probe,2.0
+11,25,streak,window,,,Defective,CONTRAST,example,
+11,25,drip,faucet,,,Defective,CONTRAST,example,
+11,25,rip,jacket,,,Defective,CONTRAST,example,
+11,25,split,seam,,,Defective,CONTRAST,example,
+11,25,scar,complexion,complexion,concealer,Defective,CONTRAST,probe,1.0
+12,-1,baseline,baseline,,,baseline,baseline,baseline,
+13,34,map,guidance,,,Instrument:Goal,CAUSE-PURPOSE,example,
+13,34,handshake,trust,,,Instrument:Goal,CAUSE-PURPOSE,example,
+13,34,protest,change,,,Instrument:Goal,CAUSE-PURPOSE,example,
+13,34,warning,caution,,,Instrument:Goal,CAUSE-PURPOSE,example,
+13,34,tax,revenue,burden,revenue,Instrument:Goal,CAUSE-PURPOSE,probe,2.0
+14,53,nuts,cashews,,,Plural Collective,CLASS-INCLUSION,example,
+14,53,sports,basketball,,,Plural Collective,CLASS-INCLUSION,example,
+14,53,shapes,circles,,,Plural Collective,CLASS-INCLUSION,example,
+14,53,instrument,flute,,,Plural Collective,CLASS-INCLUSION,example,
+14,53,china,plates,plates,porcelain,Plural Collective,CLASS-INCLUSION,probe,1.0
+15,-1,baseline,baseline,,,baseline,baseline,baseline,
+16,57,tighten,loosen,,,Reverse,CONTRAST,example,
+16,57,love,hate,,,Reverse,CONTRAST,example,
+16,57,encourage,discourage,,,Reverse,CONTRAST,example,
+16,57,lengthen,shorten,,,Reverse,CONTRAST,example,
+16,57,gather,scatter,scatter,crowd,Reverse,CONTRAST,probe,1.0
+17,25,pothole,road,,,Defective,CONTRAST,example,
+17,25,typo,text,,,Defective,CONTRAST,example,
+17,25,leak,roof,,,Defective,CONTRAST,example,
+17,25,bubble,paint,,,Defective,CONTRAST,example,
+17,25,noise,recording,studio,recording,Defective,CONTRAST,probe,2.0
+18,-1,baseline,baseline,,,baseline,baseline,baseline,
+19,34,automobile,transportation,,,Instrument:Goal,CAUSE-PURPOSE,example,
+19,34,sleep,restfulness,,,Instrument:Goal,CAUSE-PURPOSE,example,
+19,34,bridge,passage,,,Instrument:Goal,CAUSE-PURPOSE,example,
+19,34,investment,profit,,,Instrument:Goal,CAUSE-PURPOSE,example,
+19,34,diplomacy,peace,peace,trade,Instrument:Goal,CAUSE-PURPOSE,probe,1.0
+20,57,bold,timid,,,Reverse,CONTRAST,example,
+20,57,appear,disappear,,,Reverse,CONTRAST,example,
+20,57,bless,curse,,,Reverse,CONTRAST,example,
+20,57,sink,float,,,Reverse,CONTRAST,example,
+20,57,fight,reconcile,reconcile,truce,Reverse,CONTRAST,probe,1.0
+21,53,literature,novels,,,Plural Collective,CLASS-INCLUSION,example,
+21,53,cats,siamese,,,Plural Collective,CLASS-INCLUSION,example,
+21,53,continents,africa,,,Plural Collective,CLASS-INCLUSION,example,
+21,53,cheese,cheddar,,,Plural Collective,CLASS-INCLUSION,example,
+21,53,seasons,summer,heat,summer,Plural Collective,CLASS-INCLUSION,probe,2.0
+22,-1,baseline,baseline,,,baseline,baseline,baseline,
+23,57,remember,forget,,,Reverse,CONTRAST,example,
+23,57,hot,cold,,,Reverse,CONTRAST,example,
+23,57,wet,dry,,,Reverse,CONTRAST,example,
+23,57,shout,whisper,,,Reverse,CONTRAST,example,
+23,57,start,stop,stop,engine,Reverse,CONTRAST,probe,1.0
+24,25,inconsistency,story,,,Defective,CONTRAST,example,
+24,25,error,calculation,,,Defective,CONTRAST,example,
+24,25,rot,foundation,,,Defective,CONTRAST,example,
+24,25,blindness,vision,,,Defective,CONTRAST,example,
+24,25,weed,lawn,flowerbed,lawn,Defective,CONTRAST,probe,2.0
+25,53,vehicles,trucks,,,Plural Collective,CLASS-INCLUSION,example,
+25,53,appliances,toasters,,,Plural Collective,CLASS-INCLUSION,example,
+25,53,fabrics,silk,,,Plural Collective,CLASS-INCLUSION,example,
+25,53,minerals,quartz,,,Plural Collective,CLASS-INCLUSION,example,
+25,53,cookware,pots,pots,soup,Plural Collective,CLASS-INCLUSION,probe,1.0

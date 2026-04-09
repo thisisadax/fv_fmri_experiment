@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,51,스토아주의자,불평하다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+1,51,경찰,훔치다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+1,51,외과의사,떨다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+1,51,은둔자,어울리다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+1,51,개,골골거리다,물어오다,골골거리다,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,probe,2.0
+2,60,차,캐모마일차,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+2,60,색,빨강,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+2,60,새,백조,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+2,60,악기,기타,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+2,60,차량,트럭,트럭,엔진,Taxonomic (Korean Localized),CLASS-INCLUSION,probe,1.0
+3,43,도서관,책,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+3,43,새떼,새,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+3,43,집,방,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+3,43,교향곡,악장,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+3,43,하루,시간,시간,빛,Mass:Portion (Korean Localized),PART-WHOLE,probe,1.0
+4,-1,baseline,baseline,,,baseline,baseline,baseline,
+5,51,불면증환자,잠자다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+5,51,폭군,용서하다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+5,51,바위,자라다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+5,51,동상,구부러지다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+5,51,대식가,단식하다,단식하다,호화롭게먹다,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,probe,1.0
+6,43,팀,선수,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+6,43,키보드,키,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+6,43,미터,센티미터,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+6,43,킬로미터,미터,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+6,43,꽃다발,꽃,꽃,리본,Mass:Portion (Korean Localized),PART-WHOLE,probe,1.0
+7,-1,baseline,baseline,,,baseline,baseline,baseline,
+8,11,야심차다,의지,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+8,11,피해망상적이다,의심,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+8,11,평화롭다,고요함,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+8,11,겁에질리다,공포,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+8,11,격노하다,분노,분노,분개,Agent Attribute:State (Korean Localized),ATTRIBUTE,probe,1.0
+9,60,음악,재즈,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+9,60,동물,돼지,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+9,60,건물,병원,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+9,60,장신구,반지,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+9,60,음악가,드러머,밴드,드러머,Taxonomic (Korean Localized),CLASS-INCLUSION,probe,2.0
+10,51,사서,소리치다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+10,51,냉소주의자,신뢰하다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+10,51,신사,트림하다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+10,51,무언증환자,말하다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+10,51,곡예사,비틀거리다,뛰어오르다,비틀거리다,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,probe,2.0
+11,43,석류,씨,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+11,43,군도,섬,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+11,43,해골,뼈,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+11,43,기차,객차,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+11,43,문장,단어,쪽,단어,Mass:Portion (Korean Localized),PART-WHOLE,probe,2.0
+12,60,치즈,체더치즈,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+12,60,사탕,막대사탕,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+12,60,정치인,국회의원,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+12,60,디저트,케이크,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+12,60,게임,체스,폰,체스,Taxonomic (Korean Localized),CLASS-INCLUSION,probe,2.0
+13,11,혼란스럽다,어리둥절함,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+13,11,창피하다,수치심,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+13,11,무기력하다,피로,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+13,11,꼼지락거리다,안절부절,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+13,11,압도되다,스트레스,스트레스,멀티태스킹,Agent Attribute:State (Korean Localized),ATTRIBUTE,probe,1.0
+14,51,나무늘보,전력질주하다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+14,51,독재자,사임하다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+14,51,은둔형외톨이,어울리다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+14,51,고래,오르다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+14,51,평화주의자,싸우다,싸우다,피하다,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,probe,1.0
+15,-1,baseline,baseline,,,baseline,baseline,baseline,
+16,43,벽,벽돌,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+16,43,늑대떼,늑대,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+16,43,건물,층,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+16,43,직물,섬유,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+16,43,킬로그램,그램,저울,그램,Mass:Portion (Korean Localized),PART-WHOLE,probe,2.0
+17,11,헌신적이다,헌신,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+17,11,화나다,분노,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+17,11,목마르다,갈증,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+17,11,질투하다,질투,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+17,11,멍하다,혼동,혼동,혼미,Agent Attribute:State (Korean Localized),ATTRIBUTE,probe,1.0
+18,-1,baseline,baseline,,,baseline,baseline,baseline,
+19,60,뱀,코브라,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+19,60,모자,베레모,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+19,60,감정,분노,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+19,60,자동차,아반떼,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+19,60,베리류,딸기,딸기,쇼트케이크,Taxonomic (Korean Localized),CLASS-INCLUSION,probe,1.0
+20,43,퀼트이불,조각,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+20,43,도시,동네,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+20,43,지렁이,마디,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+20,43,분,초,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+20,43,벌집,벌,벌,꽃,Mass:Portion (Korean Localized),PART-WHOLE,probe,1.0
+21,11,황홀하다,행복감,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+21,11,신나다,열의,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+21,11,겸손하다,겸손,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+21,11,골똘하다,성찰,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+21,11,취하다,취기,숙취,취기,Agent Attribute:State (Korean Localized),ATTRIBUTE,probe,2.0
+22,-1,baseline,baseline,,,baseline,baseline,baseline,
+23,60,향신료,계피,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+23,60,가구,소파,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+23,60,날씨,비,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+23,60,항공기,헬리콥터,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+23,60,채소,브로콜리,브로콜리,초록,Taxonomic (Korean Localized),CLASS-INCLUSION,probe,1.0
+24,11,뉘우치다,후회,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+24,11,덜덜떨다,공포,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+24,11,환희하다,도취감,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+24,11,우울해하다,우수,,,Agent Attribute:State (Korean Localized),ATTRIBUTE,example,
+24,11,긴장하다,불안,시험,불안,Agent Attribute:State (Korean Localized),ATTRIBUTE,probe,2.0
+25,51,미니멀리스트,수집하다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+25,51,무정부주의자,복종하다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+25,51,자선가,재물을쌓아두다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+25,51,의사,해치다,,,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,example,
+25,51,완벽주의자,서두르다,서두르다,다듬다,Objects:Atypical Action (noun:verb) (Korean Localized),NON-ATTRIBUTE,probe,1.0

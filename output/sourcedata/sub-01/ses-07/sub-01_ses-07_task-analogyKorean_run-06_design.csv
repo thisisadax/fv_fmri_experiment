@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,28,일출,일몰,,,Directional (Korean Localized),CONTRAST,example,
+1,28,출발지,도착지,,,Directional (Korean Localized),CONTRAST,example,
+1,28,여기,저기,,,Directional (Korean Localized),CONTRAST,example,
+1,28,전진하다,후퇴하다,,,Directional (Korean Localized),CONTRAST,example,
+1,28,도착하다,출발하다,공항,출발하다,Directional (Korean Localized),CONTRAST,probe,2.0
+2,23,극장,무대,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+2,23,선장,선원,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+2,23,양치기,양 떼,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+2,23,변호사,의뢰인,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+2,23,뱀,독니,독니,사막,Creature:Possession (Korean Localized),PART-WHOLE,probe,1.0
+3,25,목마르다,목이타다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+3,25,숨쉬다,과호흡하다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+3,25,속상하다,망연자실하다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+3,25,친근하다,과하게달라붙다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+3,25,깨지다,산산조각나다,산산조각나다,이빨나다,Dimensional Excessive (Korean Localized),SIMILAR,probe,1.0
+4,28,상단,하단,,,Directional (Korean Localized),CONTRAST,example,
+4,28,뒤로,앞으로,,,Directional (Korean Localized),CONTRAST,example,
+4,28,왼쪽,오른쪽,,,Directional (Korean Localized),CONTRAST,example,
+4,28,상행,하행,,,Directional (Korean Localized),CONTRAST,example,
+4,28,모이다,흩어지다,소풍,흩어지다,Directional (Korean Localized),CONTRAST,probe,2.0
+5,-1,baseline,baseline,,,baseline,baseline,baseline,
+6,23,집,거주자,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+6,23,호텔,투숙객,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+6,23,나무,나무껍질,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+6,23,토끼,털,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+6,23,사업주,직원,직원,광고,Creature:Possession (Korean Localized),PART-WHOLE,probe,1.0
+7,25,존경,숭배,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+7,25,배고프다,굶주리다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+7,25,보호심,소유욕,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+7,25,산들바람,강풍,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+7,25,옅은안개,짙은안개,수증기,짙은안개,Dimensional Excessive (Korean Localized),SIMILAR,probe,2.0
+8,-1,baseline,baseline,,,baseline,baseline,baseline,
+9,23,사슴,뿔,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+9,23,화가,그림,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+9,23,조종사,조종면허,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+9,23,저택,방,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+9,23,병원,환자,가족,환자,Creature:Possession (Korean Localized),PART-WHOLE,probe,2.0
+10,29,가스,보일러,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+10,29,차키,자동차,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+10,29,물,샤워,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+10,29,도화선,다이너마이트,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+10,29,페달,자전거,체인,자전거,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,probe,2.0
+11,25,두려움,공황,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+11,25,단단하다,딱딱하다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+11,25,못생기다,흉측하다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+11,25,후하다,헤프다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+11,25,슬프다,절망하다,절망하다,불행하다,Dimensional Excessive (Korean Localized),SIMILAR,probe,1.0
+12,28,위쪽,아래쪽,,,Directional (Korean Localized),CONTRAST,example,
+12,28,북서,남동,,,Directional (Korean Localized),CONTRAST,example,
+12,28,주다,가져가다,,,Directional (Korean Localized),CONTRAST,example,
+12,28,좌현,우현,,,Directional (Korean Localized),CONTRAST,example,
+12,28,앞,뒤,얼굴,뒤,Directional (Korean Localized),CONTRAST,probe,2.0
+13,29,종이,프린터,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+13,29,통나무,모닥불,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+13,29,붓,페인트,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+13,29,불,바비큐,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+13,29,기름,오일램프,유리,오일램프,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,probe,2.0
+14,-1,baseline,baseline,,,baseline,baseline,baseline,
+15,25,다정하다,간섭이심하다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+15,25,놀라다,충격받다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+15,25,보다,뚫어지게보다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+15,25,걱정하다,전전긍긍하다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+15,25,과하게익다,타다,잘익다,타다,Dimensional Excessive (Korean Localized),SIMILAR,probe,2.0
+16,23,회사,제품,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+16,23,새,깃털,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+16,23,우산,손잡이,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+16,23,식당,메뉴,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+16,23,투자자,투자,시장,투자,Creature:Possession (Korean Localized),PART-WHOLE,probe,2.0
+17,-1,baseline,baseline,,,baseline,baseline,baseline,
+18,29,헬륨,풍선,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+18,29,실,베틀,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+18,29,산탄총 탄환,산탄총,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+18,29,동전,주차미터기,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+18,29,토큰,오락실,오락실,카드,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,probe,1.0
+19,28,승선하다,하선하다,,,Directional (Korean Localized),CONTRAST,example,
+19,28,보내다,받다,,,Directional (Korean Localized),CONTRAST,example,
+19,28,가까이,멀리,,,Directional (Korean Localized),CONTRAST,example,
+19,28,발사,착륙,,,Directional (Korean Localized),CONTRAST,example,
+19,28,썰물,밀물,밀물,해안,Directional (Korean Localized),CONTRAST,probe,1.0
+20,-1,baseline,baseline,,,baseline,baseline,baseline,
+21,29,펌프,분수,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+21,29,경유,발전기,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+21,29,석탄,증기기관차,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+21,29,미끼,덫,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+21,29,큐,당구,브레이크샷,당구,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,probe,2.0
+22,28,밀어내다,끌어당기다,,,Directional (Korean Localized),CONTRAST,example,
+22,28,앞서다,뒤따르다,,,Directional (Korean Localized),CONTRAST,example,
+22,28,북쪽행,남쪽행,,,Directional (Korean Localized),CONTRAST,example,
+22,28,앞쪽,뒤쪽,,,Directional (Korean Localized),CONTRAST,example,
+22,28,진전,퇴보,퇴보,성장,Directional (Korean Localized),CONTRAST,probe,1.0
+23,25,열정,광기,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+23,25,말하다,장광설늘어놓다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+23,25,실망하다,좌절하다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+23,25,군것질하다,폭식하다,,,Dimensional Excessive (Korean Localized),SIMILAR,example,
+23,25,똑똑떨어지다,콸콸쏟아지다,수도꼭지,콸콸쏟아지다,Dimensional Excessive (Korean Localized),SIMILAR,probe,2.0
+24,29,화살,활,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+24,29,드럼스틱,드럼,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+24,29,바늘,주사기,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+24,29,안테나,라디오,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+24,29,댐,저수지,저수지,터빈,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,probe,1.0
+25,23,가시돼지,가시,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+25,23,팀,선수,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+25,23,시계,바늘,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+25,23,부엉이,발톱,,,Creature:Possession (Korean Localized),PART-WHOLE,example,
+25,23,숲,나무,산림경비원,나무,Creature:Possession (Korean Localized),PART-WHOLE,probe,2.0

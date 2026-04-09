@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,30,연극,무대,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+1,30,바비큐,그릴,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+1,30,저녁파티,주최자,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+1,30,퍼레이드,장식차,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+1,30,보물찾기,단서,단서,놀이터,Event:Feature (Korean Localized),PART-WHOLE,probe,1.0
+2,44,고기,정육칼,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+2,44,공,배트,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+2,44,흙,삽,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+2,44,얼굴,면도기,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+2,44,창문,유리밀대,전망,유리밀대,Object:Instrument (Korean Localized),CASE RELATIONS,probe,2.0
+3,-1,baseline,baseline,,,baseline,baseline,baseline,
+4,1,느긋이 뒹굴다,적극적으로,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+4,1,축하하다,슬프게,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+4,1,숙고하다,충동적으로,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+4,1,빈둥거리다,생산적으로,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+4,1,뛰어들다,조심스레,조심스레,갑자기,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,probe,1.0
+5,30,경주,결승선,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+5,30,서커스,광대,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+5,30,강의,교수,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+5,30,수확,농작물,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+5,30,축제,솜사탕,솜사탕,셔틀버스,Event:Feature (Korean Localized),PART-WHOLE,probe,1.0
+6,39,우주론,우주,,,Knowledge (Korean Localized),REFERENCE,example,
+6,39,통계학,데이터,,,Knowledge (Korean Localized),REFERENCE,example,
+6,39,면역학,면역,,,Knowledge (Korean Localized),REFERENCE,example,
+6,39,동물학,동물,,,Knowledge (Korean Localized),REFERENCE,example,
+6,39,소아의학,어린이,아기,어린이,Knowledge (Korean Localized),REFERENCE,probe,2.0
+7,1,무시하다,주의 깊게,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+7,1,빙빙 돌다,곧장,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+7,1,놀라게 하다,점차적으로,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+7,1,허우적거리다,우아하게,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+7,1,으스대다,소심하게,소심하게,자랑스럽게,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,probe,1.0
+8,-1,baseline,baseline,,,baseline,baseline,baseline,
+9,30,추모식,꽃,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+9,30,파자마파티,잠옷,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+9,30,스포츠경기,선수,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+9,30,대회,선수,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+9,30,댄스파티,음악,연습,음악,Event:Feature (Korean Localized),PART-WHOLE,probe,2.0
+10,39,인구학,인구,,,Knowledge (Korean Localized),REFERENCE,example,
+10,39,인류학,인간,,,Knowledge (Korean Localized),REFERENCE,example,
+10,39,정신의학,정신질환,,,Knowledge (Korean Localized),REFERENCE,example,
+10,39,수문학,물,,,Knowledge (Korean Localized),REFERENCE,example,
+10,39,지질학,지구,지구,지진,Knowledge (Korean Localized),REFERENCE,probe,1.0
+11,44,바이올린,활,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+11,44,상처,붕대,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+11,44,화이트보드,마커,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+11,44,스테이크,집게,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+11,44,볼트,렌치,공구상자,렌치,Object:Instrument (Korean Localized),CASE RELATIONS,probe,2.0
+12,1,거짓말하다,정직하게,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+12,1,절제하다,마음껏,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+12,1,노려보다,상냥하게,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+12,1,망치다,전문가답게,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+12,1,돌격하다,머뭇거리며,머뭇거리며,전투,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,probe,1.0
+13,39,고고학,유물,,,Knowledge (Korean Localized),REFERENCE,example,
+13,39,항공학,비행,,,Knowledge (Korean Localized),REFERENCE,example,
+13,39,기하학,도형,,,Knowledge (Korean Localized),REFERENCE,example,
+13,39,식문화학,요리,,,Knowledge (Korean Localized),REFERENCE,example,
+13,39,지도학,지도,지도,지도책,Knowledge (Korean Localized),REFERENCE,probe,1.0
+14,-1,baseline,baseline,,,baseline,baseline,baseline,
+15,44,드럼,드럼스틱,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+15,44,표면,사포,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+15,44,식물,비료,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+15,44,못,망치,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+15,44,봉투,우표,우표,주소,Object:Instrument (Korean Localized),CASE RELATIONS,probe,1.0
+16,39,로봇공학,로봇,,,Knowledge (Korean Localized),REFERENCE,example,
+16,39,시민교육,시민권,,,Knowledge (Korean Localized),REFERENCE,example,
+16,39,식물학,식물,,,Knowledge (Korean Localized),REFERENCE,example,
+16,39,논리학,추론,,,Knowledge (Korean Localized),REFERENCE,example,
+16,39,심리학,행동,감정,행동,Knowledge (Korean Localized),REFERENCE,probe,2.0
+17,30,장례식,시신,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+17,30,소풍,돗자리,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+17,30,코미디쇼,코미디언,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+17,30,승마대회,말,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+17,30,동창회,동창,교장,동창,Event:Feature (Korean Localized),PART-WHOLE,probe,2.0
+18,1,실패하다,성공적으로,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+18,1,몰래 들어가다,공개적으로,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+18,1,서두르다,게으르게,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+18,1,찡그리다,행복하게,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+18,1,비굴하게 굽실거리다,대담하게,상사,대담하게,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,probe,2.0
+19,44,생울타리,전지가위,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+19,44,나무,끌,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+19,44,잔디밭,잔디깎이,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+19,44,치즈,강판,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+19,44,치아,칫솔,칫솔,충치,Object:Instrument (Korean Localized),CASE RELATIONS,probe,1.0
+20,-1,baseline,baseline,,,baseline,baseline,baseline,
+21,30,시위,피켓,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+21,30,면접,지원자,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+21,30,교향악연주회,지휘자,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+21,30,결혼식,신부,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+21,30,복싱경기,글러브,글러브,계체,Event:Feature (Korean Localized),PART-WHOLE,probe,1.0
+22,44,손,비누,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+22,44,말,고삐,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+22,44,자동차,잭,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+22,44,벽,페인트,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+22,44,감자,감자칼,감자칼,농장,Object:Instrument (Korean Localized),CASE RELATIONS,probe,1.0
+23,-1,baseline,baseline,,,baseline,baseline,baseline,
+24,1,속이다,진실하게,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+24,1,협력하다,반항적으로,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+24,1,모욕하다,친절하게,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+24,1,전력질주하다,천천히,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+24,1,빌다,거만하게,부탁,거만하게,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,probe,2.0
+25,39,생태학,생태계,,,Knowledge (Korean Localized),REFERENCE,example,
+25,39,법과학,증거,,,Knowledge (Korean Localized),REFERENCE,example,
+25,39,해부학,인체,,,Knowledge (Korean Localized),REFERENCE,example,
+25,39,검안학,시력,,,Knowledge (Korean Localized),REFERENCE,example,
+25,39,곤충학,곤충,곤충,거미,Knowledge (Korean Localized),REFERENCE,probe,1.0

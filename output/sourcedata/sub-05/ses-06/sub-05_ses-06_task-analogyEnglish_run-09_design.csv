@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,12,pilot,passenger,,,Agent:Recipient,CASE RELATIONS,example,
+1,12,midwife,mother,,,Agent:Recipient,CASE RELATIONS,example,
+1,12,guide,tourist,,,Agent:Recipient,CASE RELATIONS,example,
+1,12,donor,charity,,,Agent:Recipient,CASE RELATIONS,example,
+1,12,accountant,taxpayer,taxpayer,office,Agent:Recipient,CASE RELATIONS,probe,1.0
+2,8,proud,boast,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+2,8,taut,snap,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+2,8,greedy,hoard,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+2,8,stubborn,refuse,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+2,8,luminous,glow,glow,beam,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,probe,1.0
+3,3,clean,dirty,,,Action:Object Attribute,ATTRIBUTE,example,
+3,3,translate,foreign,,,Action:Object Attribute,ATTRIBUTE,example,
+3,3,level,uneven,,,Action:Object Attribute,ATTRIBUTE,example,
+3,3,renovate,dilapidated,,,Action:Object Attribute,ATTRIBUTE,example,
+3,3,unlock,locked,locked,padlock,Action:Object Attribute,ATTRIBUTE,probe,1.0
+4,12,secretary,executive,,,Agent:Recipient,CASE RELATIONS,example,
+4,12,grandmother,grandchild,,,Agent:Recipient,CASE RELATIONS,example,
+4,12,receptionist,visitor,,,Agent:Recipient,CASE RELATIONS,example,
+4,12,counselor,patient,,,Agent:Recipient,CASE RELATIONS,example,
+4,12,concierge,guest,manager,guest,Agent:Recipient,CASE RELATIONS,probe,2.0
+5,8,generous,give,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+5,8,absorbent,soak,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+5,8,awakening,yawn,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+5,8,protective,guard,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+5,8,kind,help,help,gentle,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,probe,1.0
+6,18,state,Texas,,,ClassIndividual,CLASS-INCLUSION,example,
+6,18,fish,Salmon,,,ClassIndividual,CLASS-INCLUSION,example,
+6,18,motorcycle,Harley,,,ClassIndividual,CLASS-INCLUSION,example,
+6,18,car,Honda,,,ClassIndividual,CLASS-INCLUSION,example,
+6,18,ocean,Indian,ship,indian,ClassIndividual,CLASS-INCLUSION,probe,2.0
+7,3,eat,delicious,,,Action:Object Attribute,ATTRIBUTE,example,
+7,3,protect,vulnerable,,,Action:Object Attribute,ATTRIBUTE,example,
+7,3,amplify,quiet,,,Action:Object Attribute,ATTRIBUTE,example,
+7,3,thaw,frozen,,,Action:Object Attribute,ATTRIBUTE,example,
+7,3,melt,solid,solid,candle,Action:Object Attribute,ATTRIBUTE,probe,1.0
+8,-1,baseline,baseline,,,baseline,baseline,baseline,
+9,12,author,reader,,,Agent:Recipient,CASE RELATIONS,example,
+9,12,barista,customer,,,Agent:Recipient,CASE RELATIONS,example,
+9,12,pastor,parishioner,,,Agent:Recipient,CASE RELATIONS,example,
+9,12,mailman,resident,,,Agent:Recipient,CASE RELATIONS,example,
+9,12,coach,player,stadium,player,Agent:Recipient,CASE RELATIONS,probe,2.0
+10,3,feed,hungry,,,Action:Object Attribute,ATTRIBUTE,example,
+10,3,punish,guilty,,,Action:Object Attribute,ATTRIBUTE,example,
+10,3,listen,audible,,,Action:Object Attribute,ATTRIBUTE,example,
+10,3,widen,narrow,,,Action:Object Attribute,ATTRIBUTE,example,
+10,3,encourage,discouraged,discouraged,cheer,Action:Object Attribute,ATTRIBUTE,probe,1.0
+11,-1,baseline,baseline,,,baseline,baseline,baseline,
+12,18,lake,Erie,,,ClassIndividual,CLASS-INCLUSION,example,
+12,18,holiday,Christmas,,,ClassIndividual,CLASS-INCLUSION,example,
+12,18,mountain,Everest,,,ClassIndividual,CLASS-INCLUSION,example,
+12,18,fruit,Banana,,,ClassIndividual,CLASS-INCLUSION,example,
+12,18,genre,Jazz,club,jazz,ClassIndividual,CLASS-INCLUSION,probe,2.0
+13,3,organize,messy,,,Action:Object Attribute,ATTRIBUTE,example,
+13,3,inflate,flat,,,Action:Object Attribute,ATTRIBUTE,example,
+13,3,purify,contaminated,,,Action:Object Attribute,ATTRIBUTE,example,
+13,3,help,helpless,,,Action:Object Attribute,ATTRIBUTE,example,
+13,3,comfort,hurting,hug,hurting,Action:Object Attribute,ATTRIBUTE,probe,2.0
+14,-1,baseline,baseline,,,baseline,baseline,baseline,
+15,18,explorer,Columbus,,,ClassIndividual,CLASS-INCLUSION,example,
+15,18,season,Winter,,,ClassIndividual,CLASS-INCLUSION,example,
+15,18,city,Dallas,,,ClassIndividual,CLASS-INCLUSION,example,
+15,18,fabric,Silk,,,ClassIndividual,CLASS-INCLUSION,example,
+15,18,tool,Hammer,hammer,handle,ClassIndividual,CLASS-INCLUSION,probe,1.0
+16,3,unload,loaded,,,Action:Object Attribute,ATTRIBUTE,example,
+16,3,sand,rough,,,Action:Object Attribute,ATTRIBUTE,example,
+16,3,shorten,long,,,Action:Object Attribute,ATTRIBUTE,example,
+16,3,reassure,anxious,,,Action:Object Attribute,ATTRIBUTE,example,
+16,3,debate,controversial,podium,controversial,Action:Object Attribute,ATTRIBUTE,probe,2.0
+17,8,dry,crumble,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+17,8,curious,explore,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+17,8,adhesive,stick,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+17,8,heavy,press,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+17,8,nosy,pry,gossip,pry,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,probe,2.0
+18,12,parent,child,,,Agent:Recipient,CASE RELATIONS,example,
+18,12,librarian,patron,,,Agent:Recipient,CASE RELATIONS,example,
+18,12,sponsor,athlete,,,Agent:Recipient,CASE RELATIONS,example,
+18,12,tailor,customer,,,Agent:Recipient,CASE RELATIONS,example,
+18,12,mentor,protégé,protégé,advice,Agent:Recipient,CASE RELATIONS,probe,1.0
+19,18,gem,Diamond,,,ClassIndividual,CLASS-INCLUSION,example,
+19,18,river,Nile,,,ClassIndividual,CLASS-INCLUSION,example,
+19,18,country,Japan,,,ClassIndividual,CLASS-INCLUSION,example,
+19,18,grain,Rice,,,ClassIndividual,CLASS-INCLUSION,example,
+19,18,vegetable,Carrot,carrot,crunchy,ClassIndividual,CLASS-INCLUSION,probe,1.0
+20,-1,baseline,baseline,,,baseline,baseline,baseline,
+21,12,vet,animal,,,Agent:Recipient,CASE RELATIONS,example,
+21,12,mechanic,customer,,,Agent:Recipient,CASE RELATIONS,example,
+21,12,tutor,pupil,,,Agent:Recipient,CASE RELATIONS,example,
+21,12,boss,employee,,,Agent:Recipient,CASE RELATIONS,example,
+21,12,pharmacist,customer,customer,prescription,Agent:Recipient,CASE RELATIONS,probe,1.0
+22,8,fearful,tremble,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+22,8,optimistic,hope,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+22,8,restless,pace,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+22,8,healthy,survive,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+22,8,miserly,withhold,stingy,withhold,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,probe,2.0
+23,-1,baseline,baseline,,,baseline,baseline,baseline,
+24,18,king,Henry,,,ClassIndividual,CLASS-INCLUSION,example,
+24,18,reptile,Iguana,,,ClassIndividual,CLASS-INCLUSION,example,
+24,18,team,Rangers,,,ClassIndividual,CLASS-INCLUSION,example,
+24,18,planet,Earth,,,ClassIndividual,CLASS-INCLUSION,example,
+24,18,composer,Mozart,mozart,score,ClassIndividual,CLASS-INCLUSION,probe,1.0
+25,8,rotten,stink,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+25,8,resilient,recover,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+25,8,soft,cushion,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+25,8,concerned,worry,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+25,8,thirsty,drink,drink,swallow,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,probe,1.0

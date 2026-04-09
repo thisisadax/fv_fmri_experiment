@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,21,기체,고체,,,Contradictory (Korean Localized),CONTRAST,example,
+1,21,공개,비공개,,,Contradictory (Korean Localized),CONTRAST,example,
+1,21,낙관적이다,비관적이다,,,Contradictory (Korean Localized),CONTRAST,example,
+1,21,용감하다,비겁하다,,,Contradictory (Korean Localized),CONTRAST,example,
+1,21,안전하다,위험하다,위험하다,안전하다,Contradictory (Korean Localized),CONTRAST,probe,1.0
+2,44,페이지,형광펜,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+2,44,나무,톱,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+2,44,종이,연필,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+2,44,실,바늘,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+2,44,피아노,손가락,손가락,페달,Object:Instrument (Korean Localized),CASE RELATIONS,probe,1.0
+3,-1,baseline,baseline,,,baseline,baseline,baseline,
+4,50,반항아,반항,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+4,50,낯선사람,익명성,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+4,50,인질,감금,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+4,50,영웅,용맹,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+4,50,불량배,공격성,소문,공격성,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,probe,2.0
+5,44,바이올린,활,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+5,44,얼굴,선크림,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+5,44,타이어,공기펌프,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+5,44,옷,다리미,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+5,44,머리,모자,얼굴,모자,Object:Instrument (Korean Localized),CASE RELATIONS,probe,2.0
+6,21,가득하다,텅비다,,,Contradictory (Korean Localized),CONTRAST,example,
+6,21,단순하다,복잡하다,,,Contradictory (Korean Localized),CONTRAST,example,
+6,21,익힌음식,생음식,,,Contradictory (Korean Localized),CONTRAST,example,
+6,21,지루하다,재미있다,,,Contradictory (Korean Localized),CONTRAST,example,
+6,21,깨어있다,잠들어있다,잠들어있다,의식있다,Contradictory (Korean Localized),CONTRAST,probe,1.0
+7,50,얼음,차가움,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+7,50,구두쇠,탐욕,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+7,50,칩거자,고립,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+7,50,대식가,과식,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+7,50,성자,성스러움,교회,성스러움,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,probe,2.0
+8,44,텃밭,괭이,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+8,44,공,배트,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+8,44,치즈,강판,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+8,44,얼룩,표백제,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+8,44,못,망치,망치,나사,Object:Instrument (Korean Localized),CASE RELATIONS,probe,1.0
+9,-1,baseline,baseline,,,baseline,baseline,baseline,
+10,52,출연진목록,공연,,,Plan (Korean Localized),REFERENCE,example,
+10,52,레시피,요리,,,Plan (Korean Localized),REFERENCE,example,
+10,52,와이어프레임,웹사이트,,,Plan (Korean Localized),REFERENCE,example,
+10,52,학사일정,학기,,,Plan (Korean Localized),REFERENCE,example,
+10,52,설계,건물,건물,리모델링,Plan (Korean Localized),REFERENCE,probe,1.0
+11,50,무정부상태,혼란,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+11,50,발레리나,우아함,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+11,50,폭풍,격랑,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+11,50,무법자,무법상태,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+11,50,피난처,안전,안전,피난처,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,probe,1.0
+12,-1,baseline,baseline,,,baseline,baseline,baseline,
+13,44,아스팔트,착암기,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+13,44,볼트,렌치,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+13,44,캔버스,붓,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+13,44,손톱,손톱깎이,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+13,44,말,고삐,기수,고삐,Object:Instrument (Korean Localized),CASE RELATIONS,probe,2.0
+14,21,사납다,온순하다,,,Contradictory (Korean Localized),CONTRAST,example,
+14,21,차분하다,불안하다,,,Contradictory (Korean Localized),CONTRAST,example,
+14,21,친절하다,잔인하다,,,Contradictory (Korean Localized),CONTRAST,example,
+14,21,고의적이다,우발적이다,,,Contradictory (Korean Localized),CONTRAST,example,
+14,21,젊다,늙다,늙다,십대,Contradictory (Korean Localized),CONTRAST,probe,1.0
+15,52,교정쇄,출판,,,Plan (Korean Localized),REFERENCE,example,
+15,52,채점기준표,성적평가,,,Plan (Korean Localized),REFERENCE,example,
+15,52,전략,승리,,,Plan (Korean Localized),REFERENCE,example,
+15,52,초고,에세이,,,Plan (Korean Localized),REFERENCE,example,
+15,52,운동루틴,체력단련,헬스장,체력단련,Plan (Korean Localized),REFERENCE,probe,2.0
+16,44,천,바늘,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+16,44,자동차,잭,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+16,44,금속,줄,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+16,44,피부,로션,,,Object:Instrument (Korean Localized),CASE RELATIONS,example,
+16,44,구운고기,요리솔,요리솔,명절,Object:Instrument (Korean Localized),CASE RELATIONS,probe,1.0
+17,50,천재,총명함,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+17,50,관리자,권한,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+17,50,안개,흐릿함,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+17,50,난민,강제이주,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+17,50,수호자,경계심,경계심,문,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,probe,1.0
+18,52,순서도,과정,,,Plan (Korean Localized),REFERENCE,example,
+18,52,일정표,여행,,,Plan (Korean Localized),REFERENCE,example,
+18,52,화학식,화합물,,,Plan (Korean Localized),REFERENCE,example,
+18,52,편곡,노래,,,Plan (Korean Localized),REFERENCE,example,
+18,52,배선도,배선,설계도,배선,Plan (Korean Localized),REFERENCE,probe,2.0
+19,21,직선,곡선,,,Contradictory (Korean Localized),CONTRAST,example,
+19,21,긍정적이다,부정적이다,,,Contradictory (Korean Localized),CONTRAST,example,
+19,21,참,거짓,,,Contradictory (Korean Localized),CONTRAST,example,
+19,21,왼쪽,오른쪽,,,Contradictory (Korean Localized),CONTRAST,example,
+19,21,성공,실패,노력,실패,Contradictory (Korean Localized),CONTRAST,probe,2.0
+20,-1,baseline,baseline,,,baseline,baseline,baseline,
+21,52,작전서,미식축구 경기,,,Plan (Korean Localized),REFERENCE,example,
+21,52,레이아웃,잡지,,,Plan (Korean Localized),REFERENCE,example,
+21,52,총보,교향곡,,,Plan (Korean Localized),REFERENCE,example,
+21,52,스케치,조각,,,Plan (Korean Localized),REFERENCE,example,
+21,52,연구제안서,연구,연구,연구,Plan (Korean Localized),REFERENCE,probe,1.0
+22,21,자발적이다,비자발적이다,,,Contradictory (Korean Localized),CONTRAST,example,
+22,21,열려있다,닫혀있다,,,Contradictory (Korean Localized),CONTRAST,example,
+22,21,깨끗하다,더럽다,,,Contradictory (Korean Localized),CONTRAST,example,
+22,21,풍부하다,희소하다,,,Contradictory (Korean Localized),CONTRAST,example,
+22,21,받아들이다,거부하다,동의하다,거부하다,Contradictory (Korean Localized),CONTRAST,probe,2.0
+23,-1,baseline,baseline,,,baseline,baseline,baseline,
+24,50,애도자,슬픔,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+24,50,환자,질병,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+24,50,난파선,파괴,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+24,50,초안,개발과정,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+24,50,군인,전쟁,전쟁,의무,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,probe,1.0
+25,52,설계도,다리,,,Plan (Korean Localized),REFERENCE,example,
+25,52,시나리오,훈련,,,Plan (Korean Localized),REFERENCE,example,
+25,52,내규,회사,,,Plan (Korean Localized),REFERENCE,example,
+25,52,원고초안,연설,,,Plan (Korean Localized),REFERENCE,example,
+25,52,전술,수비,수비,역습,Plan (Korean Localized),REFERENCE,probe,1.0

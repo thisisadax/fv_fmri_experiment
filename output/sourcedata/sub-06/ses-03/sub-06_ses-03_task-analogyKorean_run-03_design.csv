@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,20,소매,팔,,,Concealment (Korean Localized),REFERENCE,example,
+1,20,변명,진실,,,Concealment (Korean Localized),REFERENCE,example,
+1,20,거짓말,행방,,,Concealment (Korean Localized),REFERENCE,example,
+1,20,가발,머리카락,,,Concealment (Korean Localized),REFERENCE,example,
+1,20,포스터,구멍,구멍,테이프,Concealment (Korean Localized),REFERENCE,probe,1.0
+2,33,자외선차단제,피부보호,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+2,33,코트,보온,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+2,33,치료,치유,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+2,33,표백제,하얘짐,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+2,33,휴가,휴식,여행가방,휴식,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,probe,2.0
+3,27,춥다,한랭하다,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+3,27,비명을지르다,소리치다,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+3,27,살금살금가다,기어가다,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+3,27,혐오,증오,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+3,27,토끼,산토끼,산토끼,당근,Dimensional Similarity (Korean Localized),SIMILAR,probe,1.0
+4,40,산호초,다이빙하다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+4,40,은행,입금하다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+4,40,교회,예배드리다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+4,40,헬스장,운동하다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+4,40,집,살다,요리,살다,Location:Action/Activity (Korean Localized),SPACE-TIME,probe,2.0
+5,20,허세,약점,,,Concealment (Korean Localized),REFERENCE,example,
+5,20,눈,발자국,,,Concealment (Korean Localized),REFERENCE,example,
+5,20,후드,머리,,,Concealment (Korean Localized),REFERENCE,example,
+5,20,유머,고통,,,Concealment (Korean Localized),REFERENCE,example,
+5,20,전등갓,전구,전구,눈부심,Concealment (Korean Localized),REFERENCE,probe,1.0
+6,27,참나무,단풍나무,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+6,27,행복,기쁨,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+6,27,연못,호수,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+6,27,크다,거대하다,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+6,27,장갑,벙어리장갑,손가락,벙어리장갑,Dimensional Similarity (Korean Localized),SIMILAR,probe,2.0
+7,-1,baseline,baseline,,,baseline,baseline,baseline,
+8,40,광산,채굴하다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+8,40,강당,강연하다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+8,40,링,복싱하다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+8,40,아이스링크,스케이트 타다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+8,40,침실,자다,침대,자다,Location:Action/Activity (Korean Localized),SPACE-TIME,probe,2.0
+9,20,미소,슬픔,,,Concealment (Korean Localized),REFERENCE,example,
+9,20,수풀,동물,,,Concealment (Korean Localized),REFERENCE,example,
+9,20,구름,해,,,Concealment (Korean Localized),REFERENCE,example,
+9,20,울타리,뒷마당,,,Concealment (Korean Localized),REFERENCE,example,
+9,20,거즈,흉터,테이프,흉터,Concealment (Korean Localized),REFERENCE,probe,2.0
+10,33,헬멧,안전,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+10,33,개,반려,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+10,33,투자,이익,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+10,33,물,수분보충,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+10,33,페인트,색깔,마감,색깔,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,probe,2.0
+11,40,학교,배우다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+11,40,동물원,구경하다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+11,40,둘레길,트레킹하다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+11,40,산,등산하다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+11,40,법원,재판하다,선고,재판하다,Location:Action/Activity (Korean Localized),SPACE-TIME,probe,2.0
+12,-1,baseline,baseline,,,baseline,baseline,baseline,
+13,27,애정,사랑,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+13,27,사자,호랑이,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+13,27,툭던지다,던지다,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+13,27,조깅하다,달리다,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+13,27,말,조랑말,조랑말,안장,Dimensional Similarity (Korean Localized),SIMILAR,probe,1.0
+14,20,봉투,편지,,,Concealment (Korean Localized),REFERENCE,example,
+14,20,부인,수치심,,,Concealment (Korean Localized),REFERENCE,example,
+14,20,벙커,병사,,,Concealment (Korean Localized),REFERENCE,example,
+14,20,러그,얼룩,,,Concealment (Korean Localized),REFERENCE,example,
+14,20,방수포,자동차,비,자동차,Concealment (Korean Localized),REFERENCE,probe,2.0
+15,33,연구,발견,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+15,33,커튼,사생활,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+15,33,훈육,복종,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+15,33,수면,휴식,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+15,33,트로피,인정,인정,지위,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,probe,1.0
+16,-1,baseline,baseline,,,baseline,baseline,baseline,
+17,40,테라스,쉬다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+17,40,온실,재배하다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+17,40,슬로프,스키 타다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+17,40,도서관,공부하다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+17,40,과수원,과일 따다,과일 따다,사다리,Location:Action/Activity (Korean Localized),SPACE-TIME,probe,1.0
+18,27,도약하다,점프하다,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+18,27,자전거,오토바이,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+18,27,빠르다,재빠르다,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+18,27,미사,퇴적물,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+18,27,거북이,육지거북,모래,육지거북,Dimensional Similarity (Korean Localized),SIMILAR,probe,2.0
+19,-1,baseline,baseline,,,baseline,baseline,baseline,
+20,33,보상,동기,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+20,33,지도,길안내,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+20,33,확성기,증폭,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+20,33,스피커,소리,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+20,33,마취,무감각,마스크,무감각,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,probe,2.0
+21,20,위장,군인,,,Concealment (Korean Localized),REFERENCE,example,
+21,20,나뭇잎,둥지,,,Concealment (Korean Localized),REFERENCE,example,
+21,20,붕대,상처,,,Concealment (Korean Localized),REFERENCE,example,
+21,20,포장지,사탕,,,Concealment (Korean Localized),REFERENCE,example,
+21,20,수염,턱,목,턱,Concealment (Korean Localized),REFERENCE,probe,2.0
+22,-1,baseline,baseline,,,baseline,baseline,baseline,
+23,33,시위,변화,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+23,33,통금,안전,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+23,33,향수,향기,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+23,33,공부,지식,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+23,33,자물쇠,보안,보안,문,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,probe,1.0
+24,40,진입로,주차하다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+24,40,공원,놀다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+24,40,병원,치료받다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+24,40,골프장,골프 치다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+24,40,양조장,양조하다,양조하다,발효,Location:Action/Activity (Korean Localized),SPACE-TIME,probe,1.0
+25,27,수프,스튜,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+25,27,두려움,공포,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+25,27,나무,묘목,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+25,27,바이올린,첼로,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+25,27,케이크,파이,달콤한,파이,Dimensional Similarity (Korean Localized),SIMILAR,probe,2.0

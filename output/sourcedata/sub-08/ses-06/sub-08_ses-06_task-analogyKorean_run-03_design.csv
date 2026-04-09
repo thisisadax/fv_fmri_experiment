@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,33,양초,분위기,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+1,33,냉장고,보존,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+1,33,공부,지식,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+1,33,최음제,성욕,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+1,33,스피커,소리,소리,음량,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,probe,1.0
+2,49,눈에띄지않다,알아차리다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+2,49,철회불가능하다,번복되다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+2,49,되돌릴수없다,되돌리다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+2,49,불가침이다,침해되다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+2,49,불에타지않다,타다,가열되다,타다,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,probe,2.0
+3,-1,baseline,baseline,,,baseline,baseline,baseline,
+4,19,벌떼,벌,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+4,19,음계,음,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+4,19,디렉터리,항목,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+4,19,함대,배,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+4,19,밴드,음악가,음악가,기타,Collection:Member (Korean Localized),PART-WHOLE,probe,1.0
+5,49,끄떡없다,당황하다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+5,49,가시지않다,가시다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+5,49,무패이다,패배하다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+5,49,답할수없다,답하다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+5,49,읽을수없다,해독되다,엉망이다,해독되다,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,probe,2.0
+6,33,접착제,접착,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+6,33,연구,발견,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+6,33,투자,이익,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+6,33,소금,풍미,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+6,33,비료,성장,속도,성장,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,probe,2.0
+7,62,유아기,떼쓰기,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+7,62,영아기,젖병,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+7,62,월드컵,붉은티셔츠,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+7,62,점심시간,도시락,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+7,62,새벽,수탉,가로등,수탉,Time Associated Item (Korean Localized),SPACE-TIME,probe,2.0
+8,49,들리지않다,들리다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+8,49,반박할수없다,반박되다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+8,49,불투과하다,뚫리다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+8,49,풀수없다,풀리다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+8,49,불멸이다,죽다,아프다,죽다,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,probe,2.0
+9,33,세금,세수,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+9,33,열쇠,출입,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+9,33,변장,기만,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+9,33,개,반려,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+9,33,치료,치유,치유,통찰,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,probe,1.0
+10,-1,baseline,baseline,,,baseline,baseline,baseline,
+11,19,투자포트폴리오,투자자산,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+11,19,까마귀떼,까마귀,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+11,19,음반목록,앨범,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+11,19,팀,선수,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+11,19,문단,문장,문장,단어,Collection:Member (Korean Localized),PART-WHOLE,probe,1.0
+12,62,출퇴근시간,교통체증,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+12,62,부활절,달걀,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+12,62,부처님오신날,연등,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+12,62,고3,수능,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+12,62,취침시간,잠옷,백팩,잠옷,Time Associated Item (Korean Localized),SPACE-TIME,probe,2.0
+13,-1,baseline,baseline,,,baseline,baseline,baseline,
+14,49,용서할수없다,용서받다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+14,49,녹슬지않다,녹슬다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+14,49,산산조각나지않다,산산조각나다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+14,49,지워지지않다,지워지다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+14,49,떼어낼수없다,떨어지다,떨어지다,이동하다,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,probe,1.0
+15,62,은퇴,연금,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+15,62,노년,지팡이,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+15,62,밸런타인데이,초콜릿,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+15,62,봄,봄비,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+15,62,장례식,조화,풍선,조화,Time Associated Item (Korean Localized),SPACE-TIME,probe,2.0
+16,19,물고기떼,물고기,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+16,19,낙타행렬,낙타,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+16,19,갤러리,그림,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+16,19,회중,신도,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+16,19,메들리,곡,편곡,곡,Collection:Member (Korean Localized),PART-WHOLE,probe,2.0
+17,-1,baseline,baseline,,,baseline,baseline,baseline,
+18,62,청소년기,여드름,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+18,62,아침,해돋이,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+18,62,임신,초음파,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+18,62,가뭄,먼지,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+18,62,선거일,투표용지,투표용지,여권,Time Associated Item (Korean Localized),SPACE-TIME,probe,1.0
+19,19,시리즈,에피소드,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+19,19,포도밭,포도나무,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+19,19,전문가패널,전문가,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+19,19,정원,식물,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+19,19,소떼,소,돌진,소,Collection:Member (Korean Localized),PART-WHOLE,probe,2.0
+20,33,선물,행복,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+20,33,칭찬,기분좋음,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+20,33,알람,기상,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+20,33,트로피,인정,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+20,33,나침반,길찾기,보정,길찾기,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,probe,2.0
+21,-1,baseline,baseline,,,baseline,baseline,baseline,
+22,19,일정표,약속,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+22,19,박물관,유물,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+22,19,대표단,외교관,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+22,19,동물원,동물,,,Collection:Member (Korean Localized),PART-WHOLE,example,
+22,19,백과사전,항목,도서관,항목,Collection:Member (Korean Localized),PART-WHOLE,probe,2.0
+23,62,설날,세뱃돈,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+23,62,캠핑,바비큐,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+23,62,겨울,난로,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+23,62,성년의날,장미,,,Time Associated Item (Korean Localized),SPACE-TIME,example,
+23,62,할로윈,사탕,사탕,불꽃놀이,Time Associated Item (Korean Localized),SPACE-TIME,probe,1.0
+24,33,스트레칭,유연성,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+24,33,악수,신뢰,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+24,33,운동,체력,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+24,33,법,질서,,,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,example,
+24,33,설교,신앙,도덕,신앙,Instrument:Goal (Korean Localized),CAUSE-PURPOSE,probe,2.0
+25,49,조작불가능하다,변조되다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+25,49,무취이다,냄새나다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+25,49,협상불가이다,협상되다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+25,49,파괴불가능하다,파괴되다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+25,49,불치이다,치유되다,치유되다,치료되다,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,probe,1.0

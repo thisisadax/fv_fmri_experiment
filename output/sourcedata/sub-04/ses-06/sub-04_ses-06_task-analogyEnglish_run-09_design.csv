@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,57,allow,forbid,,,Reverse,CONTRAST,example,
+1,57,abandon,embrace,,,Reverse,CONTRAST,example,
+1,57,buy,sell,,,Reverse,CONTRAST,example,
+1,57,familiar,strange,,,Reverse,CONTRAST,example,
+1,57,lie,confess,pretend,confess,Reverse,CONTRAST,probe,2.0
+2,26,reserved,withdrawn,,,Dimensional Excessive,SIMILAR,example,
+2,26,determined,stubborn,,,Dimensional Excessive,SIMILAR,example,
+2,26,jogging,sprinting,,,Dimensional Excessive,SIMILAR,example,
+2,26,walking,stomping,,,Dimensional Excessive,SIMILAR,example,
+2,26,unease,dread,dread,nervousness,Dimensional Excessive,SIMILAR,probe,1.0
+3,-1,baseline,baseline,,,baseline,baseline,baseline,
+4,11,artist,paint,,,Agent:Object,CASE RELATIONS,example,
+4,11,journalist,article,,,Agent:Object,CASE RELATIONS,example,
+4,11,welder,torch,,,Agent:Object,CASE RELATIONS,example,
+4,11,toddler,crayon,,,Agent:Object,CASE RELATIONS,example,
+4,11,actress,script,script,red carpet,Agent:Object,CASE RELATIONS,probe,1.0
+5,26,selfish,narcissistic,,,Dimensional Excessive,SIMILAR,example,
+5,26,pushing,ramming,,,Dimensional Excessive,SIMILAR,example,
+5,26,disappointed,devastated,,,Dimensional Excessive,SIMILAR,example,
+5,26,large,enormous,,,Dimensional Excessive,SIMILAR,example,
+5,26,wind,hurricane,gust,hurricane,Dimensional Excessive,SIMILAR,probe,2.0
+6,33,currency,coin,,,Functional,CLASS-INCLUSION,example,
+6,33,cleaner,soap,,,Functional,CLASS-INCLUSION,example,
+6,33,fastener,zipper,,,Functional,CLASS-INCLUSION,example,
+6,33,disinfectant,bleach,,,Functional,CLASS-INCLUSION,example,
+6,33,abrasive,sandpaper,dust,sandpaper,Functional,CLASS-INCLUSION,probe,2.0
+7,11,seamstress,fabric,,,Agent:Object,CASE RELATIONS,example,
+7,11,florist,flowers,,,Agent:Object,CASE RELATIONS,example,
+7,11,potter,vase,,,Agent:Object,CASE RELATIONS,example,
+7,11,calligrapher,ink,,,Agent:Object,CASE RELATIONS,example,
+7,11,typist,keyboard,keyboard,desk,Agent:Object,CASE RELATIONS,probe,1.0
+8,-1,baseline,baseline,,,baseline,baseline,baseline,
+9,33,meat,ham,,,Functional,CLASS-INCLUSION,example,
+9,33,instrument,clarinet,,,Functional,CLASS-INCLUSION,example,
+9,33,clothing,sock,,,Functional,CLASS-INCLUSION,example,
+9,33,filter,screen,,,Functional,CLASS-INCLUSION,example,
+9,33,condiment,ketchup,ketchup,bottle,Functional,CLASS-INCLUSION,probe,1.0
+10,57,white,black,,,Reverse,CONTRAST,example,
+10,57,deep,shallow,,,Reverse,CONTRAST,example,
+10,57,repair,break,,,Reverse,CONTRAST,example,
+10,57,add,subtract,,,Reverse,CONTRAST,example,
+10,57,sleep,wake,doze,wake,Reverse,CONTRAST,probe,2.0
+11,11,electrician,wire,,,Agent:Object,CASE RELATIONS,example,
+11,11,architect,building,,,Agent:Object,CASE RELATIONS,example,
+11,11,singer,microphone,,,Agent:Object,CASE RELATIONS,example,
+11,11,conductor,baton,,,Agent:Object,CASE RELATIONS,example,
+11,11,blogger,post,likes,post,Agent:Object,CASE RELATIONS,probe,2.0
+12,33,armor,shield,,,Functional,CLASS-INCLUSION,example,
+12,33,vessel,pot,,,Functional,CLASS-INCLUSION,example,
+12,33,sweetener,honey,,,Functional,CLASS-INCLUSION,example,
+12,33,utensil,spoon,,,Functional,CLASS-INCLUSION,example,
+12,33,furniture,chair,living room,chair,Functional,CLASS-INCLUSION,probe,2.0
+13,57,hire,fire,,,Reverse,CONTRAST,example,
+13,57,dawn,dusk,,,Reverse,CONTRAST,example,
+13,57,go,stay,,,Reverse,CONTRAST,example,
+13,57,arrive,depart,,,Reverse,CONTRAST,example,
+13,57,freeze,thaw,winter,thaw,Reverse,CONTRAST,probe,2.0
+14,11,weaver,cloth,,,Agent:Object,CASE RELATIONS,example,
+14,11,carpenter,furniture,,,Agent:Object,CASE RELATIONS,example,
+14,11,jeweler,gold,,,Agent:Object,CASE RELATIONS,example,
+14,11,filmmaker,movie,,,Agent:Object,CASE RELATIONS,example,
+14,11,baker,bread,apron,bread,Agent:Object,CASE RELATIONS,probe,2.0
+15,-1,baseline,baseline,,,baseline,baseline,baseline,
+16,33,grain,wheat,,,Functional,CLASS-INCLUSION,example,
+16,33,seasoning,pepper,,,Functional,CLASS-INCLUSION,example,
+16,33,signal,horn,,,Functional,CLASS-INCLUSION,example,
+16,33,artwork,sculpture,,,Functional,CLASS-INCLUSION,example,
+16,33,herb,basil,aroma,basil,Functional,CLASS-INCLUSION,probe,2.0
+17,57,tighten,loosen,,,Reverse,CONTRAST,example,
+17,57,strong,weak,,,Reverse,CONTRAST,example,
+17,57,plant,uproot,,,Reverse,CONTRAST,example,
+17,57,wet,dry,,,Reverse,CONTRAST,example,
+17,57,include,exclude,exclude,admit,Reverse,CONTRAST,probe,1.0
+18,26,curious,nosy,,,Dimensional Excessive,SIMILAR,example,
+18,26,firm,rigid,,,Dimensional Excessive,SIMILAR,example,
+18,26,admiration,worship,,,Dimensional Excessive,SIMILAR,example,
+18,26,dripping,gushing,,,Dimensional Excessive,SIMILAR,example,
+18,26,cautious,paranoid,seatbelt,paranoid,Dimensional Excessive,SIMILAR,probe,2.0
+19,-1,baseline,baseline,,,baseline,baseline,baseline,
+20,33,tool,hammer,,,Functional,CLASS-INCLUSION,example,
+20,33,shelter,tent,,,Functional,CLASS-INCLUSION,example,
+20,33,fabric,silk,,,Functional,CLASS-INCLUSION,example,
+20,33,lever,crowbar,,,Functional,CLASS-INCLUSION,example,
+20,33,snack,popcorn,popcorn,bowl,Functional,CLASS-INCLUSION,probe,1.0
+21,26,spending,splurging,,,Dimensional Excessive,SIMILAR,example,
+21,26,annoyed,furious,,,Dimensional Excessive,SIMILAR,example,
+21,26,tapping,pounding,,,Dimensional Excessive,SIMILAR,example,
+21,26,stream,torrent,,,Dimensional Excessive,SIMILAR,example,
+21,26,eager,desperate,desperate,waiting,Dimensional Excessive,SIMILAR,probe,1.0
+22,-1,baseline,baseline,,,baseline,baseline,baseline,
+23,11,teacher,books,,,Agent:Object,CASE RELATIONS,example,
+23,11,musician,melody,,,Agent:Object,CASE RELATIONS,example,
+23,11,sculptor,sculpture,,,Agent:Object,CASE RELATIONS,example,
+23,11,illustrator,illustration,,,Agent:Object,CASE RELATIONS,example,
+23,11,miner,pickaxe,cave,pickaxe,Agent:Object,CASE RELATIONS,probe,2.0
+24,57,admit,deny,,,Reverse,CONTRAST,example,
+24,57,proud,ashamed,,,Reverse,CONTRAST,example,
+24,57,obey,defy,,,Reverse,CONTRAST,example,
+24,57,rich,poor,,,Reverse,CONTRAST,example,
+24,57,praise,criticize,criticize,ignore,Reverse,CONTRAST,probe,1.0
+25,26,protective,possessive,,,Dimensional Excessive,SIMILAR,example,
+25,26,scratching,clawing,,,Dimensional Excessive,SIMILAR,example,
+25,26,fear,panic,,,Dimensional Excessive,SIMILAR,example,
+25,26,angry,enraged,,,Dimensional Excessive,SIMILAR,example,
+25,26,hunger,starvation,kitchen,starvation,Dimensional Excessive,SIMILAR,probe,2.0

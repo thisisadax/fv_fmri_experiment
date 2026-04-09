@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,46,flowers,widow,,,Object:Recipient,CASE RELATIONS,example,
+1,46,pension,retiree,,,Object:Recipient,CASE RELATIONS,example,
+1,46,paycheck,nurse,,,Object:Recipient,CASE RELATIONS,example,
+1,46,vaccine,infant,,,Object:Recipient,CASE RELATIONS,example,
+1,46,reward,finder,notice,finder,Object:Recipient,CASE RELATIONS,probe,2.0
+2,47,crowd,people,,,Object:Stuff,PART-WHOLE,example,
+2,47,cocktail,alcohol,,,Object:Stuff,PART-WHOLE,example,
+2,47,swarm,bees,,,Object:Stuff,PART-WHOLE,example,
+2,47,atmosphere,gas,,,Object:Stuff,PART-WHOLE,example,
+2,47,roof,shingles,gutter,shingles,Object:Stuff,PART-WHOLE,probe,2.0
+3,0,drive,arrive,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+3,0,encrypt,protect,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+3,0,advertise,promote,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+3,0,steal,gain,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+3,0,freeze,preserve,preserve,ice,Action/Activity:Goal,CAUSE-PURPOSE,probe,1.0
+4,-1,baseline,baseline,,,baseline,baseline,baseline,
+5,21,heavy,light,,,Contrary,CONTRAST,example,
+5,21,black,white,,,Contrary,CONTRAST,example,
+5,21,above,below,,,Contrary,CONTRAST,example,
+5,21,smart,stupid,,,Contrary,CONTRAST,example,
+5,21,innocent,guilty,guilty,alibi,Contrary,CONTRAST,probe,1.0
+6,47,bread,flour,,,Object:Stuff,PART-WHOLE,example,
+6,47,mosaic,tiles,,,Object:Stuff,PART-WHOLE,example,
+6,47,garden,flowers,,,Object:Stuff,PART-WHOLE,example,
+6,47,meal,courses,,,Object:Stuff,PART-WHOLE,example,
+6,47,constellation,stars,planets,stars,Object:Stuff,PART-WHOLE,probe,2.0
+7,-1,baseline,baseline,,,baseline,baseline,baseline,
+8,21,sharp,blunt,,,Contrary,CONTRAST,example,
+8,21,start,finish,,,Contrary,CONTRAST,example,
+8,21,tame,wild,,,Contrary,CONTRAST,example,
+8,21,young,old,,,Contrary,CONTRAST,example,
+8,21,simple,complex,easy,complex,Contrary,CONTRAST,probe,2.0
+9,47,brick,clay,,,Object:Stuff,PART-WHOLE,example,
+9,47,rope,nylon,,,Object:Stuff,PART-WHOLE,example,
+9,47,jacket,denim,,,Object:Stuff,PART-WHOLE,example,
+9,47,jury,jurors,,,Object:Stuff,PART-WHOLE,example,
+9,47,yogurt,milk,breakfast,milk,Object:Stuff,PART-WHOLE,probe,2.0
+10,-1,baseline,baseline,,,baseline,baseline,baseline,
+11,0,observe,understand,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+11,0,search,find,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+11,0,cook,eat,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+11,0,shop,purchase,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+11,0,invite,gather,gather,welcome,Action/Activity:Goal,CAUSE-PURPOSE,probe,1.0
+12,46,trophy,champion,,,Object:Recipient,CASE RELATIONS,example,
+12,46,ball,receiver,,,Object:Recipient,CASE RELATIONS,example,
+12,46,scholarship,freshman,,,Object:Recipient,CASE RELATIONS,example,
+12,46,subpoena,witness,,,Object:Recipient,CASE RELATIONS,example,
+12,46,coupon,shopper,store,shopper,Object:Recipient,CASE RELATIONS,probe,2.0
+13,47,vase,porcelain,,,Object:Stuff,PART-WHOLE,example,
+13,47,basket,wicker,,,Object:Stuff,PART-WHOLE,example,
+13,47,smoothie,fruit,,,Object:Stuff,PART-WHOLE,example,
+13,47,road,asphalt,,,Object:Stuff,PART-WHOLE,example,
+13,47,pasta,wheat,wheat,sauce,Object:Stuff,PART-WHOLE,probe,1.0
+14,-1,baseline,baseline,,,baseline,baseline,baseline,
+15,46,update,user,,,Object:Recipient,CASE RELATIONS,example,
+15,46,loan,borrower,,,Object:Recipient,CASE RELATIONS,example,
+15,46,bonus,executive,,,Object:Recipient,CASE RELATIONS,example,
+15,46,directions,tourist,,,Object:Recipient,CASE RELATIONS,example,
+15,46,award,winner,nominee,winner,Object:Recipient,CASE RELATIONS,probe,2.0
+16,21,rich,poor,,,Contrary,CONTRAST,example,
+16,21,easy,difficult,,,Contrary,CONTRAST,example,
+16,21,rural,urban,,,Contrary,CONTRAST,example,
+16,21,build,destroy,,,Contrary,CONTRAST,example,
+16,21,hot,cold,cold,warm,Contrary,CONTRAST,probe,1.0
+17,0,fly,travel,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+17,0,aim,hit,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+17,0,listen,enjoy,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+17,0,patrol,guard,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+17,0,ambush,capture,bush,capture,Action/Activity:Goal,CAUSE-PURPOSE,probe,2.0
+18,47,box,cardboard,,,Object:Stuff,PART-WHOLE,example,
+18,47,pillow,feathers,,,Object:Stuff,PART-WHOLE,example,
+18,47,herd,cattle,,,Object:Stuff,PART-WHOLE,example,
+18,47,ocean,water,,,Object:Stuff,PART-WHOLE,example,
+18,47,staircase,steps,steps,height,Object:Stuff,PART-WHOLE,probe,1.0
+19,46,citizenship,immigrant,,,Object:Recipient,CASE RELATIONS,example,
+19,46,passport,applicant,,,Object:Recipient,CASE RELATIONS,example,
+19,46,donation,charity,,,Object:Recipient,CASE RELATIONS,example,
+19,46,ransom,kidnapper,,,Object:Recipient,CASE RELATIONS,example,
+19,46,allowance,teenager,teenager,weekend,Object:Recipient,CASE RELATIONS,probe,1.0
+20,21,win,lose,,,Contrary,CONTRAST,example,
+20,21,fat,thin,,,Contrary,CONTRAST,example,
+20,21,expensive,cheap,,,Contrary,CONTRAST,example,
+20,21,proud,humble,,,Contrary,CONTRAST,example,
+20,21,sunny,cloudy,clear,cloudy,Contrary,CONTRAST,probe,2.0
+21,0,reach,hold,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+21,0,save,afford,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+21,0,apologize,reconcile,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+21,0,ration,conserve,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+21,0,read,learn,library,learn,Action/Activity:Goal,CAUSE-PURPOSE,probe,2.0
+22,-1,baseline,baseline,,,baseline,baseline,baseline,
+23,46,fastball,catcher,,,Object:Recipient,CASE RELATIONS,example,
+23,46,advice,client,,,Object:Recipient,CASE RELATIONS,example,
+23,46,notice,tenant,,,Object:Recipient,CASE RELATIONS,example,
+23,46,sentence,criminal,,,Object:Recipient,CASE RELATIONS,example,
+23,46,subsidy,farmer,farmer,harvest,Object:Recipient,CASE RELATIONS,probe,1.0
+24,21,rough,smooth,,,Contrary,CONTRAST,example,
+24,21,loud,quiet,,,Contrary,CONTRAST,example,
+24,21,serious,playful,,,Contrary,CONTRAST,example,
+24,21,loyal,treacherous,,,Contrary,CONTRAST,example,
+24,21,high,low,elevated,low,Contrary,CONTRAST,probe,2.0
+25,0,whisper,conceal,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+25,0,argue,convince,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+25,0,brake,stop,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+25,0,medicate,heal,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+25,0,donate,help,give,help,Action/Activity:Goal,CAUSE-PURPOSE,probe,2.0

@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,14,공,오렌지,,,Attribute Similarity (Korean Localized),SIMILAR,example,
+1,14,정원,숲,,,Attribute Similarity (Korean Localized),SIMILAR,example,
+1,14,지붕,뚜껑,,,Attribute Similarity (Korean Localized),SIMILAR,example,
+1,14,모래,소금,,,Attribute Similarity (Korean Localized),SIMILAR,example,
+1,14,하늘,천장,천장,다락방,Attribute Similarity (Korean Localized),SIMILAR,probe,1.0
+2,50,중독자,의존,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+2,50,수감자,처벌,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+2,50,별,밝기,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+2,50,은둔자,고독,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+2,50,승자,승리,성공,승리,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,probe,2.0
+3,49,막을수없다,멈추다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+3,49,무패이다,패배하다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+3,49,읽을수없다,해독되다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+3,49,지치지않다,지치다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+3,49,영원하다,끝나다,중단되다,끝나다,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,probe,2.0
+4,30,할로윈,코스튬,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+4,30,야구경기,배트,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+4,30,연회,와인,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+4,30,추첨행사,응모권,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+4,30,결혼식,반지,반지,초대장,Event:Feature (Korean Localized),PART-WHOLE,probe,1.0
+5,-1,baseline,baseline,,,baseline,baseline,baseline,
+6,49,피할수없다,피하다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+6,49,공략불가하다,공격받다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+6,49,넘을수없다,넘어서다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+6,49,양도불가이다,양도되다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+6,49,용서할수없다,용서받다,참다,용서받다,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,probe,2.0
+7,14,창문,천창,,,Attribute Similarity (Korean Localized),SIMILAR,example,
+7,14,울타리,생울타리,,,Attribute Similarity (Korean Localized),SIMILAR,example,
+7,14,양초,손전등,,,Attribute Similarity (Korean Localized),SIMILAR,example,
+7,14,삽,숟가락,,,Attribute Similarity (Korean Localized),SIMILAR,example,
+7,14,원기둥,병,병,유리,Attribute Similarity (Korean Localized),SIMILAR,probe,1.0
+8,30,워크숍,도구,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+8,30,서커스,단장,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+8,30,수확,농작물,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+8,30,스포츠경기,심판,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+8,30,크리스마스,선물,선물,캐럴부르기,Event:Feature (Korean Localized),PART-WHOLE,probe,1.0
+9,49,포기할수없다,포기하다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+9,49,가시지않다,가시다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+9,49,반박할수없다,반박되다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+9,49,이해불가하다,이해되다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+9,49,겁없다,겁먹다,겁먹다,조심스럽다,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,probe,1.0
+10,50,노예,속박,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+10,50,처녀,순결,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+10,50,불면증환자,깨어있음,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+10,50,미망인,사별,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+10,50,수호자,경계심,문,경계심,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,probe,2.0
+11,-1,baseline,baseline,,,baseline,baseline,baseline,
+12,14,리본,벨트,,,Attribute Similarity (Korean Localized),SIMILAR,example,
+12,14,종이,양피지,,,Attribute Similarity (Korean Localized),SIMILAR,example,
+12,14,검,칼,,,Attribute Similarity (Korean Localized),SIMILAR,example,
+12,14,동굴,터널,,,Attribute Similarity (Korean Localized),SIMILAR,example,
+12,14,바구니,양동이,양동이,소풍,Attribute Similarity (Korean Localized),SIMILAR,probe,1.0
+13,50,평화주의자,평화,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+13,50,요새,경비,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+13,50,거지,가난,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+13,50,연인,열정,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+13,50,왕따,배척,배척,골목,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,probe,1.0
+14,49,추적할수없다,추적되다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+14,49,대체불가능하다,대체되다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+14,49,보이지않다,보이다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+14,49,셀수없다,세다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+14,49,지워지지않다,지워지다,지워지다,잉크,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,probe,1.0
+15,14,풀,테이프,,,Attribute Similarity (Korean Localized),SIMILAR,example,
+15,14,금,은,,,Attribute Similarity (Korean Localized),SIMILAR,example,
+15,14,플루트,호루라기,,,Attribute Similarity (Korean Localized),SIMILAR,example,
+15,14,연필,펜,,,Attribute Similarity (Korean Localized),SIMILAR,example,
+15,14,나비,나방,고치,나방,Attribute Similarity (Korean Localized),SIMILAR,probe,2.0
+16,-1,baseline,baseline,,,baseline,baseline,baseline,
+17,50,시신,죽음,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+17,50,현자,지혜,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+17,50,영재,재능,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+17,50,기사,명예,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+17,50,백만장자,부,부,돈,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,probe,1.0
+18,30,장례식,시신,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+18,30,노래방,마이크,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+18,30,경주,결승선,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+18,30,콘서트,연주자,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+18,30,시위,피켓,허가서,피켓,Event:Feature (Korean Localized),PART-WHOLE,probe,2.0
+19,-1,baseline,baseline,,,baseline,baseline,baseline,
+20,50,추방자,추방,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+20,50,낙원,환희,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+20,50,냉소주의자,회의주의,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+20,50,겁쟁이,두려움,,,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,example,
+20,50,군인,전쟁,전쟁,전투,ObjectState(noun:noun) (Korean Localized),ATTRIBUTE,probe,1.0
+21,14,차,커피,,,Attribute Similarity (Korean Localized),SIMILAR,example,
+21,14,바퀴,동전,,,Attribute Similarity (Korean Localized),SIMILAR,example,
+21,14,소음,음악,,,Attribute Similarity (Korean Localized),SIMILAR,example,
+21,14,구름,안개,,,Attribute Similarity (Korean Localized),SIMILAR,example,
+21,14,빗자루,대걸레,구석,대걸레,Attribute Similarity (Korean Localized),SIMILAR,probe,2.0
+22,30,퍼레이드,장식차,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+22,30,미술전시회,그림,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+22,30,포틀럭파티,음식,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+22,30,파티,술,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+22,30,소풍,간식,간식,선크림,Event:Feature (Korean Localized),PART-WHOLE,probe,1.0
+23,-1,baseline,baseline,,,baseline,baseline,baseline,
+24,49,얼룩지지않다,얼룩지다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+24,49,불치이다,치유되다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+24,49,상처받지않다,다치다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+24,49,가라앉지않다,가라앉다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+24,49,산산조각나지않다,산산조각나다,산산조각나다,화면,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,probe,1.0
+25,30,육상대회,허들,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+25,30,졸업무도회,드레스,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+25,30,베이비샤워,선물,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+25,30,대회,선수,,,Event:Feature (Korean Localized),PART-WHOLE,example,
+25,30,경매,경매사,유산정리세일,경매사,Event:Feature (Korean Localized),PART-WHOLE,probe,2.0

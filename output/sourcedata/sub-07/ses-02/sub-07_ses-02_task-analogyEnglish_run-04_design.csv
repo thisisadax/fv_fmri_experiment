@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,9,negotiator,agreement,,,Agent:Goal,CAUSE-PURPOSE,example,
+1,9,worker,salary,,,Agent:Goal,CAUSE-PURPOSE,example,
+1,9,researcher,knowledge,,,Agent:Goal,CAUSE-PURPOSE,example,
+1,9,addict,fix,,,Agent:Goal,CAUSE-PURPOSE,example,
+1,9,plumber,repair,repair,wrench,Agent:Goal,CAUSE-PURPOSE,probe,1.0
+2,49,irreconcilable,resolved,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+2,49,unforgettable,forgotten,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+2,49,insurmountable,overcome,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+2,49,irreplaceable,substituted,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+2,49,impermeable,penetrated,barrier,penetrated,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,probe,2.0
+3,-1,baseline,baseline,,,baseline,baseline,baseline,
+4,9,tailor,suit,,,Agent:Goal,CAUSE-PURPOSE,example,
+4,9,missionary,conversion,,,Agent:Goal,CAUSE-PURPOSE,example,
+4,9,refugee,asylum,,,Agent:Goal,CAUSE-PURPOSE,example,
+4,9,artist,masterpiece,,,Agent:Goal,CAUSE-PURPOSE,example,
+4,9,castaway,rescue,rescue,signal,Agent:Goal,CAUSE-PURPOSE,probe,1.0
+5,61,pregnancy,development,,,Time Action/Activity,SPACE-TIME,example,
+5,61,prayer,kneeling,,,Time Action/Activity,SPACE-TIME,example,
+5,61,halftime,resting,,,Time Action/Activity,SPACE-TIME,example,
+5,61,expedition,discovering,,,Time Action/Activity,SPACE-TIME,example,
+5,61,childhood,playing,crayons,playing,Time Action/Activity,SPACE-TIME,probe,2.0
+6,49,irresistible,withstood,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+6,49,shatterproof,shattered,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+6,49,inaudible,heard,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+6,49,tireless,fatigued,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+6,49,unpardonable,forgiven,tolerated,forgiven,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,probe,2.0
+7,-1,baseline,baseline,,,baseline,baseline,baseline,
+8,14,earring,ear,,,Attachment,SPACE-TIME,example,
+8,14,leaf,stem,,,Attachment,SPACE-TIME,example,
+8,14,case,phone,,,Attachment,SPACE-TIME,example,
+8,14,padlock,gate,,,Attachment,SPACE-TIME,example,
+8,14,badge,uniform,uniform,wallet,Attachment,SPACE-TIME,probe,1.0
+9,49,inexorable,halted,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+9,49,insoluble,dissolved,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+9,49,inevitable,prevented,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+9,49,tamperproof,altered,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+9,49,indelible,erased,erased,lightened,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,probe,1.0
+10,61,birthday,party,,,Time Action/Activity,SPACE-TIME,example,
+10,61,spring,blooming,,,Time Action/Activity,SPACE-TIME,example,
+10,61,festival,dancing,,,Time Action/Activity,SPACE-TIME,example,
+10,61,exam,testing,,,Time Action/Activity,SPACE-TIME,example,
+10,61,semester,studying,textbook,studying,Time Action/Activity,SPACE-TIME,probe,2.0
+11,-1,baseline,baseline,,,baseline,baseline,baseline,
+12,9,athlete,medal,,,Agent:Goal,CAUSE-PURPOSE,example,
+12,9,bodyguard,protection,,,Agent:Goal,CAUSE-PURPOSE,example,
+12,9,prospector,gold,,,Agent:Goal,CAUSE-PURPOSE,example,
+12,9,gambler,millionaire,,,Agent:Goal,CAUSE-PURPOSE,example,
+12,9,patient,health,hospital,health,Agent:Goal,CAUSE-PURPOSE,probe,2.0
+13,14,sidecar,motorcycle,,,Attachment,SPACE-TIME,example,
+13,14,button,shirt,,,Attachment,SPACE-TIME,example,
+13,14,ring,finger,,,Attachment,SPACE-TIME,example,
+13,14,antenna,roof,,,Attachment,SPACE-TIME,example,
+13,14,shell,turtle,rock,turtle,Attachment,SPACE-TIME,probe,2.0
+14,49,unreadable,deciphered,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+14,49,unbreakable,broken,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+14,49,permanent,changed,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+14,49,invincible,defeated,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+14,49,intangible,touched,seen,touched,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,probe,2.0
+15,-1,baseline,baseline,,,baseline,baseline,baseline,
+16,14,zipper,coat,,,Attachment,SPACE-TIME,example,
+16,14,strap,watch,,,Attachment,SPACE-TIME,example,
+16,14,branch,tree,,,Attachment,SPACE-TIME,example,
+16,14,magnet,refrigerator,,,Attachment,SPACE-TIME,example,
+16,14,barnacle,ship,harbor,ship,Attachment,SPACE-TIME,probe,2.0
+17,61,morning,sunrise,,,Time Action/Activity,SPACE-TIME,example,
+17,61,parade,marching,,,Time Action/Activity,SPACE-TIME,example,
+17,61,concert,performing,,,Time Action/Activity,SPACE-TIME,example,
+17,61,wedding,marriage,,,Time Action/Activity,SPACE-TIME,example,
+17,61,winter,snow,fireplace,snow,Time Action/Activity,SPACE-TIME,probe,2.0
+18,9,brewer,beer,,,Agent:Goal,CAUSE-PURPOSE,example,
+18,9,scientist,discovery,,,Agent:Goal,CAUSE-PURPOSE,example,
+18,9,doctor,wellness,,,Agent:Goal,CAUSE-PURPOSE,example,
+18,9,politician,office,,,Agent:Goal,CAUSE-PURPOSE,example,
+18,9,contestant,prize,round,prize,Agent:Goal,CAUSE-PURPOSE,probe,2.0
+19,14,knocker,door,,,Attachment,SPACE-TIME,example,
+19,14,hinge,gate,,,Attachment,SPACE-TIME,example,
+19,14,grape,vine,,,Attachment,SPACE-TIME,example,
+19,14,shoe,foot,,,Attachment,SPACE-TIME,example,
+19,14,curtain,window,window,glass,Attachment,SPACE-TIME,probe,1.0
+20,61,interview,questioning,,,Time Action/Activity,SPACE-TIME,example,
+20,61,cruise,sailing,,,Time Action/Activity,SPACE-TIME,example,
+20,61,dawn,birdsong,,,Time Action/Activity,SPACE-TIME,example,
+20,61,halloween,carving,,,Time Action/Activity,SPACE-TIME,example,
+20,61,vacation,travel,travel,suitcase,Time Action/Activity,SPACE-TIME,probe,1.0
+21,49,nonflammable,ignited,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+21,49,nontransferable,transferred,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+21,49,nonrefundable,returned,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+21,49,odorless,smelled,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+21,49,waterproof,soaked,soaked,wet,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,probe,1.0
+22,9,lawyer,justice,,,Agent:Goal,CAUSE-PURPOSE,example,
+22,9,singer,contract,,,Agent:Goal,CAUSE-PURPOSE,example,
+22,9,protester,change,,,Agent:Goal,CAUSE-PURPOSE,example,
+22,9,arsonist,fire,,,Agent:Goal,CAUSE-PURPOSE,example,
+22,9,traveler,destination,ticket,destination,Agent:Goal,CAUSE-PURPOSE,probe,2.0
+23,-1,baseline,baseline,,,baseline,baseline,baseline,
+24,61,rehearsal,practicing,,,Time Action/Activity,SPACE-TIME,example,
+24,61,christmas,caroling,,,Time Action/Activity,SPACE-TIME,example,
+24,61,harvest,reaping,,,Time Action/Activity,SPACE-TIME,example,
+24,61,meditation,reflecting,,,Time Action/Activity,SPACE-TIME,example,
+24,61,trial,testimony,testimony,courtroom,Time Action/Activity,SPACE-TIME,probe,1.0
+25,14,thorn,rose,,,Attachment,SPACE-TIME,example,
+25,14,retainer,teeth,,,Attachment,SPACE-TIME,example,
+25,14,berry,bush,,,Attachment,SPACE-TIME,example,
+25,14,ivy,trellis,,,Attachment,SPACE-TIME,example,
+25,14,handlebar,bicycle,grip,bicycle,Attachment,SPACE-TIME,probe,2.0

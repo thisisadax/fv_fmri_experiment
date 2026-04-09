@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,52,syllabus,course,,,Plan,REFERENCE,example,
+1,52,proof,publication,,,Plan,REFERENCE,example,
+1,52,protocol,experiment,,,Plan,REFERENCE,example,
+1,52,pilot,series,,,Plan,REFERENCE,example,
+1,52,formation,offense,coach,offense,Plan,REFERENCE,probe,2.0
+2,12,counselor,patient,,,Agent:Recipient,CASE RELATIONS,example,
+2,12,host,guest,,,Agent:Recipient,CASE RELATIONS,example,
+2,12,supplier,manufacturer,,,Agent:Recipient,CASE RELATIONS,example,
+2,12,manufacturer,consumer,,,Agent:Recipient,CASE RELATIONS,example,
+2,12,aunt,niece,niece,family gathering,Agent:Recipient,CASE RELATIONS,probe,1.0
+3,45,blackout,electricity,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+3,45,pessimist,optimism,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+3,45,amnesia,memory,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+3,45,infant,speech,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+3,45,winter,greenery,greenery,cold,Object:Nonstate (noun:noun),NON-ATTRIBUTE,probe,1.0
+4,52,stencil,graphics,,,Plan,REFERENCE,example,
+4,52,program,ceremony,,,Plan,REFERENCE,example,
+4,52,menu,dinner,,,Plan,REFERENCE,example,
+4,52,directions,route,,,Plan,REFERENCE,example,
+4,52,layout,garden,park,garden,Plan,REFERENCE,probe,2.0
+5,12,pastor,parishioner,,,Agent:Recipient,CASE RELATIONS,example,
+5,12,teacher,student,,,Agent:Recipient,CASE RELATIONS,example,
+5,12,clerk,customer,,,Agent:Recipient,CASE RELATIONS,example,
+5,12,guide,tourist,,,Agent:Recipient,CASE RELATIONS,example,
+5,12,babysitter,child,child,parent,Agent:Recipient,CASE RELATIONS,probe,1.0
+6,48,housekeeper,clean,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+6,48,writer,write,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+6,48,cat,purr,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+6,48,fire,burn,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+6,48,clock,tick,ring,tick,Object:Typical Action (noun.verb),ATTRIBUTE,probe,2.0
+7,45,tundra,trees,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+7,45,desert,moisture,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+7,45,cemetery,life,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+7,45,villain,virtue,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+7,45,slums,prosperity,prosperity,neglect,Object:Nonstate (noun:noun),NON-ATTRIBUTE,probe,1.0
+8,52,outline,paper,,,Plan,REFERENCE,example,
+8,52,prospectus,investment,,,Plan,REFERENCE,example,
+8,52,checklist,inspection,,,Plan,REFERENCE,example,
+8,52,list,groceries,,,Plan,REFERENCE,example,
+8,52,strategy,attack,rally,attack,Plan,REFERENCE,probe,2.0
+9,-1,baseline,baseline,,,baseline,baseline,baseline,
+10,12,sponsor,athlete,,,Agent:Recipient,CASE RELATIONS,example,
+10,12,florist,customer,,,Agent:Recipient,CASE RELATIONS,example,
+10,12,godparent,godchild,,,Agent:Recipient,CASE RELATIONS,example,
+10,12,donor,charity,,,Agent:Recipient,CASE RELATIONS,example,
+10,12,shopkeeper,patron,wholesaler,patron,Agent:Recipient,CASE RELATIONS,probe,2.0
+11,45,tantrum,patience,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+11,45,miser,generosity,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+11,45,chaos,order,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+11,45,recluse,society,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+11,45,war,tranquility,battle,tranquility,Object:Nonstate (noun:noun),NON-ATTRIBUTE,probe,2.0
+12,-1,baseline,baseline,,,baseline,baseline,baseline,
+13,12,courier,recipient,,,Agent:Recipient,CASE RELATIONS,example,
+13,12,doctor,patient,,,Agent:Recipient,CASE RELATIONS,example,
+13,12,dentist,patient,,,Agent:Recipient,CASE RELATIONS,example,
+13,12,grandmother,grandchild,,,Agent:Recipient,CASE RELATIONS,example,
+13,12,gardener,homeowner,lawnmower,homeowner,Agent:Recipient,CASE RELATIONS,probe,2.0
+14,52,recipe,meal,,,Plan,REFERENCE,example,
+14,52,draft,essay,,,Plan,REFERENCE,example,
+14,52,schedule,event,,,Plan,REFERENCE,example,
+14,52,itinerary,trip,,,Plan,REFERENCE,example,
+14,52,manifesto,revolution,revolution,platform,Plan,REFERENCE,probe,1.0
+15,-1,baseline,baseline,,,baseline,baseline,baseline,
+16,48,heart,beat,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+16,48,musician,play,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+16,48,candle,flicker,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+16,48,kangaroo,jump,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+16,48,shovel,dig,lift,dig,Object:Typical Action (noun.verb),ATTRIBUTE,probe,2.0
+17,45,rivalry,serenity,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+17,45,bully,kindness,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+17,45,paralysis,movement,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+17,45,funeral,laughter,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+17,45,apathy,enthusiasm,indifference,enthusiasm,Object:Nonstate (noun:noun),NON-ATTRIBUTE,probe,2.0
+18,-1,baseline,baseline,,,baseline,baseline,baseline,
+19,48,oven,heat,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+19,48,rooster,crow,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+19,48,wave,crash,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+19,48,horse,gallop,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+19,48,pendulum,swing,hang,swing,Object:Typical Action (noun.verb),ATTRIBUTE,probe,2.0
+20,45,moon,atmosphere,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+20,45,laziness,effort,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+20,45,vacuum,air,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+20,45,hatred,love,,,Object:Nonstate (noun:noun),NON-ATTRIBUTE,example,
+20,45,sage,ignorance,scholar,ignorance,Object:Nonstate (noun:noun),NON-ATTRIBUTE,probe,2.0
+21,52,template,document,,,Plan,REFERENCE,example,
+21,52,storyboard,animation,,,Plan,REFERENCE,example,
+21,52,will,estate,,,Plan,REFERENCE,example,
+21,52,script,play,,,Plan,REFERENCE,example,
+21,52,curriculum,education,education,classroom,Plan,REFERENCE,probe,1.0
+22,48,broom,sweep,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+22,48,stomach,digest,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+22,48,bee,buzz,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+22,48,cricket,chirp,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+22,48,duck,quack,quack,paddle,Object:Typical Action (noun.verb),ATTRIBUTE,probe,1.0
+23,-1,baseline,baseline,,,baseline,baseline,baseline,
+24,12,nanny,child,,,Agent:Recipient,CASE RELATIONS,example,
+24,12,editor,author,,,Agent:Recipient,CASE RELATIONS,example,
+24,12,barista,customer,,,Agent:Recipient,CASE RELATIONS,example,
+24,12,librarian,patron,,,Agent:Recipient,CASE RELATIONS,example,
+24,12,professor,student,dean,student,Agent:Recipient,CASE RELATIONS,probe,2.0
+25,48,dynamite,explode,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+25,48,bell,ring,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+25,48,bird,fly,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+25,48,frog,croak,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+25,48,lion,roar,roar,mane,Object:Typical Action (noun.verb),ATTRIBUTE,probe,1.0

@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,38,razor,sharp,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+1,38,mule,stubborn,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+1,38,mansion,spacious,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+1,38,turtle,slow,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+1,38,bigot,hateful,rude,hateful,ItemAttribute(noun:adjective),ATTRIBUTE,probe,2.0
+2,55,customer,coupon,,,Recipient:Instrument,CASE RELATIONS,example,
+2,55,millionaire,money,,,Recipient:Instrument,CASE RELATIONS,example,
+2,55,homeowner,title,,,Recipient:Instrument,CASE RELATIONS,example,
+2,55,builder,permit,,,Recipient:Instrument,CASE RELATIONS,example,
+2,55,employee,contract,office,contract,Recipient:Instrument,CASE RELATIONS,probe,2.0
+3,37,courthouse,courtroom,,,Item:Topological Part,PART-WHOLE,example,
+3,37,castle,tower,,,Item:Topological Part,PART-WHOLE,example,
+3,37,face,chin,,,Item:Topological Part,PART-WHOLE,example,
+3,37,road,shoulder,,,Item:Topological Part,PART-WHOLE,example,
+3,37,airport,terminal,terminal,security,Item:Topological Part,PART-WHOLE,probe,1.0
+4,0,protest,reform,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+4,0,sharpen,cut,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+4,0,sing,entertain,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+4,0,reach,hold,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+4,0,teach,educate,educate,classroom,Action/Activity:Goal,CAUSE-PURPOSE,probe,1.0
+5,-1,baseline,baseline,,,baseline,baseline,baseline,
+6,55,diner,reservation,,,Recipient:Instrument,CASE RELATIONS,example,
+6,55,debtor,credit,,,Recipient:Instrument,CASE RELATIONS,example,
+6,55,teacher,certificate,,,Recipient:Instrument,CASE RELATIONS,example,
+6,55,survivor,aid,,,Recipient:Instrument,CASE RELATIONS,example,
+6,55,renter,lease,apartment,lease,Recipient:Instrument,CASE RELATIONS,probe,2.0
+7,38,novice,inexperienced,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+7,38,sky,blue,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+7,38,dove,peaceful,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+7,38,clown,funny,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+7,38,professor,intellectual,intellectual,experienced,ItemAttribute(noun:adjective),ATTRIBUTE,probe,1.0
+8,0,invite,gather,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+8,0,flee,escape,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+8,0,dig,uncover,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+8,0,ignite,burn,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+8,0,run,exercise,exercise,track,Action/Activity:Goal,CAUSE-PURPOSE,probe,1.0
+9,55,voter,ballot,,,Recipient:Instrument,CASE RELATIONS,example,
+9,55,hunter,permit,,,Recipient:Instrument,CASE RELATIONS,example,
+9,55,landlord,rent,,,Recipient:Instrument,CASE RELATIONS,example,
+9,55,graduate,diploma,,,Recipient:Instrument,CASE RELATIONS,example,
+9,55,taxpayer,refund,refund,return,Recipient:Instrument,CASE RELATIONS,probe,1.0
+10,-1,baseline,baseline,,,baseline,baseline,baseline,
+11,38,plain,flat,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+11,38,tycoon,wealthy,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+11,38,fox,clever,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+11,38,water,wet,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+11,38,soldier,brave,barracks,brave,ItemAttribute(noun:adjective),ATTRIBUTE,probe,2.0
+12,37,hand,palm,,,Item:Topological Part,PART-WHOLE,example,
+12,37,bottle,neck,,,Item:Topological Part,PART-WHOLE,example,
+12,37,canyon,rim,,,Item:Topological Part,PART-WHOLE,example,
+12,37,jacket,pocket,,,Item:Topological Part,PART-WHOLE,example,
+12,37,school,classroom,classroom,homework,Item:Topological Part,PART-WHOLE,probe,1.0
+13,0,study,learn,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+13,0,decorate,beautify,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+13,0,paint,create,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+13,0,retreat,survive,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+13,0,steal,gain,gain,alarm,Action/Activity:Goal,CAUSE-PURPOSE,probe,1.0
+14,55,actor,award,,,Recipient:Instrument,CASE RELATIONS,example,
+14,55,donor,receipt,,,Recipient:Instrument,CASE RELATIONS,example,
+14,55,client,voucher,,,Recipient:Instrument,CASE RELATIONS,example,
+14,55,priest,ordination,,,Recipient:Instrument,CASE RELATIONS,example,
+14,55,depositor,interest,interest,fee,Recipient:Instrument,CASE RELATIONS,probe,1.0
+15,-1,baseline,baseline,,,baseline,baseline,baseline,
+16,0,play,enjoy,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+16,0,breathe,live,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+16,0,rest,recover,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+16,0,listen,hear,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+16,0,save,afford,budget,afford,Action/Activity:Goal,CAUSE-PURPOSE,probe,2.0
+17,55,divorcee,decree,,,Recipient:Instrument,CASE RELATIONS,example,
+17,55,physician,degree,,,Recipient:Instrument,CASE RELATIONS,example,
+17,55,guest,invitation,,,Recipient:Instrument,CASE RELATIONS,example,
+17,55,veteran,benefits,,,Recipient:Instrument,CASE RELATIONS,example,
+17,55,citizen,welfare,welfare,tax break,Recipient:Instrument,CASE RELATIONS,probe,1.0
+18,-1,baseline,baseline,,,baseline,baseline,baseline,
+19,37,home,foyer,,,Item:Topological Part,PART-WHOLE,example,
+19,37,shoe,sole,,,Item:Topological Part,PART-WHOLE,example,
+19,37,window,sill,,,Item:Topological Part,PART-WHOLE,example,
+19,37,hat,brim,,,Item:Topological Part,PART-WHOLE,example,
+19,37,couch,arm,arm,living room,Item:Topological Part,PART-WHOLE,probe,1.0
+20,0,buy,own,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+20,0,medicate,heal,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+20,0,bid,acquire,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+20,0,fish,catch,,,Action/Activity:Goal,CAUSE-PURPOSE,example,
+20,0,fight,defend,shield,defend,Action/Activity:Goal,CAUSE-PURPOSE,probe,2.0
+21,38,pillow,soft,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+21,38,cotton,fluffy,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+21,38,baby,bald,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+21,38,vinegar,acidic,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+21,38,villain,evil,evil,crime,ItemAttribute(noun:adjective),ATTRIBUTE,probe,1.0
+22,37,foot,heel,,,Item:Topological Part,PART-WHOLE,example,
+22,37,arm,elbow,,,Item:Topological Part,PART-WHOLE,example,
+22,37,boat,bow,,,Item:Topological Part,PART-WHOLE,example,
+22,37,shirt,collar,,,Item:Topological Part,PART-WHOLE,example,
+22,37,ear,lobe,headphones,lobe,Item:Topological Part,PART-WHOLE,probe,2.0
+23,-1,baseline,baseline,,,baseline,baseline,baseline,
+24,38,paper,flimsy,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+24,38,sponge,absorbent,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+24,38,butterfly,delicate,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+24,38,gold,valuable,,,ItemAttribute(noun:adjective),ATTRIBUTE,example,
+24,38,coal,black,black,hard,ItemAttribute(noun:adjective),ATTRIBUTE,probe,1.0
+25,37,volcano,crater,,,Item:Topological Part,PART-WHOLE,example,
+25,37,garden,path,,,Item:Topological Part,PART-WHOLE,example,
+25,37,theater,stage,,,Item:Topological Part,PART-WHOLE,example,
+25,37,stadium,field,,,Item:Topological Part,PART-WHOLE,example,
+25,37,museum,gallery,exhibit,gallery,Item:Topological Part,PART-WHOLE,probe,2.0

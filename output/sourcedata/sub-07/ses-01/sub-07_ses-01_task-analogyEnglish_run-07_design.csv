@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,23,husband,wife,,,Coordinates,SIMILAR,example,
+1,23,brother,sister,,,Coordinates,SIMILAR,example,
+1,23,truck,van,,,Coordinates,SIMILAR,example,
+1,23,flour,sugar,,,Coordinates,SIMILAR,example,
+1,23,lemon,lime,lime,lemonade,Coordinates,SIMILAR,probe,1.0
+2,61,sale,shopping,,,Time Action/Activity,SPACE-TIME,example,
+2,61,prohibition,bootlegging,,,Time Action/Activity,SPACE-TIME,example,
+2,61,pandemic,quarantining,,,Time Action/Activity,SPACE-TIME,example,
+2,61,recess,running,,,Time Action/Activity,SPACE-TIME,example,
+2,61,morning,breakfast,alarm clock,breakfast,Time Action/Activity,SPACE-TIME,probe,2.0
+3,-1,baseline,baseline,,,baseline,baseline,baseline,
+4,43,tangled,combed,,,Object Attribute:Condition,ATTRIBUTE,example,
+4,43,elastic,stretched,,,Object Attribute:Condition,ATTRIBUTE,example,
+4,43,soluble,dissolved,,,Object Attribute:Condition,ATTRIBUTE,example,
+4,43,edible,eaten,,,Object Attribute:Condition,ATTRIBUTE,example,
+4,43,outdated,updated,updating,updated,Object Attribute:Condition,ATTRIBUTE,probe,2.0
+5,41,gym,muscles,,,Location:Process/Product,SPACE-TIME,example,
+5,41,market,trade,,,Location:Process/Product,SPACE-TIME,example,
+5,41,distillery,whiskey,,,Location:Process/Product,SPACE-TIME,example,
+5,41,ranch,cattle,,,Location:Process/Product,SPACE-TIME,example,
+5,41,garden,vegetables,vegetables,sprinkler,Location:Process/Product,SPACE-TIME,probe,1.0
+6,-1,baseline,baseline,,,baseline,baseline,baseline,
+7,61,interview,questioning,,,Time Action/Activity,SPACE-TIME,example,
+7,61,debate,arguing,,,Time Action/Activity,SPACE-TIME,example,
+7,61,weekend,relaxing,,,Time Action/Activity,SPACE-TIME,example,
+7,61,winter,christmas,,,Time Action/Activity,SPACE-TIME,example,
+7,61,festival,dancing,dancing,tent,Time Action/Activity,SPACE-TIME,probe,1.0
+8,23,king,queen,,,Coordinates,SIMILAR,example,
+8,23,oak,maple,,,Coordinates,SIMILAR,example,
+8,23,pants,shorts,,,Coordinates,SIMILAR,example,
+8,23,algebra,geometry,,,Coordinates,SIMILAR,example,
+8,23,cotton,silk,silk,plant,Coordinates,SIMILAR,probe,1.0
+9,-1,baseline,baseline,,,baseline,baseline,baseline,
+10,61,storm,lightning,,,Time Action/Activity,SPACE-TIME,example,
+10,61,wedding,marriage,,,Time Action/Activity,SPACE-TIME,example,
+10,61,celebration,fireworks,,,Time Action/Activity,SPACE-TIME,example,
+10,61,fall,migration,,,Time Action/Activity,SPACE-TIME,example,
+10,61,thanksgiving,feasting,table,feasting,Time Action/Activity,SPACE-TIME,probe,2.0
+11,41,field,plowing,,,Location:Process/Product,SPACE-TIME,example,
+11,41,dock,loading,,,Location:Process/Product,SPACE-TIME,example,
+11,41,farm,crops,,,Location:Process/Product,SPACE-TIME,example,
+11,41,workshop,furniture,,,Location:Process/Product,SPACE-TIME,example,
+11,41,orchard,apple,apple,ripe,Location:Process/Product,SPACE-TIME,probe,1.0
+12,-1,baseline,baseline,,,baseline,baseline,baseline,
+13,43,wandering,lost,,,Object Attribute:Condition,ATTRIBUTE,example,
+13,43,pliable,twisted,,,Object Attribute:Condition,ATTRIBUTE,example,
+13,43,raw,cooked,,,Object Attribute:Condition,ATTRIBUTE,example,
+13,43,empty,filled,,,Object Attribute:Condition,ATTRIBUTE,example,
+13,43,wooden,burned,timber,burned,Object Attribute:Condition,ATTRIBUTE,probe,2.0
+14,41,arena,contest,,,Location:Process/Product,SPACE-TIME,example,
+14,41,hatchery,fish,,,Location:Process/Product,SPACE-TIME,example,
+14,41,range,shooting,,,Location:Process/Product,SPACE-TIME,example,
+14,41,refinery,gasoline,,,Location:Process/Product,SPACE-TIME,example,
+14,41,den,hibernation,dark,hibernation,Location:Process/Product,SPACE-TIME,probe,2.0
+15,61,concert,performing,,,Time Action/Activity,SPACE-TIME,example,
+15,61,christmas,caroling,,,Time Action/Activity,SPACE-TIME,example,
+15,61,birthday,party,,,Time Action/Activity,SPACE-TIME,example,
+15,61,hurricane,evacuating,,,Time Action/Activity,SPACE-TIME,example,
+15,61,recession,layoffs,layoffs,stocks,Time Action/Activity,SPACE-TIME,probe,1.0
+16,23,frog,toad,,,Coordinates,SIMILAR,example,
+16,23,comedy,tragedy,,,Coordinates,SIMILAR,example,
+16,23,boots,sandals,,,Coordinates,SIMILAR,example,
+16,23,noun,verb,,,Coordinates,SIMILAR,example,
+16,23,fiction,poetry,poetry,imagine,Coordinates,SIMILAR,probe,1.0
+17,41,bank,loans,,,Location:Process/Product,SPACE-TIME,example,
+17,41,classroom,lesson,,,Location:Process/Product,SPACE-TIME,example,
+17,41,restaurant,meal,,,Location:Process/Product,SPACE-TIME,example,
+17,41,factory,car,,,Location:Process/Product,SPACE-TIME,example,
+17,41,theater,play,play,curtain,Location:Process/Product,SPACE-TIME,probe,1.0
+18,-1,baseline,baseline,,,baseline,baseline,baseline,
+19,43,torn,mended,,,Object Attribute:Condition,ATTRIBUTE,example,
+19,43,rare,coveted,,,Object Attribute:Condition,ATTRIBUTE,example,
+19,43,affordable,purchased,,,Object Attribute:Condition,ATTRIBUTE,example,
+19,43,stained,bleached,,,Object Attribute:Condition,ATTRIBUTE,example,
+19,43,collapsible,folded,folded,tent,Object Attribute:Condition,ATTRIBUTE,probe,1.0
+20,61,parade,marching,,,Time Action/Activity,SPACE-TIME,example,
+20,61,sabbath,worshipping,,,Time Action/Activity,SPACE-TIME,example,
+20,61,retirement,traveling,,,Time Action/Activity,SPACE-TIME,example,
+20,61,famine,starvation,,,Time Action/Activity,SPACE-TIME,example,
+20,61,nighttime,stargazing,stargazing,backyard,Time Action/Activity,SPACE-TIME,probe,1.0
+21,23,nephew,niece,,,Coordinates,SIMILAR,example,
+21,23,hammer,screwdriver,,,Coordinates,SIMILAR,example,
+21,23,marble,granite,,,Coordinates,SIMILAR,example,
+21,23,beer,wine,,,Coordinates,SIMILAR,example,
+21,23,rose,tulip,thorn,tulip,Coordinates,SIMILAR,probe,2.0
+22,43,mixed,separated,,,Object Attribute:Condition,ATTRIBUTE,example,
+22,43,audible,heard,,,Object Attribute:Condition,ATTRIBUTE,example,
+22,43,abundant,wasted,,,Object Attribute:Condition,ATTRIBUTE,example,
+22,43,brittle,cracked,,,Object Attribute:Condition,ATTRIBUTE,example,
+22,43,wearable,worn,worn,clothing,Object Attribute:Condition,ATTRIBUTE,probe,1.0
+23,41,tannery,leather,,,Location:Process/Product,SPACE-TIME,example,
+23,41,pasture,grazing,,,Location:Process/Product,SPACE-TIME,example,
+23,41,kitchen,food,,,Location:Process/Product,SPACE-TIME,example,
+23,41,park,recreation,,,Location:Process/Product,SPACE-TIME,example,
+23,41,garage,repair,lift,repair,Location:Process/Product,SPACE-TIME,probe,2.0
+24,23,duck,goose,,,Coordinates,SIMILAR,example,
+24,23,record,cassette,,,Coordinates,SIMILAR,example,
+24,23,butterfly,moth,,,Coordinates,SIMILAR,example,
+24,23,desert,tundra,,,Coordinates,SIMILAR,example,
+24,23,son,daughter,family,daughter,Coordinates,SIMILAR,probe,2.0
+25,43,sick,cured,,,Object Attribute:Condition,ATTRIBUTE,example,
+25,43,long,shortened,,,Object Attribute:Condition,ATTRIBUTE,example,
+25,43,thin,torn,,,Object Attribute:Condition,ATTRIBUTE,example,
+25,43,clean,dirtied,,,Object Attribute:Condition,ATTRIBUTE,example,
+25,43,flat,inflated,inflated,tire,Object Attribute:Condition,ATTRIBUTE,probe,1.0

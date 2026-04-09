@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,29,체인,체인톱,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+1,29,날,톱,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+1,29,숯,그릴,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+1,29,차키,자동차,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+1,29,공기,타이어,타이어,림,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,probe,1.0
+2,36,거짓말쟁이,정직하다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+2,36,죽음,살아있다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+2,36,다이아몬드,부드럽다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+2,36,정적,빠르다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+2,36,아기,성숙하다,성숙하다,작다,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,probe,1.0
+3,-1,baseline,baseline,,,baseline,baseline,baseline,
+4,22,낯선사람,친구,,,Conversion (Korean Localized),SIMILAR,example,
+4,22,아마추어,프로,,,Conversion (Korean Localized),SIMILAR,example,
+4,22,뜨개실,스웨터,,,Conversion (Korean Localized),SIMILAR,example,
+4,22,시제품,제품,,,Conversion (Korean Localized),SIMILAR,example,
+4,22,양모,실,실,뜨개질,Conversion (Korean Localized),SIMILAR,probe,1.0
+5,40,광산,채굴하다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+5,40,경매장,입찰하다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+5,40,테라스,쉬다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+5,40,교회,예배드리다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+5,40,산,등산하다,정상,등산하다,Location:Action/Activity (Korean Localized),SPACE-TIME,probe,2.0
+6,36,황홀함,슬프다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+6,36,침묵,시끄럽다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+6,36,심연,얕다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+6,36,성자,죄많다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+6,36,카리스마,밋밋하다,자연스럽다,밋밋하다,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,probe,2.0
+7,-1,baseline,baseline,,,baseline,baseline,baseline,
+8,22,밀랍,양초,,,Conversion (Korean Localized),SIMILAR,example,
+8,22,망아지,말,,,Conversion (Korean Localized),SIMILAR,example,
+8,22,금속,동전,,,Conversion (Korean Localized),SIMILAR,example,
+8,22,소년,남자,,,Conversion (Korean Localized),SIMILAR,example,
+8,22,송아지,소,소,헛간,Conversion (Korean Localized),SIMILAR,probe,1.0
+9,29,잉크,펜,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+9,29,이스트,빵,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+9,29,불,바비큐,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+9,29,항공권,비행기,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+9,29,비,농작물,수확,농작물,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,probe,2.0
+10,40,침실,자다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+10,40,사격장,사격하다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+10,40,호텔,숙박하다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+10,40,클럽,춤추다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+10,40,농장,재배하다,심기,재배하다,Location:Action/Activity (Korean Localized),SPACE-TIME,probe,2.0
+11,22,꽃,열매,,,Conversion (Korean Localized),SIMILAR,example,
+11,22,꽃봉오리,꽃,,,Conversion (Korean Localized),SIMILAR,example,
+11,22,학생,졸업생,,,Conversion (Korean Localized),SIMILAR,example,
+11,22,여자친구,아내,,,Conversion (Korean Localized),SIMILAR,example,
+11,22,달걀,병아리,병아리,계란판,Conversion (Korean Localized),SIMILAR,probe,1.0
+12,-1,baseline,baseline,,,baseline,baseline,baseline,
+13,40,스튜디오,녹음하다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+13,40,인도,산책하다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+13,40,코인세탁방,세탁하다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+13,40,창고,보관하다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+13,40,영화관,영화 보다,영화 보다,팝콘,Location:Action/Activity (Korean Localized),SPACE-TIME,probe,1.0
+14,36,사막,울창하다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+14,36,혼돈,질서정연하다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+14,36,마비,움직일수있다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+14,36,목소리,벙어리다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+14,36,난쟁이,거대하다,뚱뚱하다,거대하다,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,probe,2.0
+15,-1,baseline,baseline,,,baseline,baseline,baseline,
+16,29,네트,배구,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+16,29,산소,불,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+16,29,마커,화이트보드,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+16,29,줄,기타,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+16,29,엔진,비행기,비행기,연료,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,probe,1.0
+17,36,가뭄,축축하다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+17,36,자비,무자비하다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+17,36,열정,무관심하다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+17,36,결백,유죄이다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+17,36,악당,고결하다,고결하다,무자비하다,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,probe,1.0
+18,-1,baseline,baseline,,,baseline,baseline,baseline,
+19,22,각본,영화,,,Conversion (Korean Localized),SIMILAR,example,
+19,22,나무,종이,,,Conversion (Korean Localized),SIMILAR,example,
+19,22,수액,시럽,,,Conversion (Korean Localized),SIMILAR,example,
+19,22,물,수증기,,,Conversion (Korean Localized),SIMILAR,example,
+19,22,돌,조각상,박물관,조각상,Conversion (Korean Localized),SIMILAR,probe,2.0
+20,29,도화선,다이너마이트,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+20,29,하네스,낙하산,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+20,29,가스,보일러,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+20,29,선로,기차,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+20,29,배터리,손전등,손전등,서랍,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,probe,1.0
+21,40,아이스링크,스케이트 타다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+21,40,바다,서핑하다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+21,40,천문대,천체 관측하다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+21,40,항구,정박하다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+21,40,슬로프,스키 타다,스키 타다,체어리프트,Location:Action/Activity (Korean Localized),SPACE-TIME,probe,1.0
+22,22,케이크반죽,케이크,,,Conversion (Korean Localized),SIMILAR,example,
+22,22,생가죽,가죽,,,Conversion (Korean Localized),SIMILAR,example,
+22,22,초고,에세이,,,Conversion (Korean Localized),SIMILAR,example,
+22,22,설탕,카라멜,,,Conversion (Korean Localized),SIMILAR,example,
+22,22,원고,책,작가,책,Conversion (Korean Localized),SIMILAR,probe,2.0
+23,29,갈고리,크레인,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+23,29,분필,칠판,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+23,29,세제,식기세척기,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+23,29,모터,선풍기,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+23,29,공,테니스,코트,테니스,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,probe,2.0
+24,36,은둔자,사교적이다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+24,36,바보,현명하다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+24,36,잔치,빈약하다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+24,36,가난,부유하다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+24,36,그림자,밝다,밝다,희미하다,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,probe,1.0
+25,40,목초지,풀 뜯다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+25,40,찜질방,땀 흘리다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+25,40,수술실,수술하다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+25,40,산호초,다이빙하다,,,Location:Action/Activity (Korean Localized),SPACE-TIME,example,
+25,40,투표소,투표하다,투표하다,투표용지,Location:Action/Activity (Korean Localized),SPACE-TIME,probe,1.0

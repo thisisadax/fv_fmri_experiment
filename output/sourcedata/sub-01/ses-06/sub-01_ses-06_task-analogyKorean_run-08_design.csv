@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,35,폐허,웅장함,,,Item:Ex-part/Ex-possession (Korean Localized),PART-WHOLE,example,
+1,35,죄수,자유,,,Item:Ex-part/Ex-possession (Korean Localized),PART-WHOLE,example,
+1,35,은퇴자,직업,,,Item:Ex-part/Ex-possession (Korean Localized),PART-WHOLE,example,
+1,35,유령,몸,,,Item:Ex-part/Ex-possession (Korean Localized),PART-WHOLE,example,
+1,35,미라,장기,장기,저주,Item:Ex-part/Ex-possession (Korean Localized),PART-WHOLE,probe,1.0
+2,58,미소,행복,,,Sign:Significant (Korean Localized),REFERENCE,example,
+2,58,면허증,허가,,,Sign:Significant (Korean Localized),REFERENCE,example,
+2,58,트로피,승리,,,Sign:Significant (Korean Localized),REFERENCE,example,
+2,58,종소리,식사시간,,,Sign:Significant (Korean Localized),REFERENCE,example,
+2,58,폐허,파괴,돌,파괴,Sign:Significant (Korean Localized),REFERENCE,probe,2.0
+3,26,먹다,게걸스럽게먹다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+3,26,싸우다,공격하다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+3,26,알리다,일러바치다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+3,26,세금부과하다,갈취하다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+3,26,토닥이다,따귀때리다,따귀때리다,손,Dimensional Naughty (Korean Localized),SIMILAR,probe,1.0
+4,41,마리나,보트,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+4,41,농구장,골대,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+4,41,욕실,수건,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+4,41,아기방,요람,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+4,41,동물원,우리,우리,관람,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,probe,1.0
+5,58,균열,손상,,,Sign:Significant (Korean Localized),REFERENCE,example,
+5,58,스모그,대기오염,,,Sign:Significant (Korean Localized),REFERENCE,example,
+5,58,발렌타인데이,사랑,,,Sign:Significant (Korean Localized),REFERENCE,example,
+5,58,구조요청,도움,,,Sign:Significant (Korean Localized),REFERENCE,example,
+5,58,흉터,상처,조직,상처,Sign:Significant (Korean Localized),REFERENCE,probe,2.0
+6,35,잔해,구조,,,Item:Ex-part/Ex-possession (Korean Localized),PART-WHOLE,example,
+6,35,변절자,충성,,,Item:Ex-part/Ex-possession (Korean Localized),PART-WHOLE,example,
+6,35,기억상실증환자,기억,,,Item:Ex-part/Ex-possession (Korean Localized),PART-WHOLE,example,
+6,35,노예,자유,,,Item:Ex-part/Ex-possession (Korean Localized),PART-WHOLE,example,
+6,35,배교자,신앙,신앙,의심,Item:Ex-part/Ex-possession (Korean Localized),PART-WHOLE,probe,1.0
+7,26,빌리다,훔치다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+7,26,추근대다,희롱하다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+7,26,사냥하다,밀렵하다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+7,26,불평하다,징징거리다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+7,26,문의하다,캐묻다,캐묻다,안내데스크,Dimensional Naughty (Korean Localized),SIMILAR,probe,1.0
+8,41,무대,스포트라이트,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+8,41,목공방,끌,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+8,41,선착장,닻,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+8,41,사무실,컴퓨터,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+8,41,주방,냄비,집,냄비,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,probe,2.0
+9,-1,baseline,baseline,,,baseline,baseline,baseline,
+10,58,주름,노화,,,Sign:Significant (Korean Localized),REFERENCE,example,
+10,58,노려봄,분노,,,Sign:Significant (Korean Localized),REFERENCE,example,
+10,58,비명,공황,,,Sign:Significant (Korean Localized),REFERENCE,example,
+10,58,쉭쉭거림,적대감,,,Sign:Significant (Korean Localized),REFERENCE,example,
+10,58,으르렁거림,공격성,공격성,경고,Sign:Significant (Korean Localized),REFERENCE,probe,1.0
+11,35,정신이상자,이성,,,Item:Ex-part/Ex-possession (Korean Localized),PART-WHOLE,example,
+11,35,냉소주의자,순수함,,,Item:Ex-part/Ex-possession (Korean Localized),PART-WHOLE,example,
+11,35,성인,유년기,,,Item:Ex-part/Ex-possession (Korean Localized),PART-WHOLE,example,
+11,35,성인남성,소년기,,,Item:Ex-part/Ex-possession (Korean Localized),PART-WHOLE,example,
+11,35,금욕가,안락함,동굴,안락함,Item:Ex-part/Ex-possession (Korean Localized),PART-WHOLE,probe,2.0
+12,-1,baseline,baseline,,,baseline,baseline,baseline,
+13,41,스키장,스키,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+13,41,마구간,고삐,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+13,41,수족관,수조,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+13,41,야구장,배트,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+13,41,공장,컨베이어벨트,제조,컨베이어벨트,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,probe,2.0
+14,26,마시다,후루룩거리다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+14,26,먹이다,강제로먹이다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+14,26,얻다,빼앗다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+14,26,웃다,야유하다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+14,26,칭찬하다,우상화하다,우상화하다,칭찬,Dimensional Naughty (Korean Localized),SIMILAR,probe,1.0
+15,-1,baseline,baseline,,,baseline,baseline,baseline,
+16,58,발열,감염,,,Sign:Significant (Korean Localized),REFERENCE,example,
+16,58,발자국,존재,,,Sign:Significant (Korean Localized),REFERENCE,example,
+16,58,찌그러짐,충돌,,,Sign:Significant (Korean Localized),REFERENCE,example,
+16,58,빨간불,정지,,,Sign:Significant (Korean Localized),REFERENCE,example,
+16,58,연기,불,불,굴뚝,Sign:Significant (Korean Localized),REFERENCE,probe,1.0
+17,26,놀리다,조롱하다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+17,26,이야기하다,뒷담화하다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+17,26,격려하다,압박하다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+17,26,거래하다,사기치다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+17,26,축하하다,잘난척하다,케이크,잘난척하다,Dimensional Naughty (Korean Localized),SIMILAR,probe,2.0
+18,-1,baseline,baseline,,,baseline,baseline,baseline,
+19,35,흉터,상처,,,Item:Ex-part/Ex-possession (Korean Localized),PART-WHOLE,example,
+19,35,반항아,복종,,,Item:Ex-part/Ex-possession (Korean Localized),PART-WHOLE,example,
+19,35,무법자,명예,,,Item:Ex-part/Ex-possession (Korean Localized),PART-WHOLE,example,
+19,35,노인,활력,,,Item:Ex-part/Ex-possession (Korean Localized),PART-WHOLE,example,
+19,35,절단환자,팔다리,의족,팔다리,Item:Ex-part/Ex-possession (Korean Localized),PART-WHOLE,probe,2.0
+20,41,마트,카트,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+20,41,공사장,크레인,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+20,41,테니스장,테니스라켓,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+20,41,미용실,드라이기,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+20,41,양궁장,활,활,조준,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,probe,1.0
+21,-1,baseline,baseline,,,baseline,baseline,baseline,
+22,58,발진,알레르기,,,Sign:Significant (Korean Localized),REFERENCE,example,
+22,58,일그러진표정,고통,,,Sign:Significant (Korean Localized),REFERENCE,example,
+22,58,메달,업적,,,Sign:Significant (Korean Localized),REFERENCE,example,
+22,58,땀,운동,,,Sign:Significant (Korean Localized),REFERENCE,example,
+22,58,서리,추위,추위,창문,Sign:Significant (Korean Localized),REFERENCE,probe,1.0
+23,41,카지노,카드,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+23,41,경마장,안장,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+23,41,부두,낚싯대,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+23,41,실험실,현미경,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+23,41,교회,예배의자,예배의자,예배당,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,probe,1.0
+24,26,노크하다,쿵쿵두드리다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+24,26,보관하다,감추다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+24,26,편집하다,검열하다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+24,26,요청하다,구걸하다,,,Dimensional Naughty (Korean Localized),SIMILAR,example,
+24,26,관찰하다,염탐하다,데이터,염탐하다,Dimensional Naughty (Korean Localized),SIMILAR,probe,2.0
+25,35,수감자,사생활,,,Item:Ex-part/Ex-possession (Korean Localized),PART-WHOLE,example,
+25,35,아내,처녀시절,,,Item:Ex-part/Ex-possession (Korean Localized),PART-WHOLE,example,
+25,35,의사,전공의수련,,,Item:Ex-part/Ex-possession (Korean Localized),PART-WHOLE,example,
+25,35,왕따,소속감,,,Item:Ex-part/Ex-possession (Korean Localized),PART-WHOLE,example,
+25,35,홀아비,아내,아내,슬픔,Item:Ex-part/Ex-possession (Korean Localized),PART-WHOLE,probe,1.0

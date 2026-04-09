@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,54,seatbelt,death,,,Prevention,CAUSE-PURPOSE,example,
+1,54,practice,failure,,,Prevention,CAUSE-PURPOSE,example,
+1,54,lubricant,friction,,,Prevention,CAUSE-PURPOSE,example,
+1,54,moderation,excess,,,Prevention,CAUSE-PURPOSE,example,
+1,54,oxygen,suffocation,breathing,suffocation,Prevention,CAUSE-PURPOSE,probe,2.0
+2,60,autumn,fall,,,Synonymity,SIMILAR,example,
+2,60,dad,father,,,Synonymity,SIMILAR,example,
+2,60,music,tunes,,,Synonymity,SIMILAR,example,
+2,60,cute,adorable,,,Synonymity,SIMILAR,example,
+2,60,entire,whole,full,whole,Synonymity,SIMILAR,probe,2.0
+3,46,dowry,groom,,,Object:Recipient,CASE RELATIONS,example,
+3,46,bouquet,bridesmaid,,,Object:Recipient,CASE RELATIONS,example,
+3,46,receipt,customer,,,Object:Recipient,CASE RELATIONS,example,
+3,46,grant,scientist,,,Object:Recipient,CASE RELATIONS,example,
+3,46,application,employer,employer,form,Object:Recipient,CASE RELATIONS,probe,1.0
+4,42,staircase,steps,,,Mass:Potion,PART-WHOLE,example,
+4,42,body,cell,,,Mass:Potion,PART-WHOLE,example,
+4,42,watermelon,wedges,,,Mass:Potion,PART-WHOLE,example,
+4,42,air,puff,,,Mass:Potion,PART-WHOLE,example,
+4,42,minute,seconds,seconds,beats,Mass:Potion,PART-WHOLE,probe,1.0
+5,-1,baseline,baseline,,,baseline,baseline,baseline,
+6,46,ransom,kidnapper,,,Object:Recipient,CASE RELATIONS,example,
+6,46,vaccine,infant,,,Object:Recipient,CASE RELATIONS,example,
+6,46,applause,performer,,,Object:Recipient,CASE RELATIONS,example,
+6,46,pass,teammate,,,Object:Recipient,CASE RELATIONS,example,
+6,46,certificate,teacher,teacher,license,Object:Recipient,CASE RELATIONS,probe,1.0
+7,54,firewall,hacking,,,Prevention,CAUSE-PURPOSE,example,
+7,54,verification,fraud,,,Prevention,CAUSE-PURPOSE,example,
+7,54,water,thirst,,,Prevention,CAUSE-PURPOSE,example,
+7,54,earplugs,deafness,,,Prevention,CAUSE-PURPOSE,example,
+7,54,contraception,pregnancy,pregnancy,abortion,Prevention,CAUSE-PURPOSE,probe,1.0
+8,-1,baseline,baseline,,,baseline,baseline,baseline,
+9,42,hive,bee,,,Mass:Potion,PART-WHOLE,example,
+9,42,newspaper,sections,,,Mass:Potion,PART-WHOLE,example,
+9,42,tree,branches,,,Mass:Potion,PART-WHOLE,example,
+9,42,sand,grains,,,Mass:Potion,PART-WHOLE,example,
+9,42,flock,birds,birds,feathers,Mass:Potion,PART-WHOLE,probe,1.0
+10,60,run,sprint,,,Synonymity,SIMILAR,example,
+10,60,angry,mad,,,Synonymity,SIMILAR,example,
+10,60,center,middle,,,Synonymity,SIMILAR,example,
+10,60,stick,attach,,,Synonymity,SIMILAR,example,
+10,60,spin,twirl,swirl,twirl,Synonymity,SIMILAR,probe,2.0
+11,54,password,intrusion,,,Prevention,CAUSE-PURPOSE,example,
+11,54,money,poverty,,,Prevention,CAUSE-PURPOSE,example,
+11,54,alarm,burglary,,,Prevention,CAUSE-PURPOSE,example,
+11,54,rest,exhaustion,,,Prevention,CAUSE-PURPOSE,example,
+11,54,sunglasses,glare,lenses,glare,Prevention,CAUSE-PURPOSE,probe,2.0
+12,-1,baseline,baseline,,,baseline,baseline,baseline,
+13,42,album,tracks,,,Mass:Potion,PART-WHOLE,example,
+13,42,crowd,people,,,Mass:Potion,PART-WHOLE,example,
+13,42,fleet,ships,,,Mass:Potion,PART-WHOLE,example,
+13,42,poem,verses,,,Mass:Potion,PART-WHOLE,example,
+13,42,orchestra,musicians,musicians,instruments,Mass:Potion,PART-WHOLE,probe,1.0
+14,54,savings,bankruptcy,,,Prevention,CAUSE-PURPOSE,example,
+14,54,cork,spillage,,,Prevention,CAUSE-PURPOSE,example,
+14,54,guardrail,collision,,,Prevention,CAUSE-PURPOSE,example,
+14,54,discipline,chaos,,,Prevention,CAUSE-PURPOSE,example,
+14,54,caution,accidents,accidents,fear,Prevention,CAUSE-PURPOSE,probe,1.0
+15,46,award,winner,,,Object:Recipient,CASE RELATIONS,example,
+15,46,commission,salesperson,,,Object:Recipient,CASE RELATIONS,example,
+15,46,ball,receiver,,,Object:Recipient,CASE RELATIONS,example,
+15,46,package,homeowner,,,Object:Recipient,CASE RELATIONS,example,
+15,46,rations,soldier,soldier,cook,Object:Recipient,CASE RELATIONS,probe,1.0
+16,42,archipelago,islands,,,Mass:Potion,PART-WHOLE,example,
+16,42,sentence,words,,,Mass:Potion,PART-WHOLE,example,
+16,42,quarter,pennies,,,Mass:Potion,PART-WHOLE,example,
+16,42,rainbow,colors,,,Mass:Potion,PART-WHOLE,example,
+16,42,dollar,cents,checks,cents,Mass:Potion,PART-WHOLE,probe,2.0
+17,-1,baseline,baseline,,,baseline,baseline,baseline,
+18,46,scholarship,freshman,,,Object:Recipient,CASE RELATIONS,example,
+18,46,ring,bride,,,Object:Recipient,CASE RELATIONS,example,
+18,46,subsidy,farmer,,,Object:Recipient,CASE RELATIONS,example,
+18,46,alimony,spouse,,,Object:Recipient,CASE RELATIONS,example,
+18,46,pitch,batter,strike,batter,Object:Recipient,CASE RELATIONS,probe,2.0
+19,60,stone,rock,,,Synonymity,SIMILAR,example,
+19,60,scared,afraid,,,Synonymity,SIMILAR,example,
+19,60,need,require,,,Synonymity,SIMILAR,example,
+19,60,lawyer,attorney,,,Synonymity,SIMILAR,example,
+19,60,couch,sofa,sofa,living room,Synonymity,SIMILAR,probe,1.0
+20,-1,baseline,baseline,,,baseline,baseline,baseline,
+21,54,rules,disorder,,,Prevention,CAUSE-PURPOSE,example,
+21,54,regulation,abuse,,,Prevention,CAUSE-PURPOSE,example,
+21,54,deodorant,odor,,,Prevention,CAUSE-PURPOSE,example,
+21,54,coat,hypothermia,,,Prevention,CAUSE-PURPOSE,example,
+21,54,law,crime,crime,police,Prevention,CAUSE-PURPOSE,probe,1.0
+22,60,dress,frock,,,Synonymity,SIMILAR,example,
+22,60,fast,quick,,,Synonymity,SIMILAR,example,
+22,60,hide,conceal,,,Synonymity,SIMILAR,example,
+22,60,candy,sweets,,,Synonymity,SIMILAR,example,
+22,60,room,chamber,chamber,office,Synonymity,SIMILAR,probe,1.0
+23,42,corn,kernels,,,Mass:Potion,PART-WHOLE,example,
+23,42,orange,segments,,,Mass:Potion,PART-WHOLE,example,
+23,42,garlic,cloves,,,Mass:Potion,PART-WHOLE,example,
+23,42,chocolate,squares,,,Mass:Potion,PART-WHOLE,example,
+23,42,hand,fingers,gloves,fingers,Mass:Potion,PART-WHOLE,probe,2.0
+24,46,gift,recipient,,,Object:Recipient,CASE RELATIONS,example,
+24,46,ticket,speeder,,,Object:Recipient,CASE RELATIONS,example,
+24,46,degree,graduate,,,Object:Recipient,CASE RELATIONS,example,
+24,46,pension,retiree,,,Object:Recipient,CASE RELATIONS,example,
+24,46,mail,resident,mailbox,resident,Object:Recipient,CASE RELATIONS,probe,2.0
+25,60,make,manufacture,,,Synonymity,SIMILAR,example,
+25,60,buy,purchase,,,Synonymity,SIMILAR,example,
+25,60,gift,present,,,Synonymity,SIMILAR,example,
+25,60,end,finish,,,Synonymity,SIMILAR,example,
+25,60,raise,elevate,elevate,height,Synonymity,SIMILAR,probe,1.0

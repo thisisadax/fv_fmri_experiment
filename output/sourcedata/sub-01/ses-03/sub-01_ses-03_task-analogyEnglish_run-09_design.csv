@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,15,virtuous,wickedness,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+1,15,satiated,hunger,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+1,15,deaf,hearing,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+1,15,naive,sophistication,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+1,15,empty,fullness,fullness,stock,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,probe,1.0
+2,36,carcass,warmth,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+2,36,apostate,faith,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+2,36,predecessor,power,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+2,36,fossil,life,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+2,36,clearing,trees,grass,trees,Item:Ex-part/Ex-possession,PART-WHOLE,probe,2.0
+3,-1,baseline,baseline,,,baseline,baseline,baseline,
+4,35,whisk,whip,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+4,35,phone,call,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+4,35,airplane,fly,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+4,35,kettle,boil,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+4,35,hammer,pound,handle,pound,Instrument:Intended Action,CAUSE-PURPOSE,probe,2.0
+5,36,graduate,homework,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+5,36,outlaw,honor,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+5,36,chick,eggshell,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+5,36,rebel,obedience,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+5,36,debtor,solvency,interest,solvency,Item:Ex-part/Ex-possession,PART-WHOLE,probe,2.0
+6,-1,baseline,baseline,,,baseline,baseline,baseline,
+7,15,wet,dryness,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+7,15,idle,productivity,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+7,15,joyful,misery,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+7,15,barren,fertility,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+7,15,merciful,ruthlessness,ruthlessness,justice,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,probe,1.0
+8,11,glassblower,ornament,,,Agent:Object,CASE RELATIONS,example,
+8,11,knitter,sweater,,,Agent:Object,CASE RELATIONS,example,
+8,11,baker,bread,,,Agent:Object,CASE RELATIONS,example,
+8,11,painter,painting,,,Agent:Object,CASE RELATIONS,example,
+8,11,mechanic,wrench,wrench,inspection,Agent:Object,CASE RELATIONS,probe,1.0
+9,35,funnel,pour,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+9,35,plunger,unclog,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+9,35,fork,eat,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+9,35,pliers,grip,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+9,35,alarm,wake,wake,buzz,Instrument:Intended Action,CAUSE-PURPOSE,probe,1.0
+10,15,generous,greed,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+10,15,hungry,fullness,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+10,15,awake,sleep,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+10,15,free,captivity,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+10,15,old,youth,grandchildren,youth,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,probe,2.0
+11,11,cobbler,shoes,,,Agent:Object,CASE RELATIONS,example,
+11,11,chef,oven,,,Agent:Object,CASE RELATIONS,example,
+11,11,conductor,baton,,,Agent:Object,CASE RELATIONS,example,
+11,11,farmer,tractor,,,Agent:Object,CASE RELATIONS,example,
+11,11,architect,building,building,site,Agent:Object,CASE RELATIONS,probe,1.0
+12,-1,baseline,baseline,,,baseline,baseline,baseline,
+13,15,active,dormancy,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+13,15,loud,silence,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+13,15,thin,obesity,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+13,15,docile,aggression,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+13,15,obedient,defiance,defiance,disagreement,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,probe,1.0
+14,11,bricklayer,wall,,,Agent:Object,CASE RELATIONS,example,
+14,11,gardener,shovel,,,Agent:Object,CASE RELATIONS,example,
+14,11,welder,torch,,,Agent:Object,CASE RELATIONS,example,
+14,11,animator,animation,,,Agent:Object,CASE RELATIONS,example,
+14,11,blacksmith,iron,iron,forge,Agent:Object,CASE RELATIONS,probe,1.0
+15,36,insomniac,sleep,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+15,36,doctor,residency,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+15,36,amputee,limb,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+15,36,alumnus,coursework,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+15,36,relic,purpose,purpose,temple,Item:Ex-part/Ex-possession,PART-WHOLE,probe,1.0
+16,35,lever,lift,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+16,35,toaster,toast,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+16,35,camera,photograph,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+16,35,fan,cool,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+16,35,wrench,tighten,tighten,socket,Instrument:Intended Action,CAUSE-PURPOSE,probe,1.0
+17,-1,baseline,baseline,,,baseline,baseline,baseline,
+18,11,seamstress,dress,,,Agent:Object,CASE RELATIONS,example,
+18,11,poet,words,,,Agent:Object,CASE RELATIONS,example,
+18,11,illustrator,illustration,,,Agent:Object,CASE RELATIONS,example,
+18,11,filmmaker,movie,,,Agent:Object,CASE RELATIONS,example,
+18,11,composer,song,orchestra,song,Agent:Object,CASE RELATIONS,probe,2.0
+19,35,heater,warm,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+19,35,anchor,secure,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+19,35,paintbrush,paint,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+19,35,compass,navigate,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+19,35,crowbar,pry,pry,wedge,Instrument:Intended Action,CAUSE-PURPOSE,probe,1.0
+20,15,alive,death,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+20,15,rich,poverty,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+20,15,safe,danger,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+20,15,mute,speech,,,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,example,
+20,15,furious,serenity,sunset,serenity,Attribute:Nonstate (adjective:noun),NON-ATTRIBUTE,probe,2.0
+21,36,senior,vitality,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+21,36,recluse,companionship,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+21,36,stray,owner,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+21,36,adult,childhood,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+21,36,skeleton,flesh,flesh,grave,Item:Ex-part/Ex-possession,PART-WHOLE,probe,1.0
+22,-1,baseline,baseline,,,baseline,baseline,baseline,
+23,35,pen,write,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+23,35,knife,cut,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+23,35,megaphone,amplify,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+23,35,sandpaper,smooth,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+23,35,net,catch,mesh,catch,Instrument:Intended Action,CAUSE-PURPOSE,probe,2.0
+24,11,carpenter,hammer,,,Agent:Object,CASE RELATIONS,example,
+24,11,choreographer,routine,,,Agent:Object,CASE RELATIONS,example,
+24,11,tailor,suit,,,Agent:Object,CASE RELATIONS,example,
+24,11,toddler,crayon,,,Agent:Object,CASE RELATIONS,example,
+24,11,quilter,quilt,club,quilt,Agent:Object,CASE RELATIONS,probe,2.0
+25,36,rubble,structure,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+25,36,elder,youth,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+25,36,retiree,job,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+25,36,orphan,parents,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+25,36,widow,husband,husband,wedding,Item:Ex-part/Ex-possession,PART-WHOLE,probe,1.0

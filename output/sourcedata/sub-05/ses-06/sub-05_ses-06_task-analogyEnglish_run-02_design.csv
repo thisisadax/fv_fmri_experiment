@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,50,nun,chastity,,,ObjectState(noun:noun),ATTRIBUTE,example,
+1,50,optimist,hope,,,ObjectState(noun:noun),ATTRIBUTE,example,
+1,50,storm,turbulence,,,ObjectState(noun:noun),ATTRIBUTE,example,
+1,50,patient,illness,,,ObjectState(noun:noun),ATTRIBUTE,example,
+1,50,knight,honor,honor,armor,ObjectState(noun:noun),ATTRIBUTE,probe,1.0
+2,53,movies,comedies,,,Plural Collective,CLASS-INCLUSION,example,
+2,53,games,chess,,,Plural Collective,CLASS-INCLUSION,example,
+2,53,herbs,basil,,,Plural Collective,CLASS-INCLUSION,example,
+2,53,hats,sombreros,,,Plural Collective,CLASS-INCLUSION,example,
+2,53,snacks,chips,salt,chips,Plural Collective,CLASS-INCLUSION,probe,2.0
+3,58,lay,sleep,,,Sequence,SPACE-TIME,example,
+3,58,planting,harvesting,,,Sequence,SPACE-TIME,example,
+3,58,morning,afternoon,,,Sequence,SPACE-TIME,example,
+3,58,lightning,thunder,,,Sequence,SPACE-TIME,example,
+3,58,design,manufacture,specs,manufacture,Sequence,SPACE-TIME,probe,2.0
+4,50,addict,dependence,,,ObjectState(noun:noun),ATTRIBUTE,example,
+4,50,famine,hunger,,,ObjectState(noun:noun),ATTRIBUTE,example,
+4,50,ruins,decay,,,ObjectState(noun:noun),ATTRIBUTE,example,
+4,50,hero,bravery,,,ObjectState(noun:noun),ATTRIBUTE,example,
+4,50,prisoner,punishment,punishment,cell,ObjectState(noun:noun),ATTRIBUTE,probe,1.0
+5,5,age,old,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+5,5,illuminate,bright,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+5,5,sleep,rested,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+5,5,fry,greasy,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+5,5,insult,offended,offended,argument,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,probe,1.0
+6,-1,baseline,baseline,,,baseline,baseline,baseline,
+7,53,beverages,tea,,,Plural Collective,CLASS-INCLUSION,example,
+7,53,furniture,chairs,,,Plural Collective,CLASS-INCLUSION,example,
+7,53,vegetables,carrots,,,Plural Collective,CLASS-INCLUSION,example,
+7,53,clothing,dresses,,,Plural Collective,CLASS-INCLUSION,example,
+7,53,dogs,collies,collies,herding,Plural Collective,CLASS-INCLUSION,probe,1.0
+8,5,ask,answer,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+8,5,knead,soft,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+8,5,heal,healthy,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+8,5,shock,stunned,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+8,5,lock,secure,secure,key,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,probe,1.0
+9,58,marinating,grilling,,,Sequence,SPACE-TIME,example,
+9,58,yesterday,today,,,Sequence,SPACE-TIME,example,
+9,58,crime,investigation,,,Sequence,SPACE-TIME,example,
+9,58,acorn,oak,,,Sequence,SPACE-TIME,example,
+9,58,sowing,reaping,seed,reaping,Sequence,SPACE-TIME,probe,2.0
+10,-1,baseline,baseline,,,baseline,baseline,baseline,
+11,5,bleach,white,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+11,5,silence,quiet,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+11,5,fold,creased,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+11,5,sharpen,sharp,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+11,5,break,broken,broken,floor,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,probe,1.0
+12,50,soldier,war,,,ObjectState(noun:noun),ATTRIBUTE,example,
+12,50,exile,banishment,,,ObjectState(noun:noun),ATTRIBUTE,example,
+12,50,insomniac,wakefulness,,,ObjectState(noun:noun),ATTRIBUTE,example,
+12,50,monk,devotion,,,ObjectState(noun:noun),ATTRIBUTE,example,
+12,50,desert,dryness,heat,dryness,ObjectState(noun:noun),ATTRIBUTE,probe,2.0
+13,58,preschool,kindergarten,,,Sequence,SPACE-TIME,example,
+13,58,outline,essay,,,Sequence,SPACE-TIME,example,
+13,58,kiss,intercourse,,,Sequence,SPACE-TIME,example,
+13,58,enrollment,graduation,,,Sequence,SPACE-TIME,example,
+13,58,cause,effect,effect,reason,Sequence,SPACE-TIME,probe,1.0
+14,5,delight,happy,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+14,5,crash,noise,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+14,5,melt,liquid,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+14,5,praise,proud,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+14,5,burn,heat,match,heat,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,probe,2.0
+15,-1,baseline,baseline,,,baseline,baseline,baseline,
+16,53,reptiles,snakes,,,Plural Collective,CLASS-INCLUSION,example,
+16,53,cookware,pots,,,Plural Collective,CLASS-INCLUSION,example,
+16,53,electronics,televisions,,,Plural Collective,CLASS-INCLUSION,example,
+16,53,meat,steak,,,Plural Collective,CLASS-INCLUSION,example,
+16,53,vehicles,trucks,driver,trucks,Plural Collective,CLASS-INCLUSION,probe,2.0
+17,58,reach,touch,,,Sequence,SPACE-TIME,example,
+17,58,start,finish,,,Sequence,SPACE-TIME,example,
+17,58,conception,birth,,,Sequence,SPACE-TIME,example,
+17,58,title,story,,,Sequence,SPACE-TIME,example,
+17,58,freshman,sophomore,sophomore,advisor,Sequence,SPACE-TIME,probe,1.0
+18,-1,baseline,baseline,,,baseline,baseline,baseline,
+19,53,china,plates,,,Plural Collective,CLASS-INCLUSION,example,
+19,53,fruit,apples,,,Plural Collective,CLASS-INCLUSION,example,
+19,53,literature,novels,,,Plural Collective,CLASS-INCLUSION,example,
+19,53,money,dime,,,Plural Collective,CLASS-INCLUSION,example,
+19,53,currencies,dollars,dollars,exchange,Plural Collective,CLASS-INCLUSION,probe,1.0
+20,50,glutton,excess,,,ObjectState(noun:noun),ATTRIBUTE,example,
+20,50,infant,helplessness,,,ObjectState(noun:noun),ATTRIBUTE,example,
+20,50,hermit,solitude,,,ObjectState(noun:noun),ATTRIBUTE,example,
+20,50,millionaire,wealth,,,ObjectState(noun:noun),ATTRIBUTE,example,
+20,50,mourner,grief,memory,grief,ObjectState(noun:noun),ATTRIBUTE,probe,2.0
+21,58,inhale,smell,,,Sequence,SPACE-TIME,example,
+21,58,egg,chick,,,Sequence,SPACE-TIME,example,
+21,58,seed,flower,,,Sequence,SPACE-TIME,example,
+21,58,packing,traveling,,,Sequence,SPACE-TIME,example,
+21,58,ceremony,reception,reception,banquet hall,Sequence,SPACE-TIME,probe,1.0
+22,53,rodents,mice,,,Plural Collective,CLASS-INCLUSION,example,
+22,53,music,jazz,,,Plural Collective,CLASS-INCLUSION,example,
+22,53,seasons,summer,,,Plural Collective,CLASS-INCLUSION,example,
+22,53,mammals,whales,,,Plural Collective,CLASS-INCLUSION,example,
+22,53,emotions,anger,anger,feeling,Plural Collective,CLASS-INCLUSION,probe,1.0
+23,-1,baseline,baseline,,,baseline,baseline,baseline,
+24,50,sage,wisdom,,,ObjectState(noun:noun),ATTRIBUTE,example,
+24,50,swamp,dampness,,,ObjectState(noun:noun),ATTRIBUTE,example,
+24,50,genius,brilliance,,,ObjectState(noun:noun),ATTRIBUTE,example,
+24,50,expert,knowledge,,,ObjectState(noun:noun),ATTRIBUTE,example,
+24,50,vacuum,emptiness,emptiness,suction,ObjectState(noun:noun),ATTRIBUTE,probe,1.0
+25,5,fix,repaired,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+25,5,encourage,confident,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+25,5,mix,blend,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+25,5,ignite,flame,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+25,5,shrink,small,dryer,small,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,probe,2.0

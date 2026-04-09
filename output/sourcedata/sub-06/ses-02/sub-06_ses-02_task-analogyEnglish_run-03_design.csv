@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,61,halftime,resting,,,Time Action/Activity,SPACE-TIME,example,
+1,61,semester,studying,,,Time Action/Activity,SPACE-TIME,example,
+1,61,hurricane,evacuating,,,Time Action/Activity,SPACE-TIME,example,
+1,61,workout,sweating,,,Time Action/Activity,SPACE-TIME,example,
+1,61,bedtime,sleeping,nightlight,sleeping,Time Action/Activity,SPACE-TIME,probe,2.0
+2,25,scuff,shoe,,,Defective,CONTRAST,example,
+2,25,smudge,lens,,,Defective,CONTRAST,example,
+2,25,corruption,government,,,Defective,CONTRAST,example,
+2,25,bubble,paint,,,Defective,CONTRAST,example,
+2,25,tear,page,page,margin,Defective,CONTRAST,probe,1.0
+3,51,pessimist,hope,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+3,51,penguin,fly,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+3,51,athlete,forfeit,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+3,51,desert,flood,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+3,51,saint,curse,forgive,curse,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,probe,2.0
+4,-1,baseline,baseline,,,baseline,baseline,baseline,
+5,24,shirt,buttons,,,Creature:Possession,PART-WHOLE,example,
+5,24,homeowner,home,,,Creature:Possession,PART-WHOLE,example,
+5,24,museum,exhibits,,,Creature:Possession,PART-WHOLE,example,
+5,24,fish,scales,,,Creature:Possession,PART-WHOLE,example,
+5,24,car,engine,engine,keys,Creature:Possession,PART-WHOLE,probe,1.0
+6,51,immortal,die,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+6,51,convict,behave,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+6,51,monk,chatter,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+6,51,bodyguard,flee,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+6,51,introvert,host,read,host,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,probe,2.0
+7,61,rehearsal,practicing,,,Time Action/Activity,SPACE-TIME,example,
+7,61,spring,blooming,,,Time Action/Activity,SPACE-TIME,example,
+7,61,festival,dancing,,,Time Action/Activity,SPACE-TIME,example,
+7,61,trial,testimony,,,Time Action/Activity,SPACE-TIME,example,
+7,61,winter,snow,mittens,snow,Time Action/Activity,SPACE-TIME,probe,2.0
+8,-1,baseline,baseline,,,baseline,baseline,baseline,
+9,24,college,teachers,,,Creature:Possession,PART-WHOLE,example,
+9,24,expert,experience,,,Creature:Possession,PART-WHOLE,example,
+9,24,fence,posts,,,Creature:Possession,PART-WHOLE,example,
+9,24,mansion,rooms,,,Creature:Possession,PART-WHOLE,example,
+9,24,company,products,products,deadlines,Creature:Possession,PART-WHOLE,probe,1.0
+10,51,miser,squander,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+10,51,cynic,trust,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+10,51,gentleman,belch,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+10,51,bully,apologize,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+10,51,liar,confess,confess,deceive,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,probe,1.0
+11,-1,baseline,baseline,,,baseline,baseline,baseline,
+12,61,autumn,halloween,,,Time Action/Activity,SPACE-TIME,example,
+12,61,banquet,toasting,,,Time Action/Activity,SPACE-TIME,example,
+12,61,thanksgiving,feasting,,,Time Action/Activity,SPACE-TIME,example,
+12,61,exam,testing,,,Time Action/Activity,SPACE-TIME,example,
+12,61,weekend,relaxing,grill,relaxing,Time Action/Activity,SPACE-TIME,probe,2.0
+13,25,scratch,table,,,Defective,CONTRAST,example,
+13,25,blindness,vision,,,Defective,CONTRAST,example,
+13,25,arrhythmia,heartbeat,,,Defective,CONTRAST,example,
+13,25,fallacy,argument,,,Defective,CONTRAST,example,
+13,25,scar,complexion,tan,complexion,Defective,CONTRAST,probe,2.0
+14,24,wallet,cash,,,Creature:Possession,PART-WHOLE,example,
+14,24,kitchen,appliances,,,Creature:Possession,PART-WHOLE,example,
+14,24,house,residents,,,Creature:Possession,PART-WHOLE,example,
+14,24,songwriter,lyrics,,,Creature:Possession,PART-WHOLE,example,
+14,24,hospital,patients,waiting room,patients,Creature:Possession,PART-WHOLE,probe,2.0
+15,-1,baseline,baseline,,,baseline,baseline,baseline,
+16,51,dog,purr,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+16,51,diplomat,insult,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+16,51,pacifist,fight,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+16,51,shepherd,scatter,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+16,51,whale,climb,swim,climb,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,probe,2.0
+17,25,knot,wood,,,Defective,CONTRAST,example,
+17,25,mold,bread,,,Defective,CONTRAST,example,
+17,25,nick,blade,,,Defective,CONTRAST,example,
+17,25,leak,roof,,,Defective,CONTRAST,example,
+17,25,crease,paper,paper,printer,Defective,CONTRAST,probe,1.0
+18,24,owl,talons,,,Creature:Possession,PART-WHOLE,example,
+18,24,proprietor,employees,,,Creature:Possession,PART-WHOLE,example,
+18,24,jug,milk,,,Creature:Possession,PART-WHOLE,example,
+18,24,musician,music,,,Creature:Possession,PART-WHOLE,example,
+18,24,baker,bread,counter,bread,Creature:Possession,PART-WHOLE,probe,2.0
+19,61,parade,marching,,,Time Action/Activity,SPACE-TIME,example,
+19,61,debate,arguing,,,Time Action/Activity,SPACE-TIME,example,
+19,61,afternoon,nap,,,Time Action/Activity,SPACE-TIME,example,
+19,61,renaissance,painting,,,Time Action/Activity,SPACE-TIME,example,
+19,61,war,destruction,destruction,soldiers,Time Action/Activity,SPACE-TIME,probe,1.0
+20,-1,baseline,baseline,,,baseline,baseline,baseline,
+21,25,tarnish,silver,,,Defective,CONTRAST,example,
+21,25,chip,porcelain,,,Defective,CONTRAST,example,
+21,25,wart,hand,,,Defective,CONTRAST,example,
+21,25,impurity,water,,,Defective,CONTRAST,example,
+21,25,typo,text,autocorrect,text,Defective,CONTRAST,probe,2.0
+22,61,midnight,snacking,,,Time Action/Activity,SPACE-TIME,example,
+22,61,youth,exploring,,,Time Action/Activity,SPACE-TIME,example,
+22,61,meditation,reflecting,,,Time Action/Activity,SPACE-TIME,example,
+22,61,wartime,rationing,,,Time Action/Activity,SPACE-TIME,example,
+22,61,interview,questioning,questioning,notepad,Time Action/Activity,SPACE-TIME,probe,1.0
+23,51,tortoise,gallop,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+23,51,billionaire,beg,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+23,51,mermaid,walk,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+23,51,friend,betray,,,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,example,
+23,51,tree,walk,walk,grow,Objects:Atypical Action (noun:verb),NON-ATTRIBUTE,probe,1.0
+24,25,lisp,pronunciation,,,Defective,CONTRAST,example,
+24,25,paralysis,limb,,,Defective,CONTRAST,example,
+24,25,split,seam,,,Defective,CONTRAST,example,
+24,25,tremor,hand,,,Defective,CONTRAST,example,
+24,25,bias,judgment,decision,judgment,Defective,CONTRAST,probe,2.0
+25,24,book,pages,,,Creature:Possession,PART-WHOLE,example,
+25,24,umbrella,handle,,,Creature:Possession,PART-WHOLE,example,
+25,24,doctor,degree,,,Creature:Possession,PART-WHOLE,example,
+25,24,computer,screen,,,Creature:Possession,PART-WHOLE,example,
+25,24,clock,hands,wall,hands,Creature:Possession,PART-WHOLE,probe,2.0

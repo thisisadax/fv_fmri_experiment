@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,3,clarify,unclear,,,Action:Object Attribute,ATTRIBUTE,example,
+1,3,flatten,crumpled,,,Action:Object Attribute,ATTRIBUTE,example,
+1,3,heat,cold,,,Action:Object Attribute,ATTRIBUTE,example,
+1,3,demolish,condemned,,,Action:Object Attribute,ATTRIBUTE,example,
+1,3,correct,mistaken,mistaken,sloppy,Action:Object Attribute,ATTRIBUTE,probe,1.0
+2,62,Fourth of July,sparklers,,,Time Associated Item,SPACE-TIME,example,
+2,62,adolescence,acne,,,Time Associated Item,SPACE-TIME,example,
+2,62,happy hour,cocktails,,,Time Associated Item,SPACE-TIME,example,
+2,62,vacation,suitcase,,,Time Associated Item,SPACE-TIME,example,
+2,62,middle age,gray hair,pacifier,gray hair,Time Associated Item,SPACE-TIME,probe,2.0
+3,33,clothing,shirt,,,Functional,CLASS-INCLUSION,example,
+3,33,bandage,gauze,,,Functional,CLASS-INCLUSION,example,
+3,33,tool,screwdriver,,,Functional,CLASS-INCLUSION,example,
+3,33,seat,chair,,,Functional,CLASS-INCLUSION,example,
+3,33,garment,skirt,skirt,zipper,Functional,CLASS-INCLUSION,probe,1.0
+4,3,comfort,hurting,,,Action:Object Attribute,ATTRIBUTE,example,
+4,3,silence,noisy,,,Action:Object Attribute,ATTRIBUTE,example,
+4,3,polish,tarnished,,,Action:Object Attribute,ATTRIBUTE,example,
+4,3,educate,uninformed,,,Action:Object Attribute,ATTRIBUTE,example,
+4,3,unload,loaded,loaded,heavy,Action:Object Attribute,ATTRIBUTE,probe,1.0
+5,-1,baseline,baseline,,,baseline,baseline,baseline,
+6,60,infant,baby,,,Synonymity,SIMILAR,example,
+6,60,scared,afraid,,,Synonymity,SIMILAR,example,
+6,60,talk,speak,,,Synonymity,SIMILAR,example,
+6,60,gift,present,,,Synonymity,SIMILAR,example,
+6,60,silent,quiet,library,quiet,Synonymity,SIMILAR,probe,2.0
+7,62,evening,sunset,,,Time Associated Item,SPACE-TIME,example,
+7,62,winter,snow,,,Time Associated Item,SPACE-TIME,example,
+7,62,New Year's,fireworks,,,Time Associated Item,SPACE-TIME,example,
+7,62,summer camp,campfire,,,Time Associated Item,SPACE-TIME,example,
+7,62,recess,playground,report card,playground,Time Associated Item,SPACE-TIME,probe,2.0
+8,-1,baseline,baseline,,,baseline,baseline,baseline,
+9,60,stone,rock,,,Synonymity,SIMILAR,example,
+9,60,sick,ill,,,Synonymity,SIMILAR,example,
+9,60,shop,store,,,Synonymity,SIMILAR,example,
+9,60,spin,twirl,,,Synonymity,SIMILAR,example,
+9,60,cozy,snug,cabin,snug,Synonymity,SIMILAR,probe,2.0
+10,33,seasoning,pepper,,,Functional,CLASS-INCLUSION,example,
+10,33,light,candle,,,Functional,CLASS-INCLUSION,example,
+10,33,container,bucket,,,Functional,CLASS-INCLUSION,example,
+10,33,armor,shield,,,Functional,CLASS-INCLUSION,example,
+10,33,adhesive,tape,residue,tape,Functional,CLASS-INCLUSION,probe,2.0
+11,62,noon,lunch,,,Time Associated Item,SPACE-TIME,example,
+11,62,senior year,yearbook,,,Time Associated Item,SPACE-TIME,example,
+11,62,youth,backpack,,,Time Associated Item,SPACE-TIME,example,
+11,62,childhood,crayon,,,Time Associated Item,SPACE-TIME,example,
+11,62,summer,sunscreen,sunscreen,menorah,Time Associated Item,SPACE-TIME,probe,1.0
+12,-1,baseline,baseline,,,baseline,baseline,baseline,
+13,3,listen,audible,,,Action:Object Attribute,ATTRIBUTE,example,
+13,3,calm,agitated,,,Action:Object Attribute,ATTRIBUTE,example,
+13,3,untangle,knotted,,,Action:Object Attribute,ATTRIBUTE,example,
+13,3,punish,guilty,,,Action:Object Attribute,ATTRIBUTE,example,
+13,3,iron,wrinkled,damp,wrinkled,Action:Object Attribute,ATTRIBUTE,probe,2.0
+14,60,jump,leap,,,Synonymity,SIMILAR,example,
+14,60,end,finish,,,Synonymity,SIMILAR,example,
+14,60,begin,start,,,Synonymity,SIMILAR,example,
+14,60,dad,father,,,Synonymity,SIMILAR,example,
+14,60,clean,tidy,organized,tidy,Synonymity,SIMILAR,probe,2.0
+15,33,covering,tarp,,,Functional,CLASS-INCLUSION,example,
+15,33,home,tree,,,Functional,CLASS-INCLUSION,example,
+15,33,utensil,spoon,,,Functional,CLASS-INCLUSION,example,
+15,33,decoration,wreath,,,Functional,CLASS-INCLUSION,example,
+15,33,dish,plate,dinner,plate,Functional,CLASS-INCLUSION,probe,2.0
+16,-1,baseline,baseline,,,baseline,baseline,baseline,
+17,3,admire,beautiful,,,Action:Object Attribute,ATTRIBUTE,example,
+17,3,reward,deserving,,,Action:Object Attribute,ATTRIBUTE,example,
+17,3,wash,soiled,,,Action:Object Attribute,ATTRIBUTE,example,
+17,3,inflate,flat,,,Action:Object Attribute,ATTRIBUTE,example,
+17,3,fertilize,barren,field,barren,Action:Object Attribute,ATTRIBUTE,probe,2.0
+18,60,cellphone,mobile,,,Synonymity,SIMILAR,example,
+18,60,odd,strange,,,Synonymity,SIMILAR,example,
+18,60,center,middle,,,Synonymity,SIMILAR,example,
+18,60,seem,appear,,,Synonymity,SIMILAR,example,
+18,60,teach,instruct,instruct,lesson,Synonymity,SIMILAR,probe,1.0
+19,-1,baseline,baseline,,,baseline,baseline,baseline,
+20,33,beverage,juice,,,Functional,CLASS-INCLUSION,example,
+20,33,snack,popcorn,,,Functional,CLASS-INCLUSION,example,
+20,33,furniture,chair,,,Functional,CLASS-INCLUSION,example,
+20,33,preservative,salt,,,Functional,CLASS-INCLUSION,example,
+20,33,transportation,bus,bus,stop,Functional,CLASS-INCLUSION,probe,1.0
+21,3,purify,contaminated,,,Action:Object Attribute,ATTRIBUTE,example,
+21,3,sharpen,dull,,,Action:Object Attribute,ATTRIBUTE,example,
+21,3,freeze,liquid,,,Action:Object Attribute,ATTRIBUTE,example,
+21,3,release,captive,,,Action:Object Attribute,ATTRIBUTE,example,
+21,3,widen,narrow,bridge,narrow,Action:Object Attribute,ATTRIBUTE,probe,2.0
+22,62,parenthood,sleeplessness,,,Time Associated Item,SPACE-TIME,example,
+22,62,student,dorm,,,Time Associated Item,SPACE-TIME,example,
+22,62,elderly,cane,,,Time Associated Item,SPACE-TIME,example,
+22,62,Labor Day,barbecue,,,Time Associated Item,SPACE-TIME,example,
+22,62,Easter,eggs,presents,eggs,Time Associated Item,SPACE-TIME,probe,2.0
+23,60,raise,elevate,,,Synonymity,SIMILAR,example,
+23,60,allow,permit,,,Synonymity,SIMILAR,example,
+23,60,buy,purchase,,,Synonymity,SIMILAR,example,
+23,60,house,dwelling,,,Synonymity,SIMILAR,example,
+23,60,movie,film,film,show,Synonymity,SIMILAR,probe,1.0
+24,33,filter,screen,,,Functional,CLASS-INCLUSION,example,
+24,33,bedding,blanket,,,Functional,CLASS-INCLUSION,example,
+24,33,shoe,sandal,,,Functional,CLASS-INCLUSION,example,
+24,33,fuel,coal,,,Functional,CLASS-INCLUSION,example,
+24,33,vegetable,spinach,salad,spinach,Functional,CLASS-INCLUSION,probe,2.0
+25,62,graduation,cap,,,Time Associated Item,SPACE-TIME,example,
+25,62,adulthood,independence,,,Time Associated Item,SPACE-TIME,example,
+25,62,fall,pumpkins,,,Time Associated Item,SPACE-TIME,example,
+25,62,Thanksgiving,turkey,,,Time Associated Item,SPACE-TIME,example,
+25,62,wedding,rings,rings,turkey,Time Associated Item,SPACE-TIME,probe,1.0

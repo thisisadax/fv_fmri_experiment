@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,35,knife,cut,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+1,35,sponge,wipe,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+1,35,glue,bond,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+1,35,fork,eat,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+1,35,pencil,write,write,sharpen,Instrument:Intended Action,CAUSE-PURPOSE,probe,1.0
+2,63,ketchup,red,,,things - color,Encyclopedic_semantics,example,
+2,63,honey,yellow,,,things - color,Encyclopedic_semantics,example,
+2,63,salt,white,,,things - color,Encyclopedic_semantics,example,
+2,63,ruby,red,,,things - color,Encyclopedic_semantics,example,
+2,63,ocean,blue,red,blue,things - color,Encyclopedic_semantics,probe,2.0
+3,31,cocktail party,drinks,,,Event:Feature,PART-WHOLE,example,
+3,31,scavenger hunt,clues,,,Event:Feature,PART-WHOLE,example,
+3,31,concert,musician,,,Event:Feature,PART-WHOLE,example,
+3,31,seminar,speaker,,,Event:Feature,PART-WHOLE,example,
+3,31,meal,food,food,grocery store,Event:Feature,PART-WHOLE,probe,1.0
+4,35,net,catch,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+4,35,camera,photograph,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+4,35,pen,write,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+4,35,blender,puree,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+4,35,peeler,peel,peel,potato,Instrument:Intended Action,CAUSE-PURPOSE,probe,1.0
+5,54,sunscreen,sunburn,,,Prevention,CAUSE-PURPOSE,example,
+5,54,moisturizer,dryness,,,Prevention,CAUSE-PURPOSE,example,
+5,54,refrigeration,spoilage,,,Prevention,CAUSE-PURPOSE,example,
+5,54,humor,tension,,,Prevention,CAUSE-PURPOSE,example,
+5,54,diversification,risk,stocks,risk,Prevention,CAUSE-PURPOSE,probe,2.0
+6,63,grass,green,,,things - color,Encyclopedic_semantics,example,
+6,63,sapphire,blue,,,things - color,Encyclopedic_semantics,example,
+6,63,orange,orange,,,things - color,Encyclopedic_semantics,example,
+6,63,blackboard,black,,,things - color,Encyclopedic_semantics,example,
+6,63,goldfish,orange,orange,red,things - color,Encyclopedic_semantics,probe,1.0
+7,-1,baseline,baseline,,,baseline,baseline,baseline,
+8,31,art show,paintings,,,Event:Feature,PART-WHOLE,example,
+8,31,Christmas,presents,,,Event:Feature,PART-WHOLE,example,
+8,31,parade,floats,,,Event:Feature,PART-WHOLE,example,
+8,31,ballet,dancer,,,Event:Feature,PART-WHOLE,example,
+8,31,circus,ringmaster,ringmaster,announcer,Event:Feature,PART-WHOLE,probe,1.0
+9,63,sunflower,yellow,,,things - color,Encyclopedic_semantics,example,
+9,63,mango,yellow,,,things - color,Encyclopedic_semantics,example,
+9,63,egg,white,,,things - color,Encyclopedic_semantics,example,
+9,63,chalk,white,,,things - color,Encyclopedic_semantics,example,
+9,63,charcoal,black,gray,black,things - color,Encyclopedic_semantics,probe,2.0
+10,54,dam,flooding,,,Prevention,CAUSE-PURPOSE,example,
+10,54,shampoo,dandruff,,,Prevention,CAUSE-PURPOSE,example,
+10,54,lifejacket,drowning,,,Prevention,CAUSE-PURPOSE,example,
+10,54,education,ignorance,,,Prevention,CAUSE-PURPOSE,example,
+10,54,encryption,breach,deletion,breach,Prevention,CAUSE-PURPOSE,probe,2.0
+11,-1,baseline,baseline,,,baseline,baseline,baseline,
+12,35,chisel,carve,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+12,35,padlock,lock,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+12,35,iron,press,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+12,35,crowbar,pry,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+12,35,razor,shave,scrape,shave,Instrument:Intended Action,CAUSE-PURPOSE,probe,2.0
+13,31,trial,jury,,,Event:Feature,PART-WHOLE,example,
+13,31,wedding,rings,,,Event:Feature,PART-WHOLE,example,
+13,31,auction,auctioneer,,,Event:Feature,PART-WHOLE,example,
+13,31,bonfire,marshmallows,,,Event:Feature,PART-WHOLE,example,
+13,31,magic show,magician,magician,ticket,Event:Feature,PART-WHOLE,probe,1.0
+14,54,mediation,conflict,,,Prevention,CAUSE-PURPOSE,example,
+14,54,coat,hypothermia,,,Prevention,CAUSE-PURPOSE,example,
+14,54,insecticide,bugs,,,Prevention,CAUSE-PURPOSE,example,
+14,54,earplugs,deafness,,,Prevention,CAUSE-PURPOSE,example,
+14,54,patience,frustration,frustration,waiting,Prevention,CAUSE-PURPOSE,probe,1.0
+15,-1,baseline,baseline,,,baseline,baseline,baseline,
+16,35,wrench,tighten,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+16,35,kettle,boil,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+16,35,ladle,serve,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+16,35,surfboard,surf,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+16,35,fan,cool,cool,circulate,Instrument:Intended Action,CAUSE-PURPOSE,probe,1.0
+17,63,avocado,green,,,things - color,Encyclopedic_semantics,example,
+17,63,lemon,yellow,,,things - color,Encyclopedic_semantics,example,
+17,63,ink,black,,,things - color,Encyclopedic_semantics,example,
+17,63,cucumber,green,,,things - color,Encyclopedic_semantics,example,
+17,63,cloud,white,white,orange,things - color,Encyclopedic_semantics,probe,1.0
+18,31,game,referee,,,Event:Feature,PART-WHOLE,example,
+18,31,interview,candidate,,,Event:Feature,PART-WHOLE,example,
+18,31,fair,cotton candy,,,Event:Feature,PART-WHOLE,example,
+18,31,Halloween,costumes,,,Event:Feature,PART-WHOLE,example,
+18,31,election,ballots,constitution,ballots,Event:Feature,PART-WHOLE,probe,2.0
+19,-1,baseline,baseline,,,baseline,baseline,baseline,
+20,54,alarm,burglary,,,Prevention,CAUSE-PURPOSE,example,
+20,54,muzzle,biting,,,Prevention,CAUSE-PURPOSE,example,
+20,54,levee,overflow,,,Prevention,CAUSE-PURPOSE,example,
+20,54,shelter,exposure,,,Prevention,CAUSE-PURPOSE,example,
+20,54,contraception,pregnancy,pregnancy,abortion,Prevention,CAUSE-PURPOSE,probe,1.0
+21,35,flashlight,illuminate,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+21,35,calculator,calculate,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+21,35,strainer,drain,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+21,35,rope,tie,,,Instrument:Intended Action,CAUSE-PURPOSE,example,
+21,35,spatula,flip,griddle,flip,Instrument:Intended Action,CAUSE-PURPOSE,probe,2.0
+22,31,funeral,coffin,,,Event:Feature,PART-WHOLE,example,
+22,31,karaoke,microphone,,,Event:Feature,PART-WHOLE,example,
+22,31,crime,evidence,,,Event:Feature,PART-WHOLE,example,
+22,31,reunion,classmates,,,Event:Feature,PART-WHOLE,example,
+22,31,spelling bee,contestants,report cards,contestants,Event:Feature,PART-WHOLE,probe,2.0
+23,-1,baseline,baseline,,,baseline,baseline,baseline,
+24,54,quarantine,contagion,,,Prevention,CAUSE-PURPOSE,example,
+24,54,proofreading,errors,,,Prevention,CAUSE-PURPOSE,example,
+24,54,oxygen,suffocation,,,Prevention,CAUSE-PURPOSE,example,
+24,54,law,crime,,,Prevention,CAUSE-PURPOSE,example,
+24,54,immunization,disease,disease,immunity,Prevention,CAUSE-PURPOSE,probe,1.0
+25,63,cabbage,green,,,things - color,Encyclopedic_semantics,example,
+25,63,banana,yellow,,,things - color,Encyclopedic_semantics,example,
+25,63,crow,black,,,things - color,Encyclopedic_semantics,example,
+25,63,flamingo,pink,,,things - color,Encyclopedic_semantics,example,
+25,63,leaves,green,green,orange,things - color,Encyclopedic_semantics,probe,1.0

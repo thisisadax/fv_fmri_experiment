@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,53,백신,바이러스감염,,,Prevention (Korean Localized),CAUSE-PURPOSE,example,
+1,53,분산투자,위험,,,Prevention (Korean Localized),CAUSE-PURPOSE,example,
+1,53,유머,긴장,,,Prevention (Korean Localized),CAUSE-PURPOSE,example,
+1,53,외교,전쟁,,,Prevention (Korean Localized),CAUSE-PURPOSE,example,
+1,53,가드레일,충돌,충돌,보호,Prevention (Korean Localized),CAUSE-PURPOSE,probe,1.0
+2,63,멍,보라색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+2,63,까마귀,검은색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+2,63,모래,베이지색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+2,63,설탕,흰색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+2,63,라임,초록색,흰색,초록색,things - color (Korean Localized),Encyclopedic_semantics,probe,2.0
+3,27,언덕,산,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+3,27,돌고래,쇠돌고래,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+3,27,작다,조그맣다,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+3,27,냄비,프라이팬,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+3,27,나비,나방,나방,꽃,Dimensional Similarity (Korean Localized),SIMILAR,probe,1.0
+4,-1,baseline,baseline,,,baseline,baseline,baseline,
+5,63,큰까마귀,검은색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+5,63,흑요석,검은색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+5,63,피,빨간색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+5,63,감자,갈색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+5,63,돌고래,회색,노란색,회색,things - color (Korean Localized),Encyclopedic_semantics,probe,2.0
+6,52,와이어프레임,웹사이트,,,Plan (Korean Localized),REFERENCE,example,
+6,52,로드맵,진로,,,Plan (Korean Localized),REFERENCE,example,
+6,52,악보,발레,,,Plan (Korean Localized),REFERENCE,example,
+6,52,스케치,그림,,,Plan (Korean Localized),REFERENCE,example,
+6,52,원고초안,연설,연설,리허설,Plan (Korean Localized),REFERENCE,probe,1.0
+7,-1,baseline,baseline,,,baseline,baseline,baseline,
+8,53,규율,혼란,,,Prevention (Korean Localized),CAUSE-PURPOSE,example,
+8,53,법,범죄,,,Prevention (Korean Localized),CAUSE-PURPOSE,example,
+8,53,활동,지루함,,,Prevention (Korean Localized),CAUSE-PURPOSE,example,
+8,53,항생제,감염,,,Prevention (Korean Localized),CAUSE-PURPOSE,example,
+8,53,대비,재난,계획,재난,Prevention (Korean Localized),CAUSE-PURPOSE,probe,2.0
+9,63,태양,노란색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+9,63,꿀,노란색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+9,63,하늘,파란색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+9,63,버터,노란색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+9,63,냉장고,흰색,흰색,검은색,things - color (Korean Localized),Encyclopedic_semantics,probe,1.0
+10,27,영화,필름,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+10,27,크다,거대하다,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+10,27,굽다,태우다,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+10,27,맥주,와인,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+10,27,사랑하다,사랑해마지않다,사랑해마지않다,로맨틱한,Dimensional Similarity (Korean Localized),SIMILAR,probe,1.0
+11,52,초고,에세이,,,Plan (Korean Localized),REFERENCE,example,
+11,52,조립설명서,조립,,,Plan (Korean Localized),REFERENCE,example,
+11,52,메뉴,저녁식사,,,Plan (Korean Localized),REFERENCE,example,
+11,52,포메이션,공격,,,Plan (Korean Localized),REFERENCE,example,
+11,52,줄거리,소설,개요,소설,Plan (Korean Localized),REFERENCE,probe,2.0
+12,53,가지치기,과성장,,,Prevention (Korean Localized),CAUSE-PURPOSE,example,
+12,53,암호화,정보유출,,,Prevention (Korean Localized),CAUSE-PURPOSE,example,
+12,53,외투,저체온증,,,Prevention (Korean Localized),CAUSE-PURPOSE,example,
+12,53,피임,임신,,,Prevention (Korean Localized),CAUSE-PURPOSE,example,
+12,53,규칙,무질서,핸드북,무질서,Prevention (Korean Localized),CAUSE-PURPOSE,probe,2.0
+13,27,불,불꽃,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+13,27,컵,머그컵,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+13,27,진홍색,선홍색,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+13,27,슬픔,비통함,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+13,27,살금살금가다,기어가다,기어가다,조용한,Dimensional Similarity (Korean Localized),SIMILAR,probe,1.0
+14,52,내규,회사,,,Plan (Korean Localized),REFERENCE,example,
+14,52,작전서,미식축구 경기,,,Plan (Korean Localized),REFERENCE,example,
+14,52,스토리보드,애니메이션,,,Plan (Korean Localized),REFERENCE,example,
+14,52,레이아웃,잡지,,,Plan (Korean Localized),REFERENCE,example,
+14,52,총보,교향곡,교향곡,오케스트라,Plan (Korean Localized),REFERENCE,probe,1.0
+15,63,해바라기,노란색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+15,63,눈,흰색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+15,63,셀러리,초록색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+15,63,체리,빨간색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+15,63,바닷가재,빨간색,빨간색,분홍색,things - color (Korean Localized),Encyclopedic_semantics,probe,1.0
+16,27,사자,호랑이,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+16,27,장갑,벙어리장갑,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+16,27,연못,호수,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+16,27,마르다,날씬하다,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+16,27,여행,휴가,여행가방,휴가,Dimensional Similarity (Korean Localized),SIMILAR,probe,2.0
+17,-1,baseline,baseline,,,baseline,baseline,baseline,
+18,53,예방접종,질병,,,Prevention (Korean Localized),CAUSE-PURPOSE,example,
+18,53,물주기,시듦,,,Prevention (Korean Localized),CAUSE-PURPOSE,example,
+18,53,목줄,도주,,,Prevention (Korean Localized),CAUSE-PURPOSE,example,
+18,53,정비,고장,,,Prevention (Korean Localized),CAUSE-PURPOSE,example,
+18,53,음식,굶주림,굶주림,식사,Prevention (Korean Localized),CAUSE-PURPOSE,probe,1.0
+19,52,헌법,정부,,,Plan (Korean Localized),REFERENCE,example,
+19,52,설계도,다리,,,Plan (Korean Localized),REFERENCE,example,
+19,52,목업,디자인,,,Plan (Korean Localized),REFERENCE,example,
+19,52,데모,앨범,,,Plan (Korean Localized),REFERENCE,example,
+19,52,정책,통치,통치,타운홀,Plan (Korean Localized),REFERENCE,probe,1.0
+20,-1,baseline,baseline,,,baseline,baseline,baseline,
+21,63,백조,흰색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+21,63,루비,빨간색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+21,63,병아리,노란색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+21,63,소방차,빨간색,,,things - color (Korean Localized),Encyclopedic_semantics,example,
+21,63,케첩,빨간색,빨간색,빨간색,things - color (Korean Localized),Encyclopedic_semantics,probe,1.0
+22,53,살충제,해충,,,Prevention (Korean Localized),CAUSE-PURPOSE,example,
+22,53,안전벨트,사망,,,Prevention (Korean Localized),CAUSE-PURPOSE,example,
+22,53,샴푸,비듬,,,Prevention (Korean Localized),CAUSE-PURPOSE,example,
+22,53,윤활유,마찰,,,Prevention (Korean Localized),CAUSE-PURPOSE,example,
+22,53,헬멧,뇌진탕,뇌진탕,사고,Prevention (Korean Localized),CAUSE-PURPOSE,probe,1.0
+23,-1,baseline,baseline,,,baseline,baseline,baseline,
+24,27,서글픔,절망,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+24,27,보트,배,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+24,27,썰다,자르다,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+24,27,러그,카펫,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+24,27,속삭이다,중얼거리다,도서관,중얼거리다,Dimensional Similarity (Korean Localized),SIMILAR,probe,2.0
+25,52,학사일정,학기,,,Plan (Korean Localized),REFERENCE,example,
+25,52,규칙,게임,,,Plan (Korean Localized),REFERENCE,example,
+25,52,채점기준표,성적평가,,,Plan (Korean Localized),REFERENCE,example,
+25,52,수업계획,수업,,,Plan (Korean Localized),REFERENCE,example,
+25,52,지도,탐험,허가증,탐험,Plan (Korean Localized),REFERENCE,probe,2.0

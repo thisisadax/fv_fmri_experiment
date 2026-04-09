@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,10,catcher,mitt,,,Agent:Instrument,CASE RELATIONS,example,
+1,10,skier,poles,,,Agent:Instrument,CASE RELATIONS,example,
+1,10,policeman,handcuffs,,,Agent:Instrument,CASE RELATIONS,example,
+1,10,navigator,map,,,Agent:Instrument,CASE RELATIONS,example,
+1,10,weaver,loom,loom,pattern,Agent:Instrument,CASE RELATIONS,probe,1.0
+2,26,annoyed,furious,,,Dimensional Excessive,SIMILAR,example,
+2,26,loud,deafening,,,Dimensional Excessive,SIMILAR,example,
+2,26,asking,interrogating,,,Dimensional Excessive,SIMILAR,example,
+2,26,desire,greed,,,Dimensional Excessive,SIMILAR,example,
+2,26,thirsty,parched,water bottle,parched,Dimensional Excessive,SIMILAR,probe,2.0
+3,17,lighten,load,,,Change,SIMILAR,example,
+3,17,recession,employment,,,Change,SIMILAR,example,
+3,17,trim,tree,,,Change,SIMILAR,example,
+3,17,torture,pain,,,Change,SIMILAR,example,
+3,17,accumulate,dust,dust,attic,Change,SIMILAR,probe,1.0
+4,-1,baseline,baseline,,,baseline,baseline,baseline,
+5,26,nudging,shoving,,,Dimensional Excessive,SIMILAR,example,
+5,26,happy,ecstatic,,,Dimensional Excessive,SIMILAR,example,
+5,26,disappointed,devastated,,,Dimensional Excessive,SIMILAR,example,
+5,26,tall,towering,,,Dimensional Excessive,SIMILAR,example,
+5,26,pushing,ramming,pressing,ramming,Dimensional Excessive,SIMILAR,probe,2.0
+6,17,enlarge,photo,,,Change,SIMILAR,example,
+6,17,goal,score,,,Change,SIMILAR,example,
+6,17,flood,water,,,Change,SIMILAR,example,
+6,17,acceleration,speed,,,Change,SIMILAR,example,
+6,17,fortify,defense,defense,castle,Change,SIMILAR,probe,1.0
+7,-1,baseline,baseline,,,baseline,baseline,baseline,
+8,26,fat,obese,,,Dimensional Excessive,SIMILAR,example,
+8,26,proud,vain,,,Dimensional Excessive,SIMILAR,example,
+8,26,assertive,aggressive,,,Dimensional Excessive,SIMILAR,example,
+8,26,cracking,shattering,,,Dimensional Excessive,SIMILAR,example,
+8,26,fear,panic,freeze,panic,Dimensional Excessive,SIMILAR,probe,2.0
+9,63,garlic,white,,,things - color,Encyclopedic_semantics,example,
+9,63,corn,yellow,,,things - color,Encyclopedic_semantics,example,
+9,63,blood,red,,,things - color,Encyclopedic_semantics,example,
+9,63,pearl,white,,,things - color,Encyclopedic_semantics,example,
+9,63,sand,tan,white,tan,things - color,Encyclopedic_semantics,probe,2.0
+10,-1,baseline,baseline,,,baseline,baseline,baseline,
+11,10,shopper,cart,,,Agent:Instrument,CASE RELATIONS,example,
+11,10,cowboy,lasso,,,Agent:Instrument,CASE RELATIONS,example,
+11,10,miner,pickaxe,,,Agent:Instrument,CASE RELATIONS,example,
+11,10,fairy,wand,,,Agent:Instrument,CASE RELATIONS,example,
+11,10,potter,wheel,wheel,glaze,Agent:Instrument,CASE RELATIONS,probe,1.0
+12,63,swan,white,,,things - color,Encyclopedic_semantics,example,
+12,63,yogurt,white,,,things - color,Encyclopedic_semantics,example,
+12,63,cabbage,green,,,things - color,Encyclopedic_semantics,example,
+12,63,sky,blue,,,things - color,Encyclopedic_semantics,example,
+12,63,taxi,yellow,brown,yellow,things - color,Encyclopedic_semantics,probe,2.0
+13,-1,baseline,baseline,,,baseline,baseline,baseline,
+14,17,deplete,stockpile,,,Change,SIMILAR,example,
+14,17,thicken,sauce,,,Change,SIMILAR,example,
+14,17,escalation,conflict,,,Change,SIMILAR,example,
+14,17,stretch,fabric,,,Change,SIMILAR,example,
+14,17,surge,demand,consumer,demand,Change,SIMILAR,probe,2.0
+15,10,astronomer,telescope,,,Agent:Instrument,CASE RELATIONS,example,
+15,10,cyclist,bicycle,,,Agent:Instrument,CASE RELATIONS,example,
+15,10,guitarist,guitar,,,Agent:Instrument,CASE RELATIONS,example,
+15,10,drummer,sticks,,,Agent:Instrument,CASE RELATIONS,example,
+15,10,waiter,tray,tip,tray,Agent:Instrument,CASE RELATIONS,probe,2.0
+16,63,chalk,white,,,things - color,Encyclopedic_semantics,example,
+16,63,cream,white,,,things - color,Encyclopedic_semantics,example,
+16,63,grapes,purple,,,things - color,Encyclopedic_semantics,example,
+16,63,mustard,yellow,,,things - color,Encyclopedic_semantics,example,
+16,63,dolphin,gray,gray,red,things - color,Encyclopedic_semantics,probe,1.0
+17,17,harden,cement,,,Change,SIMILAR,example,
+17,17,shortage,supply,,,Change,SIMILAR,example,
+17,17,thin,paint,,,Change,SIMILAR,example,
+17,17,extend,deadline,,,Change,SIMILAR,example,
+17,17,sweeten,tea,cup,tea,Change,SIMILAR,probe,2.0
+18,-1,baseline,baseline,,,baseline,baseline,baseline,
+19,10,archer,bow,,,Agent:Instrument,CASE RELATIONS,example,
+19,10,chef,spatula,,,Agent:Instrument,CASE RELATIONS,example,
+19,10,reporter,microphone,,,Agent:Instrument,CASE RELATIONS,example,
+19,10,cashier,register,,,Agent:Instrument,CASE RELATIONS,example,
+19,10,judge,gavel,trial,gavel,Agent:Instrument,CASE RELATIONS,probe,2.0
+20,17,heat,temperature,,,Change,SIMILAR,example,
+20,17,blur,vision,,,Change,SIMILAR,example,
+20,17,darken,color,,,Change,SIMILAR,example,
+20,17,bonus,income,,,Change,SIMILAR,example,
+20,17,lengthen,rope,sail,rope,Change,SIMILAR,probe,2.0
+21,26,caring,overbearing,,,Dimensional Excessive,SIMILAR,example,
+21,26,energetic,hyperactive,,,Dimensional Excessive,SIMILAR,example,
+21,26,skeptical,cynical,,,Dimensional Excessive,SIMILAR,example,
+21,26,dripping,gushing,,,Dimensional Excessive,SIMILAR,example,
+21,26,selfish,narcissistic,narcissistic,more selfish,Dimensional Excessive,SIMILAR,probe,1.0
+22,63,cherry,red,,,things - color,Encyclopedic_semantics,example,
+22,63,bruise,purple,,,things - color,Encyclopedic_semantics,example,
+22,63,pepper,red,,,things - color,Encyclopedic_semantics,example,
+22,63,radish,red,,,things - color,Encyclopedic_semantics,example,
+22,63,blackboard,black,gray,black,things - color,Encyclopedic_semantics,probe,2.0
+23,10,witch,cauldron,,,Agent:Instrument,CASE RELATIONS,example,
+23,10,knitter,needles,,,Agent:Instrument,CASE RELATIONS,example,
+23,10,typist,keyboard,,,Agent:Instrument,CASE RELATIONS,example,
+23,10,teacher,chalk,,,Agent:Instrument,CASE RELATIONS,example,
+23,10,programmer,computer,office,computer,Agent:Instrument,CASE RELATIONS,probe,2.0
+24,26,reserved,withdrawn,,,Dimensional Excessive,SIMILAR,example,
+24,26,collecting,hoarding,,,Dimensional Excessive,SIMILAR,example,
+24,26,snacking,bingeing,,,Dimensional Excessive,SIMILAR,example,
+24,26,suggesting,demanding,,,Dimensional Excessive,SIMILAR,example,
+24,26,jogging,sprinting,sprinting,running faster,Dimensional Excessive,SIMILAR,probe,1.0
+25,63,violet,purple,,,things - color,Encyclopedic_semantics,example,
+25,63,marble,white,,,things - color,Encyclopedic_semantics,example,
+25,63,cranberry,red,,,things - color,Encyclopedic_semantics,example,
+25,63,ink,black,,,things - color,Encyclopedic_semantics,example,
+25,63,chocolate,brown,brown,black,things - color,Encyclopedic_semantics,probe,1.0

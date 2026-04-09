@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,50,fire,warmth,,,ObjectState(noun:noun),ATTRIBUTE,example,
+1,50,desert,dryness,,,ObjectState(noun:noun),ATTRIBUTE,example,
+1,50,monk,devotion,,,ObjectState(noun:noun),ATTRIBUTE,example,
+1,50,virgin,purity,,,ObjectState(noun:noun),ATTRIBUTE,example,
+1,50,expert,knowledge,experience,knowledge,ObjectState(noun:noun),ATTRIBUTE,probe,2.0
+2,4,steer,ship,,,Action:Object,CASE RELATIONS,example,
+2,4,slay,dragon,,,Action:Object,CASE RELATIONS,example,
+2,4,throw,ball,,,Action:Object,CASE RELATIONS,example,
+2,4,nurse,baby,,,Action:Object,CASE RELATIONS,example,
+2,4,dig,ditch,ditch,shovel,Action:Object,CASE RELATIONS,probe,1.0
+3,2,watch,blindly,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+3,2,tiptoe,noisily,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+3,2,listen,loudly,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+3,2,panic,calmly,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+3,2,deny,affirmatively,affirmatively,refuse,Action:Action Nonattribute,NON-ATTRIBUTE,probe,1.0
+4,50,swamp,dampness,,,ObjectState(noun:noun),ATTRIBUTE,example,
+4,50,champion,triumph,,,ObjectState(noun:noun),ATTRIBUTE,example,
+4,50,liar,deceit,,,ObjectState(noun:noun),ATTRIBUTE,example,
+4,50,famine,hunger,,,ObjectState(noun:noun),ATTRIBUTE,example,
+4,50,ocean,depth,vastness,depth,ObjectState(noun:noun),ATTRIBUTE,probe,2.0
+5,24,judge,gavel,,,Creature:Possession,PART-WHOLE,example,
+5,24,artist,paintings,,,Creature:Possession,PART-WHOLE,example,
+5,24,barn,hay,,,Creature:Possession,PART-WHOLE,example,
+5,24,chef,recipes,,,Creature:Possession,PART-WHOLE,example,
+5,24,computer,screen,desk,screen,Creature:Possession,PART-WHOLE,probe,2.0
+6,2,relax,tensely,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+6,2,betray,faithfully,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+6,2,mumble,clearly,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+6,2,grovel,boldly,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+6,2,scream,quietly,quietly,loudly,Action:Action Nonattribute,NON-ATTRIBUTE,probe,1.0
+7,4,answer,question,,,Action:Object,CASE RELATIONS,example,
+7,4,eat,food,,,Action:Object,CASE RELATIONS,example,
+7,4,hammer,nail,,,Action:Object,CASE RELATIONS,example,
+7,4,strum,guitar,,,Action:Object,CASE RELATIONS,example,
+7,4,teach,student,teacher,student,Action:Object,CASE RELATIONS,probe,2.0
+8,-1,baseline,baseline,,,baseline,baseline,baseline,
+9,24,orchard,fruit,,,Creature:Possession,PART-WHOLE,example,
+9,24,spider,web,,,Creature:Possession,PART-WHOLE,example,
+9,24,musician,music,,,Creature:Possession,PART-WHOLE,example,
+9,24,refinery,gas,,,Creature:Possession,PART-WHOLE,example,
+9,24,shepherd,flock,flock,pasture,Creature:Possession,PART-WHOLE,probe,1.0
+10,2,trudge,energetically,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+10,2,slam,lightly,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+10,2,sprint,slowly,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+10,2,hide,visibly,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+10,2,linger,briefly,doorway,briefly,Action:Action Nonattribute,NON-ATTRIBUTE,probe,2.0
+11,-1,baseline,baseline,,,baseline,baseline,baseline,
+12,4,pour,juice,,,Action:Object,CASE RELATIONS,example,
+12,4,pitch,tent,,,Action:Object,CASE RELATIONS,example,
+12,4,harvest,crop,,,Action:Object,CASE RELATIONS,example,
+12,4,vacuum,carpet,,,Action:Object,CASE RELATIONS,example,
+12,4,deliver,package,truck,package,Action:Object,CASE RELATIONS,probe,2.0
+13,24,theater,stage,,,Creature:Possession,PART-WHOLE,example,
+13,24,restaurant,menu,,,Creature:Possession,PART-WHOLE,example,
+13,24,farmer,crops,,,Creature:Possession,PART-WHOLE,example,
+13,24,house,residents,,,Creature:Possession,PART-WHOLE,example,
+13,24,aquarium,fish,visitors,fish,Creature:Possession,PART-WHOLE,probe,2.0
+14,-1,baseline,baseline,,,baseline,baseline,baseline,
+15,4,knit,scarf,,,Action:Object,CASE RELATIONS,example,
+15,4,mow,lawn,,,Action:Object,CASE RELATIONS,example,
+15,4,sign,contract,,,Action:Object,CASE RELATIONS,example,
+15,4,chop,vegetables,,,Action:Object,CASE RELATIONS,example,
+15,4,sweep,floor,floor,broom,Action:Object,CASE RELATIONS,probe,1.0
+16,50,veteran,experience,,,ObjectState(noun:noun),ATTRIBUTE,example,
+16,50,star,brightness,,,ObjectState(noun:noun),ATTRIBUTE,example,
+16,50,tomb,silence,,,ObjectState(noun:noun),ATTRIBUTE,example,
+16,50,patient,illness,,,ObjectState(noun:noun),ATTRIBUTE,example,
+16,50,mourner,grief,black,grief,ObjectState(noun:noun),ATTRIBUTE,probe,2.0
+17,24,umbrella,handle,,,Creature:Possession,PART-WHOLE,example,
+17,24,fence,posts,,,Creature:Possession,PART-WHOLE,example,
+17,24,prison,inmates,,,Creature:Possession,PART-WHOLE,example,
+17,24,mother,children,,,Creature:Possession,PART-WHOLE,example,
+17,24,closet,clothes,bedroom,clothes,Creature:Possession,PART-WHOLE,probe,2.0
+18,-1,baseline,baseline,,,baseline,baseline,baseline,
+19,2,beg,arrogantly,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+19,2,stare,intermittently,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+19,2,saunter,hurriedly,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+19,2,shatter,gently,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+19,2,gawk,discreetly,accident,discreetly,Action:Action Nonattribute,NON-ATTRIBUTE,probe,2.0
+20,50,fool,ignorance,,,ObjectState(noun:noun),ATTRIBUTE,example,
+20,50,survivor,resilience,,,ObjectState(noun:noun),ATTRIBUTE,example,
+20,50,philanthropist,generosity,,,ObjectState(noun:noun),ATTRIBUTE,example,
+20,50,child,innocence,,,ObjectState(noun:noun),ATTRIBUTE,example,
+20,50,celebrity,fame,fame,publicity,ObjectState(noun:noun),ATTRIBUTE,probe,1.0
+21,-1,baseline,baseline,,,baseline,baseline,baseline,
+22,4,plant,flower,,,Action:Object,CASE RELATIONS,example,
+22,4,shovel,snow,,,Action:Object,CASE RELATIONS,example,
+22,4,lift,weight,,,Action:Object,CASE RELATIONS,example,
+22,4,lock,gate,,,Action:Object,CASE RELATIONS,example,
+22,4,learn,skill,practice,skill,Action:Object,CASE RELATIONS,probe,2.0
+23,50,ember,heat,,,ObjectState(noun:noun),ATTRIBUTE,example,
+23,50,sanctuary,safety,,,ObjectState(noun:noun),ATTRIBUTE,example,
+23,50,hermit,solitude,,,ObjectState(noun:noun),ATTRIBUTE,example,
+23,50,genius,brilliance,,,ObjectState(noun:noun),ATTRIBUTE,example,
+23,50,fortress,security,security,strength,ObjectState(noun:noun),ATTRIBUTE,probe,1.0
+24,24,dog,tail,,,Creature:Possession,PART-WHOLE,example,
+24,24,clock,hands,,,Creature:Possession,PART-WHOLE,example,
+24,24,doctor,degree,,,Creature:Possession,PART-WHOLE,example,
+24,24,car,engine,,,Creature:Possession,PART-WHOLE,example,
+24,24,lobster,claws,claws,boil,Creature:Possession,PART-WHOLE,probe,1.0
+25,2,waste,efficiently,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+25,2,deliberate,impulsively,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+25,2,flounder,elegantly,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+25,2,idle,productively,,,Action:Action Nonattribute,NON-ATTRIBUTE,example,
+25,2,dominate,submissively,opponent,submissively,Action:Action Nonattribute,NON-ATTRIBUTE,probe,2.0

@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,39,microbiology,microbes,,,Knowledge,REFERENCE,example,
+1,39,sociology,society,,,Knowledge,REFERENCE,example,
+1,39,optics,light,,,Knowledge,REFERENCE,example,
+1,39,geometry,shapes,,,Knowledge,REFERENCE,example,
+1,39,robotics,robots,sensors,robots,Knowledge,REFERENCE,probe,2.0
+2,8,slippery,slide,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+2,8,toxic,poison,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+2,8,hollow,echo,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+2,8,elastic,stretch,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+2,8,wobbly,topple,topple,sway,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,probe,1.0
+3,29,launch,land,,,Directional,CONTRAST,example,
+3,29,in,out,,,Directional,CONTRAST,example,
+3,29,over,under,,,Directional,CONTRAST,example,
+3,29,crest,trough,,,Directional,CONTRAST,example,
+3,29,north,south,northwest,south,Directional,CONTRAST,probe,2.0
+4,23,duck,goose,,,Coordinates,SIMILAR,example,
+4,23,trout,salmon,,,Coordinates,SIMILAR,example,
+4,23,piano,organ,,,Coordinates,SIMILAR,example,
+4,23,lion,tiger,,,Coordinates,SIMILAR,example,
+4,23,uncle,aunt,aunt,family member,Coordinates,SIMILAR,probe,1.0
+5,-1,baseline,baseline,,,baseline,baseline,baseline,
+6,8,angry,confront,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+6,8,impatient,rush,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+6,8,overripe,spoil,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+6,8,dry,crumble,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+6,8,miserly,withhold,withhold,stingy,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,probe,1.0
+7,29,give,take,,,Directional,CONTRAST,example,
+7,29,beginning,end,,,Directional,CONTRAST,example,
+7,29,previously,subsequently,,,Directional,CONTRAST,example,
+7,29,northeast,southwest,,,Directional,CONTRAST,example,
+7,29,close,distant,street,distant,Directional,CONTRAST,probe,2.0
+8,23,gold,silver,,,Coordinates,SIMILAR,example,
+8,23,baseball,football,,,Coordinates,SIMILAR,example,
+8,23,apple,orange,,,Coordinates,SIMILAR,example,
+8,23,man,woman,,,Coordinates,SIMILAR,example,
+8,23,pillow,mattress,sleep,mattress,Coordinates,SIMILAR,probe,2.0
+9,39,pediatrics,children,,,Knowledge,REFERENCE,example,
+9,39,theology,religion,,,Knowledge,REFERENCE,example,
+9,39,dermatology,skin,,,Knowledge,REFERENCE,example,
+9,39,pulmonology,lungs,,,Knowledge,REFERENCE,example,
+9,39,nutrition,food,food,dieting,Knowledge,REFERENCE,probe,1.0
+10,-1,baseline,baseline,,,baseline,baseline,baseline,
+11,8,loyal,defend,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+11,8,fragile,break,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+11,8,magnetic,attract,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+11,8,shy,withdraw,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+11,8,fearful,tremble,tremble,thunder,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,probe,1.0
+12,23,necklace,bracelet,,,Coordinates,SIMILAR,example,
+12,23,boots,sandals,,,Coordinates,SIMILAR,example,
+12,23,river,lake,,,Coordinates,SIMILAR,example,
+12,23,stallion,mare,,,Coordinates,SIMILAR,example,
+12,23,tennis,badminton,badminton,net,Coordinates,SIMILAR,probe,1.0
+13,-1,baseline,baseline,,,baseline,baseline,baseline,
+14,39,pharmacology,drugs,,,Knowledge,REFERENCE,example,
+14,39,chemistry,elements,,,Knowledge,REFERENCE,example,
+14,39,toxicology,poisons,,,Knowledge,REFERENCE,example,
+14,39,cryptography,codes,,,Knowledge,REFERENCE,example,
+14,39,linguistics,languages,languages,writing,Knowledge,REFERENCE,probe,1.0
+15,29,eastbound,westbound,,,Directional,CONTRAST,example,
+15,29,internal,external,,,Directional,CONTRAST,example,
+15,29,interior,exterior,,,Directional,CONTRAST,example,
+15,29,to,from,,,Directional,CONTRAST,example,
+15,29,repel,attract,attract,charge,Directional,CONTRAST,probe,1.0
+16,-1,baseline,baseline,,,baseline,baseline,baseline,
+17,39,anatomy,body,,,Knowledge,REFERENCE,example,
+17,39,cosmology,universe,,,Knowledge,REFERENCE,example,
+17,39,ecology,ecosystems,,,Knowledge,REFERENCE,example,
+17,39,volcanology,volcanoes,,,Knowledge,REFERENCE,example,
+17,39,ornithology,birds,bats,birds,Knowledge,REFERENCE,probe,2.0
+18,23,wolf,fox,,,Coordinates,SIMILAR,example,
+18,23,plate,bowl,,,Coordinates,SIMILAR,example,
+18,23,ocean,sea,,,Coordinates,SIMILAR,example,
+18,23,painting,sculpture,,,Coordinates,SIMILAR,example,
+18,23,lamp,candle,candle,light bulb,Coordinates,SIMILAR,probe,1.0
+19,8,ambitious,strive,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+19,8,aggressive,attack,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+19,8,unstable,fall,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+19,8,desperate,plead,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+19,8,drowsy,doze,pillow,doze,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,probe,2.0
+20,29,inside,outside,,,Directional,CONTRAST,example,
+20,29,incoming,outgoing,,,Directional,CONTRAST,example,
+20,29,past,future,,,Directional,CONTRAST,example,
+20,29,inward,outward,,,Directional,CONTRAST,example,
+20,29,inbound,outbound,outbound,terminal,Directional,CONTRAST,probe,1.0
+21,39,civics,citizenship,,,Knowledge,REFERENCE,example,
+21,39,political science,government,,,Knowledge,REFERENCE,example,
+21,39,genetics,heredity,,,Knowledge,REFERENCE,example,
+21,39,oceanography,oceans,,,Knowledge,REFERENCE,example,
+21,39,botany,plants,plants,mushrooms,Knowledge,REFERENCE,probe,1.0
+22,-1,baseline,baseline,,,baseline,baseline,baseline,
+23,29,east,west,,,Directional,CONTRAST,example,
+23,29,attic,basement,,,Directional,CONTRAST,example,
+23,29,arrive,leave,,,Directional,CONTRAST,example,
+23,29,go,come,,,Directional,CONTRAST,example,
+23,29,sunrise,sunset,sunset,east,Directional,CONTRAST,probe,1.0
+24,23,hawk,eagle,,,Coordinates,SIMILAR,example,
+24,23,broccoli,cauliflower,,,Coordinates,SIMILAR,example,
+24,23,record,cassette,,,Coordinates,SIMILAR,example,
+24,23,flour,sugar,,,Coordinates,SIMILAR,example,
+24,23,chair,stool,office,stool,Coordinates,SIMILAR,probe,2.0
+25,8,tired,sleep,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+25,8,flammable,ignite,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+25,8,luminous,glow,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+25,8,bold,dare,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+25,8,concerned,worry,problem,worry,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,probe,2.0

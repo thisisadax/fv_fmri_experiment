@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,10,감독,배우,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+1,10,간호사,환자,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+1,10,변호사,의뢰인,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+1,10,꽃집주인,고객,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+1,10,목수,고객,고객,설계도,Agent:Recipient (Korean Localized),CASE RELATIONS,probe,1.0
+2,36,진실,거짓이다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+2,36,햇빛,어둡다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+2,36,전쟁,평화롭다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+2,36,배신자,충성스럽다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+2,36,지능,멍청하다,실용적이다,멍청하다,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,probe,2.0
+3,15,더위,땀흘리다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+3,15,지루함,하품하다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+3,15,질병,약먹다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+3,15,잡동사니,정리하다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+3,15,화재,대피하다,대피하다,일일구신고하다,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,probe,1.0
+4,-1,baseline,baseline,,,baseline,baseline,baseline,
+5,36,결백,유죄이다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+5,36,폐허,말끔하다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+5,36,총각,기혼이다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+5,36,영웅,비겁하다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+5,36,속삭임,귀청이찢어질듯하다,낮다,귀청이찢어질듯하다,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,probe,2.0
+6,15,악취,구역질하다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+6,15,빈곳,채우다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+6,15,가난,일하다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+6,15,찢어짐,수선하다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+6,15,추위,오들오들떨다,담요,오들오들떨다,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,probe,2.0
+7,60,색,빨강,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+7,60,건물,병원,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+7,60,운동선수,수영선수,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+7,60,장난감,인형,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+7,60,날씨,비,우산,비,Taxonomic (Korean Localized),CLASS-INCLUSION,probe,2.0
+8,36,진공,가득차다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+8,36,순수함,타락하다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+8,36,완벽함,결함이있다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+8,36,불,차갑다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+8,36,난쟁이,거대하다,거대하다,뚱뚱하다,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,probe,1.0
+9,-1,baseline,baseline,,,baseline,baseline,baseline,
+10,10,국립공원 관리원,등산객,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+10,10,재단사,고객,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+10,10,약사,고객,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+10,10,음악가,청취자,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+10,10,세무사,납세자,납세자,회계감사,Agent:Recipient (Korean Localized),CASE RELATIONS,probe,1.0
+11,60,음료,커피,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+11,60,무기,창,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+11,60,신발,샌들,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+11,60,음악가,드러머,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+11,60,모자,베레모,양모,베레모,Taxonomic (Korean Localized),CLASS-INCLUSION,probe,2.0
+12,15,불편함,조절하다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+12,15,의심,따져묻다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+12,15,실패,다시시도하다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+12,15,고마움,감사하다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+12,15,상처,붕대감다,구급상자,붕대감다,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,probe,2.0
+13,36,악당,고결하다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+13,36,은둔자,사교적이다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+13,36,아름다움,불쾌하다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+13,36,고체,액체이다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+13,36,판타지,현실적이다,상상의이다,현실적이다,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,probe,2.0
+14,-1,baseline,baseline,,,baseline,baseline,baseline,
+15,10,고용주,노동자,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+15,10,수의사,동물,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+15,10,치료사,내담자,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+15,10,정치인,유권자,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+15,10,점원,고객,매니저,고객,Agent:Recipient (Korean Localized),CASE RELATIONS,probe,2.0
+16,36,시야,보이지않다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+16,36,젊음,늙다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+16,36,잉여,부족하다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+16,36,사막,울창하다,,,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+16,36,지혜,어리석다,어리석다,깊다,Item:Nonattribute (noun:adjective) (Korean Localized),NON-ATTRIBUTE,probe,1.0
+17,60,장신구,반지,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+17,60,자동차,아반떼,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+17,60,빵,사워도우빵,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+17,60,해산물,새우,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+17,60,과일,포도,와인,포도,Taxonomic (Korean Localized),CLASS-INCLUSION,probe,2.0
+18,10,지휘자,오케스트라,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+18,10,은행원,고객,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+18,10,비서,임원,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+18,10,기부자,자선단체,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+18,10,배관공,집주인,지하실,집주인,Agent:Recipient (Korean Localized),CASE RELATIONS,probe,2.0
+19,-1,baseline,baseline,,,baseline,baseline,baseline,
+20,15,연기,기침하다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+20,15,탈진,자다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+20,15,손상,수리하다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+20,15,호기심,조사하다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+20,15,쏟음,닦다,닦다,탁자,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,probe,1.0
+21,60,정치인,국회의원,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+21,60,사탕,막대사탕,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+21,60,보석,다이아몬드,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+21,60,설치류,쥐,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+21,60,물고기,연어,연어,고래,Taxonomic (Korean Localized),CLASS-INCLUSION,probe,1.0
+22,-1,baseline,baseline,,,baseline,baseline,baseline,
+23,15,가려움,긁다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+23,15,수치심,숨다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+23,15,패닉,달리다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+23,15,마감,속도내다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+23,15,상심,펑펑울다,고립되다,펑펑울다,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,probe,2.0
+24,60,나무,참나무,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+24,60,꽃,튤립,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+24,60,항공기,헬리콥터,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+24,60,영장류,고릴라,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+24,60,스포츠,테니스,테니스,서브,Taxonomic (Korean Localized),CLASS-INCLUSION,probe,1.0
+25,10,삼촌,조카,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+25,10,치과의사,환자,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+25,10,베이비시터,아이,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+25,10,부모,자녀,,,Agent:Recipient (Korean Localized),CASE RELATIONS,example,
+25,10,아버지,아들,어머니,아들,Agent:Recipient (Korean Localized),CASE RELATIONS,probe,2.0

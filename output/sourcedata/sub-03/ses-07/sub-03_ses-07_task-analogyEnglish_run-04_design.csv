@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,18,goddess,Athena,,,ClassIndividual,CLASS-INCLUSION,example,
+1,18,soda,Pepsi,,,ClassIndividual,CLASS-INCLUSION,example,
+1,18,metal,Gold,,,ClassIndividual,CLASS-INCLUSION,example,
+1,18,lake,Michigan,,,ClassIndividual,CLASS-INCLUSION,example,
+1,18,car,Camaro,camaro,dealership,ClassIndividual,CLASS-INCLUSION,probe,1.0
+2,37,guitar,neck,,,Item:Topological Part,PART-WHOLE,example,
+2,37,river,bed,,,Item:Topological Part,PART-WHOLE,example,
+2,37,lake,surface,,,Item:Topological Part,PART-WHOLE,example,
+2,37,flower,stem,,,Item:Topological Part,PART-WHOLE,example,
+2,37,castle,tower,king,tower,Item:Topological Part,PART-WHOLE,probe,2.0
+3,-1,baseline,baseline,,,baseline,baseline,baseline,
+4,27,advise,nag,,,Dimensional Naughty,SIMILAR,example,
+4,27,exaggerate,lie,,,Dimensional Naughty,SIMILAR,example,
+4,27,discuss,rant,,,Dimensional Naughty,SIMILAR,example,
+4,27,convince,brainwash,,,Dimensional Naughty,SIMILAR,example,
+4,27,browse,snoop,snoop,scroll,Dimensional Naughty,SIMILAR,probe,1.0
+5,37,school,cafeteria,,,Item:Topological Part,PART-WHOLE,example,
+5,37,supermarket,aisle,,,Item:Topological Part,PART-WHOLE,example,
+5,37,church,sanctuary,,,Item:Topological Part,PART-WHOLE,example,
+5,37,shoe,sole,,,Item:Topological Part,PART-WHOLE,example,
+5,37,valley,floor,stream,floor,Item:Topological Part,PART-WHOLE,probe,2.0
+6,36,woman,girlhood,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+6,36,cynic,innocence,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+6,36,lunatic,sanity,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+6,36,zombie,consciousness,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+6,36,orphan,parents,guardian,parents,Item:Ex-part/Ex-possession,PART-WHOLE,probe,2.0
+7,18,fabric,Silk,,,ClassIndividual,CLASS-INCLUSION,example,
+7,18,cat,Siamese,,,ClassIndividual,CLASS-INCLUSION,example,
+7,18,element,Oxygen,,,ClassIndividual,CLASS-INCLUSION,example,
+7,18,vegetable,Carrot,,,ClassIndividual,CLASS-INCLUSION,example,
+7,18,gem,Diamond,diamond,mine,ClassIndividual,CLASS-INCLUSION,probe,1.0
+8,37,volcano,crater,,,Item:Topological Part,PART-WHOLE,example,
+8,37,car,hood,,,Item:Topological Part,PART-WHOLE,example,
+8,37,face,chin,,,Item:Topological Part,PART-WHOLE,example,
+8,37,mine,shaft,,,Item:Topological Part,PART-WHOLE,example,
+8,37,mountain,base,rock,base,Item:Topological Part,PART-WHOLE,probe,2.0
+9,27,help,interfere,,,Dimensional Naughty,SIMILAR,example,
+9,27,teach,indoctrinate,,,Dimensional Naughty,SIMILAR,example,
+9,27,visit,stalk,,,Dimensional Naughty,SIMILAR,example,
+9,27,spend,squander,,,Dimensional Naughty,SIMILAR,example,
+9,27,charge,gouge,gouge,fee,Dimensional Naughty,SIMILAR,probe,1.0
+10,18,country,Ireland,,,ClassIndividual,CLASS-INCLUSION,example,
+10,18,desert,Sahara,,,ClassIndividual,CLASS-INCLUSION,example,
+10,18,team,Rangers,,,ClassIndividual,CLASS-INCLUSION,example,
+10,18,candy,Snickers,,,ClassIndividual,CLASS-INCLUSION,example,
+10,18,city,Memphis,blues,memphis,ClassIndividual,CLASS-INCLUSION,probe,2.0
+11,36,graduate,homework,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+11,36,ascetic,comfort,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+11,36,celebrity,privacy,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+11,36,doctor,residency,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+11,36,insomniac,sleep,nap,sleep,Item:Ex-part/Ex-possession,PART-WHOLE,probe,2.0
+12,-1,baseline,baseline,,,baseline,baseline,baseline,
+13,27,give,bribe,,,Dimensional Naughty,SIMILAR,example,
+13,27,offer,impose,,,Dimensional Naughty,SIMILAR,example,
+13,27,govern,oppress,,,Dimensional Naughty,SIMILAR,example,
+13,27,touch,grope,,,Dimensional Naughty,SIMILAR,example,
+13,27,use,exploit,tool,exploit,Dimensional Naughty,SIMILAR,probe,2.0
+14,18,queen,Elizabeth,,,ClassIndividual,CLASS-INCLUSION,example,
+14,18,grain,Rice,,,ClassIndividual,CLASS-INCLUSION,example,
+14,18,motorcycle,Harley,,,ClassIndividual,CLASS-INCLUSION,example,
+14,18,ocean,Indian,,,ClassIndividual,CLASS-INCLUSION,example,
+14,18,airline,Delta,ticket,delta,ClassIndividual,CLASS-INCLUSION,probe,2.0
+15,-1,baseline,baseline,,,baseline,baseline,baseline,
+16,37,boat,hull,,,Item:Topological Part,PART-WHOLE,example,
+16,37,bottle,neck,,,Item:Topological Part,PART-WHOLE,example,
+16,37,finger,tip,,,Item:Topological Part,PART-WHOLE,example,
+16,37,house,roof,,,Item:Topological Part,PART-WHOLE,example,
+16,37,state,city,city,flag,Item:Topological Part,PART-WHOLE,probe,1.0
+17,36,fossil,life,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+17,36,stump,branches,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+17,36,shipwreck,crew,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+17,36,stray,owner,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+17,36,drought,rain,dry,rain,Item:Ex-part/Ex-possession,PART-WHOLE,probe,2.0
+18,-1,baseline,baseline,,,baseline,baseline,baseline,
+19,27,knock,bang,,,Dimensional Naughty,SIMILAR,example,
+19,27,smile,sneer,,,Dimensional Naughty,SIMILAR,example,
+19,27,feed,poison,,,Dimensional Naughty,SIMILAR,example,
+19,27,discard,litter,,,Dimensional Naughty,SIMILAR,example,
+19,27,manage,micromanage,schedule,micromanage,Dimensional Naughty,SIMILAR,probe,2.0
+20,36,rubble,structure,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+20,36,junk,value,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+20,36,castaway,civilization,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+20,36,alumnus,coursework,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+20,36,slave,liberty,liberty,market,Item:Ex-part/Ex-possession,PART-WHOLE,probe,1.0
+21,-1,baseline,baseline,,,baseline,baseline,baseline,
+22,27,defend,retaliate,,,Dimensional Naughty,SIMILAR,example,
+22,27,speak,scream,,,Dimensional Naughty,SIMILAR,example,
+22,27,look,glare,,,Dimensional Naughty,SIMILAR,example,
+22,27,question,badger,,,Dimensional Naughty,SIMILAR,example,
+22,27,suggest,demand,idea,demand,Dimensional Naughty,SIMILAR,probe,2.0
+23,36,monk,possessions,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+23,36,derelict,occupants,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+23,36,wife,maidenhood,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+23,36,riverbed,water,,,Item:Ex-part/Ex-possession,PART-WHOLE,example,
+23,36,dropout,enrollment,enrollment,diploma,Item:Ex-part/Ex-possession,PART-WHOLE,probe,1.0
+24,37,airplane,wing,,,Item:Topological Part,PART-WHOLE,example,
+24,37,desert,oasis,,,Item:Topological Part,PART-WHOLE,example,
+24,37,theater,stage,,,Item:Topological Part,PART-WHOLE,example,
+24,37,airport,terminal,,,Item:Topological Part,PART-WHOLE,example,
+24,37,museum,gallery,gallery,ticket,Item:Topological Part,PART-WHOLE,probe,1.0
+25,18,painter,Picasso,,,ClassIndividual,CLASS-INCLUSION,example,
+25,18,president,Lincoln,,,ClassIndividual,CLASS-INCLUSION,example,
+25,18,villain,Joker,,,ClassIndividual,CLASS-INCLUSION,example,
+25,18,berry,Strawberry,,,ClassIndividual,CLASS-INCLUSION,example,
+25,18,king,Henry,prince,henry,ClassIndividual,CLASS-INCLUSION,probe,2.0

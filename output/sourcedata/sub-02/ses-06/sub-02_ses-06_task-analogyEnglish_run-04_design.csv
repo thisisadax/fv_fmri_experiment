@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,17,dampen,enthusiasm,,,Change,SIMILAR,example,
+1,17,loosen,knot,,,Change,SIMILAR,example,
+1,17,slow,traffic,,,Change,SIMILAR,example,
+1,17,death,population,,,Change,SIMILAR,example,
+1,17,boost,morale,locker room,morale,Change,SIMILAR,probe,2.0
+2,5,envelop,surrounded,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+2,5,beat,defeated,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+2,5,comfort,calm,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+2,5,toast,crisp,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+2,5,shrink,small,small,dryer,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,probe,1.0
+3,12,pastor,parishioner,,,Agent:Recipient,CASE RELATIONS,example,
+3,12,tutor,pupil,,,Agent:Recipient,CASE RELATIONS,example,
+3,12,grandmother,grandchild,,,Agent:Recipient,CASE RELATIONS,example,
+3,12,politician,constituent,,,Agent:Recipient,CASE RELATIONS,example,
+3,12,mailman,resident,resident,mailbox,Agent:Recipient,CASE RELATIONS,probe,1.0
+4,61,daybreak,waking,,,Time Action/Activity,SPACE-TIME,example,
+4,61,bedtime,sleeping,,,Time Action/Activity,SPACE-TIME,example,
+4,61,class,learning,,,Time Action/Activity,SPACE-TIME,example,
+4,61,night,dreaming,,,Time Action/Activity,SPACE-TIME,example,
+4,61,sabbath,worshipping,candles,worshipping,Time Action/Activity,SPACE-TIME,probe,2.0
+5,-1,baseline,baseline,,,baseline,baseline,baseline,
+6,12,wholesaler,retailer,,,Agent:Recipient,CASE RELATIONS,example,
+6,12,firefighter,victim,,,Agent:Recipient,CASE RELATIONS,example,
+6,12,accountant,taxpayer,,,Agent:Recipient,CASE RELATIONS,example,
+6,12,courier,recipient,,,Agent:Recipient,CASE RELATIONS,example,
+6,12,parent,child,child,bedtime,Agent:Recipient,CASE RELATIONS,probe,1.0
+7,61,dinner,eating,,,Time Action/Activity,SPACE-TIME,example,
+7,61,revolution,fighting,,,Time Action/Activity,SPACE-TIME,example,
+7,61,christmas,caroling,,,Time Action/Activity,SPACE-TIME,example,
+7,61,afternoon,nap,,,Time Action/Activity,SPACE-TIME,example,
+7,61,rodeo,riding,chaps,riding,Time Action/Activity,SPACE-TIME,probe,2.0
+8,17,dim,light,,,Change,SIMILAR,example,
+8,17,tighten,grip,,,Change,SIMILAR,example,
+8,17,worsen,condition,,,Change,SIMILAR,example,
+8,17,lessen,impact,,,Change,SIMILAR,example,
+8,17,stretch,fabric,fabric,laundry,Change,SIMILAR,probe,1.0
+9,5,ask,answer,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+9,5,glue,sticky,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+9,5,crash,noise,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+9,5,contaminate,polluted,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+9,5,scatter,dispersed,dispersed,random,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,probe,1.0
+10,-1,baseline,baseline,,,baseline,baseline,baseline,
+11,17,enlarge,photo,,,Change,SIMILAR,example,
+11,17,weaken,resolve,,,Change,SIMILAR,example,
+11,17,shorten,distance,,,Change,SIMILAR,example,
+11,17,promotion,rank,,,Change,SIMILAR,example,
+11,17,recession,employment,bank,employment,Change,SIMILAR,probe,2.0
+12,12,gardener,homeowner,,,Agent:Recipient,CASE RELATIONS,example,
+12,12,guide,tourist,,,Agent:Recipient,CASE RELATIONS,example,
+12,12,host,guest,,,Agent:Recipient,CASE RELATIONS,example,
+12,12,sponsor,athlete,,,Agent:Recipient,CASE RELATIONS,example,
+12,12,instructor,trainee,trainee,manager,Agent:Recipient,CASE RELATIONS,probe,1.0
+13,-1,baseline,baseline,,,baseline,baseline,baseline,
+14,61,harvest,reaping,,,Time Action/Activity,SPACE-TIME,example,
+14,61,winter,christmas,,,Time Action/Activity,SPACE-TIME,example,
+14,61,meditation,reflecting,,,Time Action/Activity,SPACE-TIME,example,
+14,61,nighttime,stargazing,,,Time Action/Activity,SPACE-TIME,example,
+14,61,renaissance,painting,painting,michelangelo,Time Action/Activity,SPACE-TIME,probe,1.0
+15,12,publisher,subscriber,,,Agent:Recipient,CASE RELATIONS,example,
+15,12,supplier,manufacturer,,,Agent:Recipient,CASE RELATIONS,example,
+15,12,chef,diner,,,Agent:Recipient,CASE RELATIONS,example,
+15,12,receptionist,visitor,,,Agent:Recipient,CASE RELATIONS,example,
+15,12,professor,student,campus,student,Agent:Recipient,CASE RELATIONS,probe,2.0
+16,5,organize,orderly,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+16,5,bleach,white,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+16,5,wash,clean,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+16,5,crack,fractured,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+16,5,joke,laughter,laughter,comedian,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,probe,1.0
+17,61,summer,vacation,,,Time Action/Activity,SPACE-TIME,example,
+17,61,cookout,grilling,,,Time Action/Activity,SPACE-TIME,example,
+17,61,hurricane,evacuating,,,Time Action/Activity,SPACE-TIME,example,
+17,61,semester,studying,,,Time Action/Activity,SPACE-TIME,example,
+17,61,auction,bidding,bidding,paddle,Time Action/Activity,SPACE-TIME,probe,1.0
+18,-1,baseline,baseline,,,baseline,baseline,baseline,
+19,5,shatter,fragments,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+19,5,starve,hungry,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+19,5,ignite,flame,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+19,5,chop,pieces,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+19,5,stain,discolored,dirty,discolored,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,probe,2.0
+20,17,blur,vision,,,Change,SIMILAR,example,
+20,17,flood,water,,,Change,SIMILAR,example,
+20,17,amplify,signal,,,Change,SIMILAR,example,
+20,17,fade,photograph,,,Change,SIMILAR,example,
+20,17,fortify,defense,defense,castle,Change,SIMILAR,probe,1.0
+21,12,decorator,homeowner,,,Agent:Recipient,CASE RELATIONS,example,
+21,12,boss,employee,,,Agent:Recipient,CASE RELATIONS,example,
+21,12,mentor,protégé,,,Agent:Recipient,CASE RELATIONS,example,
+21,12,florist,customer,,,Agent:Recipient,CASE RELATIONS,example,
+21,12,director,actor,screenwriter,actor,Agent:Recipient,CASE RELATIONS,probe,2.0
+22,-1,baseline,baseline,,,baseline,baseline,baseline,
+23,61,recession,layoffs,,,Time Action/Activity,SPACE-TIME,example,
+23,61,halftime,resting,,,Time Action/Activity,SPACE-TIME,example,
+23,61,prayer,kneeling,,,Time Action/Activity,SPACE-TIME,example,
+23,61,concert,performing,,,Time Action/Activity,SPACE-TIME,example,
+23,61,dawn,birdsong,birdsong,horizon,Time Action/Activity,SPACE-TIME,probe,1.0
+24,17,waning,sunlight,,,Change,SIMILAR,example,
+24,17,rage,irritation,,,Change,SIMILAR,example,
+24,17,raise,salary,,,Change,SIMILAR,example,
+24,17,lighten,load,,,Change,SIMILAR,example,
+24,17,muffle,sound,sound,scarf,Change,SIMILAR,probe,1.0
+25,5,train,skilled,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+25,5,frighten,scared,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+25,5,knead,soft,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+25,5,iron,pressed,,,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,example,
+25,5,level,even,flat,even,Action:Resultant Attribute (verb:noun/adjective),ATTRIBUTE,probe,2.0

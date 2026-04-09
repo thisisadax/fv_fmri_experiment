@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,50,stranger,anonymity,,,ObjectState(noun:noun),ATTRIBUTE,example,
+1,50,millionaire,wealth,,,ObjectState(noun:noun),ATTRIBUTE,example,
+1,50,recession,decline,,,ObjectState(noun:noun),ATTRIBUTE,example,
+1,50,vacuum,emptiness,,,ObjectState(noun:noun),ATTRIBUTE,example,
+1,50,idiot,stupidity,clumsiness,stupidity,ObjectState(noun:noun),ATTRIBUTE,probe,2.0
+2,12,conductor,orchestra,,,Agent:Recipient,CASE RELATIONS,example,
+2,12,broadcaster,viewer,,,Agent:Recipient,CASE RELATIONS,example,
+2,12,counselor,patient,,,Agent:Recipient,CASE RELATIONS,example,
+2,12,editor,author,,,Agent:Recipient,CASE RELATIONS,example,
+2,12,godparent,godchild,godchild,priest,Agent:Recipient,CASE RELATIONS,probe,1.0
+3,-1,baseline,baseline,,,baseline,baseline,baseline,
+4,50,survivor,resilience,,,ObjectState(noun:noun),ATTRIBUTE,example,
+4,50,outcast,rejection,,,ObjectState(noun:noun),ATTRIBUTE,example,
+4,50,genius,brilliance,,,ObjectState(noun:noun),ATTRIBUTE,example,
+4,50,wasteland,desolation,,,ObjectState(noun:noun),ATTRIBUTE,example,
+4,50,night,darkness,moonlight,darkness,ObjectState(noun:noun),ATTRIBUTE,probe,2.0
+5,29,give,take,,,Directional,CONTRAST,example,
+5,29,interior,exterior,,,Directional,CONTRAST,example,
+5,29,shallow,deep,,,Directional,CONTRAST,example,
+5,29,ahead,behind,,,Directional,CONTRAST,example,
+5,29,forward,backward,onward,backward,Directional,CONTRAST,probe,2.0
+6,25,discoloration,wall,,,Defective,CONTRAST,example,
+6,25,tarnish,silver,,,Defective,CONTRAST,example,
+6,25,rot,foundation,,,Defective,CONTRAST,example,
+6,25,mold,bread,,,Defective,CONTRAST,example,
+6,25,stain,fabric,fabric,spill,Defective,CONTRAST,probe,1.0
+7,12,doctor,patient,,,Agent:Recipient,CASE RELATIONS,example,
+7,12,orator,audience,,,Agent:Recipient,CASE RELATIONS,example,
+7,12,receptionist,visitor,,,Agent:Recipient,CASE RELATIONS,example,
+7,12,photographer,client,,,Agent:Recipient,CASE RELATIONS,example,
+7,12,chef,diner,diner,kitchen,Agent:Recipient,CASE RELATIONS,probe,1.0
+8,50,philanthropist,generosity,,,ObjectState(noun:noun),ATTRIBUTE,example,
+8,50,ascetic,austerity,,,ObjectState(noun:noun),ATTRIBUTE,example,
+8,50,recluse,isolation,,,ObjectState(noun:noun),ATTRIBUTE,example,
+8,50,refugee,displacement,,,ObjectState(noun:noun),ATTRIBUTE,example,
+8,50,plague,devastation,devastation,infection,ObjectState(noun:noun),ATTRIBUTE,probe,1.0
+9,-1,baseline,baseline,,,baseline,baseline,baseline,
+10,25,weakness,structure,,,Defective,CONTRAST,example,
+10,25,blindness,vision,,,Defective,CONTRAST,example,
+10,25,depression,mind,,,Defective,CONTRAST,example,
+10,25,bruise,fruit,,,Defective,CONTRAST,example,
+10,25,clog,drain,drain,plunger,Defective,CONTRAST,probe,1.0
+11,29,northbound,southbound,,,Directional,CONTRAST,example,
+11,29,left,right,,,Directional,CONTRAST,example,
+11,29,over,under,,,Directional,CONTRAST,example,
+11,29,origin,destination,,,Directional,CONTRAST,example,
+11,29,toward,away,away,near,Directional,CONTRAST,probe,1.0
+12,50,fire,warmth,,,ObjectState(noun:noun),ATTRIBUTE,example,
+12,50,slave,bondage,,,ObjectState(noun:noun),ATTRIBUTE,example,
+12,50,liar,deceit,,,ObjectState(noun:noun),ATTRIBUTE,example,
+12,50,expert,knowledge,,,ObjectState(noun:noun),ATTRIBUTE,example,
+12,50,hostage,captivity,captivity,ransom,ObjectState(noun:noun),ATTRIBUTE,probe,1.0
+13,12,grandmother,grandchild,,,Agent:Recipient,CASE RELATIONS,example,
+13,12,director,actor,,,Agent:Recipient,CASE RELATIONS,example,
+13,12,nurse,patient,,,Agent:Recipient,CASE RELATIONS,example,
+13,12,mentor,protégé,,,Agent:Recipient,CASE RELATIONS,example,
+13,12,trainer,athlete,athlete,therapist,Agent:Recipient,CASE RELATIONS,probe,1.0
+14,29,input,output,,,Directional,CONTRAST,example,
+14,29,rise,fall,,,Directional,CONTRAST,example,
+14,29,load,unload,,,Directional,CONTRAST,example,
+14,29,up,down,,,Directional,CONTRAST,example,
+14,29,to,from,send,from,Directional,CONTRAST,probe,2.0
+15,-1,baseline,baseline,,,baseline,baseline,baseline,
+16,12,narrator,audience,,,Agent:Recipient,CASE RELATIONS,example,
+16,12,barista,customer,,,Agent:Recipient,CASE RELATIONS,example,
+16,12,guide,tourist,,,Agent:Recipient,CASE RELATIONS,example,
+16,12,captain,crew,,,Agent:Recipient,CASE RELATIONS,example,
+16,12,florist,customer,delivery driver,customer,Agent:Recipient,CASE RELATIONS,probe,2.0
+17,25,streak,window,,,Defective,CONTRAST,example,
+17,25,miscarriage,pregnancy,,,Defective,CONTRAST,example,
+17,25,paralysis,limb,,,Defective,CONTRAST,example,
+17,25,smear,painting,,,Defective,CONTRAST,example,
+17,25,error,calculation,mistake,calculation,Defective,CONTRAST,probe,2.0
+18,-1,baseline,baseline,,,baseline,baseline,baseline,
+19,29,internal,external,,,Directional,CONTRAST,example,
+19,29,preceding,following,,,Directional,CONTRAST,example,
+19,29,back,forth,,,Directional,CONTRAST,example,
+19,29,upload,download,,,Directional,CONTRAST,example,
+19,29,here,there,there,now,Directional,CONTRAST,probe,1.0
+20,25,knot,wood,,,Defective,CONTRAST,example,
+20,25,pimple,skin,,,Defective,CONTRAST,example,
+20,25,leak,roof,,,Defective,CONTRAST,example,
+20,25,split,seam,,,Defective,CONTRAST,example,
+20,25,tear,pantyhose,pantyhose,glove,Defective,CONTRAST,probe,1.0
+21,-1,baseline,baseline,,,baseline,baseline,baseline,
+22,50,insomniac,wakefulness,,,ObjectState(noun:noun),ATTRIBUTE,example,
+22,50,lover,passion,,,ObjectState(noun:noun),ATTRIBUTE,example,
+22,50,veteran,experience,,,ObjectState(noun:noun),ATTRIBUTE,example,
+22,50,fugitive,flight,,,ObjectState(noun:noun),ATTRIBUTE,example,
+22,50,mourner,grief,grief,sadness,ObjectState(noun:noun),ATTRIBUTE,probe,1.0
+23,12,vet,animal,,,Agent:Recipient,CASE RELATIONS,example,
+23,12,bartender,patron,,,Agent:Recipient,CASE RELATIONS,example,
+23,12,decorator,homeowner,,,Agent:Recipient,CASE RELATIONS,example,
+23,12,professor,student,,,Agent:Recipient,CASE RELATIONS,example,
+23,12,grocer,shopper,stocker,shopper,Agent:Recipient,CASE RELATIONS,probe,2.0
+24,25,ding,bumper,,,Defective,CONTRAST,example,
+24,25,infertility,reproduction,,,Defective,CONTRAST,example,
+24,25,deafness,hearing,,,Defective,CONTRAST,example,
+24,25,chip,porcelain,,,Defective,CONTRAST,example,
+24,25,static,signal,radio,signal,Defective,CONTRAST,probe,2.0
+25,29,uphill,downhill,,,Directional,CONTRAST,example,
+25,29,peak,valley,,,Directional,CONTRAST,example,
+25,29,inbound,outbound,,,Directional,CONTRAST,example,
+25,29,inside,outside,,,Directional,CONTRAST,example,
+25,29,embark,disembark,disembark,depart,Directional,CONTRAST,probe,1.0

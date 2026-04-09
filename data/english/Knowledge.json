@@ -1,0 +1,589 @@
+{
+  "source_dataset": "SemEval-2012",
+  "relation_category": "REFERENCE",
+  "relation_name": "Knowledge",
+  "relation_source": "Knowledge",
+  "num_relations_per_source": 1,
+  "relation_index": 1,
+  "n_clean_pairs": 82,
+  "n_original_pairs": 34,
+  "relation_description": "X is the name for the field of knowledge or study of Y.",
+  "relation_pairs": [
+    "geology:earth",
+    "criminology:crime",
+    "genealogy:family",
+    "biology:life",
+    "anthropology:humans",
+    "zoology:animals",
+    "anatomy:body",
+    "history:past",
+    "chemistry:elements",
+    "entomology:insects",
+    "pharmacology:drugs",
+    "linguistics:languages",
+    "meteorology:weather",
+    "economics:markets",
+    "botany:plants",
+    "oceanography:oceans",
+    "architecture:buildings",
+    "mathematics:numbers",
+    "dermatology:skin",
+    "astronomy:stars",
+    "psychology:behavior",
+    "sociology:society",
+    "ecology:ecosystems",
+    "theology:religion",
+    "archaeology:artifacts",
+    "paleontology:fossils",
+    "cardiology:heart",
+    "neurology:brain",
+    "oncology:cancer",
+    "pathology:disease",
+    "pediatrics:children",
+    "ophthalmology:eyes",
+    "virology:viruses",
+    "ornithology:birds",
+    "seismology:earthquakes",
+    "hydrology:water",
+    "cartography:maps",
+    "demography:populations",
+    "epidemiology:epidemics",
+    "toxicology:poisons",
+    "cosmology:universe",
+    "ethics:morality",
+    "logic:reasoning",
+    "rhetoric:persuasion",
+    "aesthetics:beauty",
+    "genetics:heredity",
+    "immunology:immunity",
+    "acoustics:sound",
+    "optics:light",
+    "nutrition:food",
+    "philosophy:ideas",
+    "horticulture:gardens",
+    "agriculture:farming",
+    "geometry:shapes",
+    "statistics:data",
+    "geography:places",
+    "physics:matter",
+    "psychiatry:mental illness",
+    "cryptography:codes",
+    "political science:government",
+    "marine biology:sea life",
+    "forestry:forests",
+    "dentistry:teeth",
+    "optometry:vision",
+    "forensics:evidence",
+    "microbiology:microbes",
+    "thermodynamics:heat",
+    "robotics:robots",
+    "aeronautics:flight",
+    "civics:citizenship",
+    "musicology:music",
+    "orthopedics:bones",
+    "taxonomy:classification",
+    "trigonometry:triangles",
+    "mythology:myths",
+    "semantics:meaning",
+    "hematology:blood",
+    "computer science:computation",
+    "climatology:climate",
+    "gastronomy:cuisine",
+    "pulmonology:lungs",
+    "volcanology:volcanoes"
+  ],
+  "distractors": [
+    [
+      "earthquakes",
+      "fossils",
+      "rock hammer",
+      "museum"
+    ],
+    [
+      "laws",
+      "prisons",
+      "investigations",
+      "textbook"
+    ],
+    [
+      "DNA",
+      "households",
+      "records",
+      "family reunion"
+    ],
+    [
+      "genes",
+      "diseases",
+      "microscope",
+      "lab class"
+    ],
+    [
+      "apes",
+      "civilizations",
+      "fieldwork",
+      "museum"
+    ],
+    [
+      "humans",
+      "dinosaurs",
+      "safari",
+      "zoo"
+    ],
+    [
+      "cells",
+      "diseases",
+      "dissection",
+      "textbook"
+    ],
+    [
+      "dates",
+      "biographies",
+      "archives",
+      "museum"
+    ],
+    [
+      "electricity",
+      "heat",
+      "beakers",
+      "lab coat"
+    ],
+    [
+      "spiders",
+      "pests",
+      "nets",
+      "garden"
+    ],
+    [
+      "diseases",
+      "side effects",
+      "prescriptions",
+      "pharmacy"
+    ],
+    [
+      "grammar",
+      "writing",
+      "dictionary",
+      "classroom"
+    ],
+    [
+      "climate",
+      "storms",
+      "forecasting",
+      "umbrella"
+    ],
+    [
+      "money",
+      "business",
+      "supply and demand",
+      "calculator"
+    ],
+    [
+      "mushrooms",
+      "algae",
+      "greenhouse",
+      "watering can"
+    ],
+    [
+      "sea life",
+      "tides",
+      "submarines",
+      "beach"
+    ],
+    [
+      "bridges",
+      "rooms",
+      "blueprints",
+      "construction site"
+    ],
+    [
+      "equations",
+      "graphs",
+      "proofs",
+      "calculator"
+    ],
+    [
+      "hair",
+      "rashes",
+      "sunscreen",
+      "clinic"
+    ],
+    [
+      "zodiac",
+      "rockets",
+      "telescope",
+      "observatory"
+    ],
+    [
+      "brain",
+      "feelings",
+      "therapy",
+      "couch"
+    ],
+    [
+      "culture",
+      "communities",
+      "surveys",
+      "town hall"
+    ],
+    [
+      "environment",
+      "food webs",
+      "conservation",
+      "park ranger"
+    ],
+    [
+      "myths",
+      "rituals",
+      "scripture",
+      "church"
+    ],
+    [
+      "dinosaurs",
+      "ruins",
+      "digging",
+      "shovel"
+    ],
+    [
+      "bones",
+      "caves",
+      "dig site",
+      "museum display"
+    ],
+    [
+      "blood vessels",
+      "blood pressure",
+      "stethoscope",
+      "hospital room"
+    ],
+    [
+      "mind",
+      "muscles",
+      "MRI",
+      "clinic"
+    ],
+    [
+      "chemotherapy",
+      "radiation",
+      "biopsy",
+      "hospital ward"
+    ],
+    [
+      "symptoms",
+      "tissues",
+      "lab slides",
+      "autopsy room"
+    ],
+    [
+      "babies",
+      "parents",
+      "vaccines",
+      "playroom"
+    ],
+    [
+      "vision",
+      "eyeglasses",
+      "eye chart",
+      "waiting room"
+    ],
+    [
+      "bacteria",
+      "vaccines",
+      "microscope",
+      "lab coat"
+    ],
+    [
+      "bats",
+      "nests",
+      "binoculars",
+      "park"
+    ],
+    [
+      "volcanoes",
+      "tsunamis",
+      "seismograph",
+      "evacuation drill"
+    ],
+    [
+      "oceans",
+      "rain",
+      "dams",
+      "rain boots"
+    ],
+    [
+      "GPS",
+      "atlases",
+      "compass",
+      "traveler"
+    ],
+    [
+      "census",
+      "birth rates",
+      "spreadsheets",
+      "city hall"
+    ],
+    [
+      "vaccination",
+      "statistics",
+      "quarantine",
+      "news reports"
+    ],
+    [
+      "drugs",
+      "contamination",
+      "antidotes",
+      "warning label"
+    ],
+    [
+      "Big Bang",
+      "black holes",
+      "expanding universe",
+      "planetarium"
+    ],
+    [
+      "laws",
+      "values",
+      "debate",
+      "code of conduct"
+    ],
+    [
+      "truth",
+      "math proofs",
+      "symbols",
+      "puzzle"
+    ],
+    [
+      "debate",
+      "speech",
+      "audience",
+      "microphone"
+    ],
+    [
+      "art",
+      "taste",
+      "gallery",
+      "poster"
+    ],
+    [
+      "family trees",
+      "mutations",
+      "Punnett squares",
+      "lab notebook"
+    ],
+    [
+      "vaccines",
+      "pathogens",
+      "allergies",
+      "clinic"
+    ],
+    [
+      "music",
+      "noise",
+      "echo",
+      "earplugs"
+    ],
+    [
+      "vision",
+      "mirrors",
+      "lenses",
+      "sunglasses"
+    ],
+    [
+      "dieting",
+      "calories",
+      "meal plan",
+      "grocery list"
+    ],
+    [
+      "wisdom",
+      "religion",
+      "questions",
+      "armchair"
+    ],
+    [
+      "lawns",
+      "flowers",
+      "pruning shears",
+      "backyard"
+    ],
+    [
+      "crops",
+      "livestock",
+      "tractor",
+      "barn"
+    ],
+    [
+      "angles",
+      "lines",
+      "compass",
+      "graph paper"
+    ],
+    [
+      "surveys",
+      "averages",
+      "charts",
+      "spreadsheet"
+    ],
+    [
+      "maps",
+      "countries",
+      "compass",
+      "globe"
+    ],
+    [
+      "motion",
+      "engines",
+      "equations",
+      "lab equipment"
+    ],
+    [
+      "therapy",
+      "medication",
+      "diagnosis",
+      "waiting room"
+    ],
+    [
+      "passwords",
+      "encryption keys",
+      "puzzles",
+      "lock"
+    ],
+    [
+      "elections",
+      "laws",
+      "polls",
+      "civics class"
+    ],
+    [
+      "coral reefs",
+      "whales",
+      "scuba gear",
+      "aquarium"
+    ],
+    [
+      "wildlife",
+      "timber",
+      "firefighting",
+      "ranger station"
+    ],
+    [
+      "braces",
+      "cavities",
+      "floss",
+      "toothbrush"
+    ],
+    [
+      "eyes",
+      "contacts",
+      "eye exam",
+      "appointment"
+    ],
+    [
+      "crime scenes",
+      "mugshots",
+      "lab reports",
+      "courtroom"
+    ],
+    [
+      "viruses",
+      "petri dishes",
+      "incubators",
+      "sterile gloves"
+    ],
+    [
+      "energy",
+      "temperature",
+      "engines",
+      "thermometer"
+    ],
+    [
+      "automation",
+      "sensors",
+      "programming",
+      "workshop"
+    ],
+    [
+      "airplanes",
+      "rockets",
+      "wings",
+      "runway"
+    ],
+    [
+      "rights",
+      "voting",
+      "constitution",
+      "classroom"
+    ],
+    [
+      "instruments",
+      "composers",
+      "sheet music",
+      "concert hall"
+    ],
+    [
+      "nerves",
+      "physical therapy",
+      "casts",
+      "x-ray room"
+    ],
+    [
+      "species names",
+      "labels",
+      "hierarchies",
+      "filing cabinet"
+    ],
+    [
+      "angles",
+      "sine waves",
+      "calculator",
+      "unit circle"
+    ],
+    [
+      "legends",
+      "folktales",
+      "storytelling",
+      "campfire"
+    ],
+    [
+      "words",
+      "definitions",
+      "context",
+      "dictionary"
+    ],
+    [
+      "veins",
+      "platelets",
+      "blood tests",
+      "donation center"
+    ],
+    [
+      "computers",
+      "software",
+      "coding",
+      "keyboard"
+    ],
+    [
+      "weather",
+      "seasons",
+      "temperature records",
+      "weather station"
+    ],
+    [
+      "recipes",
+      "restaurants",
+      "flavors",
+      "cookbook"
+    ],
+    [
+      "airways",
+      "oxygen",
+      "ventilator",
+      "ICU"
+    ],
+    [
+      "lava",
+      "magma",
+      "ash clouds",
+      "evacuation route"
+    ]
+  ]
+}

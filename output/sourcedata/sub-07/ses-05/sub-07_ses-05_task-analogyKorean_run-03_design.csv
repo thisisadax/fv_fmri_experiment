@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,42,극장,연극,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+1,42,탄광,석탄,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+1,42,화실,그림,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+1,42,조폐국,동전,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+1,42,항구,해운,해운,등대,Location:Process/Product (Korean Localized),SPACE-TIME,probe,1.0
+2,53,정비,고장,,,Prevention (Korean Localized),CAUSE-PURPOSE,example,
+2,53,윤활유,마찰,,,Prevention (Korean Localized),CAUSE-PURPOSE,example,
+2,53,보습제,건조함,,,Prevention (Korean Localized),CAUSE-PURPOSE,example,
+2,53,협상,파업,,,Prevention (Korean Localized),CAUSE-PURPOSE,example,
+2,53,데오드란트,체취,스틱,체취,Prevention (Korean Localized),CAUSE-PURPOSE,probe,2.0
+3,49,매수되지않다,매수되다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+3,49,영구적이다,변하다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+3,49,화해불가능하다,화해하다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+3,49,불치이다,치유되다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+3,49,불연성이다,불붙다,라벨,불붙다,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,probe,2.0
+4,18,오토바이,할리데이비슨,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+4,18,새,독수리,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+4,18,나라,이집트,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+4,18,요일,월요일,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+4,18,초콜릿바,스니커즈,스니커즈,초콜릿,ClassIndividual (Korean Localized),CLASS-INCLUSION,probe,1.0
+5,42,굴,동면,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+5,42,창고,보관,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+5,42,교실,수업,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+5,42,사무실,업무,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+5,42,교회,예배,예배,교회벤치,Location:Process/Product (Korean Localized),SPACE-TIME,probe,1.0
+6,49,만족할수없다,만족하다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+6,49,공략불가하다,공격받다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+6,49,오류가없다,실수하다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+6,49,무형이다,만져지다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+6,49,측정불가능하다,측정되다,측정되다,바다,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,probe,1.0
+7,-1,baseline,baseline,,,baseline,baseline,baseline,
+8,53,예방접종,질병,,,Prevention (Korean Localized),CAUSE-PURPOSE,example,
+8,53,운동,비만,,,Prevention (Korean Localized),CAUSE-PURPOSE,example,
+8,53,연습,실패,,,Prevention (Korean Localized),CAUSE-PURPOSE,example,
+8,53,중재,갈등,,,Prevention (Korean Localized),CAUSE-PURPOSE,example,
+8,53,난간,추락,계단,추락,Prevention (Korean Localized),CAUSE-PURPOSE,probe,2.0
+9,18,보석,다이아몬드,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+9,18,베리류,딸기,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+9,18,작가,셰익스피어,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+9,18,공룡,트리케라톱스,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+9,18,과일,바나나,바나나,껍질,ClassIndividual (Korean Localized),CLASS-INCLUSION,probe,1.0
+10,49,끝없다,끝나다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+10,49,철회불가능하다,번복되다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+10,49,조작불가능하다,변조되다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+10,49,수리불가능하다,수리되다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+10,49,반박할수없다,반박되다,반박되다,증거,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,probe,1.0
+11,42,미용실,커트,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+11,42,무대,공연,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+11,42,텃밭,채소,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+11,42,사격장,사격,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+11,42,농장,농작물,농부,농작물,Location:Process/Product (Korean Localized),SPACE-TIME,probe,2.0
+12,-1,baseline,baseline,,,baseline,baseline,baseline,
+13,18,달,일월,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+13,18,섬,마다가스카르섬,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+13,18,산,에베레스트산,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+13,18,바다,대서양,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+13,18,채소,당근,당근,아삭하다,ClassIndividual (Korean Localized),CLASS-INCLUSION,probe,1.0
+14,53,유머,긴장,,,Prevention (Korean Localized),CAUSE-PURPOSE,example,
+14,53,살충제,해충,,,Prevention (Korean Localized),CAUSE-PURPOSE,example,
+14,53,자외선차단제,일광화상,,,Prevention (Korean Localized),CAUSE-PURPOSE,example,
+14,53,항생제,감염,,,Prevention (Korean Localized),CAUSE-PURPOSE,example,
+14,53,법,범죄,범죄,경찰,Prevention (Korean Localized),CAUSE-PURPOSE,probe,1.0
+15,-1,baseline,baseline,,,baseline,baseline,baseline,
+16,42,호수,낚시,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+16,42,빵집,빵,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+16,42,시장,거래,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+16,42,연구실,실험,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+16,42,와인양조장,와인,숙성되다,와인,Location:Process/Product (Korean Localized),SPACE-TIME,probe,2.0
+17,53,곰팡이제거제,곰팡이,,,Prevention (Korean Localized),CAUSE-PURPOSE,example,
+17,53,주의,사고,,,Prevention (Korean Localized),CAUSE-PURPOSE,example,
+17,53,물,갈증,,,Prevention (Korean Localized),CAUSE-PURPOSE,example,
+17,53,암호화,정보유출,,,Prevention (Korean Localized),CAUSE-PURPOSE,example,
+17,53,음식,굶주림,굶주림,식사,Prevention (Korean Localized),CAUSE-PURPOSE,probe,1.0
+18,18,공주,다이애나,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+18,18,말,제주마,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+18,18,왕,아서왕,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+18,18,고양이,샴고양이,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+18,18,탐험가,콜럼버스,배,콜럼버스,ClassIndividual (Korean Localized),CLASS-INCLUSION,probe,2.0
+19,49,이해불가하다,이해되다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+19,49,협상불가이다,협상되다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+19,49,환불불가이다,환불되다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+19,49,무패이다,패배하다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+19,49,복구불가능하다,복구되다,재현되다,복구되다,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,probe,2.0
+20,53,피난처,악천후노출,,,Prevention (Korean Localized),CAUSE-PURPOSE,example,
+20,53,예산관리,빚,,,Prevention (Korean Localized),CAUSE-PURPOSE,example,
+20,53,식단관리,영양실조,,,Prevention (Korean Localized),CAUSE-PURPOSE,example,
+20,53,격리,전염,,,Prevention (Korean Localized),CAUSE-PURPOSE,example,
+20,53,안전벨트,사망,사망,사고,Prevention (Korean Localized),CAUSE-PURPOSE,probe,1.0
+21,-1,baseline,baseline,,,baseline,baseline,baseline,
+22,18,직물,비단,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+22,18,곡물,쌀,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+22,18,강,아마존강,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+22,18,물고기,연어,,,ClassIndividual (Korean Localized),CLASS-INCLUSION,example,
+22,18,컴퓨터,델,책상,델,ClassIndividual (Korean Localized),CLASS-INCLUSION,probe,2.0
+23,42,우물,물,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+23,42,법정,판결,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+23,42,경기장,경기,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+23,42,채석장,돌,,,Location:Process/Product (Korean Localized),SPACE-TIME,example,
+23,42,국회,법률,법률,의사봉,Location:Process/Product (Korean Localized),SPACE-TIME,probe,1.0
+24,-1,baseline,baseline,,,baseline,baseline,baseline,
+25,49,위로불가하다,위로받다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+25,49,떼어낼수없다,떨어지다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+25,49,방탄이다,뚫리다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+25,49,감지되지않다,발견되다,,,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,example,
+25,49,무한하다,고갈되다,고갈되다,묘사되다,ObjectAttribute:Noncondition (adjective:adjective) (Korean Localized),NON-ATTRIBUTE,probe,1.0

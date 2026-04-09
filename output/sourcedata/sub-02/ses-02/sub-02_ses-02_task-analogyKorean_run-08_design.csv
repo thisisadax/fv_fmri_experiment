@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,2,사냥하다,먹다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+1,2,뻗다,잡다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+1,2,브레이크밟다,멈추다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+1,2,사과하다,화해하다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+1,2,점등하다,밝히다,밝히다,신호,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,probe,1.0
+2,41,당구장,큐,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+2,41,공사장,크레인,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+2,41,약국,처방전,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+2,41,볼링장,볼링핀,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+2,41,사무실,책상,비즈니스,책상,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,probe,2.0
+3,43,도시,동네,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+3,43,만원,천원,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+3,43,오렌지,조각,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+3,43,해골,뼈,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+3,43,숲,나무,에이커,나무,Mass:Portion (Korean Localized),PART-WHOLE,probe,2.0
+4,13,깨지기쉽다,내구성,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+4,13,서투르다,우아함,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+4,13,게으르다,생산성,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+4,13,참을성있다,조급함,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+4,13,관대하다,탐욕,탐욕,기부,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,probe,1.0
+5,2,빌리다,쓰다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+5,2,손흔들다,인사하다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+5,2,파다,드러내다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+5,2,쏘다,죽이다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+5,2,초대하다,모으다,모으다,파티,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,probe,1.0
+6,43,도,시군,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+6,43,석류,씨,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+6,43,킬로그램,그램,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+6,43,카드묶음,카드,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+6,43,쪽,문단,저자,문단,Mass:Portion (Korean Localized),PART-WHOLE,probe,2.0
+7,-1,baseline,baseline,,,baseline,baseline,baseline,
+8,13,현명하다,어리석음,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+8,13,친절하다,잔인함,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+8,13,늙다,젊음,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+8,13,믿을만하다,속임수,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+8,13,얼다,따뜻함,햇빛,따뜻함,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,probe,2.0
+9,41,농장,쟁기,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+9,41,들판,트랙터,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+9,41,강당,연단,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+9,41,우체국,우표,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+9,41,욕실,수건,수건,목욕객,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,probe,1.0
+10,43,늑대떼,늑대,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+10,43,시리즈,에피소드,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+10,43,무지개,색,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+10,43,미터,센티미터,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+10,43,교향곡,악장,막,악장,Mass:Portion (Korean Localized),PART-WHOLE,probe,2.0
+11,-1,baseline,baseline,,,baseline,baseline,baseline,
+12,2,비행하다,여행하다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+12,2,칭찬하다,기쁘게하다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+12,2,놀다,즐기다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+12,2,광고하다,홍보하다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+12,2,폭행하다,다치게하다,경찰,다치게하다,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,probe,2.0
+13,13,매끄럽다,거칠음,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+13,13,감사하다,배은망덕,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+13,13,통통하다,마름,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+13,13,가난하다,부,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+13,13,안절부절못하다,고요,인내,고요,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,probe,2.0
+14,41,아기방,요람,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+14,41,와이너리,오크통,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+14,41,미술실,이젤,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+14,41,목장,올가미,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+14,41,화장실,세면대,위생,세면대,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,probe,2.0
+15,-1,baseline,baseline,,,baseline,baseline,baseline,
+16,43,초콜릿,조각,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+16,43,수박,조각,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+16,43,나무,가지,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+16,43,영화,장면,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+16,43,퀼트이불,조각,조각,침대,Mass:Portion (Korean Localized),PART-WHOLE,probe,1.0
+17,2,듣다,즐기다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+17,2,후퇴하다,살아남다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+17,2,수색하다,찾다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+17,2,말하다,표현하다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+17,2,리허설하다,준비하다,암기하다,준비하다,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,probe,2.0
+18,-1,baseline,baseline,,,baseline,baseline,baseline,
+19,13,혼란스럽다,안정,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+19,13,소심하다,대담함,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+19,13,화나다,평온,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+19,13,귀가안들리다,청력,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+19,13,배고프다,포만감,간식,포만감,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,probe,2.0
+20,41,병원,병상,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+20,41,무대,스포트라이트,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+20,41,구내식당,식판,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+20,41,소방서,소방차,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+20,41,극장,커튼,커튼,배우,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,probe,1.0
+21,43,책,장,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+21,43,기차,객차,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+21,43,건물,층,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+21,43,별자리,별,,,Mass:Portion (Korean Localized),PART-WHOLE,example,
+21,43,장,쪽,쪽,분,Mass:Portion (Korean Localized),PART-WHOLE,probe,1.0
+22,-1,baseline,baseline,,,baseline,baseline,baseline,
+23,41,스키장,스키,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+23,41,놀이터,미끄럼틀,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+23,41,공항,보안검색기,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+23,41,패밀리레스토랑,부스석,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+23,41,복싱링,글러브,경기장,글러브,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,probe,2.0
+24,2,춤추다,축하하다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+24,2,논쟁하다,설득하다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+24,2,꾸미다,예쁘게하다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+24,2,밭갈다,경작하다,,,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,example,
+24,2,그림그리다,창작하다,색칠하다,창작하다,Action/Activity:Goal (Korean Localized),CAUSE-PURPOSE,probe,2.0
+25,13,미혼이다,결혼,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+25,13,깨끗하다,더러움,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+25,13,활기차다,피로,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+25,13,깨어있다,수면,,,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,example,
+25,13,자유롭다,감금,감금,제약,Attribute:Nonstate (adjective:noun) (Korean Localized),NON-ATTRIBUTE,probe,1.0

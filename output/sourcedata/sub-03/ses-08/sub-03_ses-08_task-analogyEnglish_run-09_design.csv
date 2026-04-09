@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,26,reserved,withdrawn,,,Dimensional Excessive,SIMILAR,example,
+1,26,wet,saturated,,,Dimensional Excessive,SIMILAR,example,
+1,26,cracking,shattering,,,Dimensional Excessive,SIMILAR,example,
+1,26,asking,interrogating,,,Dimensional Excessive,SIMILAR,example,
+1,26,desire,greed,greed,urge,Dimensional Excessive,SIMILAR,probe,1.0
+2,48,dancer,dance,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+2,48,farmer,plow,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+2,48,cloud,rain,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+2,48,snake,slither,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+2,48,educator,teach,lecture,teach,Object:Typical Action (noun.verb),ATTRIBUTE,probe,2.0
+3,20,curtain,window,,,Concealment,REFERENCE,example,
+3,20,underbrush,animal,,,Concealment,REFERENCE,example,
+3,20,safe,valuables,,,Concealment,REFERENCE,example,
+3,20,makeup,blemishes,,,Concealment,REFERENCE,example,
+3,20,wig,hair,hair,comb,Concealment,REFERENCE,probe,1.0
+4,31,Halloween,costumes,,,Event:Feature,PART-WHOLE,example,
+4,31,banquet,speeches,,,Event:Feature,PART-WHOLE,example,
+4,31,trial,judge,,,Event:Feature,PART-WHOLE,example,
+4,31,lecture,professor,,,Event:Feature,PART-WHOLE,example,
+4,31,baseball game,bat,mittens,bat,Event:Feature,PART-WHOLE,probe,2.0
+5,48,door,close,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+5,48,fruit,ripen,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+5,48,alarm,blare,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+5,48,lion,roar,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+5,48,wind,blow,kite,blow,Object:Typical Action (noun.verb),ATTRIBUTE,probe,2.0
+6,-1,baseline,baseline,,,baseline,baseline,baseline,
+7,20,alibi,guilt,,,Concealment,REFERENCE,example,
+7,20,code,message,,,Concealment,REFERENCE,example,
+7,20,trapdoor,entrance,,,Concealment,REFERENCE,example,
+7,20,encryption,data,,,Concealment,REFERENCE,example,
+7,20,tablecloth,table,table,chair,Concealment,REFERENCE,probe,1.0
+8,31,race,finish line,,,Event:Feature,PART-WHOLE,example,
+8,31,symphony,conductor,,,Event:Feature,PART-WHOLE,example,
+8,31,camping trip,tent,,,Event:Feature,PART-WHOLE,example,
+8,31,cocktail party,drinks,,,Event:Feature,PART-WHOLE,example,
+8,31,coronation,crown,crown,royal decree,Event:Feature,PART-WHOLE,probe,1.0
+9,-1,baseline,baseline,,,baseline,baseline,baseline,
+10,20,bushes,trap,,,Concealment,REFERENCE,example,
+10,20,composure,anxiety,,,Concealment,REFERENCE,example,
+10,20,glove,hand,,,Concealment,REFERENCE,example,
+10,20,mask,face,,,Concealment,REFERENCE,example,
+10,20,veil,face,face,wedding,Concealment,REFERENCE,probe,1.0
+11,26,curious,nosy,,,Dimensional Excessive,SIMILAR,example,
+11,26,tapping,pounding,,,Dimensional Excessive,SIMILAR,example,
+11,26,pushing,ramming,,,Dimensional Excessive,SIMILAR,example,
+11,26,hot,burning,,,Dimensional Excessive,SIMILAR,example,
+11,26,pleased,thrilled,thrilled,nodding,Dimensional Excessive,SIMILAR,probe,1.0
+12,31,birthday,candles,,,Event:Feature,PART-WHOLE,example,
+12,31,barbecue,grill,,,Event:Feature,PART-WHOLE,example,
+12,31,interview,candidate,,,Event:Feature,PART-WHOLE,example,
+12,31,dance,music,,,Event:Feature,PART-WHOLE,example,
+12,31,hockey game,puck,diamond,puck,Event:Feature,PART-WHOLE,probe,2.0
+13,48,rabbit,hop,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+13,48,sailor,sail,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+13,48,kangaroo,jump,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+13,48,lightning,strike,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+13,48,candle,flicker,flicker,wax,Object:Typical Action (noun.verb),ATTRIBUTE,probe,1.0
+14,-1,baseline,baseline,,,baseline,baseline,baseline,
+15,26,skeptical,cynical,,,Dimensional Excessive,SIMILAR,example,
+15,26,hunger,starvation,,,Dimensional Excessive,SIMILAR,example,
+15,26,loud,deafening,,,Dimensional Excessive,SIMILAR,example,
+15,26,energetic,hyperactive,,,Dimensional Excessive,SIMILAR,example,
+15,26,tall,towering,lanky,towering,Dimensional Excessive,SIMILAR,probe,2.0
+16,20,pseudonym,name,,,Concealment,REFERENCE,example,
+16,20,rug,stain,,,Concealment,REFERENCE,example,
+16,20,bluff,weakness,,,Concealment,REFERENCE,example,
+16,20,maze,exit,,,Concealment,REFERENCE,example,
+16,20,silence,opinion,library,opinion,Concealment,REFERENCE,probe,2.0
+17,-1,baseline,baseline,,,baseline,baseline,baseline,
+18,31,premiere,red carpet,,,Event:Feature,PART-WHOLE,example,
+18,31,ballet,dancer,,,Event:Feature,PART-WHOLE,example,
+18,31,funeral,coffin,,,Event:Feature,PART-WHOLE,example,
+18,31,conference,attendees,,,Event:Feature,PART-WHOLE,example,
+18,31,marathon,runners,runners,track,Event:Feature,PART-WHOLE,probe,1.0
+19,48,lamp,glow,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+19,48,ice,melt,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+19,48,wolf,howl,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+19,48,horse,gallop,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+19,48,artist,paint,paint,sculpt,Object:Typical Action (noun.verb),ATTRIBUTE,probe,1.0
+20,-1,baseline,baseline,,,baseline,baseline,baseline,
+21,31,meal,food,,,Event:Feature,PART-WHOLE,example,
+21,31,picnic,snacks,,,Event:Feature,PART-WHOLE,example,
+21,31,comedy show,comedian,,,Event:Feature,PART-WHOLE,example,
+21,31,election,ballots,,,Event:Feature,PART-WHOLE,example,
+21,31,prom,dress,dress,jersey,Event:Feature,PART-WHOLE,probe,1.0
+22,26,selfish,narcissistic,,,Dimensional Excessive,SIMILAR,example,
+22,26,unease,dread,,,Dimensional Excessive,SIMILAR,example,
+22,26,sad,despondent,,,Dimensional Excessive,SIMILAR,example,
+22,26,drinking,guzzling,,,Dimensional Excessive,SIMILAR,example,
+22,26,fear,panic,panic,freeze,Dimensional Excessive,SIMILAR,probe,1.0
+23,20,sleeve,arm,,,Concealment,REFERENCE,example,
+23,20,excuse,truth,,,Concealment,REFERENCE,example,
+23,20,confidence,doubt,,,Concealment,REFERENCE,example,
+23,20,drawer,contents,,,Concealment,REFERENCE,example,
+23,20,coat,shirt,cold,shirt,Concealment,REFERENCE,probe,2.0
+24,48,cricket,chirp,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+24,48,tree,grow,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+24,48,turtle,crawl,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+24,48,earthquake,shake,,,Object:Typical Action (noun.verb),ATTRIBUTE,example,
+24,48,monkey,climb,climb,jungle,Object:Typical Action (noun.verb),ATTRIBUTE,probe,1.0
+25,26,fond,infatuated,,,Dimensional Excessive,SIMILAR,example,
+25,26,admiration,worship,,,Dimensional Excessive,SIMILAR,example,
+25,26,cold,frigid,,,Dimensional Excessive,SIMILAR,example,
+25,26,eating,gorging,,,Dimensional Excessive,SIMILAR,example,
+25,26,large,enormous,elephant,enormous,Dimensional Excessive,SIMILAR,probe,2.0

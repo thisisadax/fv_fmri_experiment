@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,52,strategy,attack,,,Plan,REFERENCE,example,
+1,52,diet,health,,,Plan,REFERENCE,example,
+1,52,curriculum,education,,,Plan,REFERENCE,example,
+1,52,design,building,,,Plan,REFERENCE,example,
+1,52,stencil,graphics,font,graphics,Plan,REFERENCE,probe,2.0
+2,14,thorn,rose,,,Attachment,SPACE-TIME,example,
+2,14,nail,board,,,Attachment,SPACE-TIME,example,
+2,14,railing,balcony,,,Attachment,SPACE-TIME,example,
+2,14,eyelash,eyelid,,,Attachment,SPACE-TIME,example,
+2,14,case,phone,phone,screen,Attachment,SPACE-TIME,probe,1.0
+3,16,homesickness,return,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+3,16,surprise,gasp,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+3,16,misunderstanding,clarify,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+3,16,disgust,grimace,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+3,16,debt,repay,repay,budget,Cause:Compensatory Action,CAUSE-PURPOSE,probe,1.0
+4,-1,baseline,baseline,,,baseline,baseline,baseline,
+5,47,stew,meat,,,Object:Stuff,PART-WHOLE,example,
+5,47,yogurt,milk,,,Object:Stuff,PART-WHOLE,example,
+5,47,ring,gold,,,Object:Stuff,PART-WHOLE,example,
+5,47,paper,pulp,,,Object:Stuff,PART-WHOLE,example,
+5,47,snowman,snow,yard,snow,Object:Stuff,PART-WHOLE,probe,2.0
+6,16,rip,mend,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+6,16,discomfort,adjust,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+6,16,nostalgia,reminisce,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+6,16,heat,sweat,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+6,16,happiness,smile,smile,joy,Cause:Compensatory Action,CAUSE-PURPOSE,probe,1.0
+7,14,ribbon,gift,,,Attachment,SPACE-TIME,example,
+7,14,grape,vine,,,Attachment,SPACE-TIME,example,
+7,14,badge,uniform,,,Attachment,SPACE-TIME,example,
+7,14,helmet,head,,,Attachment,SPACE-TIME,example,
+7,14,bandage,wound,wound,cast,Attachment,SPACE-TIME,probe,1.0
+8,-1,baseline,baseline,,,baseline,baseline,baseline,
+9,16,embarrassment,blush,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+9,16,relief,sigh,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+9,16,panic,run,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+9,16,suspicion,question,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+9,16,injustice,protest,vote,protest,Cause:Compensatory Action,CAUSE-PURPOSE,probe,2.0
+10,52,list,groceries,,,Plan,REFERENCE,example,
+10,52,recipe,meal,,,Plan,REFERENCE,example,
+10,52,wireframe,website,,,Plan,REFERENCE,example,
+10,52,bylaws,corporation,,,Plan,REFERENCE,example,
+10,52,outline,paper,abstract,paper,Plan,REFERENCE,probe,2.0
+11,-1,baseline,baseline,,,baseline,baseline,baseline,
+12,47,church,believers,,,Object:Stuff,PART-WHOLE,example,
+12,47,army,soldiers,,,Object:Stuff,PART-WHOLE,example,
+12,47,fleet,ships,,,Object:Stuff,PART-WHOLE,example,
+12,47,bridge,steel,,,Object:Stuff,PART-WHOLE,example,
+12,47,adobe,mud,desert,mud,Object:Stuff,PART-WHOLE,probe,2.0
+13,52,map,expedition,,,Plan,REFERENCE,example,
+13,52,pilot,series,,,Plan,REFERENCE,example,
+13,52,sketch,painting,,,Plan,REFERENCE,example,
+13,52,budget,expenses,,,Plan,REFERENCE,example,
+13,52,plan,development,development,strategy,Plan,REFERENCE,probe,1.0
+14,-1,baseline,baseline,,,baseline,baseline,baseline,
+15,47,wire,metal,,,Object:Stuff,PART-WHOLE,example,
+15,47,money,paper,,,Object:Stuff,PART-WHOLE,example,
+15,47,book,pages,,,Object:Stuff,PART-WHOLE,example,
+15,47,swarm,bees,,,Object:Stuff,PART-WHOLE,example,
+15,47,box,cardboard,cardboard,label,Object:Stuff,PART-WHOLE,probe,1.0
+16,14,knob,drawer,,,Attachment,SPACE-TIME,example,
+16,14,label,package,,,Attachment,SPACE-TIME,example,
+16,14,hinge,gate,,,Attachment,SPACE-TIME,example,
+16,14,tail,horse,,,Attachment,SPACE-TIME,example,
+16,14,berry,bush,bush,vine,Attachment,SPACE-TIME,probe,1.0
+17,52,blueprint,house,,,Plan,REFERENCE,example,
+17,52,setlist,concert,,,Plan,REFERENCE,example,
+17,52,score,symphony,,,Plan,REFERENCE,example,
+17,52,route,delivery,,,Plan,REFERENCE,example,
+17,52,arrangement,song,song,melody,Plan,REFERENCE,probe,1.0
+18,47,candle,wax,,,Object:Stuff,PART-WHOLE,example,
+18,47,herd,cattle,,,Object:Stuff,PART-WHOLE,example,
+18,47,cup,ceramic,,,Object:Stuff,PART-WHOLE,example,
+18,47,table,wood,,,Object:Stuff,PART-WHOLE,example,
+18,47,anthology,stories,stories,cover,Object:Stuff,PART-WHOLE,probe,1.0
+19,16,poverty,work,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+19,16,impatience,hurry,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+19,16,smoke,cough,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+19,16,storm,shelter,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+19,16,frustration,complain,complain,sigh,Cause:Compensatory Action,CAUSE-PURPOSE,probe,1.0
+20,14,horn,bull,,,Attachment,SPACE-TIME,example,
+20,14,monitor,computer,,,Attachment,SPACE-TIME,example,
+20,14,faucet,pipe,,,Attachment,SPACE-TIME,example,
+20,14,curtain,window,,,Attachment,SPACE-TIME,example,
+20,14,lampshade,lamp,light,lamp,Attachment,SPACE-TIME,probe,2.0
+21,52,policy,governance,,,Plan,REFERENCE,example,
+21,52,script,movie,,,Plan,REFERENCE,example,
+21,52,rubric,grading,,,Plan,REFERENCE,example,
+21,52,protocol,experiment,,,Plan,REFERENCE,example,
+21,52,constitution,government,government,nation,Plan,REFERENCE,probe,1.0
+22,-1,baseline,baseline,,,baseline,baseline,baseline,
+23,47,basket,wicker,,,Object:Stuff,PART-WHOLE,example,
+23,47,body,flesh,,,Object:Stuff,PART-WHOLE,example,
+23,47,chocolate,cocoa,,,Object:Stuff,PART-WHOLE,example,
+23,47,meal,courses,,,Object:Stuff,PART-WHOLE,example,
+23,47,rope,nylon,nylon,pulley,Object:Stuff,PART-WHOLE,probe,1.0
+24,14,antenna,roof,,,Attachment,SPACE-TIME,example,
+24,14,glove,hand,,,Attachment,SPACE-TIME,example,
+24,14,zipper,coat,,,Attachment,SPACE-TIME,example,
+24,14,stitch,cloth,,,Attachment,SPACE-TIME,example,
+24,14,rudder,boat,wheel,boat,Attachment,SPACE-TIME,probe,2.0
+25,16,gratitude,thank,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+25,16,boredom,yawn,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+25,16,mess,clean,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+25,16,tension,stretch,,,Cause:Compensatory Action,CAUSE-PURPOSE,example,
+25,16,sadness,cry,tissue,cry,Cause:Compensatory Action,CAUSE-PURPOSE,probe,2.0

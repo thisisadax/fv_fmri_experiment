@@ -1,0 +1,106 @@
+relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response,trial_idx
+-1,baseline,baseline,,,baseline,baseline,baseline,,1
+18,pasta,Spaghetti,,,ClassIndividual,CLASS-INCLUSION,example,,2
+18,spice,Cinnamon,,,ClassIndividual,CLASS-INCLUSION,example,,2
+18,lake,Erie,,,ClassIndividual,CLASS-INCLUSION,example,,2
+18,dog,Poodle,,,ClassIndividual,CLASS-INCLUSION,example,,2
+18,television,Sony,sony,remote,ClassIndividual,CLASS-INCLUSION,probe,1.0,2
+1,ponder,thoughtful,,,Action:Action Attribute,ATTRIBUTE,example,,3
+1,walk,slow,,,Action:Action Attribute,ATTRIBUTE,example,,3
+1,scream,angry,,,Action:Action Attribute,ATTRIBUTE,example,,3
+1,paint,artistic,,,Action:Action Attribute,ATTRIBUTE,example,,3
+1,protest,defiant,defiant,public,Action:Action Attribute,ATTRIBUTE,probe,1.0,3
+43,boring,skipped,,,Object Attribute:Condition,ATTRIBUTE,example,,4
+43,stained,bleached,,,Object Attribute:Condition,ATTRIBUTE,example,,4
+43,empty,filled,,,Object Attribute:Condition,ATTRIBUTE,example,,4
+43,stale,tossed,,,Object Attribute:Condition,ATTRIBUTE,example,,4
+43,adjustable,modified,knob,modified,Object Attribute:Condition,ATTRIBUTE,probe,2.0,4
+18,grain,Rice,,,ClassIndividual,CLASS-INCLUSION,example,,5
+18,berry,Strawberry,,,ClassIndividual,CLASS-INCLUSION,example,,5
+18,horse,Palomino,,,ClassIndividual,CLASS-INCLUSION,example,,5
+18,season,Winter,,,ClassIndividual,CLASS-INCLUSION,example,,5
+18,car,Honda,honda,yamaha,ClassIndividual,CLASS-INCLUSION,probe,1.0,5
+-1,baseline,baseline,,,baseline,baseline,baseline,,6
+24,chef,recipes,,,Creature:Possession,PART-WHOLE,example,,7
+24,author,manuscripts,,,Creature:Possession,PART-WHOLE,example,,7
+24,company,products,,,Creature:Possession,PART-WHOLE,example,,7
+24,employee,job,,,Creature:Possession,PART-WHOLE,example,,7
+24,rancher,cattle,cattle,prairie,Creature:Possession,PART-WHOLE,probe,1.0,7
+18,cat,Siamese,,,ClassIndividual,CLASS-INCLUSION,example,,8
+18,planet,Earth,,,ClassIndividual,CLASS-INCLUSION,example,,8
+18,state,Texas,,,ClassIndividual,CLASS-INCLUSION,example,,8
+18,princess,Diana,,,ClassIndividual,CLASS-INCLUSION,example,,8
+18,soda,Pepsi,cola,pepsi,ClassIndividual,CLASS-INCLUSION,probe,2.0,8
+-1,baseline,baseline,,,baseline,baseline,baseline,,9
+24,wallet,cash,,,Creature:Possession,PART-WHOLE,example,,10
+24,porcupine,quills,,,Creature:Possession,PART-WHOLE,example,,10
+24,lawyer,clients,,,Creature:Possession,PART-WHOLE,example,,10
+24,baker,bread,,,Creature:Possession,PART-WHOLE,example,,10
+24,word,letters,sentence,letters,Creature:Possession,PART-WHOLE,probe,2.0,10
+1,grovel,submissive,,,Action:Action Attribute,ATTRIBUTE,example,,11
+1,debate,competitive,,,Action:Action Attribute,ATTRIBUTE,example,,11
+1,climb,strenuous,,,Action:Action Attribute,ATTRIBUTE,example,,11
+1,pamper,indulgent,,,Action:Action Attribute,ATTRIBUTE,example,,11
+1,plead,earnest,earnest,judge,Action:Action Attribute,ATTRIBUTE,probe,1.0,11
+43,outdated,updated,,,Object Attribute:Condition,ATTRIBUTE,example,,12
+43,rusty,polished,,,Object Attribute:Condition,ATTRIBUTE,example,,12
+43,flat,inflated,,,Object Attribute:Condition,ATTRIBUTE,example,,12
+43,faded,restored,,,Object Attribute:Condition,ATTRIBUTE,example,,12
+43,attractive,admired,pretty,admired,Object Attribute:Condition,ATTRIBUTE,probe,2.0,12
+24,army,soldiers,,,Creature:Possession,PART-WHOLE,example,,13
+24,cat,whiskers,,,Creature:Possession,PART-WHOLE,example,,13
+24,theater,stage,,,Creature:Possession,PART-WHOLE,example,,13
+24,homeowner,home,,,Creature:Possession,PART-WHOLE,example,,13
+24,book,pages,shelf,pages,Creature:Possession,PART-WHOLE,probe,2.0,13
+-1,baseline,baseline,,,baseline,baseline,baseline,,14
+18,tree,Oak,,,ClassIndividual,CLASS-INCLUSION,example,,15
+18,snake,Cobra,,,ClassIndividual,CLASS-INCLUSION,example,,15
+18,fruit,Banana,,,ClassIndividual,CLASS-INCLUSION,example,,15
+18,element,Oxygen,,,ClassIndividual,CLASS-INCLUSION,example,,15
+18,vehicle,Truck,highway,truck,ClassIndividual,CLASS-INCLUSION,probe,2.0,15
+24,farmer,crops,,,Creature:Possession,PART-WHOLE,example,,16
+24,bird,feathers,,,Creature:Possession,PART-WHOLE,example,,16
+24,cowboy,horse,,,Creature:Possession,PART-WHOLE,example,,16
+24,fence,posts,,,Creature:Possession,PART-WHOLE,example,,16
+24,deer,antlers,antlers,forest,Creature:Possession,PART-WHOLE,probe,1.0,16
+43,forgettable,forgotten,,,Object Attribute:Condition,ATTRIBUTE,example,,17
+43,reparable,fixed,,,Object Attribute:Condition,ATTRIBUTE,example,,17
+43,loose,tightened,,,Object Attribute:Condition,ATTRIBUTE,example,,17
+43,washable,laundered,,,Object Attribute:Condition,ATTRIBUTE,example,,17
+43,wooden,burned,burned,fireplace,Object Attribute:Condition,ATTRIBUTE,probe,1.0,17
+1,punch,violent,,,Action:Action Attribute,ATTRIBUTE,example,,18
+1,fidget,restless,,,Action:Action Attribute,ATTRIBUTE,example,,18
+1,slam,forceful,,,Action:Action Attribute,ATTRIBUTE,example,,18
+1,nurture,caring,,,Action:Action Attribute,ATTRIBUTE,example,,18
+1,hug,affectionate,affectionate,reunion,Action:Action Attribute,ATTRIBUTE,probe,1.0,18
+18,country,Japan,,,ClassIndividual,CLASS-INCLUSION,example,,19
+18,author,Shakespeare,,,ClassIndividual,CLASS-INCLUSION,example,,19
+18,airline,Delta,,,ClassIndividual,CLASS-INCLUSION,example,,19
+18,ocean,Indian,,,ClassIndividual,CLASS-INCLUSION,example,,19
+18,river,Nile,nile,delta,ClassIndividual,CLASS-INCLUSION,probe,1.0,19
+43,wrinkled,ironed,,,Object Attribute:Condition,ATTRIBUTE,example,,20
+43,rough,sanded,,,Object Attribute:Condition,ATTRIBUTE,example,,20
+43,thin,torn,,,Object Attribute:Condition,ATTRIBUTE,example,,20
+43,ripe,picked,,,Object Attribute:Condition,ATTRIBUTE,example,,20
+43,abundant,wasted,wasted,wasting,Object Attribute:Condition,ATTRIBUTE,probe,1.0,20
+24,house,residents,,,Creature:Possession,PART-WHOLE,example,,21
+24,bank,money,,,Creature:Possession,PART-WHOLE,example,,21
+24,expert,experience,,,Creature:Possession,PART-WHOLE,example,,21
+24,fish,scales,,,Creature:Possession,PART-WHOLE,example,,21
+24,car,engine,engine,highway,Creature:Possession,PART-WHOLE,probe,1.0,21
+1,sprint,quick,,,Action:Action Attribute,ATTRIBUTE,example,,22
+1,snore,noisy,,,Action:Action Attribute,ATTRIBUTE,example,,22
+1,beg,desperate,,,Action:Action Attribute,ATTRIBUTE,example,,22
+1,praise,encouraging,,,Action:Action Attribute,ATTRIBUTE,example,,22
+1,volunteer,selfless,service,selfless,Action:Action Attribute,ATTRIBUTE,probe,2.0,22
+-1,baseline,baseline,,,baseline,baseline,baseline,,23
+43,weak,defeated,,,Object Attribute:Condition,ATTRIBUTE,example,,24
+43,absorbent,soaked,,,Object Attribute:Condition,ATTRIBUTE,example,,24
+43,fragile,damaged,,,Object Attribute:Condition,ATTRIBUTE,example,,24
+43,valuable,stolen,,,Object Attribute:Condition,ATTRIBUTE,example,,24
+43,visible,seen,seen,seeing,Object Attribute:Condition,ATTRIBUTE,probe,1.0,24
+1,forgive,merciful,,,Action:Action Attribute,ATTRIBUTE,example,,25
+1,kiss,passionate,,,Action:Action Attribute,ATTRIBUTE,example,,25
+1,shout,loud,,,Action:Action Attribute,ATTRIBUTE,example,,25
+1,vandalize,destructive,,,Action:Action Attribute,ATTRIBUTE,example,,25
+1,march,disciplined,proud,disciplined,Action:Action Attribute,ATTRIBUTE,probe,2.0,25

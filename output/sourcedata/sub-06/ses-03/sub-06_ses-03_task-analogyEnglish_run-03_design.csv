@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,57,strong,weak,,,Reverse,CONTRAST,example,
+1,57,hot,cold,,,Reverse,CONTRAST,example,
+1,57,love,hate,,,Reverse,CONTRAST,example,
+1,57,give,take,,,Reverse,CONTRAST,example,
+1,57,inhale,exhale,lungs,exhale,Reverse,CONTRAST,probe,2.0
+2,32,whine,dissatisfaction,,,Expression,REFERENCE,example,
+2,32,laugh,happiness,,,Expression,REFERENCE,example,
+2,32,giggle,nervousness,,,Expression,REFERENCE,example,
+2,32,beg,desperation,,,Expression,REFERENCE,example,
+2,32,snub,disdain,disdain,indifference,Expression,REFERENCE,probe,1.0
+3,10,skier,poles,,,Agent:Instrument,CASE RELATIONS,example,
+3,10,lumberjack,axe,,,Agent:Instrument,CASE RELATIONS,example,
+3,10,shepherd,crook,,,Agent:Instrument,CASE RELATIONS,example,
+3,10,knitter,needles,,,Agent:Instrument,CASE RELATIONS,example,
+3,10,carpenter,hammer,hammer,nails,Agent:Instrument,CASE RELATIONS,probe,1.0
+4,19,portfolio,investment,,,Collection:Member,PART-WHOLE,example,
+4,19,guild,artisan,,,Collection:Member,PART-WHOLE,example,
+4,19,school,fish,,,Collection:Member,PART-WHOLE,example,
+4,19,panel,expert,,,Collection:Member,PART-WHOLE,example,
+4,19,cast,actor,actor,rehearsal,Collection:Member,PART-WHOLE,probe,1.0
+5,-1,baseline,baseline,,,baseline,baseline,baseline,
+6,57,open,close,,,Reverse,CONTRAST,example,
+6,57,include,exclude,,,Reverse,CONTRAST,example,
+6,57,fail,succeed,,,Reverse,CONTRAST,example,
+6,57,guilty,innocent,,,Reverse,CONTRAST,example,
+6,57,push,pull,press,pull,Reverse,CONTRAST,probe,2.0
+7,32,roar,fury,,,Expression,REFERENCE,example,
+7,32,tiptoe,caution,,,Expression,REFERENCE,example,
+7,32,moan,suffering,,,Expression,REFERENCE,example,
+7,32,laughter,amusement,,,Expression,REFERENCE,example,
+7,32,murmur,discontent,skepticism,discontent,Expression,REFERENCE,probe,2.0
+8,19,arsenal,weapon,,,Collection:Member,PART-WHOLE,example,
+8,19,caravan,camel,,,Collection:Member,PART-WHOLE,example,
+8,19,gaggle,goose,,,Collection:Member,PART-WHOLE,example,
+8,19,book,chapter,,,Collection:Member,PART-WHOLE,example,
+8,19,range,mountain,mountain,map,Collection:Member,PART-WHOLE,probe,1.0
+9,-1,baseline,baseline,,,baseline,baseline,baseline,
+10,10,chemist,beaker,,,Agent:Instrument,CASE RELATIONS,example,
+10,10,quarterback,football,,,Agent:Instrument,CASE RELATIONS,example,
+10,10,chef,spatula,,,Agent:Instrument,CASE RELATIONS,example,
+10,10,miner,pickaxe,,,Agent:Instrument,CASE RELATIONS,example,
+10,10,astronomer,telescope,telescope,orbit,Agent:Instrument,CASE RELATIONS,probe,1.0
+11,32,compliment,admiration,,,Expression,REFERENCE,example,
+11,32,kneel,reverence,,,Expression,REFERENCE,example,
+11,32,shriek,alarm,,,Expression,REFERENCE,example,
+11,32,embrace,affection,,,Expression,REFERENCE,example,
+11,32,wave,acknowledgment,hand,acknowledgment,Expression,REFERENCE,probe,2.0
+12,19,vineyard,vine,,,Collection:Member,PART-WHOLE,example,
+12,19,pod,whale,,,Collection:Member,PART-WHOLE,example,
+12,19,crew,sailor,,,Collection:Member,PART-WHOLE,example,
+12,19,swarm,bee,,,Collection:Member,PART-WHOLE,example,
+12,19,delegation,diplomat,embassy,diplomat,Collection:Member,PART-WHOLE,probe,2.0
+13,57,tie,untie,,,Reverse,CONTRAST,example,
+13,57,remember,forget,,,Reverse,CONTRAST,example,
+13,57,sharp,dull,,,Reverse,CONTRAST,example,
+13,57,birth,death,,,Reverse,CONTRAST,example,
+13,57,narrow,wide,wide,alley,Reverse,CONTRAST,probe,1.0
+14,-1,baseline,baseline,,,baseline,baseline,baseline,
+15,10,archer,bow,,,Agent:Instrument,CASE RELATIONS,example,
+15,10,knight,sword,,,Agent:Instrument,CASE RELATIONS,example,
+15,10,pitcher,baseball,,,Agent:Instrument,CASE RELATIONS,example,
+15,10,witch,cauldron,,,Agent:Instrument,CASE RELATIONS,example,
+15,10,bowler,ball,ball,strike,Agent:Instrument,CASE RELATIONS,probe,1.0
+16,32,insult,hostility,,,Expression,REFERENCE,example,
+16,32,swagger,arrogance,,,Expression,REFERENCE,example,
+16,32,mope,melancholy,,,Expression,REFERENCE,example,
+16,32,sigh,exhaustion,,,Expression,REFERENCE,example,
+16,32,cackle,glee,glee,laugh,Expression,REFERENCE,probe,1.0
+17,57,abandon,embrace,,,Reverse,CONTRAST,example,
+17,57,offend,appease,,,Reverse,CONTRAST,example,
+17,57,reward,punish,,,Reverse,CONTRAST,example,
+17,57,unite,divide,,,Reverse,CONTRAST,example,
+17,57,rough,smooth,smooth,coarse,Reverse,CONTRAST,probe,1.0
+18,-1,baseline,baseline,,,baseline,baseline,baseline,
+19,10,umpire,whistle,,,Agent:Instrument,CASE RELATIONS,example,
+19,10,photographer,camera,,,Agent:Instrument,CASE RELATIONS,example,
+19,10,diver,fins,,,Agent:Instrument,CASE RELATIONS,example,
+19,10,teacher,chalk,,,Agent:Instrument,CASE RELATIONS,example,
+19,10,golfer,club,swing,club,Agent:Instrument,CASE RELATIONS,probe,2.0
+20,19,directory,listing,,,Collection:Member,PART-WHOLE,example,
+20,19,anthology,poem,,,Collection:Member,PART-WHOLE,example,
+20,19,convoy,truck,,,Collection:Member,PART-WHOLE,example,
+20,19,series,episode,,,Collection:Member,PART-WHOLE,example,
+20,19,herd,cattle,cattle,barn,Collection:Member,PART-WHOLE,probe,1.0
+21,57,light,dark,,,Reverse,CONTRAST,example,
+21,57,familiar,strange,,,Reverse,CONTRAST,example,
+21,57,wet,dry,,,Reverse,CONTRAST,example,
+21,57,lie,confess,,,Reverse,CONTRAST,example,
+21,57,admit,deny,deny,truth,Reverse,CONTRAST,probe,1.0
+22,-1,baseline,baseline,,,baseline,baseline,baseline,
+23,10,trainer,treats,,,Agent:Instrument,CASE RELATIONS,example,
+23,10,cowboy,lasso,,,Agent:Instrument,CASE RELATIONS,example,
+23,10,soldier,gun,,,Agent:Instrument,CASE RELATIONS,example,
+23,10,driver,car,,,Agent:Instrument,CASE RELATIONS,example,
+23,10,flutist,flute,breath,flute,Agent:Instrument,CASE RELATIONS,probe,2.0
+24,32,jeer,scorn,,,Expression,REFERENCE,example,
+24,32,squeal,excitement,,,Expression,REFERENCE,example,
+24,32,smile,joy,,,Expression,REFERENCE,example,
+24,32,clap,approval,,,Expression,REFERENCE,example,
+24,32,frown,sadness,sadness,annoyance,Expression,REFERENCE,probe,1.0
+25,19,paragraph,sentence,,,Collection:Member,PART-WHOLE,example,
+25,19,catalog,product,,,Collection:Member,PART-WHOLE,example,
+25,19,museum,artifact,,,Collection:Member,PART-WHOLE,example,
+25,19,dictionary,entry,,,Collection:Member,PART-WHOLE,example,
+25,19,gallery,painting,curator,painting,Collection:Member,PART-WHOLE,probe,2.0

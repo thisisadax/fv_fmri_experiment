@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,30,shell,shotgun,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+1,30,gas,furnace,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+1,30,blade,saw,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+1,30,fire,barbecue,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+1,30,yeast,bread,bakery,bread,EnablingAgent:Object,CAUSE-PURPOSE,probe,2.0
+2,42,army,soldiers,,,Mass:Potion,PART-WHOLE,example,
+2,42,rope,strands,,,Mass:Potion,PART-WHOLE,example,
+2,42,deck,cards,,,Mass:Potion,PART-WHOLE,example,
+2,42,wall,bricks,,,Mass:Potion,PART-WHOLE,example,
+2,42,chocolate,squares,truffles,squares,Mass:Potion,PART-WHOLE,probe,2.0
+3,13,defiant,cooperative,,,Asymmetric Contrary,CONTRAST,example,
+3,13,cowardly,bold,,,Asymmetric Contrary,CONTRAST,example,
+3,13,enormous,small,,,Asymmetric Contrary,CONTRAST,example,
+3,13,rigid,flexible,,,Asymmetric Contrary,CONTRAST,example,
+3,13,radiant,gloomy,gloomy,bright,Asymmetric Contrary,CONTRAST,probe,1.0
+4,26,friendly,clingy,,,Dimensional Excessive,SIMILAR,example,
+4,26,frugal,miserly,,,Dimensional Excessive,SIMILAR,example,
+4,26,admiration,worship,,,Dimensional Excessive,SIMILAR,example,
+4,26,proud,vain,,,Dimensional Excessive,SIMILAR,example,
+4,26,jogging,sprinting,sprinting,shoes,Dimensional Excessive,SIMILAR,probe,1.0
+5,-1,baseline,baseline,,,baseline,baseline,baseline,
+6,30,snow,ski,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+6,30,needle,syringe,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+6,30,air,tire,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+6,30,log,campfire,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+6,30,water,shower,cleanliness,shower,EnablingAgent:Object,CAUSE-PURPOSE,probe,2.0
+7,26,devoted,fanatical,,,Dimensional Excessive,SIMILAR,example,
+7,26,surprised,shocked,,,Dimensional Excessive,SIMILAR,example,
+7,26,persistent,relentless,,,Dimensional Excessive,SIMILAR,example,
+7,26,laughter,hysterics,,,Dimensional Excessive,SIMILAR,example,
+7,26,hunger,starvation,starvation,appetite,Dimensional Excessive,SIMILAR,probe,1.0
+8,42,ton,pounds,,,Mass:Potion,PART-WHOLE,example,
+8,42,corn,kernels,,,Mass:Potion,PART-WHOLE,example,
+8,42,quilt,squares,,,Mass:Potion,PART-WHOLE,example,
+8,42,dollar,cents,,,Mass:Potion,PART-WHOLE,example,
+8,42,movie,scene,scene,actors,Mass:Potion,PART-WHOLE,probe,1.0
+9,30,chain,chainsaw,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+9,30,paper,printer,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+9,30,helium,balloon,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+9,30,oxygen,fire,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+9,30,thread,loom,loom,cloth,EnablingAgent:Object,CAUSE-PURPOSE,probe,1.0
+10,13,silent,loud,,,Asymmetric Contrary,CONTRAST,example,
+10,13,frantic,patient,,,Asymmetric Contrary,CONTRAST,example,
+10,13,chaotic,orderly,,,Asymmetric Contrary,CONTRAST,example,
+10,13,cruel,kind,,,Asymmetric Contrary,CONTRAST,example,
+10,13,ecstatic,disgruntled,disgruntled,thrilled,Asymmetric Contrary,CONTRAST,probe,1.0
+11,26,drinking,guzzling,,,Dimensional Excessive,SIMILAR,example,
+11,26,stream,torrent,,,Dimensional Excessive,SIMILAR,example,
+11,26,fat,obese,,,Dimensional Excessive,SIMILAR,example,
+11,26,thirsty,parched,,,Dimensional Excessive,SIMILAR,example,
+11,26,eager,desperate,desperate,more eager,Dimensional Excessive,SIMILAR,probe,1.0
+12,-1,baseline,baseline,,,baseline,baseline,baseline,
+13,13,intoxicated,sober,,,Asymmetric Contrary,CONTRAST,example,
+13,13,stuffed,hungry,,,Asymmetric Contrary,CONTRAST,example,
+13,13,flamboyant,reserved,,,Asymmetric Contrary,CONTRAST,example,
+13,13,earsplitting,quiet,,,Asymmetric Contrary,CONTRAST,example,
+13,13,vast,narrow,narrow,wide,Asymmetric Contrary,CONTRAST,probe,1.0
+14,42,newspaper,sections,,,Mass:Potion,PART-WHOLE,example,
+14,42,paragraph,sentences,,,Mass:Potion,PART-WHOLE,example,
+14,42,cake,slice,,,Mass:Potion,PART-WHOLE,example,
+14,42,pound,ounce,,,Mass:Potion,PART-WHOLE,example,
+14,42,cloth,fibers,dyes,fibers,Mass:Potion,PART-WHOLE,probe,2.0
+15,-1,baseline,baseline,,,baseline,baseline,baseline,
+16,30,kerosene,heater,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+16,30,diesel,generator,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+16,30,gravity,pendulum,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+16,30,membership,gym,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+16,30,arrow,bow,bow,forest,EnablingAgent:Object,CAUSE-PURPOSE,probe,1.0
+17,26,bold,reckless,,,Dimensional Excessive,SIMILAR,example,
+17,26,drizzle,downpour,,,Dimensional Excessive,SIMILAR,example,
+17,26,suggesting,demanding,,,Dimensional Excessive,SIMILAR,example,
+17,26,cold,frigid,,,Dimensional Excessive,SIMILAR,example,
+17,26,attraction,lust,flowers,lust,Dimensional Excessive,SIMILAR,probe,2.0
+18,13,pristine,used,,,Asymmetric Contrary,CONTRAST,example,
+18,13,tasty,bland,,,Asymmetric Contrary,CONTRAST,example,
+18,13,murky,clear,,,Asymmetric Contrary,CONTRAST,example,
+18,13,exhilarated,somber,,,Asymmetric Contrary,CONTRAST,example,
+18,13,furious,pleased,argument,pleased,Asymmetric Contrary,CONTRAST,probe,2.0
+19,-1,baseline,baseline,,,baseline,baseline,baseline,
+20,42,mosaic,tiles,,,Mass:Potion,PART-WHOLE,example,
+20,42,team,players,,,Mass:Potion,PART-WHOLE,example,
+20,42,air,puff,,,Mass:Potion,PART-WHOLE,example,
+20,42,train,car,,,Mass:Potion,PART-WHOLE,example,
+20,42,minute,seconds,seconds,frames,Mass:Potion,PART-WHOLE,probe,1.0
+21,13,bountiful,sparse,,,Asymmetric Contrary,CONTRAST,example,
+21,13,endless,brief,,,Asymmetric Contrary,CONTRAST,example,
+21,13,desolate,lively,,,Asymmetric Contrary,CONTRAST,example,
+21,13,scorching,cool,,,Asymmetric Contrary,CONTRAST,example,
+21,13,ancient,modern,old,modern,Asymmetric Contrary,CONTRAST,probe,2.0
+22,-1,baseline,baseline,,,baseline,baseline,baseline,
+23,26,trusting,gullible,,,Dimensional Excessive,SIMILAR,example,
+23,26,dislike,loathing,,,Dimensional Excessive,SIMILAR,example,
+23,26,wind,hurricane,,,Dimensional Excessive,SIMILAR,example,
+23,26,snow,blizzard,,,Dimensional Excessive,SIMILAR,example,
+23,26,generous,extravagant,donating,extravagant,Dimensional Excessive,SIMILAR,probe,2.0
+24,42,mile,feet,,,Mass:Potion,PART-WHOLE,example,
+24,42,orchestra,musicians,,,Mass:Potion,PART-WHOLE,example,
+24,42,highway,lanes,,,Mass:Potion,PART-WHOLE,example,
+24,42,forest,tree,,,Mass:Potion,PART-WHOLE,example,
+24,42,body,cell,cell,pounds,Mass:Potion,PART-WHOLE,probe,1.0
+25,30,sunlight,photosynthesis,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+25,30,gasoline,motorcycle,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+25,30,cue,billiards,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+25,30,sand,hourglass,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+25,30,coal,locomotive,locomotive,station,EnablingAgent:Object,CAUSE-PURPOSE,probe,1.0

@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,38,부엉이,현명하다,,,ItemAttribute(noun:adjective) (Korean Localized),ATTRIBUTE,example,
+1,38,다이아몬드,반짝이다,,,ItemAttribute(noun:adjective) (Korean Localized),ATTRIBUTE,example,
+1,38,사포,거칠다,,,ItemAttribute(noun:adjective) (Korean Localized),ATTRIBUTE,example,
+1,38,참나무,튼튼하다,,,ItemAttribute(noun:adjective) (Korean Localized),ATTRIBUTE,example,
+1,38,거북이,느리다,꾸준하다,느리다,ItemAttribute(noun:adjective) (Korean Localized),ATTRIBUTE,probe,2.0
+2,37,얼굴,이마,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+2,37,절벽,끝,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+2,37,손,손바닥,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+2,37,헛간,다락,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+2,37,성,탑,탑,왕좌,Item:Topological Part (Korean Localized),PART-WHOLE,probe,1.0
+3,46,직구,포수,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+3,46,인세,저자,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+3,46,연금,은퇴자,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+3,46,몸값,납치범,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+3,46,길안내,관광객,지도,관광객,Object:Recipient (Korean Localized),CASE RELATIONS,probe,2.0
+4,15,그리움,추억하다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+4,15,부족,배급하다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+4,15,가뭄,물아끼다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+4,15,혼란,질문하다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+4,15,질병,약먹다,약먹다,병원,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,probe,1.0
+5,-1,baseline,baseline,,,baseline,baseline,baseline,
+6,38,자동차,빠르다,,,ItemAttribute(noun:adjective) (Korean Localized),ATTRIBUTE,example,
+6,38,사과,빨갛다,,,ItemAttribute(noun:adjective) (Korean Localized),ATTRIBUTE,example,
+6,38,선인장,가시돋다,,,ItemAttribute(noun:adjective) (Korean Localized),ATTRIBUTE,example,
+6,38,스컹크,고약하다,,,ItemAttribute(noun:adjective) (Korean Localized),ATTRIBUTE,example,
+6,38,석탄,검다,검다,광산,ItemAttribute(noun:adjective) (Korean Localized),ATTRIBUTE,probe,1.0
+7,46,유산,상속인,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+7,46,이력서,채용담당자,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+7,46,수료증,교사,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+7,46,졸업장,학생,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+7,46,시민권,이민자,판사,이민자,Object:Recipient (Korean Localized),CASE RELATIONS,probe,2.0
+8,-1,baseline,baseline,,,baseline,baseline,baseline,
+9,38,꿀,끈적하다,,,ItemAttribute(noun:adjective) (Korean Localized),ATTRIBUTE,example,
+9,38,속삭임,조용하다,,,ItemAttribute(noun:adjective) (Korean Localized),ATTRIBUTE,example,
+9,38,물,젖다,,,ItemAttribute(noun:adjective) (Korean Localized),ATTRIBUTE,example,
+9,38,강철,튼튼하다,,,ItemAttribute(noun:adjective) (Korean Localized),ATTRIBUTE,example,
+9,38,태양,눈부시다,노랗다,눈부시다,ItemAttribute(noun:adjective) (Korean Localized),ATTRIBUTE,probe,2.0
+10,37,호수,수면,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+10,37,소파,팔걸이,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+10,37,비행기,날개,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+10,37,배,선체,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+10,37,대양,해저,해저,고래,Item:Topological Part (Korean Localized),PART-WHOLE,probe,1.0
+11,-1,baseline,baseline,,,baseline,baseline,baseline,
+12,46,지시사항,연수생,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+12,46,통지서,세입자,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+12,46,봉헌금,성직자,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+12,46,보조금,농민,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+12,46,소포,집주인,집주인,현관,Object:Recipient (Korean Localized),CASE RELATIONS,probe,1.0
+13,15,안도,한숨쉬다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+13,15,실패,다시시도하다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+13,15,얼룩,문지르다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+13,15,조급함,서두르다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+13,15,긴장,꼼지락거리다,꼼지락거리다,서성거리다,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,probe,1.0
+14,37,꽃,줄기,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+14,37,호텔,로비,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+14,37,화산,분화구,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+14,37,언덕,정상,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+14,37,사막,오아시스,오아시스,모래,Item:Topological Part (Korean Localized),PART-WHOLE,probe,1.0
+15,38,차별주의자,혐오적이다,,,ItemAttribute(noun:adjective) (Korean Localized),ATTRIBUTE,example,
+15,38,군인,용감하다,,,ItemAttribute(noun:adjective) (Korean Localized),ATTRIBUTE,example,
+15,38,체리,빨갛다,,,ItemAttribute(noun:adjective) (Korean Localized),ATTRIBUTE,example,
+15,38,뼈,잘부러지다,,,ItemAttribute(noun:adjective) (Korean Localized),ATTRIBUTE,example,
+15,38,고래,거대하다,거대하다,온순하다,ItemAttribute(noun:adjective) (Korean Localized),ATTRIBUTE,probe,1.0
+16,46,조공,황제,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+16,46,젖병,아기,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+16,46,지참금,신랑,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+16,46,영수증,손님,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+16,46,청구서,소비자,소비자,우편함,Object:Recipient (Korean Localized),CASE RELATIONS,probe,1.0
+17,15,지루함,하품하다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+17,15,오해,해명하다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+17,15,탈진,자다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+17,15,더러움,씻다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+17,15,기쁨,폴짝뛰다,폴짝뛰다,즐거움,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,probe,1.0
+18,-1,baseline,baseline,,,baseline,baseline,baseline,
+19,37,경기장,필드,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+19,37,정원,산책로,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+19,37,집,부엌,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+19,37,원피스,밑단,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+19,37,뒷마당,테라스,그릴,테라스,Item:Topological Part (Korean Localized),PART-WHOLE,probe,2.0
+20,15,상실,애도하다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+20,15,주름,다리다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+20,15,두려움,덜덜떨다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+20,15,무지,공부하다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+20,15,추위,오들오들떨다,담요,오들오들떨다,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,probe,2.0
+21,-1,baseline,baseline,,,baseline,baseline,baseline,
+22,37,팔,팔꿈치,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+22,37,극장,무대,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+22,37,도로,갓길,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+22,37,컴퓨터,화면,,,Item:Topological Part (Korean Localized),PART-WHOLE,example,
+22,37,신발,밑창,옷장,밑창,Item:Topological Part (Korean Localized),PART-WHOLE,probe,2.0
+23,46,연구비,과학자,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+23,46,장학금,신입생,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+23,46,업데이트,사용자,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+23,46,지원서,고용주,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+23,46,성과금,임원,임원,회사,Object:Recipient (Korean Localized),CASE RELATIONS,probe,1.0
+24,15,상처,붕대감다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+24,15,먼지,재채기하다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+24,15,악취,구역질하다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+24,15,서투름,연습하다,,,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,example,
+24,15,죄책감,고백하다,비난,고백하다,Cause:Compensatory Action (Korean Localized),CAUSE-PURPOSE,probe,2.0
+25,38,개,털이많다,,,ItemAttribute(noun:adjective) (Korean Localized),ATTRIBUTE,example,
+25,38,여우,영리하다,,,ItemAttribute(noun:adjective) (Korean Localized),ATTRIBUTE,example,
+25,38,왕자,매력적이다,,,ItemAttribute(noun:adjective) (Korean Localized),ATTRIBUTE,example,
+25,38,사막,건조하다,,,ItemAttribute(noun:adjective) (Korean Localized),ATTRIBUTE,example,
+25,38,비둘기,평화롭다,평화롭다,희다,ItemAttribute(noun:adjective) (Korean Localized),ATTRIBUTE,probe,1.0

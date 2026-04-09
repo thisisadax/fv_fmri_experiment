@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,27,검,단검,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+1,27,슬픔,비통함,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+1,27,들판,초원,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+1,27,툭던지다,던지다,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+1,27,놀람,충격,충격,갑작스러운,Dimensional Similarity (Korean Localized),SIMILAR,probe,1.0
+2,41,목장,올가미,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+2,41,경마장,안장,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+2,41,무대,스포트라이트,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+2,41,법정,의사봉,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+2,41,다이닝룸,식탁,식사,식탁,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,probe,2.0
+3,45,밤,빛,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+3,45,독신자,결혼,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+3,45,묘지,삶,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+3,45,억압,정의,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+3,45,초보자,경험,미숙,경험,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,probe,2.0
+4,-1,baseline,baseline,,,baseline,baseline,baseline,
+5,5,흙퍼내다,조경,,,Activity:Stage (Korean Localized),PART-WHOLE,example,
+5,5,들이마시다,호흡,,,Activity:Stage (Korean Localized),PART-WHOLE,example,
+5,5,편집하다,영화제작,,,Activity:Stage (Korean Localized),PART-WHOLE,example,
+5,5,질문하다,협상,,,Activity:Stage (Korean Localized),PART-WHOLE,example,
+5,5,사포질하다,목공,목공,금속가공,Activity:Stage (Korean Localized),PART-WHOLE,probe,1.0
+6,27,늑대,코요테,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+6,27,벌,말벌,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+6,27,나비,나방,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+6,27,바이올린,첼로,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+6,27,맥주,와인,와인,술집,Dimensional Similarity (Korean Localized),SIMILAR,probe,1.0
+7,41,들판,트랙터,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+7,41,치과,치과드릴,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+7,41,차고,렌치,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+7,41,패밀리레스토랑,부스석,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+7,41,사무실,책상,책상,본사,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,probe,1.0
+8,-1,baseline,baseline,,,baseline,baseline,baseline,
+9,27,미워하다,혐오하다,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+9,27,연못,호수,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+9,27,마르다,날씬하다,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+9,27,고통,극심한고통,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+9,27,불,불꽃,불꽃,열,Dimensional Similarity (Korean Localized),SIMILAR,probe,1.0
+10,5,밭갈다,농사,,,Activity:Stage (Korean Localized),PART-WHOLE,example,
+10,5,전력질주하다,경주,,,Activity:Stage (Korean Localized),PART-WHOLE,example,
+10,5,스케치하다,그림그리기,,,Activity:Stage (Korean Localized),PART-WHOLE,example,
+10,5,낚시줄던지다,낚시,,,Activity:Stage (Korean Localized),PART-WHOLE,example,
+10,5,리시브하다,배구,배구,팔,Activity:Stage (Korean Localized),PART-WHOLE,probe,1.0
+11,41,교도소,철창,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+11,41,은행,현금,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+11,41,미식축구장,골포스트,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+11,41,교실,칠판,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+11,41,테니스장,테니스라켓,서브,테니스라켓,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,probe,2.0
+12,45,빈곤,풍요,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+12,45,혼돈,질서,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+12,45,해로움,안전,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+12,45,무정부상태,통치,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+12,45,장례식,웃음,애도,웃음,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,probe,2.0
+13,27,밀치다,밀다,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+13,27,개구리,두꺼비,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+13,27,침팬지,고릴라,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+13,27,개울,시냇물,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+13,27,양모,면,부드러운,면,Dimensional Similarity (Korean Localized),SIMILAR,probe,2.0
+14,5,서브하다,테니스,,,Activity:Stage (Korean Localized),PART-WHOLE,example,
+14,5,분류하다,빨래,,,Activity:Stage (Korean Localized),PART-WHOLE,example,
+14,5,타격하다,야구,,,Activity:Stage (Korean Localized),PART-WHOLE,example,
+14,5,내쉬다,호흡,,,Activity:Stage (Korean Localized),PART-WHOLE,example,
+14,5,퍼팅하다,골프,골프,칩샷하다,Activity:Stage (Korean Localized),PART-WHOLE,probe,1.0
+15,-1,baseline,baseline,,,baseline,baseline,baseline,
+16,45,증오,사랑,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+16,45,겨울,초록,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+16,45,외로움,우정,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+16,45,고립,동행,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+16,45,추방,고향,고향,방랑하다,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,probe,1.0
+17,27,시기,질투,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+17,27,러그,카펫,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+17,27,진홍색,선홍색,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+17,27,담요,퀼트이불,,,Dimensional Similarity (Korean Localized),SIMILAR,example,
+17,27,참나무,단풍나무,단단한목재,단풍나무,Dimensional Similarity (Korean Localized),SIMILAR,probe,2.0
+18,-1,baseline,baseline,,,baseline,baseline,baseline,
+19,41,호텔,침대,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+19,41,창고,지게차,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+19,41,도서관,책,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+19,41,천문대,망원경,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+19,41,마트,카트,카트,쇼핑,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,probe,1.0
+20,5,헹구다,설거지,,,Activity:Stage (Korean Localized),PART-WHOLE,example,
+20,5,타이핑하다,집필,,,Activity:Stage (Korean Localized),PART-WHOLE,example,
+20,5,돈걸다,도박,,,Activity:Stage (Korean Localized),PART-WHOLE,example,
+20,5,안장얹다,승마,,,Activity:Stage (Korean Localized),PART-WHOLE,example,
+20,5,굴착하다,채굴,발파하다,채굴,Activity:Stage (Korean Localized),PART-WHOLE,probe,2.0
+21,45,나약함,힘,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+21,45,아기,말,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+21,45,거짓말쟁이,정직,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+21,45,경쟁심,평온,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+21,45,겁쟁이,용기,용기,공황,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,probe,1.0
+22,41,헛간,건초,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+22,41,아이스링크,스케이트,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+22,41,코인세탁소,세제,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+22,41,공사장,크레인,,,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,example,
+22,41,마구간,고삐,고삐,들판,Location:Instrument/Associated Item (Korean Localized),SPACE-TIME,probe,1.0
+23,-1,baseline,baseline,,,baseline,baseline,baseline,
+24,5,투구하다,야구,,,Activity:Stage (Korean Localized),PART-WHOLE,example,
+24,5,단처리하다,옷수선,,,Activity:Stage (Korean Localized),PART-WHOLE,example,
+24,5,심다,정원가꾸기,,,Activity:Stage (Korean Localized),PART-WHOLE,example,
+24,5,빨래개다,빨래,,,Activity:Stage (Korean Localized),PART-WHOLE,example,
+24,5,발리하다,테니스,서브하다,테니스,Activity:Stage (Korean Localized),PART-WHOLE,probe,2.0
+25,45,고난,평화,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+25,45,슬픔,행복,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+25,45,눈,따뜻함,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+25,45,무지,지식,,,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,example,
+25,45,떼쓰기,인내심,인내심,비명,Object:Nonstate (Korean Localized),NON-ATTRIBUTE,probe,1.0

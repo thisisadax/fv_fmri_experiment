@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,10,reporter,microphone,,,Agent:Instrument,CASE RELATIONS,example,
+1,10,typist,keyboard,,,Agent:Instrument,CASE RELATIONS,example,
+1,10,policeman,handcuffs,,,Agent:Instrument,CASE RELATIONS,example,
+1,10,chef,spatula,,,Agent:Instrument,CASE RELATIONS,example,
+1,10,quarterback,football,football,receiver,Agent:Instrument,CASE RELATIONS,probe,1.0
+2,63,chocolate,brown,,,things - color,Encyclopedic_semantics,example,
+2,63,cream,white,,,things - color,Encyclopedic_semantics,example,
+2,63,pepper,red,,,things - color,Encyclopedic_semantics,example,
+2,63,avocado,green,,,things - color,Encyclopedic_semantics,example,
+2,63,apple,red,pink,red,things - color,Encyclopedic_semantics,probe,2.0
+3,26,worried,frantic,,,Dimensional Excessive,SIMILAR,example,
+3,26,devoted,fanatical,,,Dimensional Excessive,SIMILAR,example,
+3,26,crying,sobbing,,,Dimensional Excessive,SIMILAR,example,
+3,26,tall,towering,,,Dimensional Excessive,SIMILAR,example,
+3,26,upset,distraught,distraught,more upset,Dimensional Excessive,SIMILAR,probe,1.0
+4,-1,baseline,baseline,,,baseline,baseline,baseline,
+5,17,heat,temperature,,,Change,SIMILAR,example,
+5,17,rise,tide,,,Change,SIMILAR,example,
+5,17,darken,color,,,Change,SIMILAR,example,
+5,17,deplete,stockpile,,,Change,SIMILAR,example,
+5,17,expand,territory,territory,treaty,Change,SIMILAR,probe,1.0
+6,63,dolphin,gray,,,things - color,Encyclopedic_semantics,example,
+6,63,celery,green,,,things - color,Encyclopedic_semantics,example,
+6,63,cardinal,red,,,things - color,Encyclopedic_semantics,example,
+6,63,amethyst,purple,,,things - color,Encyclopedic_semantics,example,
+6,63,banana,yellow,green,yellow,things - color,Encyclopedic_semantics,probe,2.0
+7,26,persistent,relentless,,,Dimensional Excessive,SIMILAR,example,
+7,26,laughter,hysterics,,,Dimensional Excessive,SIMILAR,example,
+7,26,drizzle,downpour,,,Dimensional Excessive,SIMILAR,example,
+7,26,hungry,famished,,,Dimensional Excessive,SIMILAR,example,
+7,26,attraction,lust,flowers,lust,Dimensional Excessive,SIMILAR,probe,2.0
+8,17,reduce,emissions,,,Change,SIMILAR,example,
+8,17,promotion,rank,,,Change,SIMILAR,example,
+8,17,accumulate,dust,,,Change,SIMILAR,example,
+8,17,rage,irritation,,,Change,SIMILAR,example,
+8,17,widen,gap,step,gap,Change,SIMILAR,probe,2.0
+9,-1,baseline,baseline,,,baseline,baseline,baseline,
+10,26,collecting,hoarding,,,Dimensional Excessive,SIMILAR,example,
+10,26,protective,possessive,,,Dimensional Excessive,SIMILAR,example,
+10,26,curious,nosy,,,Dimensional Excessive,SIMILAR,example,
+10,26,pain,agony,,,Dimensional Excessive,SIMILAR,example,
+10,26,snow,blizzard,flurry,blizzard,Dimensional Excessive,SIMILAR,probe,2.0
+11,10,fairy,wand,,,Agent:Instrument,CASE RELATIONS,example,
+11,10,barber,scissors,,,Agent:Instrument,CASE RELATIONS,example,
+11,10,hunter,rifle,,,Agent:Instrument,CASE RELATIONS,example,
+11,10,painter,roller,,,Agent:Instrument,CASE RELATIONS,example,
+11,10,student,pencil,pencil,homework,Agent:Instrument,CASE RELATIONS,probe,1.0
+12,17,lengthen,rope,,,Change,SIMILAR,example,
+12,17,boom,economy,,,Change,SIMILAR,example,
+12,17,fortify,defense,,,Change,SIMILAR,example,
+12,17,growth,revenue,,,Change,SIMILAR,example,
+12,17,soften,voice,stage,voice,Change,SIMILAR,probe,2.0
+13,-1,baseline,baseline,,,baseline,baseline,baseline,
+14,26,cold,frigid,,,Dimensional Excessive,SIMILAR,example,
+14,26,mist,fog,,,Dimensional Excessive,SIMILAR,example,
+14,26,competitive,cutthroat,,,Dimensional Excessive,SIMILAR,example,
+14,26,asking,interrogating,,,Dimensional Excessive,SIMILAR,example,
+14,26,breathing,hyperventilating,hyperventilating,lungs,Dimensional Excessive,SIMILAR,probe,1.0
+15,63,honey,yellow,,,things - color,Encyclopedic_semantics,example,
+15,63,plum,purple,,,things - color,Encyclopedic_semantics,example,
+15,63,coal,black,,,things - color,Encyclopedic_semantics,example,
+15,63,salmon,pink,,,things - color,Encyclopedic_semantics,example,
+15,63,lemon,yellow,green,yellow,things - color,Encyclopedic_semantics,probe,2.0
+16,10,conductor,baton,,,Agent:Instrument,CASE RELATIONS,example,
+16,10,batter,bat,,,Agent:Instrument,CASE RELATIONS,example,
+16,10,witch,cauldron,,,Agent:Instrument,CASE RELATIONS,example,
+16,10,chemist,beaker,,,Agent:Instrument,CASE RELATIONS,example,
+16,10,artist,paintbrush,studio,paintbrush,Agent:Instrument,CASE RELATIONS,probe,2.0
+17,26,particular,fussy,,,Dimensional Excessive,SIMILAR,example,
+17,26,talking,ranting,,,Dimensional Excessive,SIMILAR,example,
+17,26,assertive,aggressive,,,Dimensional Excessive,SIMILAR,example,
+17,26,unease,dread,,,Dimensional Excessive,SIMILAR,example,
+17,26,concern,alarm,care,alarm,Dimensional Excessive,SIMILAR,probe,2.0
+18,17,extend,deadline,,,Change,SIMILAR,example,
+18,17,erosion,shoreline,,,Change,SIMILAR,example,
+18,17,heighten,awareness,,,Change,SIMILAR,example,
+18,17,deposit,balance,,,Change,SIMILAR,example,
+18,17,leak,fuel,engine,fuel,Change,SIMILAR,probe,2.0
+19,-1,baseline,baseline,,,baseline,baseline,baseline,
+20,10,pitcher,baseball,,,Agent:Instrument,CASE RELATIONS,example,
+20,10,potter,wheel,,,Agent:Instrument,CASE RELATIONS,example,
+20,10,farmer,plow,,,Agent:Instrument,CASE RELATIONS,example,
+20,10,skier,poles,,,Agent:Instrument,CASE RELATIONS,example,
+20,10,jockey,whip,stable,whip,Agent:Instrument,CASE RELATIONS,probe,2.0
+21,63,sky,blue,,,things - color,Encyclopedic_semantics,example,
+21,63,coffee,brown,,,things - color,Encyclopedic_semantics,example,
+21,63,blackboard,black,,,things - color,Encyclopedic_semantics,example,
+21,63,sun,yellow,,,things - color,Encyclopedic_semantics,example,
+21,63,jade,green,green,blue,things - color,Encyclopedic_semantics,probe,1.0
+22,-1,baseline,baseline,,,baseline,baseline,baseline,
+23,10,shopper,cart,,,Agent:Instrument,CASE RELATIONS,example,
+23,10,cowboy,lasso,,,Agent:Instrument,CASE RELATIONS,example,
+23,10,umpire,whistle,,,Agent:Instrument,CASE RELATIONS,example,
+23,10,driver,car,,,Agent:Instrument,CASE RELATIONS,example,
+23,10,programmer,computer,office,computer,Agent:Instrument,CASE RELATIONS,probe,2.0
+24,17,enrich,soil,,,Change,SIMILAR,example,
+24,17,sharpen,blade,,,Change,SIMILAR,example,
+24,17,flood,water,,,Change,SIMILAR,example,
+24,17,goal,score,,,Change,SIMILAR,example,
+24,17,famine,food,food,village,Change,SIMILAR,probe,1.0
+25,63,leaves,green,,,things - color,Encyclopedic_semantics,example,
+25,63,eggplant,purple,,,things - color,Encyclopedic_semantics,example,
+25,63,fire,red,,,things - color,Encyclopedic_semantics,example,
+25,63,egg,white,,,things - color,Encyclopedic_semantics,example,
+25,63,pearl,white,white,red,things - color,Encyclopedic_semantics,probe,1.0

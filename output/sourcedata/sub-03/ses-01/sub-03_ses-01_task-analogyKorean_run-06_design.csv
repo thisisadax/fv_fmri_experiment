@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,1,숙고하다,충동적으로,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+1,1,움츠리다,자랑스럽게,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+1,1,낭비하다,효율적으로,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+1,1,살금살금 걷다,시끄럽게,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+1,1,시간을 끌다,즉시,즉시,반복해서,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,probe,1.0
+2,54,고아,입양,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+2,54,연금수급자,연금,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+2,54,교사,교원자격증,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+2,54,상속인,신탁,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+2,54,예금자,이자,저축,이자,Recipient:Instrument (Korean Localized),CASE RELATIONS,probe,2.0
+3,60,파스타,스파게티,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+3,60,통화,원,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+3,60,도형,삼각형,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+3,60,관목,철쭉,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+3,60,곡물,쌀,그릇,쌀,Taxonomic (Korean Localized),CLASS-INCLUSION,probe,2.0
+4,1,금지하다,부추기듯,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+4,1,부정하다,긍정적으로,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+4,1,움켜쥐다,헐겁게,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+4,1,부정행위하다,공정하게,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+4,1,자랑하다,겸손하게,겸손하게,대담하게,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,probe,1.0
+5,16,바람,침식,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+5,16,노화,주름,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+5,16,카페인,각성,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+5,16,교육,전문성,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+5,16,물주기,성장,성장,스프링클러,Cause:Effect (Korean Localized),CAUSE-PURPOSE,probe,1.0
+6,-1,baseline,baseline,,,baseline,baseline,baseline,
+7,54,환자,처방전,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+7,54,형사,배지,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+7,54,연구자,연구비,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+7,54,근로자,임금,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+7,54,운전자,운전면허증,보험증,운전면허증,Recipient:Instrument (Korean Localized),CASE RELATIONS,probe,2.0
+8,60,도구,망치,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+8,60,금속,금,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+8,60,차량,트럭,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+8,60,범죄,절도,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+8,60,자동차,밴,엔진,밴,Taxonomic (Korean Localized),CLASS-INCLUSION,probe,2.0
+9,-1,baseline,baseline,,,baseline,baseline,baseline,
+10,54,학생,장학금,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+10,54,보험가입자,보험금청구서,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+10,54,시장,선거,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+10,54,부모,양육권,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+10,54,소비자,캐시백,영수증,캐시백,Recipient:Instrument (Korean Localized),CASE RELATIONS,probe,2.0
+11,16,음악,휴식,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+11,16,반복,지루함,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+11,16,타격,부상,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+11,16,중력,낙하,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+11,16,가뭄,기근,목장,기근,Cause:Effect (Korean Localized),CAUSE-PURPOSE,probe,2.0
+12,-1,baseline,baseline,,,baseline,baseline,baseline,
+13,60,치즈,체더치즈,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+13,60,꽃,장미,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+13,60,계절,겨울,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+13,60,영장류,고릴라,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+13,60,운동선수,수영선수,수영장,수영선수,Taxonomic (Korean Localized),CLASS-INCLUSION,probe,2.0
+14,54,손님,초대장,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+14,54,공주,티아라,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+14,54,직원,근로계약서,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+14,54,인턴,수당,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+14,54,의사,학위증,학위증,병원,Recipient:Instrument (Korean Localized),CASE RELATIONS,probe,1.0
+15,1,덤벼들다,조심스럽게,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+15,1,속삭이다,큰 소리로,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+15,1,비굴하게 굽실거리다,대담하게,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+15,1,꾸물거리다,빠르게,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+15,1,거짓말하다,정직하게,이야기,정직하게,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,probe,2.0
+16,16,배고픔,짜증,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+16,16,운동,피로,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+16,16,샤워,청결,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+16,16,경험,자신감,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+16,16,베임,상처,칼,상처,Cause:Effect (Korean Localized),CAUSE-PURPOSE,probe,2.0
+17,54,주택소유자,소유권등기,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+17,54,여왕,왕좌,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+17,54,임대인,임대료,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+17,54,교수,정년보장,,,Recipient:Instrument (Korean Localized),CASE RELATIONS,example,
+17,54,주택구매자,주택담보대출,주택담보대출,계약금,Recipient:Instrument (Korean Localized),CASE RELATIONS,probe,1.0
+18,60,채소,당근,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+18,60,곤충,개미,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+18,60,모자,베레모,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+18,60,물고기,연어,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+18,60,무기,검,검,방패,Taxonomic (Korean Localized),CLASS-INCLUSION,probe,1.0
+19,-1,baseline,baseline,,,baseline,baseline,baseline,
+20,16,독서,지식,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+20,16,부주의,재난,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+20,16,분노,공격성,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+20,16,범죄,처벌,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+20,16,놀람,충격,충격,선물,Cause:Effect (Korean Localized),CAUSE-PURPOSE,probe,1.0
+21,1,망치다,전문가답게,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+21,1,애도하다,명랑하게,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+21,1,탈출하다,수동적으로,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+21,1,망설이다,단호하게,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+21,1,추측하다,확실히 알면서,거칠게,확실히 알면서,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,probe,2.0
+22,-1,baseline,baseline,,,baseline,baseline,baseline,
+23,60,차,캐모마일차,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+23,60,의류,셔츠,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+23,60,행성,화성,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+23,60,스포츠,테니스,,,Taxonomic (Korean Localized),CLASS-INCLUSION,example,
+23,60,장신구,반지,반지,상자,Taxonomic (Korean Localized),CLASS-INCLUSION,probe,1.0
+24,1,허우적거리다,우아하게,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+24,1,비명을 지르다,조용히,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+24,1,듣다,시끄럽게,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+24,1,축하하다,슬프게,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+24,1,철거하다,섬세하게,잔인하게,섬세하게,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,probe,2.0
+25,16,사고,피해,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+25,16,지진,파괴,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+25,16,성공,자부심,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+25,16,탈진,쓰러짐,,,Cause:Effect (Korean Localized),CAUSE-PURPOSE,example,
+25,16,상실,슬픔,추억,슬픔,Cause:Effect (Korean Localized),CAUSE-PURPOSE,probe,2.0

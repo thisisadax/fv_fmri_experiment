@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,1,휙 던지다,꼼꼼하게,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+1,1,거짓말하다,정직하게,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+1,1,서두르다,게으르게,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+1,1,느릿느릿 걷다,재빠르게,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+1,1,당황하다,침착하게,침착하게,거칠게,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,probe,1.0
+2,29,동전,주차미터기,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+2,29,화살,활,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+2,29,네트,배구,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+2,29,세제,식기세척기,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+2,29,얼음,스케이트,스케이트,추위,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,probe,1.0
+3,59,나타나다,출현하다,,,Synonymity (Korean Localized),SIMILAR,example,
+3,59,고르다,선택하다,,,Synonymity (Korean Localized),SIMILAR,example,
+3,59,상상하다,공상하다,,,Synonymity (Korean Localized),SIMILAR,example,
+3,59,울다,흐느끼다,,,Synonymity (Korean Localized),SIMILAR,example,
+3,59,이상하다,별나다,드물다,별나다,Synonymity (Korean Localized),SIMILAR,probe,2.0
+4,46,십일조,교회,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+4,46,형벌,범죄자,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+4,46,업데이트,사용자,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+4,46,시민권,이민자,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+4,46,졸업장,학생,학교,학생,Object:Recipient (Korean Localized),CASE RELATIONS,probe,2.0
+5,-1,baseline,baseline,,,baseline,baseline,baseline,
+6,29,바람,풍차,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+6,29,경유,발전기,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+6,29,스프링,트램펄린,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+6,29,패들,카누,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+6,29,줄,기타,코드,기타,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,probe,2.0
+7,46,공,리시버,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+7,46,팁,서빙직원,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+7,46,구호물자,난민,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+7,46,훈장,영웅,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+7,46,여권,신청자,도장,신청자,Object:Recipient (Korean Localized),CASE RELATIONS,probe,2.0
+8,-1,baseline,baseline,,,baseline,baseline,baseline,
+9,1,발음을 뭉개다,정확하게,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+9,1,명령하다,고분고분하게,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+9,1,부정행위하다,공정하게,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+9,1,시간을 끌다,즉시,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+9,1,소홀히 하다,꼼꼼하게,꼼꼼하게,반복해서,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,probe,1.0
+10,59,변호사,법률가,,,Synonymity (Korean Localized),SIMILAR,example,
+10,59,무섭다,두렵다,,,Synonymity (Korean Localized),SIMILAR,example,
+10,59,돌,암석,,,Synonymity (Korean Localized),SIMILAR,example,
+10,59,작다,조그맣다,,,Synonymity (Korean Localized),SIMILAR,example,
+10,59,기쁘다,즐겁다,자랑스럽다,즐겁다,Synonymity (Korean Localized),SIMILAR,probe,2.0
+11,46,학위,졸업생,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+11,46,초대장,손님,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+11,46,조언,의뢰인,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+11,46,쿠폰,쇼핑객,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+11,46,범칙금통지서,운전자,운전자,경찰관,Object:Recipient (Korean Localized),CASE RELATIONS,probe,1.0
+12,1,게으름 피우다,경쾌하게,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+12,1,망설이다,단호하게,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+12,1,터벅터벅 걷다,활기차게,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+12,1,절제하다,마음껏,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+12,1,철거하다,섬세하게,건물,섬세하게,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,probe,2.0
+13,-1,baseline,baseline,,,baseline,baseline,baseline,
+14,46,치료,환자,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+14,46,성과금,임원,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+14,46,보조금,농민,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+14,46,꽃,미망인,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+14,46,편지,수신인,집배원,수신인,Object:Recipient (Korean Localized),CASE RELATIONS,probe,2.0
+15,29,산소,불,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+15,29,자석,나침반,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+15,29,장작,벽난로,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+15,29,로프,도르래,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+15,29,회원권,헬스장,헬스장,트레이너,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,probe,1.0
+16,-1,baseline,baseline,,,baseline,baseline,baseline,
+17,59,겁주다,놀라게하다,,,Synonymity (Korean Localized),SIMILAR,example,
+17,59,닫다,폐쇄하다,,,Synonymity (Korean Localized),SIMILAR,example,
+17,59,못생기다,흉측하다,,,Synonymity (Korean Localized),SIMILAR,example,
+17,59,던지다,투척하다,,,Synonymity (Korean Localized),SIMILAR,example,
+17,59,졸다,선잠자다,베개,선잠자다,Synonymity (Korean Localized),SIMILAR,probe,2.0
+18,29,물,관개,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+18,29,모래,모래시계,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+18,29,산탄총 탄환,산탄총,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+18,29,도화선,다이너마이트,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+18,29,분필,칠판,스펀지,칠판,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,probe,2.0
+19,-1,baseline,baseline,,,baseline,baseline,baseline,
+20,59,이야기,스토리,,,Synonymity (Korean Localized),SIMILAR,example,
+20,59,아늑하다,포근하다,,,Synonymity (Korean Localized),SIMILAR,example,
+20,59,슬픔,비탄,,,Synonymity (Korean Localized),SIMILAR,example,
+20,59,급하다,다급하다,,,Synonymity (Korean Localized),SIMILAR,example,
+20,59,조용하다,고요하다,고요하다,도서관,Synonymity (Korean Localized),SIMILAR,probe,1.0
+21,1,비틀거리다,우아하게,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+21,1,쾅 닫다,가볍게,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+21,1,뛰어들다,조심스레,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+21,1,버리다,충성스럽게,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+21,1,엉망으로 하다,완벽하게,수리,완벽하게,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,probe,2.0
+22,29,증기,증기기관,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+22,29,여과기,수족관,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+22,29,렌즈,망원경,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+22,29,배터리,휴대폰,,,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,example,
+22,29,노,보트,좌석,보트,EnablingAgent:Object (Korean Localized),CAUSE-PURPOSE,probe,2.0
+23,46,연금,은퇴자,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+23,46,젖병,아기,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+23,46,표,후보,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+23,46,소환장,배심원,,,Object:Recipient (Korean Localized),CASE RELATIONS,example,
+23,46,부양비,배우자,배우자,지급자,Object:Recipient (Korean Localized),CASE RELATIONS,probe,1.0
+24,1,보다,눈을 감고,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+24,1,숙고하다,충동적으로,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+24,1,삐죽거리다,만족스럽게,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+24,1,껴안다,거리를 두고,,,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,example,
+24,1,빙빙 돌다,곧장,천천히,곧장,Action:Action Nonattribute (Korean Localized),NON-ATTRIBUTE,probe,2.0
+25,59,마르다,날씬하다,,,Synonymity (Korean Localized),SIMILAR,example,
+25,59,옵션,선택지,,,Synonymity (Korean Localized),SIMILAR,example,
+25,59,돕다,지원하다,,,Synonymity (Korean Localized),SIMILAR,example,
+25,59,조심스럽다,신중하다,,,Synonymity (Korean Localized),SIMILAR,example,
+25,59,떠나다,출발하다,출발하다,출입구,Synonymity (Korean Localized),SIMILAR,probe,1.0

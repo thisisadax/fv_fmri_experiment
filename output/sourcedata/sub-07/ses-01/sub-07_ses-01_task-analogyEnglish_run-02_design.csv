@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,32,hum,contentment,,,Expression,REFERENCE,example,
+1,32,tremble,fear,,,Expression,REFERENCE,example,
+1,32,squeal,excitement,,,Expression,REFERENCE,example,
+1,32,grin,delight,,,Expression,REFERENCE,example,
+1,32,mope,melancholy,loneliness,melancholy,Expression,REFERENCE,probe,2.0
+2,31,fundraiser,donations,,,Event:Feature,PART-WHOLE,example,
+2,31,symphony,conductor,,,Event:Feature,PART-WHOLE,example,
+2,31,picnic,snacks,,,Event:Feature,PART-WHOLE,example,
+2,31,wedding,bride,,,Event:Feature,PART-WHOLE,example,
+2,31,graduation,students,students,locker,Event:Feature,PART-WHOLE,probe,1.0
+3,-1,baseline,baseline,,,baseline,baseline,baseline,
+4,30,harness,parachute,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+4,30,ticket,airplane,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+4,30,key,car,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+4,30,paper,printer,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+4,30,electricity,television,television,outlet,EnablingAgent:Object,CAUSE-PURPOSE,probe,1.0
+5,32,moan,suffering,,,Expression,REFERENCE,example,
+5,32,smile,joy,,,Expression,REFERENCE,example,
+5,32,fidget,restlessness,,,Expression,REFERENCE,example,
+5,32,roar,fury,,,Expression,REFERENCE,example,
+5,32,growl,aggression,anger,aggression,Expression,REFERENCE,probe,2.0
+6,49,insoluble,dissolved,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+6,49,nonnegotiable,negotiated,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+6,49,unquenchable,extinguished,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+6,49,fearless,intimidated,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+6,49,insatiable,satisfied,hungry,satisfied,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,probe,2.0
+7,30,rope,pulley,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+7,30,coin,meter,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+7,30,wax,candle,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+7,30,engine,airplane,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+7,30,lease,apartment,apartment,landlord,EnablingAgent:Object,CAUSE-PURPOSE,probe,1.0
+8,-1,baseline,baseline,,,baseline,baseline,baseline,
+9,49,eternal,ended,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+9,49,unassailable,challenged,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+9,49,inflexible,bent,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+9,49,unrecognizable,identified,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+9,49,immeasurable,quantified,compared,quantified,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,probe,2.0
+10,32,slam,rage,,,Expression,REFERENCE,example,
+10,32,preen,vanity,,,Expression,REFERENCE,example,
+10,32,howl,anguish,,,Expression,REFERENCE,example,
+10,32,murmur,discontent,,,Expression,REFERENCE,example,
+10,32,handshake,cordiality,cordiality,agreement,Expression,REFERENCE,probe,1.0
+11,30,motor,fan,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+11,30,bait,trap,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+11,30,oil,lamp,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+11,30,bullet,gun,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+11,30,fuse,dynamite,dynamite,detonator,EnablingAgent:Object,CAUSE-PURPOSE,probe,1.0
+12,31,dance,music,,,Event:Feature,PART-WHOLE,example,
+12,31,potluck,casserole,,,Event:Feature,PART-WHOLE,example,
+12,31,trial,jury,,,Event:Feature,PART-WHOLE,example,
+12,31,coronation,crown,,,Event:Feature,PART-WHOLE,example,
+12,31,concert,musician,musician,actor,Event:Feature,PART-WHOLE,probe,1.0
+13,49,irreversible,undone,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+13,49,unsurpassable,exceeded,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+13,49,intangible,touched,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+13,49,infinite,exhausted,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+13,49,incurable,healed,healed,chronic,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,probe,1.0
+14,-1,baseline,baseline,,,baseline,baseline,baseline,
+15,32,tap,impatience,,,Expression,REFERENCE,example,
+15,32,shudder,horror,,,Expression,REFERENCE,example,
+15,32,whistle,cheerfulness,,,Expression,REFERENCE,example,
+15,32,sob,grief,,,Expression,REFERENCE,example,
+15,32,tears,sorrow,sorrow,onion,Expression,REFERENCE,probe,1.0
+16,49,rustproof,corroded,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+16,49,tamperproof,altered,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+16,49,incorrigible,reformed,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+16,49,irrecoverable,retrieved,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+16,49,incorruptible,bribed,bribed,tempted,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,probe,1.0
+17,31,race,finish line,,,Event:Feature,PART-WHOLE,example,
+17,31,reunion,classmates,,,Event:Feature,PART-WHOLE,example,
+17,31,workshop,tools,,,Event:Feature,PART-WHOLE,example,
+17,31,circus,clown,,,Event:Feature,PART-WHOLE,example,
+17,31,raffle,tickets,lottery,tickets,Event:Feature,PART-WHOLE,probe,2.0
+18,-1,baseline,baseline,,,baseline,baseline,baseline,
+19,49,impossible,achieved,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+19,49,unanswerable,answered,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+19,49,imperceptible,noticed,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+19,49,impermeable,penetrated,,,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,example,
+19,49,undeniable,refuted,refuted,obvious,ObjectAttribute:Noncondition (adjective:adjective),NON-ATTRIBUTE,probe,1.0
+20,30,hook,crane,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+20,30,blade,saw,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+20,30,chalk,chalkboard,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+20,30,filter,aquarium,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+20,30,battery,flashlight,charger,flashlight,EnablingAgent:Object,CAUSE-PURPOSE,probe,2.0
+21,31,gala,gowns,,,Event:Feature,PART-WHOLE,example,
+21,31,magic show,magician,,,Event:Feature,PART-WHOLE,example,
+21,31,memorial,flowers,,,Event:Feature,PART-WHOLE,example,
+21,31,interview,candidate,,,Event:Feature,PART-WHOLE,example,
+21,31,lecture,professor,librarian,professor,Event:Feature,PART-WHOLE,probe,2.0
+22,32,lie,dishonesty,,,Expression,REFERENCE,example,
+22,32,giggle,nervousness,,,Expression,REFERENCE,example,
+22,32,sneer,contempt,,,Expression,REFERENCE,example,
+22,32,weep,mourning,,,Expression,REFERENCE,example,
+22,32,whine,dissatisfaction,dissatisfaction,boredom,Expression,REFERENCE,probe,1.0
+23,-1,baseline,baseline,,,baseline,baseline,baseline,
+24,31,baptism,priest,,,Event:Feature,PART-WHOLE,example,
+24,31,baby shower,gifts,,,Event:Feature,PART-WHOLE,example,
+24,31,funeral,coffin,,,Event:Feature,PART-WHOLE,example,
+24,31,wrestling match,mat,,,Event:Feature,PART-WHOLE,example,
+24,31,bonfire,marshmallows,marshmallows,sparklers,Event:Feature,PART-WHOLE,probe,1.0
+25,30,shell,shotgun,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+25,30,string,guitar,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+25,30,ball,tennis,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+25,30,monitor,computer,,,EnablingAgent:Object,CAUSE-PURPOSE,example,
+25,30,pump,fountain,spray,fountain,EnablingAgent:Object,CAUSE-PURPOSE,probe,2.0

@@ -1,0 +1,106 @@
+trial_idx,relation_idx,word1,word2,option_1,option_2,relation_name,relation_category,trial_type,correct_response
+1,22,prince,king,,,Conversion,SIMILAR,example,
+1,22,barley,beer,,,Conversion,SIMILAR,example,
+1,22,princess,queen,,,Conversion,SIMILAR,example,
+1,22,draft,essay,,,Conversion,SIMILAR,example,
+1,22,metal,coin,coin,mint,Conversion,SIMILAR,probe,1.0
+2,55,bidder,auction,,,Recipient:Instrument,CASE RELATIONS,example,
+2,55,veteran,benefits,,,Recipient:Instrument,CASE RELATIONS,example,
+2,55,contestant,prize,,,Recipient:Instrument,CASE RELATIONS,example,
+2,55,heir,trust,,,Recipient:Instrument,CASE RELATIONS,example,
+2,55,widow,insurance,inheritance,insurance,Recipient:Instrument,CASE RELATIONS,probe,2.0
+3,25,flaw,diamond,,,Defective,CONTRAST,example,
+3,25,cavity,tooth,,,Defective,CONTRAST,example,
+3,25,crack,glass,,,Defective,CONTRAST,example,
+3,25,miscarriage,pregnancy,,,Defective,CONTRAST,example,
+3,25,run-on,sentence,comma,sentence,Defective,CONTRAST,probe,2.0
+4,8,protective,guard,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+4,8,magnetic,attract,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+4,8,resilient,recover,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+4,8,acidic,corrode,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+4,8,ambitious,strive,strive,career,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,probe,1.0
+5,55,physician,degree,,,Recipient:Instrument,CASE RELATIONS,example,
+5,55,queen,throne,,,Recipient:Instrument,CASE RELATIONS,example,
+5,55,consumer,rebate,,,Recipient:Instrument,CASE RELATIONS,example,
+5,55,tenant,key,,,Recipient:Instrument,CASE RELATIONS,example,
+5,55,landlord,rent,tenant,rent,Recipient:Instrument,CASE RELATIONS,probe,2.0
+6,-1,baseline,baseline,,,baseline,baseline,baseline,
+7,22,kitten,cat,,,Conversion,SIMILAR,example,
+7,22,calf,cow,,,Conversion,SIMILAR,example,
+7,22,cucumber,pickle,,,Conversion,SIMILAR,example,
+7,22,maggot,fly,,,Conversion,SIMILAR,example,
+7,22,child,adult,toy,adult,Conversion,SIMILAR,probe,2.0
+8,8,bold,dare,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+8,8,tired,sleep,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+8,8,sly,deceive,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+8,8,rough,scratch,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+8,8,explosive,detonate,detonate,burst,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,probe,1.0
+9,-1,baseline,baseline,,,baseline,baseline,baseline,
+10,25,rot,foundation,,,Defective,CONTRAST,example,
+10,25,static,signal,,,Defective,CONTRAST,example,
+10,25,scuff,shoe,,,Defective,CONTRAST,example,
+10,25,distortion,sound,,,Defective,CONTRAST,example,
+10,25,cataract,eye,eye,cornea,Defective,CONTRAST,probe,1.0
+11,8,curious,explore,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+11,8,loyal,defend,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+11,8,impatient,rush,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+11,8,hungry,eat,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+11,8,fearful,tremble,flinch,tremble,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,probe,2.0
+12,55,worker,wage,,,Recipient:Instrument,CASE RELATIONS,example,
+12,55,researcher,grant,,,Recipient:Instrument,CASE RELATIONS,example,
+12,55,client,voucher,,,Recipient:Instrument,CASE RELATIONS,example,
+12,55,investor,dividend,,,Recipient:Instrument,CASE RELATIONS,example,
+12,55,renter,lease,application,lease,Recipient:Instrument,CASE RELATIONS,probe,2.0
+13,-1,baseline,baseline,,,baseline,baseline,baseline,
+14,22,bud,flower,,,Conversion,SIMILAR,example,
+14,22,water,steam,,,Conversion,SIMILAR,example,
+14,22,cocoa,chocolate,,,Conversion,SIMILAR,example,
+14,22,girlfriend,wife,,,Conversion,SIMILAR,example,
+14,22,recruit,soldier,officer,soldier,Conversion,SIMILAR,probe,2.0
+15,25,tear,page,,,Defective,CONTRAST,example,
+15,25,hangnail,fingertip,,,Defective,CONTRAST,example,
+15,25,weed,lawn,,,Defective,CONTRAST,example,
+15,25,error,calculation,,,Defective,CONTRAST,example,
+15,25,lisp,pronunciation,tongue,pronunciation,Defective,CONTRAST,probe,2.0
+16,55,king,crown,,,Recipient:Instrument,CASE RELATIONS,example,
+16,55,traveler,visa,,,Recipient:Instrument,CASE RELATIONS,example,
+16,55,hunter,permit,,,Recipient:Instrument,CASE RELATIONS,example,
+16,55,author,royalty,,,Recipient:Instrument,CASE RELATIONS,example,
+16,55,driver,license,license,registration,Recipient:Instrument,CASE RELATIONS,probe,1.0
+17,-1,baseline,baseline,,,baseline,baseline,baseline,
+18,8,nosy,pry,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+18,8,clumsy,stumble,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+18,8,coarse,scrape,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+18,8,wobbly,topple,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+18,8,stiff,resist,joint,resist,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,probe,2.0
+19,25,pothole,road,,,Defective,CONTRAST,example,
+19,25,misspelling,word,,,Defective,CONTRAST,example,
+19,25,bubble,paint,,,Defective,CONTRAST,example,
+19,25,typo,text,,,Defective,CONTRAST,example,
+19,25,streak,window,sill,window,Defective,CONTRAST,probe,2.0
+20,55,citizen,welfare,,,Recipient:Instrument,CASE RELATIONS,example,
+20,55,diner,reservation,,,Recipient:Instrument,CASE RELATIONS,example,
+20,55,student,scholarship,,,Recipient:Instrument,CASE RELATIONS,example,
+20,55,company,investment,,,Recipient:Instrument,CASE RELATIONS,example,
+20,55,patient,prescription,prescription,pharmacy,Recipient:Instrument,CASE RELATIONS,probe,1.0
+21,22,prototype,product,,,Conversion,SIMILAR,example,
+21,22,sap,syrup,,,Conversion,SIMILAR,example,
+21,22,cabbage,sauerkraut,,,Conversion,SIMILAR,example,
+21,22,boyfriend,husband,,,Conversion,SIMILAR,example,
+21,22,wax,candle,candle,lantern,Conversion,SIMILAR,probe,1.0
+22,-1,baseline,baseline,,,baseline,baseline,baseline,
+23,25,impurity,water,,,Defective,CONTRAST,example,
+23,25,loophole,contract,,,Defective,CONTRAST,example,
+23,25,arrhythmia,heartbeat,,,Defective,CONTRAST,example,
+23,25,scratch,table,,,Defective,CONTRAST,example,
+23,25,noise,recording,recording,hiss,Defective,CONTRAST,probe,1.0
+24,22,acorn,oak,,,Conversion,SIMILAR,example,
+24,22,clay,pottery,,,Conversion,SIMILAR,example,
+24,22,cotton,fabric,,,Conversion,SIMILAR,example,
+24,22,plum,prune,,,Conversion,SIMILAR,example,
+24,22,sugarcane,sugar,honey,sugar,Conversion,SIMILAR,probe,2.0
+25,8,thirsty,drink,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+25,8,nervous,fidget,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+25,8,kind,help,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+25,8,terrified,scream,,,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,example,
+25,8,fragile,break,chip,break,Agent/ObjectAttribute:Typical Action,ATTRIBUTE,probe,2.0
