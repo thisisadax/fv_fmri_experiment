@@ -51,13 +51,13 @@ MONITOR_NAME = 'testMonitor'
 UNITS = 'deg'
 
 BACKGROUND_COLOR = [0, 0, 0]
-TEXT_COLOR = 'white'
+TEXT_COLOR = 'black'
 FIXATION_COLOR = 'white'
 
 WORD_HEIGHT = 1.0
-INSTRUCTION_HEIGHT = 0.8
+INSTRUCTION_HEIGHT = 1.0
 INSTRUCTION_WRAP_WIDTH = 45
-FIXATION_SIZE = 0.8
+FIXATION_SIZE = 1.0
 
 # Text formatting
 COLON_SPACING = " "
@@ -68,7 +68,7 @@ AFC_OPTION_HEIGHT = 1.2
 
 # Font (language-specific)
 FONT_NAME = 'Courier New'
-FONT_NAME_KOREAN = 'AppleGothic'  # macOS font that works well for Korean text; fallback to system if unavailable
+FONT_NAME_KOREAN = 'Malgun Gothic'  # macOS font that works well for Korean text; fallback to system if unavailable
 
 # Data paths (BIDS format)
 OUTPUT_DIR = "output"
