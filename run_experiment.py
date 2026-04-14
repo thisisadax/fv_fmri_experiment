@@ -36,7 +36,7 @@ class AnalogyExperiment:
         
         # Init Window
         self.win = visual.Window(
-            size=cfg.WINDOW_SIZE, fullscr=cfg.FULLSCREEN, screen=0,
+            size=cfg.WINDOW_SIZE, fullscr=cfg.FULLSCREEN, screen=1,
             monitor=cfg.MONITOR_NAME, units=cfg.UNITS, color=cfg.BACKGROUND_COLOR,
             waitBlanking=True, allowGUI=False
         )
