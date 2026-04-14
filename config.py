@@ -7,9 +7,9 @@ Contains timing, display, button mappings, and scanner parameters.
 # Timing (seconds)
 N_EXAMPLES_PER_BLOCK = 4
 N_PROBES_PER_BLOCK = 1
-EXAMPLE_DURATION = 1.5
+EXAMPLE_DURATION = 2.0 
 WORD_DURATION = EXAMPLE_DURATION / 2  # each word shown for half the pair duration
-ISI = 0.25  # ISI between successive examples/probes
+ISI = 0.0  # ISI between successive examples/probes
 BLOCK_DURATION = 12.0
 TR_DURATION = 1.4
 MAX_RESPONSE_TIME = 4.0
