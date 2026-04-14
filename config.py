@@ -41,7 +41,7 @@ SCANNER_SETTINGS = {
 # Response keys
 QUIT_KEYS = ['escape']
 BUTTON_UPPER = '1'
-BUTTON_LOWER = '4'
+BUTTON_LOWER = '2'
 RESPONSE_KEYS = [BUTTON_UPPER, BUTTON_LOWER]
 
 # Display
@@ -106,8 +106,8 @@ The experiment will begin shortly.
 2. 그런 다음, 한 단어와 두 개의 선택지를 보게 됩니다.
 3. 이전 쌍들이 공유하는 관계와 가장 일치한다고 생각되는 선택지를 선택해 주세요. 최선을 다해 응답해 주시면 됩니다.
 
-위쪽 옵션은 위쪽 버튼을 누르세요.
-아래쪽 옵션은 아래쪽 버튼을 누르세요.
+위쪽 옵션은 1번 버튼을 누르세요.
+아래쪽 옵션은 2번 버튼을 누르세요.
 
 휴식 기간 동안에는 긴장을 풀고, 마음을 비우고, 중앙의 십자가에 시선을 고정해 주세요.
 
