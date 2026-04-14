@@ -116,7 +116,7 @@ class AnalogyExperiment:
                 self.stim['hint'].draw()
                 self.win.flip()
                 # Wait for key, allowing escape
-                keys = event.waitKeys(keyList=['space', 'enter', 'return', 'escape'])
+                keys = event.waitKeys(keyList=['1','2','space', 'enter', 'return', 'escape'])
                 if 'escape' in keys:
                     self._close()
 
