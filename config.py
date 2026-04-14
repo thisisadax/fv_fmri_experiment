@@ -7,9 +7,9 @@ Contains timing, display, button mappings, and scanner parameters.
 # Timing (seconds)
 N_EXAMPLES_PER_BLOCK = 4
 N_PROBES_PER_BLOCK = 1
-EXAMPLE_DURATION = 1.5
+EXAMPLE_DURATION = 2.0 
 WORD_DURATION = EXAMPLE_DURATION / 2  # each word shown for half the pair duration
-ISI = 0.25  # ISI between successive examples/probes
+ISI = 0.0  # ISI between successive examples/probes
 BLOCK_DURATION = 12.0
 TR_DURATION = 1.4
 MAX_RESPONSE_TIME = 4.0
@@ -41,7 +41,7 @@ SCANNER_SETTINGS = {
 # Response keys
 QUIT_KEYS = ['escape']
 BUTTON_UPPER = '1'
-BUTTON_LOWER = '4'
+BUTTON_LOWER = '2'
 RESPONSE_KEYS = [BUTTON_UPPER, BUTTON_LOWER]
 
 # Display
@@ -51,13 +51,13 @@ MONITOR_NAME = 'testMonitor'
 UNITS = 'deg'
 
 BACKGROUND_COLOR = [0, 0, 0]
-TEXT_COLOR = 'white'
+TEXT_COLOR = 'black'
 FIXATION_COLOR = 'white'
 
 WORD_HEIGHT = 1.0
-INSTRUCTION_HEIGHT = 0.8
+INSTRUCTION_HEIGHT = 1.0
 INSTRUCTION_WRAP_WIDTH = 45
-FIXATION_SIZE = 0.8
+FIXATION_SIZE = 1.0
 
 # Text formatting
 COLON_SPACING = " "
@@ -68,7 +68,7 @@ AFC_OPTION_HEIGHT = 1.2
 
 # Font (language-specific)
 FONT_NAME = 'Courier New'
-FONT_NAME_KOREAN = 'AppleGothic'  # macOS font that works well for Korean text; fallback to system if unavailable
+FONT_NAME_KOREAN = 'Malgun Gothic'  # macOS font that works well for Korean text; fallback to system if unavailable
 
 # Data paths (BIDS format)
 OUTPUT_DIR = "output"
@@ -106,8 +106,8 @@ The experiment will begin shortly.
 2. 그런 다음, 한 단어와 두 개의 선택지를 보게 됩니다.
 3. 이전 쌍들이 공유하는 관계와 가장 일치한다고 생각되는 선택지를 선택해 주세요. 최선을 다해 응답해 주시면 됩니다.
 
-위쪽 옵션은 위쪽 버튼을 누르세요.
-아래쪽 옵션은 아래쪽 버튼을 누르세요.
+위쪽 옵션은 1번 버튼을 누르세요.
+아래쪽 옵션은 2번 버튼을 누르세요.
 
 휴식 기간 동안에는 긴장을 풀고, 마음을 비우고, 중앙의 십자가에 시선을 고정해 주세요.
 
