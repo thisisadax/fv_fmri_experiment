@@ -255,7 +255,8 @@ class AnalogyExperiment:
 
     def run(self):
         try:
-            self.show_instructions()
+            if self.p_info['run'] == 1:
+              self.show_instructions()  
             # Scanner Sync
             self.scanner.wait_for_start()
             self.logger.start()
