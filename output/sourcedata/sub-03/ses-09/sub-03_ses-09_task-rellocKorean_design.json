@@ -1,0 +1,259 @@
+{
+  "subject": "sub-03",
+  "session": "ses-09",
+  "seed": 1001,
+  "generator_sha256": "8c9746a3c141a9cd9b05a494994e4320494610720bc54cac4ff840fba92473e4",
+  "tasks": {
+    "relsem": [
+      "rel_far",
+      "sem_far"
+    ],
+    "reldist": [
+      "rel_near",
+      "rel_far"
+    ]
+  },
+  "runs": {
+    "relsem": 4,
+    "reldist": 4
+  },
+  "item_table": "items.tsv",
+  "item_table_sha256": "7cabd1269d38144e3dbf45f19a010303672f15f46e8ea4ec12953d53659c5cab",
+  "n_volumes": 215,
+  "tr": 1.4,
+  "screens": {
+    "fixation": 0.25,
+    "word_a": 0.5,
+    "pair": 1.25,
+    "word_c": 0.5,
+    "options": 3.0,
+    "post": 0.5
+  },
+  "cue_s": 2.0,
+  "fixation_s": {
+    "lead": 10.0,
+    "mid": 12.0,
+    "end": 14.0
+  },
+  "blocks_per_cell": 5,
+  "trials_per_block": 4,
+  "run_s": 296.0,
+  "n_scans_model": 212,
+  "orders": {
+    "relsem-01": [
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    "reldist-01": [
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    "relsem-02": [
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1
+    ],
+    "reldist-02": [
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1
+    ],
+    "relsem-03": [
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    "reldist-03": [
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    "relsem-04": [
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1
+    ],
+    "reldist-04": [
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1
+    ]
+  },
+  "acquisition_order": [
+    "relsem-01",
+    "reldist-01",
+    "relsem-02",
+    "reldist-02",
+    "relsem-03",
+    "reldist-03",
+    "relsem-04",
+    "reldist-04"
+  ],
+  "efficiency": {
+    "relsem-01": {
+      "difference": 23.0888768214061,
+      "first": 7.5392624132341926,
+      "second": 7.695307626351397
+    },
+    "reldist-01": {
+      "difference": 23.0888768214061,
+      "first": 7.5392624132341926,
+      "second": 7.695307626351397
+    },
+    "relsem-02": {
+      "difference": 23.088876821406107,
+      "first": 7.695307626351399,
+      "second": 7.539262413234194
+    },
+    "reldist-02": {
+      "difference": 23.088876821406107,
+      "first": 7.695307626351399,
+      "second": 7.539262413234194
+    },
+    "relsem-03": {
+      "difference": 23.0888768214061,
+      "first": 7.5392624132341926,
+      "second": 7.695307626351397
+    },
+    "reldist-03": {
+      "difference": 23.0888768214061,
+      "first": 7.5392624132341926,
+      "second": 7.695307626351397
+    },
+    "relsem-04": {
+      "difference": 23.088876821406107,
+      "first": 7.695307626351399,
+      "second": 7.539262413234194
+    },
+    "reldist-04": {
+      "difference": 23.088876821406107,
+      "first": 7.695307626351399,
+      "second": 7.539262413234194
+    }
+  },
+  "efficiency_all_orders": {
+    "max": 23.088876821406107,
+    "second": 23.0888768214061,
+    "best_non_alternating": 21.940198896202382,
+    "median": 15.40951510620567,
+    "min": 2.942142183195093,
+    "n": 252
+  },
+  "assignment_imbalance": 0.006025625721106897,
+  "diagnostics": {
+    "n_trials": 320,
+    "trials_per_task_cell": {
+      "reldist/rel_far": 80,
+      "reldist/rel_near": 80,
+      "relsem/rel_far": 80,
+      "relsem/sem_far": 80
+    },
+    "upper_rate": 0.5,
+    "longest_position_run": 3,
+    "max_word_repetition": 1,
+    "words_shown": 1600,
+    "relations": 16
+  },
+  "settings": {
+    "items": "/scratch/gpfs/JDC/declan/neuroICL/.work/fmri/tmp/localizers/fv_fmri_experiment/data/localizer/korean/items.tsv",
+    "practice_items": null,
+    "subject": "03",
+    "session": 9,
+    "seed": 1001,
+    "relsem_runs": 4,
+    "reldist_runs": 4,
+    "output_dir": "/scratch/gpfs/JDC/declan/neuroICL/.work/fmri/tmp/localizers/fv_fmri_experiment/output",
+    "response_window": 3.0,
+    "match_columns": [
+      "klue_margin",
+      "krsbert_margin",
+      "lo_rel4",
+      "lo_syn4",
+      "d_rel_zipf",
+      "zipf_diff",
+      "d_rel_syllables",
+      "c_zipf",
+      "source_syllables",
+      "source_zipf",
+      "lo_prior",
+      "typ_pmi"
+    ],
+    "relsem_match_columns": [
+      "pair_sim",
+      "lo_rel1",
+      "shortcut"
+    ],
+    "assignment_draws": 2000,
+    "run_draws": 500,
+    "practice_feedback": 1.0,
+    "practice_rest": 4.0
+  },
+  "files": {
+    "sub-03_ses-09_task-relsemKorean_run-01_design.csv": "eec29756838a69f620c2d8b4903c062e5e08fde2fbdfbd5cc8a0f33b76303ae8",
+    "sub-03_ses-09_task-reldistKorean_run-01_design.csv": "042d81d2f7b6ad56e2c5977993c0bdbf2c848017bf0deb2f17dd4c2b5243b134",
+    "sub-03_ses-09_task-relsemKorean_run-02_design.csv": "f13b0db637b971c2140d68b40669376fc0a09c7b9a7346f7dab2eb89da845761",
+    "sub-03_ses-09_task-reldistKorean_run-02_design.csv": "e3ad45d6e26c42b99cc20d4d47ac8ece856d83bb1f93057fc0a95ee8c347d2b3",
+    "sub-03_ses-09_task-relsemKorean_run-03_design.csv": "a3697083af28a6b0400692f0d3d880d42c7fad7f14893c811775d1aca1618fc2",
+    "sub-03_ses-09_task-reldistKorean_run-03_design.csv": "7efdeafa5f463c3cb8fc48b428a40a6569e221b802ea2f02c61af13b0ccd91be",
+    "sub-03_ses-09_task-relsemKorean_run-04_design.csv": "18e2890d0877ab8b24acf50fd18ac5660dea5f65fcf5fba9c5eeb56265069c36",
+    "sub-03_ses-09_task-reldistKorean_run-04_design.csv": "a8f6707e83765f088335dcea46005781828de9b7b693d926e1100a574714bbe6"
+  }
+}

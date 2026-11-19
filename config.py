@@ -129,3 +129,73 @@ CONTINUE_HINT_TEXT = {
     'english': "(press any button to continue)",
     'korean': "(계속하려면 아무 버튼이나 누르세요)"
 }
+
+
+# ---------------------------------------------------------------------------
+# Relational localizers (tasks relsem and reldist; run_localizer.py)
+# ---------------------------------------------------------------------------
+
+LOC_TASKS = ("relsem", "reldist")  # relational vs semantic completion; relational near vs far
+LOC_PRACTICE_TASK = "relloc"  # practice design name (both tasks' cells, with feedback)
+LOC_N_VOLUMES = 215  # 296 s run = 212 volumes at TR 1.4 s, plus 3 spare
+LOC_TRIAL_SCREENS = {"fixation": 0.25, "word_a": 0.50, "pair": 1.25, "word_c": 0.50, "options": 3.00, "post": 0.50}
+LOC_FLIP_LEAD = 0.008  # request each flip this long before its planned onset (half a 60 Hz frame)
+LOC_PRACTICE_CRITERION = 0.80  # scan only after this practice accuracy under both rules
+
+LOC_RULE_CUES = {"korean": {"rel": "관계", "sem": "의미"}, "english": {"rel": "RELATION", "sem": "MEANING"}}
+LOC_CUE_HEIGHT = 1.6  # deg, rule word on the 2 s cue screen
+LOC_RULE_LABEL_HEIGHT = 0.7  # deg, rule word kept above the trial display
+LOC_RULE_LABEL_Y = 3.5  # deg
+LOC_RULE_LABEL_COLOR = [0.4, 0.4, 0.4]
+
+LOC_FEEDBACK_TEXT = {
+    "korean": {"correct": "정답", "incorrect": "오답", "timeout": "시간 초과"},
+    "english": {"correct": "Correct", "incorrect": "Incorrect", "timeout": "Too slow"},
+}
+LOC_FEEDBACK_COLORS = {"correct": [-1, 0.4, -1], "incorrect": [0.6, -1, -1], "timeout": "black"}
+
+LOC_RUN_INTRO = {
+    "korean": {
+        "relsem": "이번 런에서는 '관계' 블록과 '의미' 블록이 번갈아 나옵니다.\n\n각 블록 처음에 나오는 규칙 단어를 확인하세요.",
+        "reldist": "이번 런에서는 모든 블록이 '관계' 블록입니다.\n\nA 와 B 의 관계를 C 에 적용해 단어를 고르세요.",
+    },
+    "english": {
+        "relsem": "In this run, RELATION and MEANING blocks alternate.\n\nCheck the rule word at the start of each block.",
+        "reldist": "In this run, every block is a RELATION block.\n\nApply the A : B relation to C to choose the word.",
+    },
+}
+
+LOC_INSTRUCTIONS = {
+    "korean": """
+이 과제에서는 블록마다 주어지는 규칙에 따라 단어를 고릅니다.
+
+각 블록은 규칙 단어로 시작하며, 규칙 단어는 블록이 끝날 때까지 화면 위쪽에 표시됩니다.
+
+먼저 단어 쌍 A : B 가 나오고, 이어서 단어 C 와 두 개의 선택지가 나옵니다.
+
+'관계' 블록: A 와 B 의 관계를 생각한 뒤, C 와 같은 관계를 이루는 단어를 고르세요.
+
+'의미' 블록: A : B 와 상관없이, C 와 의미가 가장 가까운 단어를 고르세요.
+
+위쪽 단어는 1번 버튼, 아래쪽 단어는 2번 버튼을 누르세요. 선택지가 사라지기 전에 정확하고 빠르게 응답해 주세요.
+
+십자가가 보이면 십자가를 바라보며 쉬어 주세요.
+""",
+    "english": """
+In this task you choose words by the rule shown at the start of each block.
+
+The rule word stays at the top of the screen until the block ends.
+
+First a word pair A : B appears, then a word C with two options.
+
+RELATION blocks: think about how A and B are related, then choose the word that relates to C in the same way.
+
+MEANING blocks: regardless of A : B, choose the word closest in meaning to C.
+
+Press the UPPER button for the upper word and the LOWER button for the lower word. Answer accurately and quickly, before the options disappear.
+
+When you see the cross, rest and look at the cross.
+""",
+}
+
+LOC_END_TEXT = {"korean": "이번 런이 끝났습니다. 감사합니다!", "english": "Run complete. Thank you!"}

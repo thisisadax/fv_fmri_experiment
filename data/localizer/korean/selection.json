@@ -1,0 +1,222 @@
+{
+  "flags": {
+    "lo_rel1_lt_1": 49,
+    "lo_rel4_lt_1": 30,
+    "lo_syn4_le_0": 30,
+    "subtype_mismatch": 49
+  },
+  "means_by_distance": {
+    "far": {
+      "klue_margin": 0.11243992755375,
+      "krsbert_margin": 0.18276688615375,
+      "lo_rel1": 2.7107655899787497,
+      "lo_rel4": 4.98134372374875,
+      "lo_syn4": 4.110111004745834,
+      "pair_sim": 0.4178074225125,
+      "shortcut": -0.008246751017708333,
+      "source_syllables": 6.058333333333334,
+      "source_zipf": 4.089621848739496
+    },
+    "near": {
+      "klue_margin": 0.10538260805625002,
+      "krsbert_margin": 0.1866485892375,
+      "lo_rel1": 7.1708787273312495,
+      "lo_rel4": 6.69475610859875,
+      "lo_syn4": 5.8847281411025,
+      "pair_sim": 0.717135789235625,
+      "shortcut": 0.09064387730375,
+      "source_syllables": 6.8125,
+      "source_zipf": 4.126518987341772
+    }
+  },
+  "mip_status": "Optimization terminated successfully. (HiGHS Status 7: Optimal)",
+  "needed": {
+    "far": 240,
+    "near": 80
+  },
+  "outputs_sha256": {
+    "backup_items.tsv": "bc61e824612243825dbc70d4646cead8839e561257c4fac59152230a01e57b74",
+    "items.tsv": "7cabd1269d38144e3dbf45f19a010303672f15f46e8ea4ec12953d53659c5cab",
+    "practice_items.tsv": "e19123a8af494c8e892b0e4d84948c36d112d985cee03ac0efb97cbd3e435206"
+  },
+  "parameters": {
+    "base_selection": "ext-unique-s4d4t20",
+    "collision_strategy": "swap_backups_first",
+    "excluded_unfinished_review_nos": [
+      44,
+      163,
+      203,
+      236,
+      327,
+      355,
+      357
+    ],
+    "reldist_runs": 4,
+    "relsem_runs": 4,
+    "review_items_csv": "TRANSFER/localizers/relloc_items_review.csv",
+    "review_texts_csv": "TRANSFER/localizers/relloc_texts_review.csv",
+    "trials_per_cell": 20
+  },
+  "per_relation": {
+    "Action:Object Nonattribute": {
+      "backups": 1,
+      "far": 12,
+      "m": 6,
+      "near": 6,
+      "s": 3
+    },
+    "Action:Recipient": {
+      "backups": 3,
+      "far": 17,
+      "m": 9,
+      "near": 9,
+      "s": 4
+    },
+    "Action:Resultant Attribute (verb:noun/adjective)": {
+      "backups": 3,
+      "far": 16,
+      "m": 4,
+      "near": 4,
+      "s": 6
+    },
+    "Agent/ObjectAttribute:Typical Action": {
+      "backups": 2,
+      "far": 12,
+      "m": 6,
+      "near": 6,
+      "s": 3
+    },
+    "Asymmetric Contrary": {
+      "backups": 0,
+      "far": 18,
+      "m": 10,
+      "near": 10,
+      "s": 4
+    },
+    "Contiguity": {
+      "backups": 0,
+      "far": 12,
+      "m": 4,
+      "near": 4,
+      "s": 4
+    },
+    "Contrary": {
+      "backups": 0,
+      "far": 11,
+      "m": 1,
+      "near": 1,
+      "s": 5
+    },
+    "Coordinates": {
+      "backups": 0,
+      "far": 7,
+      "m": 1,
+      "near": 1,
+      "s": 3
+    },
+    "Incompatible": {
+      "backups": 2,
+      "far": 12,
+      "m": 8,
+      "near": 8,
+      "s": 2
+    },
+    "Item:Distinctive Nonpart": {
+      "backups": 2,
+      "far": 22,
+      "m": 2,
+      "near": 2,
+      "s": 10
+    },
+    "Item:Location": {
+      "backups": 1,
+      "far": 21,
+      "m": 5,
+      "near": 5,
+      "s": 8
+    },
+    "Object Attribute:Condition": {
+      "backups": 4,
+      "far": 17,
+      "m": 9,
+      "near": 9,
+      "s": 4
+    },
+    "Object:Component": {
+      "backups": 0,
+      "far": 15,
+      "m": 3,
+      "near": 3,
+      "s": 6
+    },
+    "Plural Collective": {
+      "backups": 0,
+      "far": 11,
+      "m": 1,
+      "near": 1,
+      "s": 5
+    },
+    "Pseudoantonym": {
+      "backups": 3,
+      "far": 18,
+      "m": 10,
+      "near": 10,
+      "s": 4
+    },
+    "Singular Collective": {
+      "backups": 0,
+      "far": 19,
+      "m": 1,
+      "near": 1,
+      "s": 9
+    }
+  },
+  "provenance": {
+    "inputs": [
+      {
+        "path": "TRANSFER/localizers/relloc_items_review.csv",
+        "sha256": "a7df8f0dd38725dfe97c40ea436aaa08be2b2138a33dd636b9b6ff1e38d6446c"
+      },
+      {
+        "path": "TRANSFER/localizers/relloc_texts_review.csv",
+        "sha256": "e04bdd051da1a2a2d32facffd2c8487dca7f9a64639728093c71e3207115bbf1"
+      },
+      {
+        "path": "src/fmri/tmp/localizers/artifacts/selection/ext-unique-s4d4t20/items.tsv",
+        "sha256": "df10ae42e47bd542eceb0e4cb07eb813819ce69a63c87133e9762a18f7c3a050"
+      },
+      {
+        "path": "src/fmri/tmp/localizers/artifacts/selection/ext-unique-s4d4t20/backup_items.tsv",
+        "sha256": "acb3a31415d351aba62f454a702cf54a7cb34901d4e14c3ffd069d492447c5eb"
+      },
+      {
+        "path": "src/fmri/tmp/localizers/artifacts/selection/ext-unique-s4d4t20/practice_items.tsv",
+        "sha256": "f7fab05b29a6e49707caddb0637c217daa7766da43710c023e34849c3451b2d4"
+      }
+    ],
+    "interpreter": "/scratch/gpfs/JDC/shared/python/venvs/neuro/bin/python",
+    "packages": {
+      "numpy": "2.4.6",
+      "pandas": "3.0.2",
+      "scipy": "1.17.1"
+    },
+    "python": "3.13.9",
+    "script": {
+      "path": "src/fmri/tmp/localizers/apply_review.py",
+      "sha256": "f4c2262e7f12169c91e152e7e5aadf6bbe2b19a15b0f249336a4ebc0607ac424"
+    },
+    "written_utc": "2026-11-19T18:09:20Z"
+  },
+  "totals": {
+    "backups_swapped_in": 26,
+    "far": 240,
+    "frames": 320,
+    "near": 80,
+    "practice": 32,
+    "practice_filled_from_pool": 8,
+    "practice_kept_from_review": 24,
+    "remaining_backups": 21,
+    "scanner_kept": 294,
+    "words_shown": 1600
+  }
+}

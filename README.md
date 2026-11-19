@@ -105,3 +105,31 @@ Run accuracy (excluding baseline) is printed to the console at the end of each r
 - **macOS**: should work out of the box with the default `AppleGothic` Korean font.
 - **Windows/Linux**: update `FONT_NAME_KOREAN` in `config.py` to a monospace Korean font available on the system (e.g., `'Malgun Gothic'` on Windows).
 - The experiment has been tested with **PsychoPy 2025.1.1** (Python 3.10). See `requirements.txt` for full dependencies.
+
+---
+
+## Relational Localizers (`relsem` and `reldist`)
+
+Two blocked relational localizer tasks sharing the main experiment's display, fonts (`Malgun Gothic`), button mapping (`1` = upper, `2` = lower), scanner trigger (`s`), and `TR = 1.4 s` (`296 s` per run; request **`215` volumes**). Full Korean and English scan-day instructions are in [`LOCALIZER_INSTRUCTIONS.md`](LOCALIZER_INSTRUCTIONS.md).
+
+- **`relsem`** (`rel_far` vs `sem_far`): relational mapping (`관계`) vs semantic association (`의미`) on matched far-domain frames (5 alternating 26 s blocks per condition per run).
+- **`reldist`** (`rel_far` vs `rel_near`): far-domain vs near-domain relational mapping under the `관계` rule (5 alternating 26 s blocks per condition per run).
+- **Stimuli & Pre-generated Designs:** 320 native-reviewed Korean frames (1,600 unique words across the 16 held-out SemEval relations, zero word repetition) + 32 practice frames in `data/localizer/korean/`, pre-generated with identical sequences (`seed = 1001`) for **`sub-01` (`ses-10`)** and **`sub-03` (`ses-09` and `ses-10`)**.
+
+```bash
+# 1. Dry-run check on stimulus PC (press Enter to start)
+python run_localizer.py -p 01 -s 10 -t relsem -r 1 --mode Test
+
+# 2. Out-of-scanner practice with feedback (>= 80% on both rules -> PASS)
+python run_localizer.py -p 01 -s 10 --practice
+
+# 3. Eight scanner runs in alternating order (215 volumes each at TR = 1.4 s)
+python run_localizer.py -p 01 -s 10 -t relsem -r 1
+python run_localizer.py -p 01 -s 10 -t reldist -r 1
+python run_localizer.py -p 01 -s 10 -t relsem -r 2
+python run_localizer.py -p 01 -s 10 -t reldist -r 2
+python run_localizer.py -p 01 -s 10 -t relsem -r 3
+python run_localizer.py -p 01 -s 10 -t reldist -r 3
+python run_localizer.py -p 01 -s 10 -t relsem -r 4
+python run_localizer.py -p 01 -s 10 -t reldist -r 4
+```
